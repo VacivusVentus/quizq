@@ -1,0 +1,1482 @@
+{
+  "theme": "Villes et monuments",
+  "questions": [
+    {
+      "text": "Quelle ville abrite le château comtal ?",
+      "options": [
+        "Cannes",
+        "Bordeaux",
+        "Toulouse",
+        "Annecy",
+        "Tours"
+      ],
+      "answer": [
+        "Carcassonne"
+      ]
+    },
+    {
+      "text": "Lequel de ces monuments se trouve à Limoges ?",
+      "options": [
+        "Cité du Vin",
+        "château comtal",
+        "promenade des Anglais",
+        "abbaye Saint-Victor",
+        "place Saint-Louis"
+      ],
+      "answer": [
+        "musée national Adrien Dubouché"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la galerie des Glaces ?",
+      "options": [
+        "Strasbourg",
+        "Limoges",
+        "Cannes",
+        "La Rochelle",
+        "Avignon"
+      ],
+      "answer": [
+        "Versailles"
+      ]
+    },
+    {
+      "text": "Quel monument se trouve à Paris ?",
+      "options": [
+        "basilique Saint-Sernin",
+        "Cité du Vin",
+        "musée Unterlinden",
+        "corniche Kennedy",
+        "boulevard de la Croisette"
+      ],
+      "answer": [
+        "tour Eiffel"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve l’abbatiale Saint-Ouen ?",
+      "options": [
+        "Perpignan",
+        "Toulouse",
+        "Biarritz",
+        "Nice"
+      ],
+      "answer": [
+        "Rouen"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la Petite France ?",
+      "options": [
+        "Tours",
+        "La Rochelle",
+        "Perpignan",
+        "Biarritz",
+        "Versailles",
+        "Reims"
+      ],
+      "answer": [
+        "Strasbourg"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le boulevard de la Croisette ?",
+      "options": [
+        "Lyon",
+        "Versailles",
+        "Dijon",
+        "Nantes",
+        "Annecy",
+        "La Rochelle"
+      ],
+      "answer": [
+        "Cannes"
+      ]
+    },
+    {
+      "text": "Quel monument peut-on visiter à Nice ?",
+      "options": [
+        "palais des Papes",
+        "machines de l'île",
+        "basilique du Sacré-Cœur",
+        "pont Saint-Bénézet",
+        "capitole"
+      ],
+      "answer": [
+        "colline du Château"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve le palais des Papes ?",
+      "options": [
+        "Metz",
+        "Annecy",
+        "Limoges",
+        "Brest",
+        "Dijon",
+        "Carcassonne"
+      ],
+      "answer": [
+        "Avignon"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la promenade des Anglais ?",
+      "options": [
+        "Strasbourg",
+        "Lyon",
+        "Grenoble",
+        "Versailles"
+      ],
+      "answer": [
+        "Nice"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite le musée national Adrien Dubouché ?",
+      "options": [
+        "Nice",
+        "Bordeaux",
+        "Biarritz",
+        "Toulouse",
+        "Lille"
+      ],
+      "answer": [
+        "Limoges"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter le palais de l'Isle ?",
+      "options": [
+        "Bordeaux",
+        "Carcassonne",
+        "Lyon",
+        "Marseille",
+        "Montpellier",
+        "Aix-en-Provence"
+      ],
+      "answer": [
+        "Annecy"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la maison des Têtes ?",
+      "options": [
+        "Annecy",
+        "Limoges",
+        "Reims",
+        "Cannes",
+        "Toulouse"
+      ],
+      "answer": [
+        "Colmar"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient la basilique du Sacré-Cœur ?",
+      "options": [
+        "Metz",
+        "Marseille",
+        "Rouen",
+        "Perpignan",
+        "Nantes",
+        "La Rochelle"
+      ],
+      "answer": [
+        "Paris"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter le jardin de l'Évêché ?",
+      "options": [
+        "Nantes",
+        "Brest",
+        "Cannes",
+        "Lille",
+        "Montpellier",
+        "La Rochelle"
+      ],
+      "answer": [
+        "Limoges"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve le parc de la Tête d'Or ?",
+      "options": [
+        "Rouen",
+        "Montpellier",
+        "Limoges",
+        "Grenoble",
+        "La Rochelle"
+      ],
+      "answer": [
+        "Lyon"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la cathédrale Sainte-Croix ?",
+      "options": [
+        "Arles",
+        "Montpellier",
+        "Lille",
+        "Lyon",
+        "Aix-en-Provence",
+        "Bordeaux"
+      ],
+      "answer": [
+        "Orléans"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la basilique Saint-Nazaire ?",
+      "options": [
+        "Bordeaux",
+        "Orléans",
+        "La Rochelle",
+        "Cannes",
+        "Strasbourg"
+      ],
+      "answer": [
+        "Carcassonne"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la villa Belza ?",
+      "options": [
+        "Annecy",
+        "Grenoble",
+        "Orléans",
+        "Paris",
+        "Dijon"
+      ],
+      "answer": [
+        "Biarritz"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le palais des ducs de Bourgogne ?",
+      "options": [
+        "Lille",
+        "Perpignan",
+        "Aix-en-Provence",
+        "Strasbourg",
+        "Avignon"
+      ],
+      "answer": [
+        "Dijon"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir le pont Saint-Bénézet ?",
+      "options": [
+        "Brest",
+        "La Rochelle",
+        "Rouen",
+        "Paris"
+      ],
+      "answer": [
+        "Avignon"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir l’église Saint-Trophime ?",
+      "options": [
+        "Lille",
+        "Biarritz",
+        "Metz",
+        "Montpellier",
+        "Orléans"
+      ],
+      "answer": [
+        "Arles"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir le grand Trianon ?",
+      "options": [
+        "Carcassonne",
+        "Tours",
+        "La Rochelle",
+        "Lyon",
+        "Orléans",
+        "Rouen"
+      ],
+      "answer": [
+        "Versailles"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir le château des ducs de Bretagne ?",
+      "options": [
+        "Metz",
+        "La Rochelle",
+        "Cannes",
+        "Perpignan",
+        "Toulouse"
+      ],
+      "answer": [
+        "Nantes"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter les îles de Lérins ?",
+      "options": [
+        "Reims",
+        "Colmar",
+        "Versailles",
+        "Tours",
+        "Nice"
+      ],
+      "answer": [
+        "Cannes"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve Océanopolis ?",
+      "options": [
+        "Nantes",
+        "Montpellier",
+        "Reims",
+        "Versailles",
+        "Annecy"
+      ],
+      "answer": [
+        "Brest"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite le capitole ?",
+      "options": [
+        "Strasbourg",
+        "Orléans",
+        "La Rochelle",
+        "Marseille",
+        "Lille"
+      ],
+      "answer": [
+        "Toulouse"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la place Kléber ?",
+      "options": [
+        "Grenoble",
+        "Annecy",
+        "Aix-en-Provence",
+        "Nice"
+      ],
+      "answer": [
+        "Strasbourg"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir le musée du Louvre ?",
+      "options": [
+        "Annecy",
+        "Orléans",
+        "Perpignan",
+        "Lille",
+        "Dijon"
+      ],
+      "answer": [
+        "Paris"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve le fort de la Bastille ?",
+      "options": [
+        "Carcassonne",
+        "Colmar",
+        "Biarritz",
+        "Dijon"
+      ],
+      "answer": [
+        "Grenoble"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve le palais des Beaux-Arts ?",
+      "options": [
+        "Montpellier",
+        "Annecy",
+        "Colmar",
+        "Carcassonne",
+        "Reims"
+      ],
+      "answer": [
+        "Lille"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient la place de la Comédie ?",
+      "options": [
+        "Paris",
+        "Tours",
+        "Aix-en-Provence",
+        "Annecy"
+      ],
+      "answer": [
+        "Montpellier"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le musée Unterlinden ?",
+      "options": [
+        "Avignon",
+        "Montpellier",
+        "Cannes",
+        "Arles",
+        "Orléans"
+      ],
+      "answer": [
+        "Colmar"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la basilique Saint-Martin ?",
+      "options": [
+        "Limoges",
+        "Bordeaux",
+        "Avignon",
+        "Montpellier",
+        "Orléans"
+      ],
+      "answer": [
+        "Tours"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter le cours Mirabeau ?",
+      "options": [
+        "Lille",
+        "Versailles",
+        "Bordeaux",
+        "Limoges"
+      ],
+      "answer": [
+        "Aix-en-Provence"
+      ]
+    },
+    {
+      "text": "Quel monument peut-on visiter à Brest ?",
+      "options": [
+        "fort de la Bastille",
+        "place Saint-Louis",
+        "place de la Libération",
+        "cathédrale Saint-Sauveur",
+        "basilique de la Visitation"
+      ],
+      "answer": [
+        "tour Tanguy"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le palais du Tau ?",
+      "options": [
+        "Rouen",
+        "Lyon",
+        "Montpellier",
+        "Aix-en-Provence",
+        "Cannes"
+      ],
+      "answer": [
+        "Reims"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la Cité du Vin ?",
+      "options": [
+        "Brest",
+        "Tours",
+        "Biarritz",
+        "Strasbourg"
+      ],
+      "answer": [
+        "Bordeaux"
+      ]
+    },
+    {
+      "text": "Que peut-on visiter à Colmar ?",
+      "options": [
+        "Océanopolis",
+        "place Plumereau",
+        "place de la Comédie",
+        "porte de Mars",
+        "parc de la Tête d'Or"
+      ],
+      "answer": [
+        "petite Venise"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la colline du Château ?",
+      "options": [
+        "Cannes",
+        "Versailles",
+        "Marseille",
+        "Strasbourg",
+        "Metz"
+      ],
+      "answer": [
+        "Nice"
+      ]
+    },
+    {
+      "text": "Quel monument peut-on visiter à Avignon ?",
+      "options": [
+        "capitole",
+        "hameau de la Reine",
+        "basilique Saint-Martin",
+        "cathédrale Saint-Gatien"
+      ],
+      "answer": [
+        "rocher des Doms"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la basilique Saint-Remi ?",
+      "options": [
+        "Brest",
+        "Avignon",
+        "Lille",
+        "Metz",
+        "Paris"
+      ],
+      "answer": [
+        "Reims"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la porte de Mars ?",
+      "options": [
+        "Orléans",
+        "Toulouse",
+        "Rouen",
+        "Colmar",
+        "Paris",
+        "Biarritz"
+      ],
+      "answer": [
+        "Reims"
+      ]
+    },
+    {
+      "text": "À quelle ville appartiennent les thermes de Constantin ?",
+      "options": [
+        "Carcassonne",
+        "Paris",
+        "Lyon",
+        "Dijon",
+        "Brest",
+        "Orléans"
+      ],
+      "answer": [
+        "Arles"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la tour de la Lanterne ?",
+      "options": [
+        "Perpignan",
+        "Dijon",
+        "Biarritz",
+        "Nantes",
+        "Avignon"
+      ],
+      "answer": [
+        "La Rochelle"
+      ]
+    },
+    {
+      "text": "Lequel de ces monuments se trouve à Grenoble ?",
+      "options": [
+        "boulevard de la Croisette",
+        "église Saint-Trophime",
+        "tour Saint-Nicolas",
+        "fontaine de la Rotonde",
+        "cathédrale Saint-Jean-Baptiste",
+        "palais Longchamp"
+      ],
+      "answer": [
+        "téléphérique des Bulles"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le rocher des Doms ?",
+      "options": [
+        "Strasbourg",
+        "Aix-en-Provence",
+        "Marseille",
+        "Nantes",
+        "Rouen"
+      ],
+      "answer": [
+        "Avignon"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la place Grenette ?",
+      "options": [
+        "Strasbourg",
+        "Cannes",
+        "Nantes",
+        "Brest",
+        "Orléans"
+      ],
+      "answer": [
+        "Grenoble"
+      ]
+    },
+    {
+      "text": "Quels monuments sont situés à Cannes ?",
+      "options": [
+        "promenade du Peyrou",
+        "gros-Horloge",
+        "place Plumereau",
+        "passage Pommeraye",
+        "corniche Kennedy"
+      ],
+      "answer": [
+        "palais des Festivals",
+        "îles de Lérins"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir l’hospice Comtesse ?",
+      "options": [
+        "Montpellier",
+        "Colmar",
+        "Marseille",
+        "Perpignan",
+        "Orléans",
+        "Brest"
+      ],
+      "answer": [
+        "Lille"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la porte de la Grosse-Horloge ?",
+      "options": [
+        "Annecy",
+        "Toulouse",
+        "Orléans",
+        "Biarritz",
+        "Reims",
+        "Lyon"
+      ],
+      "answer": [
+        "La Rochelle"
+      ]
+    },
+    {
+      "text": "Quels monuments peut-on voir à Biarritz ?",
+      "options": [
+        "capitole",
+        "basilique de la Visitation",
+        "place de la Libération",
+        "basilique de Fourvière"
+      ],
+      "answer": [
+        "rocher de la Vierge",
+        "villa Belza"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le hameau de la Reine ?",
+      "options": [
+        "Toulouse",
+        "Nice",
+        "Orléans",
+        "Nantes"
+      ],
+      "answer": [
+        "Versailles"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient la tour Tanguy ?",
+      "options": [
+        "La Rochelle",
+        "Cannes",
+        "Nice",
+        "Limoges",
+        "Rouen",
+        "Marseille"
+      ],
+      "answer": [
+        "Brest"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la tour Eiffel ?",
+      "options": [
+        "Carcassonne",
+        "Cannes",
+        "Nice",
+        "Avignon",
+        "Bordeaux"
+      ],
+      "answer": [
+        "Paris"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le téléphérique des Bulles ?",
+      "options": [
+        "Toulouse",
+        "Lille",
+        "Strasbourg",
+        "Rouen",
+        "Aix-en-Provence"
+      ],
+      "answer": [
+        "Grenoble"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la place Saint-Louis ?",
+      "options": [
+        "Reims",
+        "Lyon",
+        "Cannes",
+        "Montpellier",
+        "Annecy"
+      ],
+      "answer": [
+        "Metz"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter le musée Fabre ?",
+      "options": [
+        "Nice",
+        "Toulouse",
+        "Metz",
+        "Biarritz",
+        "Nantes"
+      ],
+      "answer": [
+        "Montpellier"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la place Bellecour ?",
+      "options": [
+        "Brest",
+        "Tours",
+        "Paris",
+        "Cannes",
+        "Annecy"
+      ],
+      "answer": [
+        "Lyon"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le marché du cours Saleya ?",
+      "options": [
+        "Avignon",
+        "Reims",
+        "Strasbourg",
+        "Montpellier",
+        "Marseille"
+      ],
+      "answer": [
+        "Nice"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve le pont des Amours ?",
+      "options": [
+        "Tours",
+        "Reims",
+        "Cannes",
+        "Lyon"
+      ],
+      "answer": [
+        "Annecy"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite le casino Bellevue ?",
+      "options": [
+        "Cannes",
+        "Strasbourg",
+        "Paris",
+        "Avignon",
+        "Orléans"
+      ],
+      "answer": [
+        "Biarritz"
+      ]
+    },
+    {
+      "text": "Quel monument se trouve à Lyon ?",
+      "options": [
+        "machines de l'île",
+        "abbatiale Saint-Ouen",
+        "place de la Bourse",
+        "musée Unterlinden",
+        "grand Trianon",
+        "jardin de l'Évêché"
+      ],
+      "answer": [
+        "parc de la Tête d'Or"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la grand-place ?",
+      "options": [
+        "Marseille",
+        "La Rochelle",
+        "Perpignan",
+        "Dijon",
+        "Cannes"
+      ],
+      "answer": [
+        "Lille"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la chartreuse de Champmol ?",
+      "options": [
+        "Brest",
+        "Arles",
+        "Montpellier",
+        "Tours"
+      ],
+      "answer": [
+        "Dijon"
+      ]
+    },
+    {
+      "text": "Lequel de ces monuments se trouve à Metz ?",
+      "options": [
+        "pont Saint-Bénézet",
+        "tour Eiffel",
+        "basilique de Fourvière",
+        "marché du cours Saleya"
+      ],
+      "answer": [
+        "cathédrale Saint-Étienne"
+      ]
+    },
+    {
+      "text": "À quelle ville appartiennent les machines de l'île ?",
+      "options": [
+        "Toulouse",
+        "Carcassonne",
+        "Arles",
+        "Reims",
+        "Grenoble",
+        "Bordeaux"
+      ],
+      "answer": [
+        "Nantes"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la cathédrale Saint-Sauveur ?",
+      "options": [
+        "Lille",
+        "Orléans",
+        "Colmar",
+        "La Rochelle",
+        "Perpignan"
+      ],
+      "answer": [
+        "Aix-en-Provence"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la promenade du Peyrou ?",
+      "options": [
+        "Avignon",
+        "Orléans",
+        "Colmar",
+        "Brest",
+        "Metz"
+      ],
+      "answer": [
+        "Montpellier"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la porte Narbonnaise ?",
+      "options": [
+        "Paris",
+        "Annecy",
+        "Biarritz",
+        "Rouen",
+        "Dijon",
+        "Versailles"
+      ],
+      "answer": [
+        "Carcassonne"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la porte des Allemands ?",
+      "options": [
+        "Paris",
+        "Grenoble",
+        "Montpellier",
+        "Versailles"
+      ],
+      "answer": [
+        "Metz"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient l’abbaye Saint-Victor ?",
+      "options": [
+        "Rouen",
+        "Grenoble",
+        "Lille",
+        "Aix-en-Provence"
+      ],
+      "answer": [
+        "Marseille"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient la maison de Jeanne d'Arc ?",
+      "options": [
+        "Brest",
+        "Aix-en-Provence",
+        "Montpellier",
+        "Versailles"
+      ],
+      "answer": [
+        "Orléans"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la basilique de la Visitation ?",
+      "options": [
+        "Arles",
+        "Paris",
+        "Marseille",
+        "Carcassonne",
+        "Lyon"
+      ],
+      "answer": [
+        "Annecy"
+      ]
+    },
+    {
+      "text": "Quels monuments se trouvent à Nantes ?",
+      "options": [
+        "thermes de Constantin",
+        "îles de Lérins",
+        "grand Trianon",
+        "Castillet",
+        "cathédrale Saint-Gatien",
+        "basilique Saint-Nazaire"
+      ],
+      "answer": [
+        "château des ducs de Bretagne",
+        "machines de l'île"
+      ]
+    },
+    {
+      "text": "Quel monument est situé à Bordeaux ?",
+      "options": [
+        "château comtal",
+        "place Saint-Louis",
+        "place de la Libération",
+        "thermes de Constantin",
+        "promenade du Peyrou"
+      ],
+      "answer": [
+        "pont de pierre"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la cathédrale Saint-Étienne ?",
+      "options": [
+        "La Rochelle",
+        "Versailles",
+        "Lyon",
+        "Montpellier",
+        "Cannes",
+        "Rouen"
+      ],
+      "answer": [
+        "Metz"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la corniche Kennedy ?",
+      "options": [
+        "Reims",
+        "Grenoble",
+        "Annecy",
+        "Avignon",
+        "Biarritz"
+      ],
+      "answer": [
+        "Marseille"
+      ]
+    },
+    {
+      "text": "Quels monuments se trouvent à La Rochelle ?",
+      "options": [
+        "palais des Papes",
+        "tour Eiffel",
+        "marché du cours Saleya",
+        "cité de l'espace",
+        "promenade des Anglais",
+        "parc floral de la Source"
+      ],
+      "answer": [
+        "tour de la Lanterne",
+        "tour Saint-Nicolas"
+      ]
+    },
+    {
+      "text": "Quel monument se trouve à Aix-en-Provence ?",
+      "options": [
+        "grand Trianon",
+        "pont des Amours",
+        "palais des Papes",
+        "place Bellecour",
+        "grand-place",
+        "promenade des Anglais"
+      ],
+      "answer": [
+        "cours Mirabeau"
+      ]
+    },
+    {
+      "text": "Quel monument se trouve à Marseille ?",
+      "options": [
+        "place Kléber",
+        "tour de la Lanterne",
+        "fort de la Bastille",
+        "musée du Louvre"
+      ],
+      "answer": [
+        "corniche Kennedy"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la cité de l'espace ?",
+      "options": [
+        "Cannes",
+        "Aix-en-Provence",
+        "Avignon",
+        "Metz",
+        "La Rochelle",
+        "Arles"
+      ],
+      "answer": [
+        "Toulouse"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient la gare des Bénédictins ?",
+      "options": [
+        "Dijon",
+        "La Rochelle",
+        "Tours",
+        "Nantes",
+        "Biarritz"
+      ],
+      "answer": [
+        "Limoges"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite le gros-Horloge ?",
+      "options": [
+        "Nice",
+        "Montpellier",
+        "Dijon",
+        "Metz",
+        "Lille"
+      ],
+      "answer": [
+        "Rouen"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la tour Saint-Nicolas ?",
+      "options": [
+        "Arles",
+        "Rouen",
+        "Orléans",
+        "Reims",
+        "Montpellier"
+      ],
+      "answer": [
+        "La Rochelle"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient la basilique Saint-Sernin ?",
+      "options": [
+        "Paris",
+        "Versailles",
+        "Lyon",
+        "Tours",
+        "Montpellier"
+      ],
+      "answer": [
+        "Toulouse"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la basilique de Fourvière ?",
+      "options": [
+        "Grenoble",
+        "Dijon",
+        "Lille",
+        "Nice"
+      ],
+      "answer": [
+        "Lyon"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la place Plumereau ?",
+      "options": [
+        "Arles",
+        "Montpellier",
+        "Avignon",
+        "Reims",
+        "Carcassonne"
+      ],
+      "answer": [
+        "Tours"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite le palais des Festivals ?",
+      "options": [
+        "Bordeaux",
+        "Marseille",
+        "Tours",
+        "Lyon"
+      ],
+      "answer": [
+        "Cannes"
+      ]
+    },
+    {
+      "text": "Que peut-on visiter à Arles ?",
+      "options": [
+        "corniche Kennedy",
+        "Castillet",
+        "Petite France",
+        "tour Eiffel"
+      ],
+      "answer": [
+        "thermes de Constantin"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite les cryptoportiques ?",
+      "options": [
+        "Nantes",
+        "Grenoble",
+        "Biarritz",
+        "Metz"
+      ],
+      "answer": [
+        "Arles"
+      ]
+    },
+    {
+      "text": "À quelle ville appartient le rocher de la Vierge ?",
+      "options": [
+        "Grenoble",
+        "Cannes",
+        "Tours",
+        "Avignon"
+      ],
+      "answer": [
+        "Biarritz"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la place du Vieux-Marché ?",
+      "options": [
+        "Biarritz",
+        "Colmar",
+        "Lyon",
+        "Limoges",
+        "Aix-en-Provence",
+        "Nantes"
+      ],
+      "answer": [
+        "Rouen"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la fontaine de la Rotonde ?",
+      "options": [
+        "Nice",
+        "Metz",
+        "Brest",
+        "La Rochelle",
+        "Rouen"
+      ],
+      "answer": [
+        "Aix-en-Provence"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la cathédrale Saint-Gatien ?",
+      "options": [
+        "Lille",
+        "Strasbourg",
+        "Nantes",
+        "Marseille"
+      ],
+      "answer": [
+        "Tours"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite le parc floral de la Source ?",
+      "options": [
+        "Tours",
+        "Toulouse",
+        "Cannes",
+        "Metz",
+        "La Rochelle"
+      ],
+      "answer": [
+        "Orléans"
+      ]
+    },
+    {
+      "text": "Quel monument est situé à Orléans ?",
+      "options": [
+        "galerie des Glaces",
+        "abbatiale Saint-Ouen",
+        "musée du Louvre",
+        "porte des Allemands",
+        "promenade des Anglais"
+      ],
+      "answer": [
+        "cathédrale Sainte-Croix"
+      ]
+    },
+    {
+      "text": "Quel monument est situé à Tours ?",
+      "options": [
+        "fort de la Bastille",
+        "palais des Festivals",
+        "villa Belza",
+        "jardin de l'Évêché",
+        "château comtal",
+        "place Kléber"
+      ],
+      "answer": [
+        "basilique Saint-Martin"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite le passage Pommeraye ?",
+      "options": [
+        "Annecy",
+        "Brest",
+        "Colmar",
+        "Marseille"
+      ],
+      "answer": [
+        "Nantes"
+      ]
+    },
+    {
+      "text": "Quels monuments sont situés à Montpellier ?",
+      "options": [
+        "cours Mirabeau",
+        "cathédrale Sainte-Croix",
+        "Océanopolis",
+        "passage Pommeraye",
+        "basilique Saint-Nazaire"
+      ],
+      "answer": [
+        "musée Fabre",
+        "promenade du Peyrou"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir le palais Longchamp ?",
+      "options": [
+        "Grenoble",
+        "Tours",
+        "Reims",
+        "Metz",
+        "Cannes",
+        "Bordeaux"
+      ],
+      "answer": [
+        "Marseille"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve la cathédrale Saint-Jean-Baptiste ?",
+      "options": [
+        "La Rochelle",
+        "Biarritz",
+        "Dijon",
+        "Versailles",
+        "Reims",
+        "Arles"
+      ],
+      "answer": [
+        "Perpignan"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir le pont de Recouvrance ?",
+      "options": [
+        "Grenoble",
+        "Avignon",
+        "Tours",
+        "Strasbourg",
+        "Cannes"
+      ],
+      "answer": [
+        "Brest"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir la petite Venise ?",
+      "options": [
+        "Arles",
+        "Dijon",
+        "Rouen",
+        "Perpignan"
+      ],
+      "answer": [
+        "Colmar"
+      ]
+    },
+    {
+      "text": "Lesquels de ces monuments sont situés à Dijon ?",
+      "options": [
+        "colline du Château",
+        "passage Pommeraye",
+        "barrage Vauban",
+        "parc de la Tête d'Or",
+        "basilique Saint-Martin"
+      ],
+      "answer": [
+        "place de la Libération",
+        "chartreuse de Champmol"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve le pont de pierre ?",
+      "options": [
+        "Limoges",
+        "Annecy",
+        "Tours",
+        "Montpellier",
+        "Perpignan",
+        "La Rochelle"
+      ],
+      "answer": [
+        "Bordeaux"
+      ]
+    },
+    {
+      "text": "Quelle ville abrite la place de la Libération ?",
+      "options": [
+        "Lille",
+        "Reims",
+        "Annecy",
+        "Arles",
+        "Carcassonne",
+        "Brest"
+      ],
+      "answer": [
+        "Dijon"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter la place de la Bourse ?",
+      "options": [
+        "Lille",
+        "Nice",
+        "Montpellier",
+        "Carcassonne",
+        "Nantes"
+      ],
+      "answer": [
+        "Bordeaux"
+      ]
+    },
+    {
+      "text": "Dans quelle ville faut-il aller pour visiter le palais des rois de Majorque ?",
+      "options": [
+        "Aix-en-Provence",
+        "Biarritz",
+        "Rouen",
+        "Cannes",
+        "Colmar"
+      ],
+      "answer": [
+        "Perpignan"
+      ]
+    },
+    {
+      "text": "Dans quelle ville se trouve le barrage Vauban ?",
+      "options": [
+        "Bordeaux",
+        "Metz",
+        "Colmar",
+        "Nantes",
+        "Perpignan"
+      ],
+      "answer": [
+        "Strasbourg"
+      ]
+    },
+    {
+      "text": "Lesquels de ces monuments sont situés à Lille ?",
+      "options": [
+        "place de la Libération",
+        "palais de l'Isle",
+        "place de la Comédie",
+        "porte de la Grosse-Horloge",
+        "parc de la Tête d'Or"
+      ],
+      "answer": [
+        "hospice Comtesse",
+        "grand-place"
+      ]
+    },
+    {
+      "text": "Quels monuments peut-on voir à Carcassonne ?",
+      "options": [
+        "passage Pommeraye",
+        "barrage Vauban",
+        "porte de la Grosse-Horloge",
+        "château des ducs de Bretagne"
+      ],
+      "answer": [
+        "château comtal",
+        "basilique Saint-Nazaire"
+      ]
+    },
+    {
+      "text": "Dans quelle ville peut-on voir le Castillet ?",
+      "options": [
+        "Strasbourg",
+        "Limoges",
+        "Avignon",
+        "Annecy"
+      ],
+      "answer": [
+        "Perpignan"
+      ]
+    }
+  ]
+}

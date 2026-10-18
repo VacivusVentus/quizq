@@ -1,0 +1,1383 @@
+{
+  "theme": "Numbers and Facts",
+  "questions": [
+    {
+      "text": "How many strings are there on a ukulele?",
+      "options": [
+        "fifteen",
+        "fifty-two",
+        "eight",
+        "twelve",
+        "six"
+      ],
+      "answer": [
+        "four"
+      ]
+    },
+    {
+      "text": "How many milliliters are there in a liter?",
+      "options": [
+        "thirty-one",
+        "four",
+        "twelve",
+        "one hundred",
+        "three"
+      ],
+      "answer": [
+        "one thousand"
+      ]
+    },
+    {
+      "text": "How many fingers and toes on a human body can you count?",
+      "options": [
+        "eight",
+        "ten",
+        "twelve",
+        "six",
+        "fifteen"
+      ],
+      "answer": [
+        "twenty"
+      ]
+    },
+    {
+      "text": "How many days are there in August?",
+      "options": [
+        "six",
+        "one thousand",
+        "two",
+        "forty",
+        "ten"
+      ],
+      "answer": [
+        "thirty-one"
+      ]
+    },
+    {
+      "text": "Do you know how many days there are in June?",
+      "options": [
+        "twelve",
+        "six",
+        "two",
+        "four",
+        "seven"
+      ],
+      "answer": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "Do you know how many coordinates of a point there are in space?",
+      "options": [
+        "fifteen",
+        "twenty",
+        "nine",
+        "eight",
+        "thirty-two"
+      ],
+      "answer": [
+        "three"
+      ]
+    },
+    {
+      "text": "What is the number of weeks in a year?",
+      "options": [
+        "thirty-one",
+        "twelve",
+        "twenty",
+        "seven",
+        "eight"
+      ],
+      "answer": [
+        "fifty-two"
+      ]
+    },
+    {
+      "text": "How many symphonies by Beethoven are there?",
+      "options": [
+        "six",
+        "three",
+        "ten",
+        "seven",
+        "eight"
+      ],
+      "answer": [
+        "nine"
+      ]
+    },
+    {
+      "text": "How many days in a week can you count?",
+      "options": [
+        "four",
+        "nine",
+        "one hundred eighty",
+        "fifteen",
+        "twenty",
+        "one hundred"
+      ],
+      "answer": [
+        "seven"
+      ]
+    },
+    {
+      "text": "How many years of wandering are there in the desert?",
+      "options": [
+        "one thousand",
+        "fifteen",
+        "six",
+        "one hundred",
+        "twelve",
+        "three"
+      ],
+      "answer": [
+        "forty"
+      ]
+    },
+    {
+      "text": "How many colors are there in a rainbow?",
+      "options": [
+        "thirty-one",
+        "fifteen",
+        "fifty-two",
+        "four"
+      ],
+      "answer": [
+        "seven"
+      ]
+    },
+    {
+      "text": "How many suits in a deck of cards can you count?",
+      "options": [
+        "ten",
+        "seven",
+        "five",
+        "twelve"
+      ],
+      "answer": [
+        "four"
+      ]
+    },
+    {
+      "text": "How many legs on a scorpion can you count?",
+      "options": [
+        "one hundred eighty",
+        "thirty-two",
+        "fifteen",
+        "five",
+        "nine"
+      ],
+      "answer": [
+        "eight"
+      ]
+    },
+    {
+      "text": "How many hours on a clock face can you count?",
+      "options": [
+        "thirty-two",
+        "one thousand",
+        "five",
+        "six"
+      ],
+      "answer": [
+        "twelve"
+      ]
+    },
+    {
+      "text": "How many wheels are there on a bicycle?",
+      "options": [
+        "five",
+        "one thousand",
+        "fifteen",
+        "seven",
+        "twenty-four"
+      ],
+      "answer": [
+        "two"
+      ]
+    },
+    {
+      "text": "How many muses are there on Parnassus?",
+      "options": [
+        "three",
+        "four",
+        "twelve",
+        "one hundred eighty",
+        "twenty-four",
+        "thirty-one"
+      ],
+      "answer": [
+        "nine"
+      ]
+    },
+    {
+      "text": "Do you know how many players there are in a rugby team?",
+      "options": [
+        "eight",
+        "twenty",
+        "six",
+        "seven"
+      ],
+      "answer": [
+        "fifteen"
+      ]
+    },
+    {
+      "text": "Do you know how many apostles of Christ there are?",
+      "options": [
+        "thirty-two",
+        "thirty-one",
+        "twenty-four",
+        "eight",
+        "five",
+        "fifty-two"
+      ],
+      "answer": [
+        "twelve"
+      ]
+    },
+    {
+      "text": "How many cardinal directions are there on a compass?",
+      "options": [
+        "forty",
+        "one hundred eighty",
+        "thirty",
+        "twenty-four",
+        "two"
+      ],
+      "answer": [
+        "four"
+      ]
+    },
+    {
+      "text": "Do you know how many faces there are on a cube?",
+      "options": [
+        "ten",
+        "fifteen",
+        "thirty-two",
+        "forty",
+        "one hundred eighty"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "How many minutes are there in a third of an hour?",
+      "options": [
+        "three",
+        "twelve",
+        "nine",
+        "seven",
+        "fifteen",
+        "forty"
+      ],
+      "answer": [
+        "twenty"
+      ]
+    },
+    {
+      "text": "How many players are there in a volleyball team?",
+      "options": [
+        "one thousand",
+        "forty",
+        "one hundred",
+        "nine"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "How many eyes on a person can you count?",
+      "options": [
+        "twenty-four",
+        "three",
+        "twelve",
+        "forty",
+        "thirty-two"
+      ],
+      "answer": [
+        "two"
+      ]
+    },
+    {
+      "text": "How many seasons in a year can you count?",
+      "options": [
+        "ten",
+        "one hundred eighty",
+        "seven",
+        "thirty-two",
+        "five",
+        "twenty"
+      ],
+      "answer": [
+        "four"
+      ]
+    },
+    {
+      "text": "Do you know how many players of one hockey team there are on the ice?",
+      "options": [
+        "twelve",
+        "eight",
+        "one thousand",
+        "one hundred eighty",
+        "five"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "What is the number of strings on a classical guitar?",
+      "options": [
+        "three",
+        "twelve",
+        "thirty",
+        "ten"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Do you know how many rings there are on the Olympic flag?",
+      "options": [
+        "three",
+        "fifteen",
+        "thirty",
+        "twenty-four"
+      ],
+      "answer": [
+        "five"
+      ]
+    },
+    {
+      "text": "What is the number of endpoints of a line segment?",
+      "options": [
+        "seven",
+        "thirty",
+        "one hundred eighty",
+        "ten",
+        "three",
+        "one hundred"
+      ],
+      "answer": [
+        "two"
+      ]
+    },
+    {
+      "text": "How many days in May can you count?",
+      "options": [
+        "forty",
+        "one hundred",
+        "two",
+        "twelve"
+      ],
+      "answer": [
+        "thirty-one"
+      ]
+    },
+    {
+      "text": "Do you know how many wings there are on a dragonfly?",
+      "options": [
+        "five",
+        "one thousand",
+        "fifty-two",
+        "fifteen",
+        "thirty-one",
+        "thirty-two"
+      ],
+      "answer": [
+        "four"
+      ]
+    },
+    {
+      "text": "Do you know how many halves there are in a football match?",
+      "options": [
+        "ten",
+        "twenty",
+        "thirty-one",
+        "five"
+      ],
+      "answer": [
+        "two"
+      ]
+    },
+    {
+      "text": "What is the number of amino acids in proteins?",
+      "options": [
+        "ten",
+        "forty",
+        "five",
+        "six"
+      ],
+      "answer": [
+        "twenty"
+      ]
+    },
+    {
+      "text": "How many seconds are there in half a minute?",
+      "options": [
+        "twenty",
+        "forty",
+        "six",
+        "five",
+        "twelve"
+      ],
+      "answer": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "How many months in a year can you count?",
+      "options": [
+        "fifteen",
+        "twenty",
+        "ten",
+        "five",
+        "four",
+        "one thousand"
+      ],
+      "answer": [
+        "twelve"
+      ]
+    },
+    {
+      "text": "How many legs on a spider can you count?",
+      "options": [
+        "three",
+        "twenty",
+        "fifty-two",
+        "two"
+      ],
+      "answer": [
+        "eight"
+      ]
+    },
+    {
+      "text": "What is the number of labors of Hercules?",
+      "options": [
+        "thirty",
+        "fifty-two",
+        "seven",
+        "four",
+        "three"
+      ],
+      "answer": [
+        "twelve"
+      ]
+    },
+    {
+      "text": "How many cases are there in the Russian language?",
+      "options": [
+        "four",
+        "twelve",
+        "one thousand",
+        "two",
+        "ten",
+        "one hundred"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Do you know how many white keys there are on a piano?",
+      "options": [
+        "two",
+        "eight",
+        "twenty-four",
+        "forty",
+        "twelve"
+      ],
+      "answer": [
+        "fifty-two"
+      ]
+    },
+    {
+      "text": "Do you know how many toes there are on both feet?",
+      "options": [
+        "thirty",
+        "twelve",
+        "thirty-two",
+        "one thousand",
+        "fifteen"
+      ],
+      "answer": [
+        "ten"
+      ]
+    },
+    {
+      "text": "How many degrees are there on the Fahrenheit scale at which water freezes?",
+      "options": [
+        "forty",
+        "fifty-two",
+        "eight",
+        "one thousand",
+        "ten",
+        "seven"
+      ],
+      "answer": [
+        "thirty-two"
+      ]
+    },
+    {
+      "text": "Do you know how many days of Great Lent there are?",
+      "options": [
+        "three",
+        "twenty-four",
+        "eight",
+        "twenty",
+        "two"
+      ],
+      "answer": [
+        "forty"
+      ]
+    },
+    {
+      "text": "What is the number of working days in a week?",
+      "options": [
+        "one hundred eighty",
+        "fifteen",
+        "eight",
+        "seven",
+        "thirty",
+        "fifty-two"
+      ],
+      "answer": [
+        "five"
+      ]
+    },
+    {
+      "text": "Do you know how many teeth there are in an adult?",
+      "options": [
+        "seven",
+        "one hundred eighty",
+        "two",
+        "nine"
+      ],
+      "answer": [
+        "thirty-two"
+      ]
+    },
+    {
+      "text": "How many bogatyrs are there in the painting by Vasnetsov?",
+      "options": [
+        "thirty",
+        "twenty",
+        "five",
+        "seven",
+        "one hundred",
+        "one hundred eighty"
+      ],
+      "answer": [
+        "three"
+      ]
+    },
+    {
+      "text": "How many toes are there on one foot?",
+      "options": [
+        "fifteen",
+        "one hundred",
+        "eight",
+        "twelve",
+        "nine",
+        "thirty"
+      ],
+      "answer": [
+        "five"
+      ]
+    },
+    {
+      "text": "How many minutes are there in three hours?",
+      "options": [
+        "six",
+        "fifteen",
+        "five",
+        "thirty",
+        "twenty"
+      ],
+      "answer": [
+        "one hundred eighty"
+      ]
+    },
+    {
+      "text": "How many pieces on a chessboard at the start can you count?",
+      "options": [
+        "twenty-four",
+        "three",
+        "one thousand",
+        "one hundred",
+        "fifty-two"
+      ],
+      "answer": [
+        "thirty-two"
+      ]
+    },
+    {
+      "text": "How many arms does an octopus have?",
+      "options": [
+        "forty",
+        "fifty-two",
+        "one hundred",
+        "three",
+        "one thousand"
+      ],
+      "answer": [
+        "eight"
+      ]
+    },
+    {
+      "text": "What is the number of millimeters in a centimeter?",
+      "options": [
+        "twelve",
+        "six",
+        "nine",
+        "eight",
+        "one thousand"
+      ],
+      "answer": [
+        "ten"
+      ]
+    },
+    {
+      "text": "How many strings on a balalaika can you count?",
+      "options": [
+        "thirty-one",
+        "twenty-four",
+        "one hundred eighty",
+        "eight",
+        "ten"
+      ],
+      "answer": [
+        "three"
+      ]
+    },
+    {
+      "text": "What is the number of hemispheres of the Earth?",
+      "options": [
+        "twenty-four",
+        "twenty",
+        "five",
+        "four"
+      ],
+      "answer": [
+        "two"
+      ]
+    },
+    {
+      "text": "How many kopeks in a ruble can you count?",
+      "options": [
+        "thirty-two",
+        "thirty-one",
+        "two",
+        "twelve",
+        "fifteen",
+        "fifty-two"
+      ],
+      "answer": [
+        "one hundred"
+      ]
+    },
+    {
+      "text": "How many legs on an insect can you count?",
+      "options": [
+        "one hundred",
+        "forty",
+        "ten",
+        "fifty-two",
+        "fifteen"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "How many months are there in summer?",
+      "options": [
+        "one thousand",
+        "nine",
+        "forty",
+        "five"
+      ],
+      "answer": [
+        "three"
+      ]
+    },
+    {
+      "text": "How many hemispheres are there in the human brain?",
+      "options": [
+        "fifty-two",
+        "seven",
+        "four",
+        "twenty-four",
+        "three"
+      ],
+      "answer": [
+        "two"
+      ]
+    },
+    {
+      "text": "How many days of continuous rain during the Flood can you count?",
+      "options": [
+        "one hundred eighty",
+        "twelve",
+        "six",
+        "seven",
+        "nine"
+      ],
+      "answer": [
+        "forty"
+      ]
+    },
+    {
+      "text": "How many commandments are there in the Bible?",
+      "options": [
+        "thirty-two",
+        "six",
+        "fifteen",
+        "twenty-four",
+        "thirty",
+        "one hundred"
+      ],
+      "answer": [
+        "ten"
+      ]
+    },
+    {
+      "text": "How many minutes are there in a quarter of an hour?",
+      "options": [
+        "twenty",
+        "forty",
+        "four",
+        "twelve",
+        "seven"
+      ],
+      "answer": [
+        "fifteen"
+      ]
+    },
+    {
+      "text": "How many days in September can you count?",
+      "options": [
+        "five",
+        "one hundred",
+        "fifty-two",
+        "four",
+        "fifteen",
+        "six"
+      ],
+      "answer": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "What is the number of days in October?",
+      "options": [
+        "two",
+        "twelve",
+        "one hundred eighty",
+        "seven",
+        "one thousand",
+        "eight"
+      ],
+      "answer": [
+        "thirty-one"
+      ]
+    },
+    {
+      "text": "Do you know how many degrees there are in a straight angle?",
+      "options": [
+        "twenty",
+        "thirty-two",
+        "twelve",
+        "four"
+      ],
+      "answer": [
+        "one hundred eighty"
+      ]
+    },
+    {
+      "text": "How many millimeters are there in a meter?",
+      "options": [
+        "thirty-two",
+        "nine",
+        "fifteen",
+        "thirty-one",
+        "fifty-two"
+      ],
+      "answer": [
+        "one thousand"
+      ]
+    },
+    {
+      "text": "Do you know how many baby teeth there are in a child?",
+      "options": [
+        "one hundred",
+        "thirty-one",
+        "fifty-two",
+        "eight",
+        "one thousand"
+      ],
+      "answer": [
+        "twenty"
+      ]
+    },
+    {
+      "text": "Do you know how many colors there are on a traffic light?",
+      "options": [
+        "one hundred eighty",
+        "four",
+        "forty",
+        "eight",
+        "one hundred"
+      ],
+      "answer": [
+        "three"
+      ]
+    },
+    {
+      "text": "What is the number of legs on an ant?",
+      "options": [
+        "seven",
+        "five",
+        "twenty",
+        "forty",
+        "one hundred eighty"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Do you know how many meters there are in a kilometer?",
+      "options": [
+        "fifteen",
+        "twelve",
+        "twenty",
+        "nine",
+        "one hundred",
+        "three"
+      ],
+      "answer": [
+        "one thousand"
+      ]
+    },
+    {
+      "text": "How many inches are there in a foot?",
+      "options": [
+        "eight",
+        "thirty-two",
+        "three",
+        "six",
+        "twenty-four"
+      ],
+      "answer": [
+        "twelve"
+      ]
+    },
+    {
+      "text": "What is the number of micrometers in a millimeter?",
+      "options": [
+        "seven",
+        "ten",
+        "eight",
+        "thirty-two",
+        "five",
+        "thirty"
+      ],
+      "answer": [
+        "one thousand"
+      ]
+    },
+    {
+      "text": "Do you know how many days there are in March?",
+      "options": [
+        "forty",
+        "three",
+        "six",
+        "thirty",
+        "four",
+        "fifteen"
+      ],
+      "answer": [
+        "thirty-one"
+      ]
+    },
+    {
+      "text": "How many fingers on both hands can you count?",
+      "options": [
+        "three",
+        "seven",
+        "one thousand",
+        "six",
+        "four"
+      ],
+      "answer": [
+        "ten"
+      ]
+    },
+    {
+      "text": "What is the number of colors on the Russian flag?",
+      "options": [
+        "ten",
+        "one hundred eighty",
+        "forty",
+        "twelve",
+        "one thousand"
+      ],
+      "answer": [
+        "three"
+      ]
+    },
+    {
+      "text": "How many tribes of Israel are there?",
+      "options": [
+        "twenty-four",
+        "four",
+        "thirty",
+        "five",
+        "ten"
+      ],
+      "answer": [
+        "twelve"
+      ]
+    },
+    {
+      "text": "How many players are there in a basketball team?",
+      "options": [
+        "ten",
+        "twelve",
+        "six",
+        "forty",
+        "thirty-one"
+      ],
+      "answer": [
+        "five"
+      ]
+    },
+    {
+      "text": "How many zodiac signs are there?",
+      "options": [
+        "one hundred",
+        "eight",
+        "three",
+        "twenty"
+      ],
+      "answer": [
+        "twelve"
+      ]
+    },
+    {
+      "text": "Do you know how many dwarfs there are in the tale of Snow White?",
+      "options": [
+        "four",
+        "two",
+        "fifty-two",
+        "thirty-two",
+        "one thousand",
+        "three"
+      ],
+      "answer": [
+        "seven"
+      ]
+    },
+    {
+      "text": "How many days are there in July?",
+      "options": [
+        "thirty-two",
+        "one hundred",
+        "five",
+        "twenty",
+        "four"
+      ],
+      "answer": [
+        "thirty-one"
+      ]
+    },
+    {
+      "text": "Do you know how many players there are in a baseball team?",
+      "options": [
+        "fifteen",
+        "two",
+        "thirty-one",
+        "one thousand",
+        "ten"
+      ],
+      "answer": [
+        "nine"
+      ]
+    },
+    {
+      "text": "What is the number of union republics in the USSR?",
+      "options": [
+        "thirty-two",
+        "six",
+        "seven",
+        "fifty-two",
+        "twenty-four",
+        "four"
+      ],
+      "answer": [
+        "fifteen"
+      ]
+    },
+    {
+      "text": "How many years are there in a century?",
+      "options": [
+        "twelve",
+        "four",
+        "thirty-two",
+        "thirty-one",
+        "thirty"
+      ],
+      "answer": [
+        "one hundred"
+      ]
+    },
+    {
+      "text": "What is the number of paws on a cat?",
+      "options": [
+        "two",
+        "eight",
+        "five",
+        "one hundred eighty",
+        "one thousand"
+      ],
+      "answer": [
+        "four"
+      ]
+    },
+    {
+      "text": "How many cards are there in a standard deck?",
+      "options": [
+        "nine",
+        "two",
+        "thirty",
+        "forty"
+      ],
+      "answer": [
+        "fifty-two"
+      ]
+    },
+    {
+      "text": "What is the number of days in January?",
+      "options": [
+        "seven",
+        "one hundred eighty",
+        "five",
+        "forty",
+        "twenty"
+      ],
+      "answer": [
+        "thirty-one"
+      ]
+    },
+    {
+      "text": "What is the number of thieves in the tale of Ali Baba?",
+      "options": [
+        "five",
+        "six",
+        "twenty",
+        "thirty-one"
+      ],
+      "answer": [
+        "forty"
+      ]
+    },
+    {
+      "text": "How many towers of the Moscow Kremlin are there?",
+      "options": [
+        "twelve",
+        "ten",
+        "seven",
+        "thirty-one",
+        "five"
+      ],
+      "answer": [
+        "twenty"
+      ]
+    },
+    {
+      "text": "How many days are there in November?",
+      "options": [
+        "eight",
+        "seven",
+        "nine",
+        "two"
+      ],
+      "answer": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "Do you know how many squares there are in one row of a chessboard?",
+      "options": [
+        "twenty",
+        "four",
+        "forty",
+        "three"
+      ],
+      "answer": [
+        "eight"
+      ]
+    },
+    {
+      "text": "How many piano sonatas by Beethoven are there?",
+      "options": [
+        "six",
+        "seven",
+        "twenty-four",
+        "one thousand",
+        "fifty-two"
+      ],
+      "answer": [
+        "thirty-two"
+      ]
+    },
+    {
+      "text": "How many strands are there in a DNA molecule?",
+      "options": [
+        "four",
+        "thirty-two",
+        "twenty",
+        "one hundred eighty",
+        "twenty-four",
+        "ten"
+      ],
+      "answer": [
+        "two"
+      ]
+    },
+    {
+      "text": "What is the number of wonders of the ancient world?",
+      "options": [
+        "nine",
+        "twenty-four",
+        "twenty",
+        "six",
+        "thirty-one"
+      ],
+      "answer": [
+        "seven"
+      ]
+    },
+    {
+      "text": "What is the number of millimeters in a decimeter?",
+      "options": [
+        "four",
+        "one thousand",
+        "nine",
+        "forty",
+        "twenty"
+      ],
+      "answer": [
+        "one hundred"
+      ]
+    },
+    {
+      "text": "How many centimeters are there in a meter?",
+      "options": [
+        "twenty",
+        "thirty",
+        "one hundred eighty",
+        "twenty-four"
+      ],
+      "answer": [
+        "one hundred"
+      ]
+    },
+    {
+      "text": "How many wheels are there on a passenger car?",
+      "options": [
+        "six",
+        "ten",
+        "three",
+        "fifty-two"
+      ],
+      "answer": [
+        "four"
+      ]
+    },
+    {
+      "text": "How many arms on a starfish can you count?",
+      "options": [
+        "one hundred",
+        "two",
+        "fifteen",
+        "twelve",
+        "ten"
+      ],
+      "answer": [
+        "five"
+      ]
+    },
+    {
+      "text": "What is the number of days in April?",
+      "options": [
+        "fifty-two",
+        "six",
+        "thirty-two",
+        "ten",
+        "seven"
+      ],
+      "answer": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "How many wings are there on a bird?",
+      "options": [
+        "fifty-two",
+        "one hundred",
+        "fifteen",
+        "twelve",
+        "seven"
+      ],
+      "answer": [
+        "two"
+      ]
+    },
+    {
+      "text": "What is the number of bits in a byte?",
+      "options": [
+        "forty",
+        "four",
+        "thirty-one",
+        "three",
+        "twenty-four",
+        "two"
+      ],
+      "answer": [
+        "eight"
+      ]
+    },
+    {
+      "text": "How many fingers are there on one hand?",
+      "options": [
+        "fifteen",
+        "nine",
+        "one hundred",
+        "one hundred eighty",
+        "ten"
+      ],
+      "answer": [
+        "five"
+      ]
+    },
+    {
+      "text": "How many frames per second are there in classic film?",
+      "options": [
+        "fifteen",
+        "thirty",
+        "eight",
+        "one hundred eighty"
+      ],
+      "answer": [
+        "twenty-four"
+      ]
+    },
+    {
+      "text": "How many letters are there in the Greek alphabet?",
+      "options": [
+        "two",
+        "one thousand",
+        "thirty-one",
+        "twelve",
+        "fifty-two",
+        "fifteen"
+      ],
+      "answer": [
+        "twenty-four"
+      ]
+    },
+    {
+      "text": "How many degrees in the sum of the angles of a triangle can you count?",
+      "options": [
+        "forty",
+        "one hundred",
+        "four",
+        "nine",
+        "fifteen"
+      ],
+      "answer": [
+        "one hundred eighty"
+      ]
+    },
+    {
+      "text": "What is the number of circles of hell in the poem by Dante?",
+      "options": [
+        "forty",
+        "fifty-two",
+        "one hundred",
+        "seven"
+      ],
+      "answer": [
+        "nine"
+      ]
+    },
+    {
+      "text": "How many planets are there in the Solar System?",
+      "options": [
+        "twenty",
+        "fifty-two",
+        "twelve",
+        "two",
+        "one thousand"
+      ],
+      "answer": [
+        "eight"
+      ]
+    },
+    {
+      "text": "How many digits are there in the decimal system?",
+      "options": [
+        "twenty-four",
+        "thirty-two",
+        "forty",
+        "six"
+      ],
+      "answer": [
+        "ten"
+      ]
+    },
+    {
+      "text": "How many notes are there in an octave?",
+      "options": [
+        "thirty-two",
+        "fifteen",
+        "five",
+        "six",
+        "two"
+      ],
+      "answer": [
+        "seven"
+      ]
+    },
+    {
+      "text": "How many hours in a day can you count?",
+      "options": [
+        "twenty",
+        "four",
+        "forty",
+        "fifteen",
+        "one hundred"
+      ],
+      "answer": [
+        "twenty-four"
+      ]
+    },
+    {
+      "text": "How many grams in a kilogram can you count?",
+      "options": [
+        "twenty-four",
+        "twelve",
+        "one hundred",
+        "three"
+      ],
+      "answer": [
+        "one thousand"
+      ]
+    }
+  ]
+}

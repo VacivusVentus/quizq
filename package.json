@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsc": "^2.0.4"
+  }
+}

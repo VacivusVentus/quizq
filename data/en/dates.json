@@ -1,0 +1,1461 @@
+{
+  "theme": "Dates and Eras",
+  "questions": [
+    {
+      "text": "In which century did the Mongol invasion of Rus take place?",
+      "options": [
+        "the nineteenth century",
+        "the fourteenth century",
+        "the sixteenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the dissolution of the Soviet Union take place?",
+      "options": [
+        "the thirteenth century",
+        "the seventeenth century",
+        "the eighteenth century",
+        "the twelfth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "In which century did the Peasants Revolt in England take place?",
+      "options": [
+        "the seventeenth century",
+        "the twenty-first century",
+        "the twentieth century",
+        "the thirteenth century",
+        "the fifteenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the start of the Livonian War?",
+      "options": [
+        "the twenty-first century",
+        "the seventeenth century",
+        "the twelfth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the burning of Joan of Arc take place?",
+      "options": [
+        "the seventeenth century",
+        "the eighteenth century",
+        "the twenty-first century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the accession of Frederick Barbarossa as Holy Roman Emperor take place?",
+      "options": [
+        "the fourteenth century",
+        "the nineteenth century",
+        "the fifteenth century",
+        "the twenty-first century",
+        "the eighteenth century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "Which century saw the fall of Jerusalem to Saladin?",
+      "options": [
+        "the fourteenth century",
+        "the thirteenth century",
+        "the sixteenth century",
+        "the nineteenth century",
+        "the twenty-first century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "In what century did the founding of the Mongol Empire happen?",
+      "options": [
+        "the sixteenth century",
+        "the eighteenth century",
+        "the seventeenth century",
+        "the twenty-first century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the start of construction of Notre-Dame Cathedral happen?",
+      "options": [
+        "the fifteenth century",
+        "the twentieth century",
+        "the seventeenth century",
+        "the fourteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "In what century did the first flight of the Wright brothers happen?",
+      "options": [
+        "the sixteenth century",
+        "the seventeenth century",
+        "the nineteenth century",
+        "the thirteenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "Which century saw the coronavirus pandemic?",
+      "options": [
+        "the fourteenth century",
+        "the twentieth century",
+        "the nineteenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "To which century does the execution of King Charles the First belong?",
+      "options": [
+        "the nineteenth century",
+        "the thirteenth century",
+        "the fifteenth century",
+        "the twentieth century",
+        "the twelfth century",
+        "the fourteenth century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "Which century is the Winter Olympics in Sochi associated with?",
+      "options": [
+        "the fourteenth century",
+        "the fifteenth century",
+        "the twelfth century",
+        "the eighteenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "In which century did the Battle of Legnano take place?",
+      "options": [
+        "the fourteenth century",
+        "the fifteenth century",
+        "the thirteenth century",
+        "the twentieth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "In which century did the FIFA World Cup in Russia take place?",
+      "options": [
+        "the eighteenth century",
+        "the sixteenth century",
+        "the fifteenth century",
+        "the seventeenth century",
+        "the twentieth century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "Which century is the Anglo-Norman invasion of Ireland associated with?",
+      "options": [
+        "the fourteenth century",
+        "the sixteenth century",
+        "the twentieth century",
+        "the twenty-first century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "Which century saw the October Revolution in Russia?",
+      "options": [
+        "the thirteenth century",
+        "the fourteenth century",
+        "the sixteenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "To which century does the death of Saladin belong?",
+      "options": [
+        "the fourteenth century",
+        "the thirteenth century",
+        "the eighteenth century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "To which century does the Battle of Borodino belong?",
+      "options": [
+        "the fifteenth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the fourteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the voyage of Vasco da Gama to India happen?",
+      "options": [
+        "the twelfth century",
+        "the thirteenth century",
+        "the nineteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the adoption of the Declaration of Independence happen?",
+      "options": [
+        "the twenty-first century",
+        "the thirteenth century",
+        "the fifteenth century",
+        "the sixteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the first human landing on the Moon belong?",
+      "options": [
+        "the nineteenth century",
+        "the eighteenth century",
+        "the twelfth century",
+        "the thirteenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "In what century did the beginning of the Western Schism happen?",
+      "options": [
+        "the twentieth century",
+        "the twelfth century",
+        "the sixteenth century",
+        "the thirteenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the Summer Olympics in Beijing belong?",
+      "options": [
+        "the eighteenth century",
+        "the fourteenth century",
+        "the thirteenth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "Which century is the Battle of Kulikovo associated with?",
+      "options": [
+        "the twentieth century",
+        "the seventeenth century",
+        "the twelfth century",
+        "the eighteenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the establishment of the Romanov dynasty?",
+      "options": [
+        "the fifteenth century",
+        "the fourteenth century",
+        "the twenty-first century",
+        "the sixteenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "Which century is the Thirty Years War associated with?",
+      "options": [
+        "the fifteenth century",
+        "the twenty-first century",
+        "the nineteenth century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "Which century is the founding of the Kingdom of Portugal associated with?",
+      "options": [
+        "the eighteenth century",
+        "the nineteenth century",
+        "the twenty-first century",
+        "the twentieth century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "Which century is the fall of the Berlin Wall associated with?",
+      "options": [
+        "the twenty-first century",
+        "the seventeenth century",
+        "the sixteenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "Which century is the D-Day landings in Normandy associated with?",
+      "options": [
+        "the nineteenth century",
+        "the fifteenth century",
+        "the twenty-first century",
+        "the twelfth century",
+        "the eighteenth century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "To which century does the Battle of Lepanto belong?",
+      "options": [
+        "the eighteenth century",
+        "the twentieth century",
+        "the thirteenth century",
+        "the seventeenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the start of the Seven Years War take place?",
+      "options": [
+        "the thirteenth century",
+        "the nineteenth century",
+        "the twentieth century",
+        "the seventeenth century",
+        "the twenty-first century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the Third Crusade?",
+      "options": [
+        "the eighteenth century",
+        "the twentieth century",
+        "the seventeenth century",
+        "the fifteenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "To which century does the voyage of the Mayflower belong?",
+      "options": [
+        "the twenty-first century",
+        "the nineteenth century",
+        "the fourteenth century",
+        "the fifteenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "Which century is the publication of the Ninety-five Theses by Martin Luther associated with?",
+      "options": [
+        "the twentieth century",
+        "the nineteenth century",
+        "the eighteenth century",
+        "the twenty-first century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the start of the French Revolution take place?",
+      "options": [
+        "the sixteenth century",
+        "the twelfth century",
+        "the thirteenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the Second Crusade take place?",
+      "options": [
+        "the eighteenth century",
+        "the thirteenth century",
+        "the sixteenth century",
+        "the twenty-first century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "In what century did the trial of Galileo happen?",
+      "options": [
+        "the fifteenth century",
+        "the eighteenth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the twentieth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the signing of Magna Carta?",
+      "options": [
+        "the eighteenth century",
+        "the fifteenth century",
+        "the sixteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the Battle of Grunwald happen?",
+      "options": [
+        "the seventeenth century",
+        "the twentieth century",
+        "the fourteenth century",
+        "the thirteenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the fall of Constantinople belong?",
+      "options": [
+        "the seventeenth century",
+        "the twelfth century",
+        "the twenty-first century",
+        "the twentieth century",
+        "the fourteenth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the completion of the Human Genome Project associated with?",
+      "options": [
+        "the eighteenth century",
+        "the nineteenth century",
+        "the thirteenth century",
+        "the twelfth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "Which century saw the first human flight into space?",
+      "options": [
+        "the fifteenth century",
+        "the eighteenth century",
+        "the fourteenth century",
+        "the twenty-first century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "Which century is the death of Genghis Khan associated with?",
+      "options": [
+        "the eighteenth century",
+        "the twenty-first century",
+        "the nineteenth century",
+        "the sixteenth century",
+        "the twentieth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the founding of the Ming dynasty belong?",
+      "options": [
+        "the fifteenth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the Gunpowder Plot take place?",
+      "options": [
+        "the thirteenth century",
+        "the fifteenth century",
+        "the eighteenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "In what century did the Fukushima nuclear accident happen?",
+      "options": [
+        "the twentieth century",
+        "the eighteenth century",
+        "the thirteenth century",
+        "the twelfth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "In what century did the outbreak of the Second World War happen?",
+      "options": [
+        "the twelfth century",
+        "the twenty-first century",
+        "the eighteenth century",
+        "the fifteenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "Which century saw the start of operation of the Large Hadron Collider?",
+      "options": [
+        "the twentieth century",
+        "the twelfth century",
+        "the eighteenth century",
+        "the fifteenth century",
+        "the seventeenth century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "Which century is the publication of the periodic table by Mendeleev associated with?",
+      "options": [
+        "the fifteenth century",
+        "the fourteenth century",
+        "the twelfth century",
+        "the twentieth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the publication of the Principia by Newton associated with?",
+      "options": [
+        "the nineteenth century",
+        "the fourteenth century",
+        "the twelfth century",
+        "the sixteenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "To which century does the first voyage of Captain Cook belong?",
+      "options": [
+        "the twelfth century",
+        "the thirteenth century",
+        "the sixteenth century",
+        "the nineteenth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the start of the Hundred Years War happen?",
+      "options": [
+        "the sixteenth century",
+        "the fifteenth century",
+        "the twentieth century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the invention of the printing press by Gutenberg?",
+      "options": [
+        "the fourteenth century",
+        "the twenty-first century",
+        "the eighteenth century",
+        "the twelfth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the start of construction of Cologne Cathedral happen?",
+      "options": [
+        "the eighteenth century",
+        "the twelfth century",
+        "the fourteenth century",
+        "the sixteenth century",
+        "the nineteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the fall of Acre take place?",
+      "options": [
+        "the eighteenth century",
+        "the fourteenth century",
+        "the fifteenth century",
+        "the sixteenth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the murder of Thomas Becket belong?",
+      "options": [
+        "the seventeenth century",
+        "the twentieth century",
+        "the thirteenth century",
+        "the sixteenth century",
+        "the fourteenth century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "To which century does the discovery of penicillin belong?",
+      "options": [
+        "the fifteenth century",
+        "the seventeenth century",
+        "the fourteenth century",
+        "the sixteenth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "Which century saw the founding of the University of Cambridge?",
+      "options": [
+        "the fifteenth century",
+        "the eighteenth century",
+        "the fourteenth century",
+        "the seventeenth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the sinking of the Titanic associated with?",
+      "options": [
+        "the fifteenth century",
+        "the twenty-first century",
+        "the seventeenth century",
+        "the thirteenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "In what century did the conquest of the Inca Empire happen?",
+      "options": [
+        "the fifteenth century",
+        "the twentieth century",
+        "the twenty-first century",
+        "the thirteenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the summoning of the first English Parliament?",
+      "options": [
+        "the nineteenth century",
+        "the twelfth century",
+        "the seventeenth century",
+        "the fifteenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the introduction of euro banknotes and coins happen?",
+      "options": [
+        "the twelfth century",
+        "the eighteenth century",
+        "the sixteenth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "In what century did the Congress of Vienna happen?",
+      "options": [
+        "the sixteenth century",
+        "the fifteenth century",
+        "the twentieth century",
+        "the fourteenth century",
+        "the eighteenth century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the Diet of Worms belong?",
+      "options": [
+        "the seventeenth century",
+        "the twelfth century",
+        "the nineteenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the publication of the theory of evolution take place?",
+      "options": [
+        "the eighteenth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the sixteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the Peace of Westphalia?",
+      "options": [
+        "the twelfth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the sixteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "In which century did the Glorious Revolution take place?",
+      "options": [
+        "the sixteenth century",
+        "the fifteenth century",
+        "the twelfth century",
+        "the nineteenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "In which century did the Black Death take place?",
+      "options": [
+        "the nineteenth century",
+        "the thirteenth century",
+        "the eighteenth century",
+        "the twentieth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the Great Fire of London happen?",
+      "options": [
+        "the fourteenth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "In which century did the unification of Germany take place?",
+      "options": [
+        "the twenty-first century",
+        "the sixteenth century",
+        "the fourteenth century",
+        "the twelfth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the outbreak of the First World War take place?",
+      "options": [
+        "the twenty-first century",
+        "the eighteenth century",
+        "the fifteenth century",
+        "the fourteenth century",
+        "the thirteenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "In which century did the start of the Council of Trent take place?",
+      "options": [
+        "the nineteenth century",
+        "the twentieth century",
+        "the fifteenth century",
+        "the twenty-first century",
+        "the thirteenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the Battle of Kosovo belong?",
+      "options": [
+        "the eighteenth century",
+        "the twentieth century",
+        "the fifteenth century",
+        "the nineteenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the defeat of the Spanish Armada associated with?",
+      "options": [
+        "the twelfth century",
+        "the fourteenth century",
+        "the seventeenth century",
+        "the eighteenth century",
+        "the twenty-first century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the publication of the heliocentric theory by Copernicus associated with?",
+      "options": [
+        "the fifteenth century",
+        "the nineteenth century",
+        "the thirteenth century",
+        "the eighteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the Battle of Agincourt associated with?",
+      "options": [
+        "the twentieth century",
+        "the seventeenth century",
+        "the thirteenth century",
+        "the eighteenth century",
+        "the twenty-first century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the invention of the steam engine by James Watt?",
+      "options": [
+        "the fourteenth century",
+        "the twenty-first century",
+        "the fifteenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the founding of the University of Moscow associated with?",
+      "options": [
+        "the twelfth century",
+        "the thirteenth century",
+        "the seventeenth century",
+        "the sixteenth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the Battle of Waterloo associated with?",
+      "options": [
+        "the seventeenth century",
+        "the eighteenth century",
+        "the twelfth century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the American Civil War?",
+      "options": [
+        "the twentieth century",
+        "the thirteenth century",
+        "the fourteenth century",
+        "the seventeenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the Wars of the Roses associated with?",
+      "options": [
+        "the twenty-first century",
+        "the twentieth century",
+        "the thirteenth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the journey of Marco Polo to China associated with?",
+      "options": [
+        "the nineteenth century",
+        "the sixteenth century",
+        "the twenty-first century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the Battle of Bannockburn belong?",
+      "options": [
+        "the twenty-first century",
+        "the nineteenth century",
+        "the thirteenth century",
+        "the fifteenth century",
+        "the seventeenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the end of the Hundred Years War happen?",
+      "options": [
+        "the fourteenth century",
+        "the eighteenth century",
+        "the thirteenth century",
+        "the nineteenth century",
+        "the seventeenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the Chernobyl disaster happen?",
+      "options": [
+        "the fourteenth century",
+        "the thirteenth century",
+        "the twelfth century",
+        "the nineteenth century",
+        "the fifteenth century",
+        "the eighteenth century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "Which century saw the voyage of Columbus to America?",
+      "options": [
+        "the twelfth century",
+        "the fourteenth century",
+        "the nineteenth century",
+        "the twentieth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the invention of the telephone?",
+      "options": [
+        "the fourteenth century",
+        "the eighteenth century",
+        "the twelfth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the creation of Wikipedia belong?",
+      "options": [
+        "the nineteenth century",
+        "the twentieth century",
+        "the eighteenth century",
+        "the seventeenth century",
+        "the fourteenth century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "To which century does the Battle of Poltava belong?",
+      "options": [
+        "the twenty-first century",
+        "the fifteenth century",
+        "the sixteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the bombing of Hiroshima take place?",
+      "options": [
+        "the sixteenth century",
+        "the eighteenth century",
+        "the fourteenth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the twentieth century"
+      ]
+    },
+    {
+      "text": "To which century does the abolition of serfdom in Russia belong?",
+      "options": [
+        "the fourteenth century",
+        "the sixteenth century",
+        "the eighteenth century",
+        "the twenty-first century",
+        "the twelfth century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the start of the Spanish Inquisition take place?",
+      "options": [
+        "the twentieth century",
+        "the seventeenth century",
+        "the eighteenth century",
+        "the twenty-first century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the accession of Henry the Second to the English throne happen?",
+      "options": [
+        "the fourteenth century",
+        "the twenty-first century",
+        "the twentieth century",
+        "the thirteenth century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the twelfth century"
+      ]
+    },
+    {
+      "text": "In what century did the proclamation of the Russian Empire happen?",
+      "options": [
+        "the seventeenth century",
+        "the sixteenth century",
+        "the twentieth century",
+        "the twenty-first century",
+        "the thirteenth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the first circumnavigation of the globe take place?",
+      "options": [
+        "the nineteenth century",
+        "the fifteenth century",
+        "the fourteenth century",
+        "the eighteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the sack of Moscow by Tokhtamysh?",
+      "options": [
+        "the thirteenth century",
+        "the fifteenth century",
+        "the eighteenth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the English Civil War take place?",
+      "options": [
+        "the eighteenth century",
+        "the thirteenth century",
+        "the fourteenth century",
+        "the twentieth century",
+        "the twenty-first century"
+      ],
+      "answer": [
+        "the seventeenth century"
+      ]
+    },
+    {
+      "text": "In what century did the sale of Alaska to the United States happen?",
+      "options": [
+        "the seventeenth century",
+        "the thirteenth century",
+        "the twelfth century",
+        "the fourteenth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the Albigensian Crusade belong?",
+      "options": [
+        "the fourteenth century",
+        "the twentieth century",
+        "the sixteenth century",
+        "the twelfth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the fall of Granada belong?",
+      "options": [
+        "the thirteenth century",
+        "the sixteenth century",
+        "the eighteenth century",
+        "the nineteenth century",
+        "the seventeenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the fifteenth century"
+      ]
+    },
+    {
+      "text": "In which century did the global financial crisis take place?",
+      "options": [
+        "the eighteenth century",
+        "the fifteenth century",
+        "the twelfth century",
+        "the twentieth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "Which century saw the founding of Saint Petersburg?",
+      "options": [
+        "the fourteenth century",
+        "the twenty-first century",
+        "the fifteenth century",
+        "the twelfth century",
+        "the thirteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the Battle of Poitiers?",
+      "options": [
+        "the thirteenth century",
+        "the sixteenth century",
+        "the fifteenth century",
+        "the nineteenth century",
+        "the seventeenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the execution of King Louis the Sixteenth?",
+      "options": [
+        "the twenty-first century",
+        "the nineteenth century",
+        "the sixteenth century",
+        "the seventeenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the sack of Constantinople by the Crusaders belong?",
+      "options": [
+        "the twentieth century",
+        "the seventeenth century",
+        "the fifteenth century",
+        "the fourteenth century",
+        "the nineteenth century"
+      ],
+      "answer": [
+        "the thirteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the adoption of the Constitution of the United States associated with?",
+      "options": [
+        "the nineteenth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the fourteenth century",
+        "the sixteenth century",
+        "the seventeenth century"
+      ],
+      "answer": [
+        "the eighteenth century"
+      ]
+    },
+    {
+      "text": "Which century saw the destruction of the World Trade Center?",
+      "options": [
+        "the thirteenth century",
+        "the nineteenth century",
+        "the twelfth century",
+        "the twentieth century",
+        "the sixteenth century"
+      ],
+      "answer": [
+        "the twenty-first century"
+      ]
+    },
+    {
+      "text": "Which century saw the conquest of Mexico by Cortes?",
+      "options": [
+        "the twentieth century",
+        "the fourteenth century",
+        "the thirteenth century",
+        "the twenty-first century",
+        "the seventeenth century",
+        "the fifteenth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "In what century did the St Bartholomew Day massacre happen?",
+      "options": [
+        "the nineteenth century",
+        "the fifteenth century",
+        "the twentieth century",
+        "the fourteenth century",
+        "the twelfth century"
+      ],
+      "answer": [
+        "the sixteenth century"
+      ]
+    },
+    {
+      "text": "Which century is the Battle of Crecy associated with?",
+      "options": [
+        "the thirteenth century",
+        "the fifteenth century",
+        "the seventeenth century",
+        "the nineteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the fourteenth century"
+      ]
+    },
+    {
+      "text": "To which century does the discovery of X-rays belong?",
+      "options": [
+        "the fifteenth century",
+        "the seventeenth century",
+        "the thirteenth century",
+        "the twentieth century"
+      ],
+      "answer": [
+        "the nineteenth century"
+      ]
+    }
+  ]
+}

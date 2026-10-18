@@ -1,0 +1,1331 @@
+{
+  "theme": "Animales",
+  "questions": [
+    {
+      "text": "¿De qué animal se habla aquí: « sus huevos son los más grandes de todas las aves »?",
+      "options": [
+        "liebre",
+        "oso",
+        "camaleón",
+        "araña",
+        "caballo",
+        "cobra"
+      ],
+      "answer": [
+        "avestruz"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « un oso blanco y negro que se alimenta sobre todo de bambú ».",
+      "options": [
+        "cebra",
+        "perro",
+        "tortuga",
+        "búho",
+        "erizo"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « la gente lo monta sobre el lomo y su cría se llama potro »?",
+      "options": [
+        "abeja",
+        "hormiga",
+        "ballena",
+        "tigre",
+        "águila",
+        "cocodrilo"
+      ],
+      "answer": [
+        "caballo"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « su lengua mide casi medio metro y tiene un tono azulado »?",
+      "options": [
+        "delfín",
+        "camello",
+        "hormiga",
+        "pingüino",
+        "caballo"
+      ],
+      "answer": [
+        "jirafa"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « con su danza indica a sus hermanas dónde crecen las flores »?",
+      "options": [
+        "oso",
+        "tortuga",
+        "cebra",
+        "liebre"
+      ],
+      "answer": [
+        "abeja"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « planea muy alto y descubre a su presa desde una altura enorme »?",
+      "options": [
+        "tortuga",
+        "cocodrilo",
+        "abeja",
+        "araña",
+        "caballo",
+        "flamenco"
+      ],
+      "answer": [
+        "águila"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « se queda mucho rato sobre una sola pata, con la otra doblada »?",
+      "options": [
+        "abeja",
+        "hormiga",
+        "elefante",
+        "oso",
+        "tigre"
+      ],
+      "answer": [
+        "flamenco"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « lleva rayas blancas y negras por todo el cuerpo ».",
+      "options": [
+        "pingüino",
+        "erizo",
+        "pavo real",
+        "búho",
+        "liebre"
+      ],
+      "answer": [
+        "cebra"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « respira aire y lanza un surtidor por el orificio de su cabeza »?",
+      "options": [
+        "panda",
+        "perro",
+        "águila",
+        "león",
+        "oso",
+        "cobra"
+      ],
+      "answer": [
+        "ballena"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « aúlla a la luna y toda su manada le contesta a coro »?",
+      "options": [
+        "ballena",
+        "águila",
+        "ardilla",
+        "flamenco",
+        "búho"
+      ],
+      "answer": [
+        "lobo"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « lleva el polen en cestillos en las patas traseras y solo pica una vez »?",
+      "options": [
+        "camaleón",
+        "camello",
+        "búho",
+        "ballena",
+        "zorro"
+      ],
+      "answer": [
+        "abeja"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « le encanta la miel y puede destrozar una colmena »?",
+      "options": [
+        "castor",
+        "camaleón",
+        "koala",
+        "araña"
+      ],
+      "answer": [
+        "oso"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « construye un montículo alto con agujas de pino y ramitas y levanta más que su propio peso ».",
+      "options": [
+        "zorro",
+        "oso",
+        "camello",
+        "pingüino",
+        "pavo real"
+      ],
+      "answer": [
+        "hormiga"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « pasa semanas sin beber y le llaman el barco del desierto »?",
+      "options": [
+        "cebra",
+        "águila",
+        "koala",
+        "castor",
+        "cobra"
+      ],
+      "answer": [
+        "camello"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « un ave de la Antártida que camina balanceándose y se desliza sobre la barriga por el hielo »?",
+      "options": [
+        "canguro",
+        "caballo",
+        "cebra",
+        "camaleón",
+        "ballena",
+        "león"
+      ],
+      "answer": [
+        "pingüino"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « es el único gran felino al que le gusta el agua y nada sin miedo »?",
+      "options": [
+        "caballo",
+        "canguro",
+        "búho",
+        "jirafa",
+        "hormiga"
+      ],
+      "answer": [
+        "tigre"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « el mayor de los reptiles vivos »?",
+      "options": [
+        "canguro",
+        "tigre",
+        "mariposa",
+        "ballena",
+        "camello"
+      ],
+      "answer": [
+        "cocodrilo"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « en otoño cuelga setas en las ramas para que se sequen »?",
+      "options": [
+        "araña",
+        "mariposa",
+        "pavo real",
+        "camaleón",
+        "ballena"
+      ],
+      "answer": [
+        "ardilla"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « tiene ocho patas y teje una tela con un hilo muy fino ».",
+      "options": [
+        "tortuga",
+        "pingüino",
+        "cebra",
+        "canguro"
+      ],
+      "answer": [
+        "araña"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « el penacho de plumas de su cabeza parece una corona »?",
+      "options": [
+        "camaleón",
+        "erizo",
+        "castor",
+        "lobo"
+      ],
+      "answer": [
+        "pavo real"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « sus dos ojos se mueven cada uno por su lado »?",
+      "options": [
+        "tortuga",
+        "ardilla",
+        "flamenco",
+        "lobo",
+        "avestruz",
+        "koala"
+      ],
+      "answer": [
+        "camaleón"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « tiene unas ojeras oscuras que parecen gafas »?",
+      "options": [
+        "camaleón",
+        "ardilla",
+        "caballo",
+        "araña",
+        "cobra",
+        "castor"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « duerme hasta veinte horas al día abrazado a una rama »?",
+      "options": [
+        "zorro",
+        "camello",
+        "ballena",
+        "erizo"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « sus rayas confunden a los depredadores cuando huye »?",
+      "options": [
+        "abeja",
+        "panda",
+        "cobra",
+        "canguro"
+      ],
+      "answer": [
+        "cebra"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « recoge néctar y hace miel viviendo en una gran familia dentro de una colmena »?",
+      "options": [
+        "avestruz",
+        "flamenco",
+        "canguro",
+        "perro",
+        "cebra",
+        "ballena"
+      ],
+      "answer": [
+        "abeja"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « sus alas están cubiertas de escamas diminutas que se borran al tocarlas »?",
+      "options": [
+        "cocodrilo",
+        "pingüino",
+        "caballo",
+        "león",
+        "hormiga",
+        "búho"
+      ],
+      "answer": [
+        "mariposa"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « corre muy rápido sobre dos dedos largos »?",
+      "options": [
+        "tortuga",
+        "cebra",
+        "jirafa",
+        "castor",
+        "camello"
+      ],
+      "answer": [
+        "avestruz"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « el animal más grande del planeta, y vive en el océano ».",
+      "options": [
+        "pingüino",
+        "erizo",
+        "jirafa",
+        "cocodrilo",
+        "cobra"
+      ],
+      "answer": [
+        "ballena"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « le clavan herraduras de hierro en los cascos »?",
+      "options": [
+        "ballena",
+        "camello",
+        "camaleón",
+        "cobra",
+        "araña"
+      ],
+      "answer": [
+        "caballo"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « filtra el agua entre láminas córneas para comer crustáceos diminutos »?",
+      "options": [
+        "delfín",
+        "camello",
+        "flamenco",
+        "cebra"
+      ],
+      "answer": [
+        "ballena"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « no tiene dientes y tritura el alimento con un pico córneo »?",
+      "options": [
+        "abeja",
+        "pingüino",
+        "ballena",
+        "oso",
+        "koala"
+      ],
+      "answer": [
+        "tortuga"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « salta sobre las patas traseras y lleva a su cría en una bolsa en la barriga ».",
+      "options": [
+        "pavo real",
+        "cocodrilo",
+        "pingüino",
+        "liebre"
+      ],
+      "answer": [
+        "canguro"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « guarda la casa, sigue el rastro y sirve al ser humano ».",
+      "options": [
+        "elefante",
+        "delfín",
+        "jirafa",
+        "cocodrilo"
+      ],
+      "answer": [
+        "perro"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « sus mandíbulas poderosas arrastran a la víctima bajo el agua »?",
+      "options": [
+        "erizo",
+        "lobo",
+        "pingüino",
+        "liebre",
+        "delfín",
+        "abeja"
+      ],
+      "answer": [
+        "cocodrilo"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « es el mayor miembro de la familia de los felinos »?",
+      "options": [
+        "elefante",
+        "erizo",
+        "delfín",
+        "cocodrilo"
+      ],
+      "answer": [
+        "tigre"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « su imagen adorna los escudos de muchos países como símbolo de poder »?",
+      "options": [
+        "perro",
+        "búho",
+        "pingüino",
+        "tortuga"
+      ],
+      "answer": [
+        "águila"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « el animal terrestre más grande »?",
+      "options": [
+        "camaleón",
+        "delfín",
+        "araña",
+        "panda",
+        "caballo",
+        "jirafa"
+      ],
+      "answer": [
+        "elefante"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « se le llama el rey de los animales »?",
+      "options": [
+        "erizo",
+        "avestruz",
+        "búho",
+        "panda",
+        "zorro"
+      ],
+      "answer": [
+        "león"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « un ave cuyas alas se han convertido en aletas »?",
+      "options": [
+        "mariposa",
+        "castor",
+        "hormiga",
+        "araña",
+        "koala"
+      ],
+      "answer": [
+        "pingüino"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « salta entre las ramas y esconde nueces en escondites para el invierno »?",
+      "options": [
+        "koala",
+        "castor",
+        "zorro",
+        "hormiga",
+        "tigre",
+        "lobo"
+      ],
+      "answer": [
+        "ardilla"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « es el mayor depredador del bosque y se alza sobre las patas traseras »?",
+      "options": [
+        "avestruz",
+        "liebre",
+        "león",
+        "perro",
+        "koala"
+      ],
+      "answer": [
+        "oso"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « abre la cola como un abanico lleno de ocelos de colores »?",
+      "options": [
+        "abeja",
+        "araña",
+        "cocodrilo",
+        "perro",
+        "ardilla",
+        "tigre"
+      ],
+      "answer": [
+        "pavo real"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « duerme todo el invierno en una cueva excavada bajo las raíces de un árbol »?",
+      "options": [
+        "abeja",
+        "camello",
+        "lobo",
+        "araña",
+        "búho",
+        "erizo"
+      ],
+      "answer": [
+        "oso"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « en la India su mordedura es mortal y hasta la veneran »?",
+      "options": [
+        "hormiga",
+        "camaleón",
+        "tigre",
+        "búho",
+        "erizo",
+        "canguro"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « un ave nocturna que caza a oscuras y vuela casi en silencio ».",
+      "options": [
+        "ardilla",
+        "perro",
+        "mariposa",
+        "panda",
+        "león"
+      ],
+      "answer": [
+        "búho"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « despista a sus perseguidores con giros y rodeos por el bosque »?",
+      "options": [
+        "canguro",
+        "avestruz",
+        "flamenco",
+        "tortuga"
+      ],
+      "answer": [
+        "liebre"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « su figura es el emblema del Fondo Mundial para la Naturaleza »?",
+      "options": [
+        "camaleón",
+        "lobo",
+        "oso",
+        "erizo"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « fue el primer animal domesticado y sus bebés se llaman cachorros »?",
+      "options": [
+        "lobo",
+        "búho",
+        "ballena",
+        "flamenco",
+        "caballo"
+      ],
+      "answer": [
+        "perro"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « mueve la cola de alegría y da la pata »?",
+      "options": [
+        "pavo real",
+        "hormiga",
+        "castor",
+        "león",
+        "araña"
+      ],
+      "answer": [
+        "perro"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « en los cuentos es el más astuto y engaña a sus vecinos »?",
+      "options": [
+        "tigre",
+        "caballo",
+        "cebra",
+        "cocodrilo",
+        "cobra"
+      ],
+      "answer": [
+        "zorro"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « unos penachos de plumas en su cabeza parecen orejas y su voz es un ululato »?",
+      "options": [
+        "flamenco",
+        "caballo",
+        "tigre",
+        "araña"
+      ],
+      "answer": [
+        "búho"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « el ave más grande del mundo, y no sabe volar »?",
+      "options": [
+        "araña",
+        "cebra",
+        "cobra",
+        "abeja",
+        "castor"
+      ],
+      "answer": [
+        "avestruz"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « tiene un caparazón de hueso tan duro que no puede quitárselo ».",
+      "options": [
+        "elefante",
+        "castor",
+        "oso",
+        "águila"
+      ],
+      "answer": [
+        "tortuga"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « nada delante de la proa de los barcos y salta fuera del agua arqueando el lomo »?",
+      "options": [
+        "araña",
+        "caballo",
+        "cebra",
+        "ardilla",
+        "pingüino",
+        "lobo"
+      ],
+      "answer": [
+        "delfín"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « en invierno su pelaje gris se vuelve blanco »?",
+      "options": [
+        "camaleón",
+        "koala",
+        "pavo real",
+        "cocodrilo",
+        "jirafa",
+        "hormiga"
+      ],
+      "answer": [
+        "liebre"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « un ave que no sabe volar pero nada de maravilla »?",
+      "options": [
+        "ballena",
+        "camello",
+        "castor",
+        "cobra",
+        "tigre"
+      ],
+      "answer": [
+        "pingüino"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « su cola peluda le sirve de timón cuando salta »?",
+      "options": [
+        "erizo",
+        "panda",
+        "lobo",
+        "koala"
+      ],
+      "answer": [
+        "ardilla"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « atrapa insectos con una lengua que sale más larga que su cuerpo »?",
+      "options": [
+        "lobo",
+        "castor",
+        "perro",
+        "tortuga"
+      ],
+      "answer": [
+        "camaleón"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « tala árboles con los dientes y construye una presa en el río ».",
+      "options": [
+        "hormiga",
+        "canguro",
+        "erizo",
+        "tigre",
+        "lobo"
+      ],
+      "answer": [
+        "castor"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « sus anchas patas callosas no se hunden en la arena »?",
+      "options": [
+        "caballo",
+        "delfín",
+        "oso",
+        "león",
+        "cobra",
+        "camaleón"
+      ],
+      "answer": [
+        "camello"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « sale a cazar al anochecer y recoge insectos entre la hierba »?",
+      "options": [
+        "lobo",
+        "castor",
+        "mariposa",
+        "pingüino",
+        "cebra"
+      ],
+      "answer": [
+        "erizo"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « tiene una cola peluda y roja con la punta blanca ».",
+      "options": [
+        "hormiga",
+        "castor",
+        "liebre",
+        "jirafa"
+      ],
+      "answer": [
+        "zorro"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « vive en una madriguera que a veces le quita al tejón »?",
+      "options": [
+        "cobra",
+        "perro",
+        "liebre",
+        "jirafa",
+        "tortuga"
+      ],
+      "answer": [
+        "zorro"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « su familia tiene reina y obreras, y se comunican con olores »?",
+      "options": [
+        "cobra",
+        "abeja",
+        "tigre",
+        "cebra",
+        "pingüino",
+        "canguro"
+      ],
+      "answer": [
+        "hormiga"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « es el ave nacional de la India »?",
+      "options": [
+        "liebre",
+        "koala",
+        "perro",
+        "hormiga",
+        "mariposa"
+      ],
+      "answer": [
+        "pavo real"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « su tela es más resistente que el acero del mismo peso »?",
+      "options": [
+        "tigre",
+        "erizo",
+        "canguro",
+        "cebra",
+        "delfín"
+      ],
+      "answer": [
+        "araña"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « algunas especies crían pulgones en casa y los ordeñan »?",
+      "options": [
+        "zorro",
+        "pingüino",
+        "koala",
+        "búho"
+      ],
+      "answer": [
+        "hormiga"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « tiene alas de colores llenas de dibujos y revolotea de flor en flor »?",
+      "options": [
+        "pavo real",
+        "araña",
+        "avestruz",
+        "pingüino",
+        "abeja"
+      ],
+      "answer": [
+        "mariposa"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « su larga cola le sirve de apoyo cuando salta »?",
+      "options": [
+        "búho",
+        "cebra",
+        "elefante",
+        "zorro",
+        "abeja"
+      ],
+      "answer": [
+        "canguro"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « tiene la piel naranja rayada de negro »?",
+      "options": [
+        "flamenco",
+        "liebre",
+        "águila",
+        "cebra",
+        "koala",
+        "erizo"
+      ],
+      "answer": [
+        "tigre"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « puede correr decenas de kilómetros tras una manada sin descansar »?",
+      "options": [
+        "flamenco",
+        "cocodrilo",
+        "camello",
+        "ardilla",
+        "erizo",
+        "koala"
+      ],
+      "answer": [
+        "lobo"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « no tiene cola y en sus orejas lucen mechones blancos de pelo »?",
+      "options": [
+        "tigre",
+        "avestruz",
+        "canguro",
+        "oso",
+        "pingüino"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « empieza su vida como oruga y después se convierte en crisálida »?",
+      "options": [
+        "camaleón",
+        "perro",
+        "tortuga",
+        "erizo",
+        "abeja"
+      ],
+      "answer": [
+        "mariposa"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « no come casi nada más que hojas de eucalipto »?",
+      "options": [
+        "cocodrilo",
+        "elefante",
+        "mariposa",
+        "delfín",
+        "avestruz",
+        "cobra"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « su hocico alargado tiene forma de pico y aprende trucos con facilidad »?",
+      "options": [
+        "araña",
+        "castor",
+        "abeja",
+        "pavo real",
+        "cocodrilo"
+      ],
+      "answer": [
+        "delfín"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « se le considera el antepasado del perro doméstico »?",
+      "options": [
+        "ballena",
+        "ardilla",
+        "elefante",
+        "erizo",
+        "flamenco"
+      ],
+      "answer": [
+        "lobo"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « derrama lágrimas mientras se traga a su presa »?",
+      "options": [
+        "araña",
+        "elefante",
+        "león",
+        "abeja",
+        "tortuga"
+      ],
+      "answer": [
+        "cocodrilo"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « su figura aparece en el escudo de Australia »?",
+      "options": [
+        "caballo",
+        "liebre",
+        "búho",
+        "elefante",
+        "tortuga"
+      ],
+      "answer": [
+        "canguro"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « tiene una o dos jorobas llenas de grasa en el lomo »?",
+      "options": [
+        "tortuga",
+        "avestruz",
+        "panda",
+        "erizo",
+        "pavo real"
+      ],
+      "answer": [
+        "camello"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « su cola plana como una pala golpea ruidosamente el agua »?",
+      "options": [
+        "flamenco",
+        "ardilla",
+        "canguro",
+        "panda",
+        "liebre",
+        "elefante"
+      ],
+      "answer": [
+        "castor"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « su plumaje rosado proviene de los crustáceos con pigmento que come ».",
+      "options": [
+        "elefante",
+        "ballena",
+        "pingüino",
+        "zorro"
+      ],
+      "answer": [
+        "flamenco"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « puede dormir de pie y reconoce a su dueño por la voz »?",
+      "options": [
+        "camello",
+        "hormiga",
+        "perro",
+        "ardilla",
+        "tortuga"
+      ],
+      "answer": [
+        "caballo"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « tiene púas en el lomo y se enrolla formando una bola ».",
+      "options": [
+        "perro",
+        "ballena",
+        "hormiga",
+        "jirafa"
+      ],
+      "answer": [
+        "erizo"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « no tiene patas y saca una lengua bifurcada »?",
+      "options": [
+        "mariposa",
+        "pavo real",
+        "oso",
+        "liebre",
+        "erizo"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « su casa se llama madriguera y la entrada queda escondida bajo el agua »?",
+      "options": [
+        "pavo real",
+        "caballo",
+        "búho",
+        "cobra"
+      ],
+      "answer": [
+        "castor"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « una serpiente venenosa que despliega una capucha cuando se enfada »?",
+      "options": [
+        "flamenco",
+        "caballo",
+        "tortuga",
+        "oso",
+        "canguro"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « alcanza las hojas de acacia en lo más alto de los árboles »?",
+      "options": [
+        "tigre",
+        "ardilla",
+        "araña",
+        "perro",
+        "zorro"
+      ],
+      "answer": [
+        "jirafa"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « puede girar la cabeza casi doscientos setenta grados »?",
+      "options": [
+        "caballo",
+        "águila",
+        "cebra",
+        "camello",
+        "avestruz",
+        "araña"
+      ],
+      "answer": [
+        "búho"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « el animal más alto del mundo ».",
+      "options": [
+        "ballena",
+        "mariposa",
+        "erizo",
+        "liebre"
+      ],
+      "answer": [
+        "jirafa"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « las especies marinas reman con aletas y ponen sus huevos en playas de arena »?",
+      "options": [
+        "águila",
+        "camaleón",
+        "caballo",
+        "erizo",
+        "cocodrilo"
+      ],
+      "answer": [
+        "tortuga"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « sus crías nacen ciegas y con las púas muy blandas »?",
+      "options": [
+        "avestruz",
+        "delfín",
+        "abeja",
+        "tortuga",
+        "cocodrilo"
+      ],
+      "answer": [
+        "erizo"
+      ]
+    },
+    {
+      "text": "¿Qué animal se esconde tras estas palabras: « el dibujo de sus rayas no se repite en ningún otro individuo »?",
+      "options": [
+        "ballena",
+        "águila",
+        "tigre",
+        "tortuga",
+        "liebre",
+        "elefante"
+      ],
+      "answer": [
+        "cebra"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « el macho tiene una melena espesa que la hembra no tiene ».",
+      "options": [
+        "perro",
+        "delfín",
+        "tortuga",
+        "abeja"
+      ],
+      "answer": [
+        "león"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « su pico curvo filtra el agua de las lagunas saladas »?",
+      "options": [
+        "mariposa",
+        "panda",
+        "oso",
+        "hormiga",
+        "liebre"
+      ],
+      "answer": [
+        "flamenco"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « pliega las alas y cae como una piedra sobre su presa »?",
+      "options": [
+        "hormiga",
+        "pavo real",
+        "león",
+        "tigre",
+        "zorro"
+      ],
+      "answer": [
+        "águila"
+      ]
+    },
+    {
+      "text": "¿Qué animal se describe así: « un animal marino que salva a los que se ahogan y los empuja hacia la orilla »?",
+      "options": [
+        "canguro",
+        "pavo real",
+        "erizo",
+        "león",
+        "avestruz"
+      ],
+      "answer": [
+        "delfín"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « cambia el color de la piel según su humor y lo que le rodea ».",
+      "options": [
+        "ballena",
+        "tigre",
+        "cebra",
+        "flamenco",
+        "perro"
+      ],
+      "answer": [
+        "camaleón"
+      ]
+    },
+    {
+      "text": "Adivina el animal: « tiene orejas largas y un rabo corto como una bolita ».",
+      "options": [
+        "delfín",
+        "jirafa",
+        "hormiga",
+        "abeja",
+        "panda"
+      ],
+      "answer": [
+        "liebre"
+      ]
+    },
+    {
+      "text": "¿Qué animal corresponde a esta descripción: « tiene una larga trompa en lugar de nariz »?",
+      "options": [
+        "mariposa",
+        "león",
+        "ballena",
+        "castor"
+      ],
+      "answer": [
+        "elefante"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « la hembra de este bicho se come a veces al macho tras aparearse »?",
+      "options": [
+        "koala",
+        "jirafa",
+        "erizo",
+        "zorro",
+        "elefante"
+      ],
+      "answer": [
+        "araña"
+      ]
+    },
+    {
+      "text": "¿De qué animal se habla aquí: « se abanica con sus enormes orejas »?",
+      "options": [
+        "castor",
+        "erizo",
+        "panda",
+        "cocodrilo",
+        "tigre"
+      ],
+      "answer": [
+        "elefante"
+      ]
+    },
+    {
+      "text": "¿Qué animal es: « vive en manadas donde cazan sobre todo las hembras »?",
+      "options": [
+        "abeja",
+        "canguro",
+        "ardilla",
+        "liebre",
+        "caballo"
+      ],
+      "answer": [
+        "león"
+      ]
+    }
+  ]
+}

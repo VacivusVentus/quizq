@@ -1,0 +1,1814 @@
+{
+  "theme": "Works and Their Creators",
+  "questions": [
+    {
+      "text": "Which two titles belong to Joseph Conrad?",
+      "options": [
+        "Robinson Crusoe",
+        "Bringing Up Baby",
+        "The Hunters in the Snow",
+        "Les Demoiselles d’Avignon"
+      ],
+      "answer": [
+        "Nostromo",
+        "Heart of Darkness"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Wassily Kandinsky?",
+      "options": [
+        "Reservoir Dogs",
+        "The Scream",
+        "La Boheme",
+        "The Mystical Nativity"
+      ],
+      "answer": [
+        "Yellow-Red-Blue",
+        "On White II"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Antonio Vivaldi?",
+      "options": [
+        "Nostromo",
+        "Leaves of Grass",
+        "Mulholland Drive",
+        "And Then There Were None",
+        "Kim"
+      ],
+      "answer": [
+        "Juditha triumphans"
+      ]
+    },
+    {
+      "text": "Choose two works by Harper Lee.",
+      "options": [
+        "The Damnation of Faust",
+        "The War of the Worlds",
+        "Sula",
+        "Woman with a Hat",
+        "Song of Myself"
+      ],
+      "answer": [
+        "To Kill a Mockingbird",
+        "Go Set a Watchman"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Kurt Vonnegut?",
+      "options": [
+        "Jaws",
+        "Aida",
+        "Daphnis and Chloe",
+        "Hungarian Dances"
+      ],
+      "answer": [
+        "Slaughterhouse-Five",
+        "Cat's Cradle"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Michelangelo?",
+      "options": [
+        "Animal Farm",
+        "The Conversation",
+        "Back to the Future",
+        "The Garden of Love",
+        "Misery"
+      ],
+      "answer": [
+        "The Last Judgment"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Jonathan Swift?",
+      "options": [
+        "Million Dollar Baby",
+        "Olympia",
+        "Twice-Told Tales",
+        "Trout Quintet",
+        "Erin Brockovich"
+      ],
+      "answer": [
+        "A Modest Proposal"
+      ]
+    },
+    {
+      "text": "Which two titles belong to James Joyce?",
+      "options": [
+        "Sula",
+        "Zodiac",
+        "Bacchus and Ariadne",
+        "Salisbury Cathedral from the Meadows"
+      ],
+      "answer": [
+        "Dubliners",
+        "A Portrait of the Artist as a Young Man"
+      ]
+    },
+    {
+      "text": "Which work came from Maurice Ravel?",
+      "options": [
+        "Pulp Fiction",
+        "Sicario",
+        "Peter Pan",
+        "Animal Farm",
+        "The Hunting of the Snark",
+        "Rio Bravo"
+      ],
+      "answer": [
+        "Pavane for a Dead Princess"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Ray Bradbury?",
+      "options": [
+        "The Tower of Babel",
+        "Fight Club",
+        "The Night Watch",
+        "Typee"
+      ],
+      "answer": [
+        "Fahrenheit 451",
+        "Dandelion Wine"
+      ]
+    },
+    {
+      "text": "Choose two works by Claude Monet.",
+      "options": [
+        "Jane Eyre",
+        "The Nude Maja",
+        "Beetlejuice",
+        "The Invisible Man",
+        "The Garden of Earthly Delights"
+      ],
+      "answer": [
+        "Water Lilies",
+        "Woman with a Parasol"
+      ]
+    },
+    {
+      "text": "Choose two works by Giacomo Puccini.",
+      "options": [
+        "The Shining",
+        "Shirley",
+        "Bringing Up Baby",
+        "The Flying Dutchman",
+        "Olympia"
+      ],
+      "answer": [
+        "La Boheme",
+        "Turandot"
+      ]
+    },
+    {
+      "text": "Choose two works by Walt Whitman.",
+      "options": [
+        "The Adventures of Tom Sawyer",
+        "Hungarian Dances",
+        "Campbell’s Soup Cans",
+        "Pulp Fiction",
+        "Alice's Adventures in Wonderland"
+      ],
+      "answer": [
+        "Song of Myself",
+        "Leaves of Grass"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Gaetano Donizetti?",
+      "options": [
+        "Typee",
+        "Norma",
+        "Malcolm X",
+        "Mona Lisa",
+        "The Lord of the Rings",
+        "David Copperfield"
+      ],
+      "answer": [
+        "Lucia di Lammermoor"
+      ]
+    },
+    {
+      "text": "Which work came from Herman Melville?",
+      "options": [
+        "The Creation",
+        "The Birth of Venus",
+        "La Boheme",
+        "Stagecoach",
+        "Self-Portrait with Thorn Necklace and Hummingbird"
+      ],
+      "answer": [
+        "Moby-Dick"
+      ]
+    },
+    {
+      "text": "Choose two works by Mark Twain.",
+      "options": [
+        "Minute Waltz",
+        "East of Eden",
+        "The Mystical Nativity",
+        "The Calling of Saint Matthew",
+        "2001: A Space Odyssey"
+      ],
+      "answer": [
+        "Adventures of Huckleberry Finn",
+        "The Prince and the Pauper"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Mary Shelley?",
+      "options": [
+        "Chinatown",
+        "Mulholland Drive",
+        "The School of Athens",
+        "City Lights"
+      ],
+      "answer": [
+        "Valperga",
+        "Frankenstein"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Felix Mendelssohn?",
+      "options": [
+        "Toccata and Fugue in D minor",
+        "Revolutionary Etude",
+        "The Silver Chair",
+        "Hungarian Dances"
+      ],
+      "answer": [
+        "Songs Without Words",
+        "Italian Symphony"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Franz Liszt?",
+      "options": [
+        "Cat's Cradle",
+        "L’Absinthe",
+        "The Martian Chronicles",
+        "Go Set a Watchman"
+      ],
+      "answer": [
+        "La Campanella",
+        "Les Preludes"
+      ]
+    },
+    {
+      "text": "Which work came from F. Scott Fitzgerald?",
+      "options": [
+        "Hungarian Dances",
+        "The Prince and the Pauper",
+        "Se7en",
+        "Flatford Mill",
+        "The Searchers"
+      ],
+      "answer": [
+        "This Side of Paradise"
+      ]
+    },
+    {
+      "text": "Choose two works by H. G. Wells.",
+      "options": [
+        "Little Women",
+        "The Calling of Saint Matthew",
+        "The Apartment",
+        "A Modest Proposal",
+        "Psycho"
+      ],
+      "answer": [
+        "The Invisible Man",
+        "The War of the Worlds"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Jacques Offenbach?",
+      "options": [
+        "Surprise Symphony",
+        "The Bridge on the River Kwai",
+        "Zodiac",
+        "Girl with a Pearl Earring",
+        "Sistine Madonna"
+      ],
+      "answer": [
+        "Orpheus in the Underworld"
+      ]
+    },
+    {
+      "text": "Choose two works by Jane Austen.",
+      "options": [
+        "Italian Symphony",
+        "I Puritani",
+        "Erin Brockovich",
+        "The Caves of Steel",
+        "The Tower of Babel"
+      ],
+      "answer": [
+        "Emma",
+        "Pride and Prejudice"
+      ]
+    },
+    {
+      "text": "Which of these works was created by John Constable?",
+      "options": [
+        "The Haywain Triptych",
+        "Mission: Impossible",
+        "Valse triste",
+        "The Fighting Temeraire",
+        "L’Absinthe",
+        "Rigoletto"
+      ],
+      "answer": [
+        "Flatford Mill"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Tim Burton?",
+      "options": [
+        "Nine Stories",
+        "Vitruvian Man",
+        "The Silmarillion",
+        "Rusalka",
+        "Water Lilies",
+        "Eraserhead"
+      ],
+      "answer": [
+        "Beetlejuice"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Giuseppe Verdi?",
+      "options": [
+        "To the Lighthouse",
+        "Twice-Told Tales",
+        "Kindertotenlieder",
+        "Juditha triumphans",
+        "Annie Hall",
+        "North by Northwest"
+      ],
+      "answer": [
+        "La Traviata"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Steven Spielberg?",
+      "options": [
+        "Venus of Urbino",
+        "Song of Myself",
+        "Kindertotenlieder",
+        "Burmese Days"
+      ],
+      "answer": [
+        "Schindler's List",
+        "E.T. the Extra-Terrestrial"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Marc Chagall?",
+      "options": [
+        "Beloved",
+        "Farewell Symphony",
+        "Olympia",
+        "Foundation",
+        "Valperga"
+      ],
+      "answer": [
+        "I and the Village"
+      ]
+    },
+    {
+      "text": "Which work came from Wolfgang Amadeus Mozart?",
+      "options": [
+        "Wuthering Heights",
+        "Tosca",
+        "La Sonnambula",
+        "The Catcher in the Rye",
+        "2001: A Space Odyssey",
+        "Touch of Evil"
+      ],
+      "answer": [
+        "The Marriage of Figaro"
+      ]
+    },
+    {
+      "text": "Which two titles belong to David Lean?",
+      "options": [
+        "Hungarian Rhapsodies",
+        "The Caves of Steel",
+        "Cat's Cradle",
+        "Les Demoiselles d’Avignon"
+      ],
+      "answer": [
+        "Lawrence of Arabia",
+        "The Bridge on the River Kwai"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Vincenzo Bellini?",
+      "options": [
+        "The Caves of Steel",
+        "Flatford Mill",
+        "Die Fledermaus",
+        "Blade Runner 2049"
+      ],
+      "answer": [
+        "La Sonnambula",
+        "I Puritani"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Oscar Wilde?",
+      "options": [
+        "2001: A Space Odyssey",
+        "Do the Right Thing",
+        "Rigoletto",
+        "The Bridge on the River Kwai"
+      ],
+      "answer": [
+        "Lady Windermere's Fan",
+        "The Importance of Being Earnest"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Brian De Palma?",
+      "options": [
+        "Little Women",
+        "The Terminator",
+        "Anxiety",
+        "Orpheus in the Underworld",
+        "City Lights"
+      ],
+      "answer": [
+        "Mission: Impossible"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Frank Capra?",
+      "options": [
+        "This Side of Paradise",
+        "Bacchus and Ariadne",
+        "Treasure Island",
+        "The Martian Chronicles"
+      ],
+      "answer": [
+        "Mr. Smith Goes to Washington",
+        "It Happened One Night"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Gustav Mahler?",
+      "options": [
+        "Traffic",
+        "Rosemary's Baby",
+        "American Gothic",
+        "Nighthawks",
+        "Death and Life",
+        "Venus of Urbino"
+      ],
+      "answer": [
+        "Kindertotenlieder"
+      ]
+    },
+    {
+      "text": "Which work came from George Orwell?",
+      "options": [
+        "The Bellelli Family",
+        "Foundation",
+        "The Pearl Fishers",
+        "Songs Without Words",
+        "Mulholland Drive",
+        "The Starry Night"
+      ],
+      "answer": [
+        "Animal Farm"
+      ]
+    },
+    {
+      "text": "Choose two works by Charlotte Brontë.",
+      "options": [
+        "Vitruvian Man",
+        "Over the Town",
+        "And Then There Were None",
+        "Kindertotenlieder",
+        "The Terminator"
+      ],
+      "answer": [
+        "Jane Eyre",
+        "Villette"
+      ]
+    },
+    {
+      "text": "Choose two works by Hayao Miyazaki.",
+      "options": [
+        "L'estro armonico",
+        "Emma",
+        "The Well-Tempered Clavier",
+        "Heart of Darkness",
+        "The Kid"
+      ],
+      "answer": [
+        "Princess Mononoke",
+        "Spirited Away"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Vincent van Gogh?",
+      "options": [
+        "Valse triste",
+        "North by Northwest",
+        "Who Framed Roger Rabbit",
+        "Heart of Darkness"
+      ],
+      "answer": [
+        "The Starry Night",
+        "Sunflowers"
+      ]
+    },
+    {
+      "text": "Which two titles belong to J. D. Salinger?",
+      "options": [
+        "Song of Solomon",
+        "Lady Windermere's Fan",
+        "Bacchus and Ariadne",
+        "Valse triste"
+      ],
+      "answer": [
+        "The Catcher in the Rye",
+        "Franny and Zooey"
+      ]
+    },
+    {
+      "text": "Which two titles belong to James Cameron?",
+      "options": [
+        "East of Eden",
+        "Songs Without Words",
+        "Las Meninas",
+        "Mont Sainte-Victoire"
+      ],
+      "answer": [
+        "Avatar",
+        "Titanic"
+      ]
+    },
+    {
+      "text": "Which work came from Salvador Dalí?",
+      "options": [
+        "The Magic Flute",
+        "The Tower of Babel",
+        "Nine Stories",
+        "Fahrenheit 451",
+        "The Ship of Fools",
+        "Turandot"
+      ],
+      "answer": [
+        "The Persistence of Memory"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Edgar Degas?",
+      "options": [
+        "Interstellar",
+        "The Pianist",
+        "Gulliver's Travels",
+        "Mass in B minor",
+        "The Elephants",
+        "The Midnight Ride of Paul Revere"
+      ],
+      "answer": [
+        "The Bellelli Family"
+      ]
+    },
+    {
+      "text": "Choose two works by John Steinbeck.",
+      "options": [
+        "Nine Stories",
+        "2001: A Space Odyssey",
+        "Judith Beheading Holofernes",
+        "Doni Tondo",
+        "Alice's Adventures in Wonderland"
+      ],
+      "answer": [
+        "Of Mice and Men",
+        "East of Eden"
+      ]
+    },
+    {
+      "text": "Which work came from George Frideric Handel?",
+      "options": [
+        "The Shining",
+        "The Surrender of Breda",
+        "Early Sunday Morning",
+        "Missa solemnis",
+        "Barbie",
+        "Rear Window"
+      ],
+      "answer": [
+        "Music for the Royal Fireworks"
+      ]
+    },
+    {
+      "text": "Choose two works by Daniel Defoe.",
+      "options": [
+        "The Jungle Book",
+        "Lady Bird",
+        "North by Northwest",
+        "Top Gun",
+        "La Campanella"
+      ],
+      "answer": [
+        "Moll Flanders",
+        "A Journal of the Plague Year"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Rembrandt?",
+      "options": [
+        "Titanic",
+        "A Bar at the Folies-Bergère",
+        "Doni Tondo",
+        "The Shining",
+        "His Girl Friday",
+        "The Adventures of Tom Sawyer"
+      ],
+      "answer": [
+        "The Anatomy Lesson of Doctor Nicolaes Tulp"
+      ]
+    },
+    {
+      "text": "Choose two works by Francis Ford Coppola.",
+      "options": [
+        "The Last Supper",
+        "The Untouchables",
+        "The Silmarillion",
+        "Hungarian Rhapsodies",
+        "Orlando"
+      ],
+      "answer": [
+        "Apocalypse Now",
+        "The Godfather"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Johann Strauss II?",
+      "options": [
+        "Kill Bill",
+        "Water Lilies",
+        "The Ring of the Nibelung",
+        "The Card Players"
+      ],
+      "answer": [
+        "Die Fledermaus",
+        "The Blue Danube"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Robert Schumann?",
+      "options": [
+        "Raindrop Prelude",
+        "Impression, Sunrise",
+        "And Then There Were None",
+        "Pulp Fiction",
+        "Portrait of Adele Bloch-Bauer I",
+        "Of Mice and Men"
+      ],
+      "answer": [
+        "Kinderszenen"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Georges Seurat?",
+      "options": [
+        "Slavonic Dances",
+        "Vltava",
+        "The Elephants",
+        "Daughters of Revolution",
+        "The Birth of Venus"
+      ],
+      "answer": [
+        "A Sunday Afternoon on the Island of La Grande Jatte"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Christopher Nolan?",
+      "options": [
+        "Sicario",
+        "Blade Runner 2049",
+        "Modern Times",
+        "Robinson Crusoe",
+        "The Circus",
+        "Woman with a Parasol"
+      ],
+      "answer": [
+        "The Dark Knight"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Ludwig van Beethoven?",
+      "options": [
+        "Song of Myself",
+        "The Catcher in the Rye",
+        "To the Lighthouse",
+        "Beloved",
+        "Dandelion Wine",
+        "Galatea of the Spheres"
+      ],
+      "answer": [
+        "Egmont"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Robert Zemeckis?",
+      "options": [
+        "Fahrenheit 451",
+        "Gulliver's Travels",
+        "The Hay Wain",
+        "A Journal of the Plague Year",
+        "Man on Fire",
+        "The Tower of Babel"
+      ],
+      "answer": [
+        "Who Framed Roger Rabbit"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Johannes Vermeer?",
+      "options": [
+        "Kim",
+        "New World Symphony",
+        "Gymnopedies",
+        "Se7en"
+      ],
+      "answer": [
+        "The Milkmaid",
+        "Girl with a Pearl Earring"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Leonardo da Vinci?",
+      "options": [
+        "The Midnight Ride of Paul Revere",
+        "The Invisible Man",
+        "Hungarian Dances",
+        "Rhenish Symphony",
+        "Harry Potter and the Prisoner of Azkaban"
+      ],
+      "answer": [
+        "Mona Lisa"
+      ]
+    },
+    {
+      "text": "Choose two works by Robert Louis Stevenson.",
+      "options": [
+        "Winterreise",
+        "Automat",
+        "The Importance of Being Earnest",
+        "Italian Symphony",
+        "Farewell Symphony"
+      ],
+      "answer": [
+        "Strange Case of Dr Jekyll and Mr Hyde",
+        "Kidnapped"
+      ]
+    },
+    {
+      "text": "Which work came from Emily Brontë?",
+      "options": [
+        "O Captain! My Captain!",
+        "Foundation",
+        "The Dark Knight",
+        "Impression, Sunrise",
+        "The Card Players"
+      ],
+      "answer": [
+        "Wuthering Heights"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Stephen King?",
+      "options": [
+        "Twice-Told Tales",
+        "The Godfather",
+        "Just So Stories",
+        "Basket of Fruit",
+        "The Social Network"
+      ],
+      "answer": [
+        "The Stand"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Franz Schubert?",
+      "options": [
+        "East of Eden",
+        "The Raven",
+        "Princess Mononoke",
+        "Bathers at Asnières",
+        "Flatford Mill",
+        "Heart of Darkness"
+      ],
+      "answer": [
+        "Trout Quintet"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Stanley Kubrick?",
+      "options": [
+        "Flatford Mill",
+        "Turandot",
+        "Barbie",
+        "Chinatown",
+        "Minute Waltz",
+        "Madonna"
+      ],
+      "answer": [
+        "A Clockwork Orange"
+      ]
+    },
+    {
+      "text": "Choose two works by Greta Gerwig.",
+      "options": [
+        "The Martian Chronicles",
+        "Foundation",
+        "Peter Pan",
+        "Kinderszenen",
+        "The Lord of the Rings"
+      ],
+      "answer": [
+        "Lady Bird",
+        "Little Women"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to J. K. Rowling?",
+      "options": [
+        "Don Giovanni",
+        "Woman with a Parasol",
+        "Alice's Adventures in Wonderland",
+        "Peter Pan",
+        "Water Music",
+        "The Flying Dutchman"
+      ],
+      "answer": [
+        "Harry Potter and the Prisoner of Azkaban"
+      ]
+    },
+    {
+      "text": "Which of these titles is by David Lynch?",
+      "options": [
+        "Kim",
+        "Where Do We Come From? What Are We? Where Are We Going?",
+        "Beloved",
+        "Matilda",
+        "The Starry Night",
+        "Through the Looking-Glass"
+      ],
+      "answer": [
+        "Blue Velvet"
+      ]
+    },
+    {
+      "text": "Choose two works by Spike Lee.",
+      "options": [
+        "The Birth of Venus",
+        "Primavera",
+        "The Old Man and the Sea",
+        "Death on the Nile",
+        "To the Lighthouse"
+      ],
+      "answer": [
+        "Do the Right Thing",
+        "BlacKkKlansman"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Virginia Woolf?",
+      "options": [
+        "The Lion, the Witch and the Wardrobe",
+        "The Kiss",
+        "A Sunday Afternoon on the Island of La Grande Jatte",
+        "Death on the Nile",
+        "White Fang",
+        "The Untouchables"
+      ],
+      "answer": [
+        "To the Lighthouse"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Agatha Christie?",
+      "options": [
+        "Song of Myself",
+        "The Untouchables",
+        "This Side of Paradise",
+        "The Persistence of Memory"
+      ],
+      "answer": [
+        "Death on the Nile",
+        "Murder on the Orient Express"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Henri Matisse?",
+      "options": [
+        "Dance at Le Moulin de la Galette",
+        "Cat's Cradle",
+        "Goodfellas",
+        "Just So Stories"
+      ],
+      "answer": [
+        "The Dance",
+        "Woman with a Hat"
+      ]
+    },
+    {
+      "text": "Choose two works by J. M. W. Turner.",
+      "options": [
+        "This Side of Paradise",
+        "I Puritani",
+        "The Searchers",
+        "L’Absinthe",
+        "Typee"
+      ],
+      "answer": [
+        "The Slave Ship",
+        "The Fighting Temeraire"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Francisco Goya?",
+      "options": [
+        "Orpheus in the Underworld",
+        "Martin Eden",
+        "Helena Fourment in a Fur Wrap",
+        "The Blue Danube"
+      ],
+      "answer": [
+        "The Third of May 1808",
+        "The Nude Maja"
+      ]
+    },
+    {
+      "text": "Choose two works by Howard Hawks.",
+      "options": [
+        "Hebrides Overture",
+        "Rear Window",
+        "Jurassic Park",
+        "Three Pieces in the Shape of a Pear",
+        "Shirley"
+      ],
+      "answer": [
+        "His Girl Friday",
+        "Rio Bravo"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Richard Wagner?",
+      "options": [
+        "A Journal of the Plague Year",
+        "Bolero",
+        "Gran Torino",
+        "Eine kleine Nachtmusik"
+      ],
+      "answer": [
+        "Tristan and Isolde",
+        "The Flying Dutchman"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Hector Berlioz?",
+      "options": [
+        "Man on Fire",
+        "Olympia",
+        "Farewell Symphony",
+        "The Social Network"
+      ],
+      "answer": [
+        "Symphonie fantastique",
+        "Harold in Italy"
+      ]
+    },
+    {
+      "text": "Choose two works by Ridley Scott.",
+      "options": [
+        "Where Do We Come From? What Are We? Where Are We Going?",
+        "Pride and Prejudice",
+        "Mission: Impossible",
+        "Misery",
+        "Orlando"
+      ],
+      "answer": [
+        "Gladiator",
+        "Blade Runner"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Ernest Hemingway?",
+      "options": [
+        "Moonlight Sonata",
+        "Tahitian Women on the Beach",
+        "Valperga",
+        "Tristan and Isolde",
+        "The Silver Chair"
+      ],
+      "answer": [
+        "A Farewell to Arms"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Tony Scott?",
+      "options": [
+        "Oliver Twist",
+        "Carrie",
+        "The Three Graces",
+        "The Marriage of Figaro"
+      ],
+      "answer": [
+        "Man on Fire",
+        "Top Gun"
+      ]
+    },
+    {
+      "text": "Choose two works by Alfred Hitchcock.",
+      "options": [
+        "The Midnight Ride of Paul Revere",
+        "The Pearl Fishers",
+        "Surprise Symphony",
+        "Just So Stories",
+        "Othello"
+      ],
+      "answer": [
+        "Psycho",
+        "North by Northwest"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Frida Kahlo?",
+      "options": [
+        "Mont Sainte-Victoire",
+        "Moonlight Sonata",
+        "The BFG",
+        "Top Gun",
+        "Emma"
+      ],
+      "answer": [
+        "Henry Ford Hospital"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Steven Soderbergh?",
+      "options": [
+        "Norma",
+        "Luncheon of the Boating Party",
+        "The Starry Night",
+        "Beetlejuice",
+        "Through the Looking-Glass",
+        "The Magic Flute"
+      ],
+      "answer": [
+        "Ocean's Eleven"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to John Ford?",
+      "options": [
+        "Villette",
+        "Eine kleine Nachtmusik",
+        "Charlie and the Chocolate Factory",
+        "Norma",
+        "Clair de Lune"
+      ],
+      "answer": [
+        "The Searchers"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Georges Bizet?",
+      "options": [
+        "North by Northwest",
+        "East of Eden",
+        "Death and Life",
+        "Blue Velvet",
+        "Taxi Driver",
+        "The Persistence of Memory"
+      ],
+      "answer": [
+        "The Pearl Fishers"
+      ]
+    },
+    {
+      "text": "Which work came from Peter Paul Rubens?",
+      "options": [
+        "Marilyn Diptych",
+        "The Great Dictator",
+        "Citizen Kane",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Prelude to the Afternoon of a Faun"
+      ],
+      "answer": [
+        "The Garden of Love"
+      ]
+    },
+    {
+      "text": "Choose two works by Andy Warhol.",
+      "options": [
+        "The Kid",
+        "Just So Stories",
+        "The Shining",
+        "Adventures of Huckleberry Finn",
+        "The Flying Dutchman"
+      ],
+      "answer": [
+        "Marilyn Diptych",
+        "Campbell’s Soup Cans"
+      ]
+    },
+    {
+      "text": "Which two titles belong to J. M. Barrie?",
+      "options": [
+        "Erin Brockovich",
+        "Taxi Driver",
+        "The Bartered Bride",
+        "Blade Runner"
+      ],
+      "answer": [
+        "Peter Pan",
+        "The Little White Bird"
+      ]
+    },
+    {
+      "text": "Choose two works by Roman Polanski.",
+      "options": [
+        "Primavera",
+        "Murder on the Orient Express",
+        "The Night Watch",
+        "The Creation",
+        "Lohengrin"
+      ],
+      "answer": [
+        "The Pianist",
+        "Chinatown"
+      ]
+    },
+    {
+      "text": "Choose two works by Arthur Conan Doyle.",
+      "options": [
+        "The Mystical Nativity",
+        "Rusalka",
+        "The Dance Class",
+        "Midnight in Paris",
+        "Girl with a Pearl Earring"
+      ],
+      "answer": [
+        "The Lost World",
+        "A Study in Scarlet"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Roald Dahl?",
+      "options": [
+        "A Tale of a Tub",
+        "The Prince and the Pauper",
+        "Frankenstein",
+        "Doni Tondo"
+      ],
+      "answer": [
+        "Matilda",
+        "Charlie and the Chocolate Factory"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Charles Dickens?",
+      "options": [
+        "Psycho",
+        "Egmont",
+        "The Well-Tempered Clavier",
+        "Carrie",
+        "Tales from the Vienna Woods"
+      ],
+      "answer": [
+        "Oliver Twist"
+      ]
+    },
+    {
+      "text": "Which work came from Jean Sibelius?",
+      "options": [
+        "Rio Bravo",
+        "Moby-Dick",
+        "His Girl Friday",
+        "Emma",
+        "Harry Potter and the Philosopher's Stone"
+      ],
+      "answer": [
+        "Valse triste"
+      ]
+    },
+    {
+      "text": "Choose two works by Bedrich Smetana.",
+      "options": [
+        "The Great Gatsby",
+        "The Ring of the Nibelung",
+        "The Night Watch",
+        "Helena Fourment in a Fur Wrap",
+        "Woman with a Hat"
+      ],
+      "answer": [
+        "The Bartered Bride",
+        "Vltava"
+      ]
+    },
+    {
+      "text": "Choose two works by Jack London.",
+      "options": [
+        "The Swan of Tuonela",
+        "Water Music",
+        "Bolero",
+        "The Catcher in the Rye",
+        "Modern Times"
+      ],
+      "answer": [
+        "White Fang",
+        "The Call of the Wild"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to William Shakespeare?",
+      "options": [
+        "Revolutionary Etude",
+        "The Silver Chair",
+        "The Midnight Ride of Paul Revere",
+        "Rusalka",
+        "Water Lilies"
+      ],
+      "answer": [
+        "Macbeth"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Edward Hopper?",
+      "options": [
+        "Pavane for a Dead Princess",
+        "Jane Eyre",
+        "The Birth of Venus",
+        "Gladiator",
+        "The Persistence of Memory"
+      ],
+      "answer": [
+        "Early Sunday Morning"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Frederic Chopin?",
+      "options": [
+        "Daphnis and Chloe",
+        "Leaves of Grass",
+        "Raging Bull",
+        "Vitruvian Man"
+      ],
+      "answer": [
+        "Raindrop Prelude",
+        "Revolutionary Etude"
+      ]
+    },
+    {
+      "text": "Choose two works by Isaac Asimov.",
+      "options": [
+        "The Pianist",
+        "Mass in B minor",
+        "Dance at Le Moulin de la Galette",
+        "Nostromo",
+        "Inception"
+      ],
+      "answer": [
+        "Foundation",
+        "I, Robot"
+      ]
+    },
+    {
+      "text": "Which work came from Paul Gauguin?",
+      "options": [
+        "Pulp Fiction",
+        "Gymnopedies",
+        "L’Absinthe",
+        "The Circus",
+        "The Joy of Life"
+      ],
+      "answer": [
+        "The Yellow Christ"
+      ]
+    },
+    {
+      "text": "Choose two works by Edvard Munch.",
+      "options": [
+        "Reservoir Dogs",
+        "The Night Watch",
+        "The Apartment",
+        "Billy Budd",
+        "Modern Times"
+      ],
+      "answer": [
+        "Anxiety",
+        "The Scream"
+      ]
+    },
+    {
+      "text": "Which two titles belong to David Fincher?",
+      "options": [
+        "The Last Supper",
+        "Lady Bird",
+        "Bacchus and Ariadne",
+        "The Night Watch"
+      ],
+      "answer": [
+        "Fight Club",
+        "The Social Network"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Raphael?",
+      "options": [
+        "Guernica",
+        "The Surrender of Breda",
+        "The Night Watch",
+        "The Creation",
+        "The Terminator"
+      ],
+      "answer": [
+        "Sistine Madonna"
+      ]
+    },
+    {
+      "text": "Which work came from Claude Debussy?",
+      "options": [
+        "The Departed",
+        "The Tower of Babel",
+        "The Caves of Steel",
+        "Woman with a Parasol",
+        "The Milkmaid"
+      ],
+      "answer": [
+        "Prelude to the Afternoon of a Faun"
+      ]
+    },
+    {
+      "text": "Choose two works by Quentin Tarantino.",
+      "options": [
+        "The Bartered Bride",
+        "Norma",
+        "The Birth of Venus",
+        "The Hay Wain",
+        "Orlando"
+      ],
+      "answer": [
+        "Pulp Fiction",
+        "Kill Bill"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Martin Scorsese?",
+      "options": [
+        "The Transfiguration",
+        "Animal Farm",
+        "Egmont",
+        "Tristan and Isolde",
+        "And Then There Were None",
+        "Woman with a Hat"
+      ],
+      "answer": [
+        "Goodfellas"
+      ]
+    },
+    {
+      "text": "Choose two works by Caravaggio.",
+      "options": [
+        "Ocean's Eleven",
+        "Blade Runner",
+        "The Importance of Being Earnest",
+        "Assumption of the Virgin",
+        "Madama Butterfly"
+      ],
+      "answer": [
+        "Judith Beheading Holofernes",
+        "The Calling of Saint Matthew"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Grant Wood?",
+      "options": [
+        "The Apartment",
+        "Galatea of the Spheres",
+        "Othello",
+        "The BFG",
+        "Songs of a Wayfarer",
+        "Nostromo"
+      ],
+      "answer": [
+        "American Gothic"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Johannes Brahms?",
+      "options": [
+        "Twice-Told Tales",
+        "The Birth of Venus",
+        "Moonlight Sonata",
+        "Macbeth",
+        "Prince Caspian"
+      ],
+      "answer": [
+        "A German Requiem"
+      ]
+    },
+    {
+      "text": "Choose two works by Orson Welles.",
+      "options": [
+        "The Catcher in the Rye",
+        "Three Pieces in the Shape of a Pear",
+        "The Rokeby Venus",
+        "Self-Portrait with Thorn Necklace and Hummingbird",
+        "Nine Stories"
+      ],
+      "answer": [
+        "The Lady from Shanghai",
+        "Touch of Evil"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Pierre-Auguste Renoir?",
+      "options": [
+        "Valperga",
+        "Franny and Zooey",
+        "Macbeth",
+        "Surprise Symphony"
+      ],
+      "answer": [
+        "Two Sisters on the Terrace",
+        "Dance at Le Moulin de la Galette"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Édouard Manet?",
+      "options": [
+        "Die Fledermaus",
+        "Eine kleine Nachtmusik",
+        "La Traviata",
+        "The House of the Seven Gables"
+      ],
+      "answer": [
+        "A Bar at the Folies-Bergère",
+        "Olympia"
+      ]
+    },
+    {
+      "text": "Choose two works by Paul Cézanne.",
+      "options": [
+        "The Adventures of Tom Sawyer",
+        "Martin Eden",
+        "Les Preludes",
+        "William Tell",
+        "Pavane for a Dead Princess"
+      ],
+      "answer": [
+        "The Card Players",
+        "The Basket of Apples"
+      ]
+    },
+    {
+      "text": "Choose two works by Gustav Klimt.",
+      "options": [
+        "O Captain! My Captain!",
+        "Moby-Dick",
+        "Mont Sainte-Victoire",
+        "Goodfellas",
+        "Self-Portrait with Thorn Necklace and Hummingbird"
+      ],
+      "answer": [
+        "Death and Life",
+        "The Kiss"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Toni Morrison?",
+      "options": [
+        "Farewell Symphony",
+        "The Two Fridas",
+        "Of Mice and Men",
+        "Great Expectations",
+        "Dandelion Wine",
+        "The Departed"
+      ],
+      "answer": [
+        "Song of Solomon"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Sandro Botticelli?",
+      "options": [
+        "Lawrence of Arabia",
+        "E.T. the Extra-Terrestrial",
+        "The Card Players",
+        "Two Sisters on the Terrace",
+        "Marilyn Diptych",
+        "Aida"
+      ],
+      "answer": [
+        "Primavera"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Gioachino Rossini?",
+      "options": [
+        "Fidelio",
+        "Chinatown",
+        "Lord Jim",
+        "Daughters of Revolution",
+        "The Kiss"
+      ],
+      "answer": [
+        "William Tell"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Pieter Bruegel the Elder?",
+      "options": [
+        "Bathers at Asnières",
+        "The Fall of the House of Usher",
+        "Fight Club",
+        "Lohengrin"
+      ],
+      "answer": [
+        "The Peasant Wedding",
+        "The Tower of Babel"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Johann Sebastian Bach?",
+      "options": [
+        "Barbie",
+        "The Martian Chronicles",
+        "The Silmarillion",
+        "Trout Quintet",
+        "Avatar",
+        "The Last Supper"
+      ],
+      "answer": [
+        "Mass in B minor"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Titian?",
+      "options": [
+        "Sunflowers",
+        "The Damnation of Faust",
+        "A Modest Proposal",
+        "Revolutionary Etude",
+        "Raindrop Prelude"
+      ],
+      "answer": [
+        "Assumption of the Virgin"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Edgar Allan Poe?",
+      "options": [
+        "Barbie",
+        "Nineteen Eighty-Four",
+        "Carnaval",
+        "The Importance of Being Earnest",
+        "Little Women"
+      ],
+      "answer": [
+        "The Tell-Tale Heart"
+      ]
+    },
+    {
+      "text": "Which work came from Denis Villeneuve?",
+      "options": [
+        "Pulp Fiction",
+        "On White II",
+        "Back to the Future",
+        "Peer Gynt",
+        "Charlie and the Chocolate Factory",
+        "Tales from the Vienna Woods"
+      ],
+      "answer": [
+        "Blade Runner 2049"
+      ]
+    },
+    {
+      "text": "Choose two works by Woody Allen.",
+      "options": [
+        "The Thieving Magpie",
+        "Memento",
+        "Egmont",
+        "Orpheus in the Underworld",
+        "Rear Window"
+      ],
+      "answer": [
+        "Midnight in Paris",
+        "Annie Hall"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Erik Satie?",
+      "options": [
+        "Dubliners",
+        "Mona Lisa",
+        "Bacchus and Ariadne",
+        "The Scarlet Letter",
+        "Carmen",
+        "The Creation"
+      ],
+      "answer": [
+        "Gymnopedies"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Charlie Chaplin?",
+      "options": [
+        "Das Lied von der Erde",
+        "Luncheon of the Boating Party",
+        "The Card Players",
+        "A Farewell to Arms",
+        "The Starry Night",
+        "The Elixir of Love"
+      ],
+      "answer": [
+        "The Kid"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Hieronymus Bosch?",
+      "options": [
+        "Tahitian Women on the Beach",
+        "It Happened One Night",
+        "The Swan of Tuonela",
+        "The Rokeby Venus",
+        "The Creation"
+      ],
+      "answer": [
+        "The Ship of Fools"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Antonin Dvorak?",
+      "options": [
+        "Campbell’s Soup Cans",
+        "A Sunday Afternoon on the Island of La Grande Jatte",
+        "Carmen",
+        "The Apartment",
+        "Misery"
+      ],
+      "answer": [
+        "Rusalka"
+      ]
+    },
+    {
+      "text": "Which of these works was created by Pablo Picasso?",
+      "options": [
+        "Oliver Twist",
+        "Barbie",
+        "Valperga",
+        "Blade Runner 2049",
+        "Burmese Days"
+      ],
+      "answer": [
+        "Guernica"
+      ]
+    },
+    {
+      "text": "Which of these works belongs to Diego Velázquez?",
+      "options": [
+        "Taxi Driver",
+        "Alice's Adventures in Wonderland",
+        "Treasure Island",
+        "Surprise Symphony",
+        "Assumption of the Virgin"
+      ],
+      "answer": [
+        "The Rokeby Venus"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Nathaniel Hawthorne?",
+      "options": [
+        "Las Meninas",
+        "To the Lighthouse",
+        "Nostromo",
+        "Over the Town",
+        "The Fifer",
+        "The Haywain Triptych"
+      ],
+      "answer": [
+        "Twice-Told Tales"
+      ]
+    },
+    {
+      "text": "Which of these works was created by C. S. Lewis?",
+      "options": [
+        "Twice-Told Tales",
+        "E.T. the Extra-Terrestrial",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Arrival",
+        "Lady Bird"
+      ],
+      "answer": [
+        "The Silver Chair"
+      ]
+    },
+    {
+      "text": "Which two titles belong to J. R. R. Tolkien?",
+      "options": [
+        "Nabucco",
+        "Tender Is the Night",
+        "Leaves of Grass",
+        "Lord Jim"
+      ],
+      "answer": [
+        "The Hobbit",
+        "The Lord of the Rings"
+      ]
+    },
+    {
+      "text": "Which two titles belong to Billy Wilder?",
+      "options": [
+        "Nineteen Eighty-Four",
+        "Beetlejuice",
+        "The Shining",
+        "Bringing Up Baby"
+      ],
+      "answer": [
+        "The Apartment",
+        "Sunset Boulevard"
+      ]
+    },
+    {
+      "text": "Choose two works by Joseph Haydn.",
+      "options": [
+        "The Bellelli Family",
+        "Little Women",
+        "The Damnation of Faust",
+        "Songs Without Words",
+        "Hungarian Dances"
+      ],
+      "answer": [
+        "The Creation",
+        "Surprise Symphony"
+      ]
+    },
+    {
+      "text": "Which of these works is attributed to Lewis Carroll?",
+      "options": [
+        "Water Lilies",
+        "Galatea of the Spheres",
+        "The Garden of Earthly Delights",
+        "Gulliver's Travels",
+        "The Peasant Wedding"
+      ],
+      "answer": [
+        "Through the Looking-Glass"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Clint Eastwood?",
+      "options": [
+        "The Slave Ship",
+        "Alice's Adventures in Wonderland",
+        "Carmen",
+        "Basket of Fruit",
+        "Juditha triumphans",
+        "The Garden of Earthly Delights"
+      ],
+      "answer": [
+        "Gran Torino"
+      ]
+    },
+    {
+      "text": "Choose two works by Rudyard Kipling.",
+      "options": [
+        "The Importance of Being Earnest",
+        "Death and Life",
+        "Tosca",
+        "Jane Eyre",
+        "The Mystical Nativity"
+      ],
+      "answer": [
+        "The Jungle Book",
+        "Just So Stories"
+      ]
+    },
+    {
+      "text": "Which of these titles is by Edvard Grieg?",
+      "options": [
+        "The Hobbit",
+        "Jane Eyre",
+        "Turandot",
+        "Three Pieces in the Shape of a Pear",
+        "Doni Tondo"
+      ],
+      "answer": [
+        "Lyric Pieces"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1526 @@
+{
+  "theme": "Grands noms",
+  "questions": [
+    {
+      "text": "À quelle personnalité associe-t-on « Un bar aux Folies Bergère » ?",
+      "options": [
+        "Georges Méliès",
+        "Charles de Gaulle",
+        "Camille Saint-Saëns",
+        "Arthur Rimbaud",
+        "Auguste Renoir"
+      ],
+      "answer": [
+        "Édouard Manet"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « L'Assommoir » ?",
+      "options": [
+        "Louis XIV",
+        "Claude Debussy",
+        "Louis Malle",
+        "Georges Méliès",
+        "Paul Cézanne",
+        "François Truffaut"
+      ],
+      "answer": [
+        "Émile Zola"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « La Mer » ?",
+      "options": [
+        "Marcel Proust",
+        "Henri IV",
+        "Victor Hugo",
+        "Jeanne d'Arc",
+        "Clovis",
+        "Georges Bizet"
+      ],
+      "answer": [
+        "Claude Debussy"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « L'Avare » ?",
+      "options": [
+        "Paul Cézanne",
+        "Auguste Renoir",
+        "Napoléon Bonaparte",
+        "Jules Verne",
+        "Edgar Degas"
+      ],
+      "answer": [
+        "Molière"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Terre des hommes » ?",
+      "options": [
+        "Henri Matisse",
+        "Marcel Proust",
+        "Charlemagne",
+        "Claude Debussy"
+      ],
+      "answer": [
+        "Antoine de Saint-Exupéry"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Le Cheval blanc » ?",
+      "options": [
+        "Albert Camus",
+        "Napoléon Bonaparte",
+        "Georges Méliès",
+        "Maurice Ravel"
+      ],
+      "answer": [
+        "Paul Gauguin"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Le Carnaval des animaux » ?",
+      "options": [
+        "Jules Verne",
+        "Henri Matisse",
+        "Paul Cézanne",
+        "Marcel Proust",
+        "Napoléon Bonaparte"
+      ],
+      "answer": [
+        "Camille Saint-Saëns"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Germinal » ?",
+      "options": [
+        "Charles de Gaulle",
+        "Paul Cézanne",
+        "Henri de Toulouse-Lautrec",
+        "Claude Debussy",
+        "Jules Verne"
+      ],
+      "answer": [
+        "Émile Zola"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Les Contes d'Hoffmann » ?",
+      "options": [
+        "Clovis",
+        "Henri Matisse",
+        "Paul Gauguin",
+        "Paul Cézanne",
+        "François Truffaut"
+      ],
+      "answer": [
+        "Jacques Offenbach"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Nana » ?",
+      "options": [
+        "Gustave Courbet",
+        "Jeanne d'Arc",
+        "Jacques Offenbach",
+        "Camille Saint-Saëns",
+        "Jean Renoir"
+      ],
+      "answer": [
+        "Émile Zola"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Le Voyage à travers l'impossible » ?",
+      "options": [
+        "François Truffaut",
+        "Paul Gauguin",
+        "Charlemagne",
+        "Louis Malle"
+      ],
+      "answer": [
+        "Georges Méliès"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « le baptême à Reims » ?",
+      "options": [
+        "Édouard Manet",
+        "Charles de Gaulle",
+        "Charlemagne",
+        "Georges Bizet",
+        "Jules Verne"
+      ],
+      "answer": [
+        "Clovis"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « À bout de souffle » ?",
+      "options": [
+        "Auguste Renoir",
+        "Molière",
+        "Maurice Ravel",
+        "Arthur Rimbaud"
+      ],
+      "answer": [
+        "Jean-Luc Godard"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « la guerre contre les Saxons » ?",
+      "options": [
+        "Édouard Manet",
+        "Marcel Proust",
+        "Charles de Gaulle",
+        "Albert Camus",
+        "Henri IV"
+      ],
+      "answer": [
+        "Charlemagne"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « la bataille d'Ivry » ?",
+      "options": [
+        "Auguste Renoir",
+        "Claude Monet",
+        "Gustave Courbet",
+        "Marcel Proust",
+        "Émile Zola",
+        "Louis Malle"
+      ],
+      "answer": [
+        "Henri IV"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Les Trois Mousquetaires » ?",
+      "options": [
+        "Louis Malle",
+        "Édouard Manet",
+        "Émile Zola",
+        "Hector Berlioz",
+        "Marcel Proust"
+      ],
+      "answer": [
+        "Alexandre Dumas"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « La Musique aux Tuileries » ?",
+      "options": [
+        "Jean-Luc Godard",
+        "Charlemagne",
+        "Jeanne d'Arc",
+        "Alexandre Dumas",
+        "Jacques Offenbach"
+      ],
+      "answer": [
+        "Édouard Manet"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Illuminations » ?",
+      "options": [
+        "Antoine de Saint-Exupéry",
+        "Henri de Toulouse-Lautrec",
+        "Charles de Gaulle",
+        "Louis XIV",
+        "Claude Monet"
+      ],
+      "answer": [
+        "Arthur Rimbaud"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Jeunes filles au piano » ?",
+      "options": [
+        "Henri de Toulouse-Lautrec",
+        "Alexandre Dumas",
+        "Claude Debussy",
+        "Charles Gounod"
+      ],
+      "answer": [
+        "Auguste Renoir"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Une saison en enfer » ?",
+      "options": [
+        "Georges Bizet",
+        "Claude Monet",
+        "Gustave Flaubert",
+        "Gustave Courbet",
+        "Marcel Proust",
+        "Antoine de Saint-Exupéry"
+      ],
+      "answer": [
+        "Arthur Rimbaud"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Le Bal du moulin de la Galette » ?",
+      "options": [
+        "Charles Baudelaire",
+        "Claude Debussy",
+        "Émile Zola",
+        "Henri de Toulouse-Lautrec",
+        "Hector Berlioz"
+      ],
+      "answer": [
+        "Auguste Renoir"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Au revoir les enfants » ?",
+      "options": [
+        "Émile Zola",
+        "Charles Baudelaire",
+        "Henri Matisse",
+        "Henri IV"
+      ],
+      "answer": [
+        "Louis Malle"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Impression, soleil levant » ?",
+      "options": [
+        "Henri Matisse",
+        "Albert Camus",
+        "Camille Saint-Saëns",
+        "Henri de Toulouse-Lautrec",
+        "Arthur Rimbaud",
+        "Jean-Luc Godard"
+      ],
+      "answer": [
+        "Claude Monet"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Symphonie fantastique » ?",
+      "options": [
+        "Marcel Proust",
+        "Henri Matisse",
+        "Georges Bizet",
+        "Alexandre Dumas"
+      ],
+      "answer": [
+        "Hector Berlioz"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « La Joie de vivre » ?",
+      "options": [
+        "Camille Saint-Saëns",
+        "Gustave Flaubert",
+        "Jean-Luc Godard",
+        "Édouard Manet"
+      ],
+      "answer": [
+        "Henri Matisse"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « la bataille de Tolbiac » ?",
+      "options": [
+        "Paul Gauguin",
+        "Auguste Renoir",
+        "Gustave Courbet",
+        "Henri IV",
+        "Émile Zola",
+        "Édouard Manet"
+      ],
+      "answer": [
+        "Clovis"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « L'Étranger » ?",
+      "options": [
+        "Georges Méliès",
+        "Hector Berlioz",
+        "Marcel Proust",
+        "Henri Matisse",
+        "Paul Cézanne"
+      ],
+      "answer": [
+        "Albert Camus"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « l'appel du 18 Juin » ?",
+      "options": [
+        "Paul Cézanne",
+        "Clovis",
+        "Jeanne d'Arc",
+        "Georges Bizet",
+        "Albert Camus"
+      ],
+      "answer": [
+        "Charles de Gaulle"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « La Damnation de Faust » ?",
+      "options": [
+        "Maurice Ravel",
+        "Charlemagne",
+        "Émile Zola",
+        "Clovis",
+        "Claude Debussy"
+      ],
+      "answer": [
+        "Hector Berlioz"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Jules et Jim » ?",
+      "options": [
+        "Georges Méliès",
+        "Jean-Luc Godard",
+        "Georges Bizet",
+        "Louis Malle",
+        "Alexandre Dumas"
+      ],
+      "answer": [
+        "François Truffaut"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Partie de campagne » ?",
+      "options": [
+        "Edgar Degas",
+        "Jean-Luc Godard",
+        "Alexandre Dumas",
+        "Louis XIV"
+      ],
+      "answer": [
+        "Jean Renoir"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Les Nymphéas » ?",
+      "options": [
+        "Henri Matisse",
+        "Georges Méliès",
+        "Gustave Courbet",
+        "Camille Saint-Saëns"
+      ],
+      "answer": [
+        "Claude Monet"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « L'Origine du monde » ?",
+      "options": [
+        "Charles Baudelaire",
+        "Molière",
+        "Charles de Gaulle",
+        "Jean Renoir",
+        "Claude Monet",
+        "Émile Zola"
+      ],
+      "answer": [
+        "Gustave Courbet"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Le Voyage dans la Lune » ?",
+      "options": [
+        "Victor Hugo",
+        "Alexandre Dumas",
+        "Gustave Courbet",
+        "Paul Cézanne",
+        "Claude Monet",
+        "Auguste Renoir"
+      ],
+      "answer": [
+        "Georges Méliès"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Pierrot le Fou » ?",
+      "options": [
+        "Jeanne d'Arc",
+        "Jacques Offenbach",
+        "Gustave Courbet",
+        "Georges Bizet",
+        "Henri de Toulouse-Lautrec"
+      ],
+      "answer": [
+        "Jean-Luc Godard"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Les Joueurs de cartes » ?",
+      "options": [
+        "Jeanne d'Arc",
+        "Louis XIV",
+        "Émile Zola",
+        "Albert Camus",
+        "Molière"
+      ],
+      "answer": [
+        "Paul Cézanne"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « les missi dominici » ?",
+      "options": [
+        "Charles de Gaulle",
+        "Jeanne d'Arc",
+        "François Truffaut",
+        "Louis XIV"
+      ],
+      "answer": [
+        "Charlemagne"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Jane Avril au Jardin de Paris » ?",
+      "options": [
+        "Molière",
+        "Marcel Proust",
+        "Maurice Ravel",
+        "Gustave Courbet",
+        "Jeanne d'Arc",
+        "Jacques Offenbach"
+      ],
+      "answer": [
+        "Henri de Toulouse-Lautrec"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Du côté de chez Swann » ?",
+      "options": [
+        "Gustave Flaubert",
+        "Molière",
+        "Edgar Degas",
+        "Louis Malle"
+      ],
+      "answer": [
+        "Marcel Proust"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Notre-Dame de Paris » ?",
+      "options": [
+        "Henri de Toulouse-Lautrec",
+        "Paul Gauguin",
+        "Georges Bizet",
+        "Jean Renoir",
+        "Georges Méliès"
+      ],
+      "answer": [
+        "Victor Hugo"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Prélude à l'après-midi d'un faune » ?",
+      "options": [
+        "Charles Gounod",
+        "François Truffaut",
+        "Paul Cézanne",
+        "Auguste Renoir"
+      ],
+      "answer": [
+        "Claude Debussy"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Daphnis et Chloé » ?",
+      "options": [
+        "Gustave Courbet",
+        "Charlemagne",
+        "Edgar Degas",
+        "Jean-Luc Godard",
+        "Arthur Rimbaud"
+      ],
+      "answer": [
+        "Maurice Ravel"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Le Temps retrouvé » ?",
+      "options": [
+        "Hector Berlioz",
+        "Henri Matisse",
+        "Edgar Degas",
+        "Gustave Courbet",
+        "Jean-Luc Godard"
+      ],
+      "answer": [
+        "Marcel Proust"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « La Classe de danse » ?",
+      "options": [
+        "Auguste Renoir",
+        "Victor Hugo",
+        "Gustave Courbet",
+        "Louis XIV",
+        "Henri de Toulouse-Lautrec"
+      ],
+      "answer": [
+        "Edgar Degas"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Carmen » ?",
+      "options": [
+        "Maurice Ravel",
+        "Émile Zola",
+        "Arthur Rimbaud",
+        "Hector Berlioz",
+        "Henri Matisse",
+        "Charles Baudelaire"
+      ],
+      "answer": [
+        "Georges Bizet"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « l'édit de Nantes » ?",
+      "options": [
+        "Charles de Gaulle",
+        "Gustave Courbet",
+        "Gustave Flaubert",
+        "Georges Méliès",
+        "Auguste Renoir"
+      ],
+      "answer": [
+        "Henri IV"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « L'Arlésienne » ?",
+      "options": [
+        "Molière",
+        "Claude Debussy",
+        "Paul Gauguin",
+        "Henri de Toulouse-Lautrec",
+        "Gustave Flaubert"
+      ],
+      "answer": [
+        "Georges Bizet"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Le Mythe de Sisyphe » ?",
+      "options": [
+        "Georges Méliès",
+        "Victor Hugo",
+        "Louis XIV",
+        "Auguste Renoir"
+      ],
+      "answer": [
+        "Albert Camus"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Olympia » ?",
+      "options": [
+        "Jean-Luc Godard",
+        "François Truffaut",
+        "Gustave Flaubert",
+        "Georges Bizet"
+      ],
+      "answer": [
+        "Édouard Manet"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Boléro » ?",
+      "options": [
+        "Alexandre Dumas",
+        "Henri de Toulouse-Lautrec",
+        "Édouard Manet",
+        "Marcel Proust",
+        "Paul Cézanne"
+      ],
+      "answer": [
+        "Maurice Ravel"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Le Bourgeois gentilhomme » ?",
+      "options": [
+        "Henri Matisse",
+        "Édouard Manet",
+        "Marcel Proust",
+        "Charles Baudelaire",
+        "Charles Gounod"
+      ],
+      "answer": [
+        "Molière"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Le Petit Prince » ?",
+      "options": [
+        "Louis Malle",
+        "Maurice Ravel",
+        "Camille Saint-Saëns",
+        "Jean Renoir",
+        "Gustave Courbet"
+      ],
+      "answer": [
+        "Antoine de Saint-Exupéry"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Les Repasseuses » ?",
+      "options": [
+        "Louis XIV",
+        "François Truffaut",
+        "Clovis",
+        "Henri Matisse",
+        "Hector Berlioz",
+        "Jean Renoir"
+      ],
+      "answer": [
+        "Edgar Degas"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « La Grande Illusion » ?",
+      "options": [
+        "Marcel Proust",
+        "Henri de Toulouse-Lautrec",
+        "Albert Camus",
+        "Émile Zola",
+        "Charles Baudelaire"
+      ],
+      "answer": [
+        "Jean Renoir"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Salammbô » ?",
+      "options": [
+        "Paul Gauguin",
+        "Hector Berlioz",
+        "Victor Hugo",
+        "Paul Cézanne",
+        "Charles Gounod"
+      ],
+      "answer": [
+        "Gustave Flaubert"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « L'Atelier rouge » ?",
+      "options": [
+        "Paul Gauguin",
+        "Victor Hugo",
+        "Edgar Degas",
+        "Alexandre Dumas",
+        "Henri IV"
+      ],
+      "answer": [
+        "Henri Matisse"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « la libération de Paris » ?",
+      "options": [
+        "Victor Hugo",
+        "Jean Renoir",
+        "Albert Camus",
+        "Gustave Flaubert"
+      ],
+      "answer": [
+        "Charles de Gaulle"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « le couronnement impérial à Rome » ?",
+      "options": [
+        "Henri Matisse",
+        "Charles de Gaulle",
+        "Alexandre Dumas",
+        "Molière",
+        "Jean Renoir",
+        "Georges Méliès"
+      ],
+      "answer": [
+        "Charlemagne"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Au Moulin Rouge » ?",
+      "options": [
+        "Claude Monet",
+        "Auguste Renoir",
+        "Hector Berlioz",
+        "Edgar Degas",
+        "Victor Hugo"
+      ],
+      "answer": [
+        "Henri de Toulouse-Lautrec"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Orphée aux enfers » ?",
+      "options": [
+        "Henri Matisse",
+        "Émile Zola",
+        "François Truffaut",
+        "Charles Gounod",
+        "Arthur Rimbaud",
+        "Camille Saint-Saëns"
+      ],
+      "answer": [
+        "Jacques Offenbach"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Le Misanthrope » ?",
+      "options": [
+        "François Truffaut",
+        "Jacques Offenbach",
+        "Jean Renoir",
+        "Paul Gauguin"
+      ],
+      "answer": [
+        "Molière"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « L'Éducation sentimentale » ?",
+      "options": [
+        "Claude Debussy",
+        "Camille Saint-Saëns",
+        "Gustave Courbet",
+        "Marcel Proust",
+        "Molière"
+      ],
+      "answer": [
+        "Gustave Flaubert"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « La Montagne Sainte-Victoire » ?",
+      "options": [
+        "Molière",
+        "Gustave Flaubert",
+        "Jules Verne",
+        "Louis XIV"
+      ],
+      "answer": [
+        "Paul Cézanne"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « la révocation de l'édit de Nantes » ?",
+      "options": [
+        "Jean-Luc Godard",
+        "Molière",
+        "Paul Cézanne",
+        "Marcel Proust",
+        "Hector Berlioz"
+      ],
+      "answer": [
+        "Louis XIV"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « le blocus continental » ?",
+      "options": [
+        "François Truffaut",
+        "Louis Malle",
+        "Antoine de Saint-Exupéry",
+        "Jean-Luc Godard",
+        "Gustave Flaubert",
+        "Hector Berlioz"
+      ],
+      "answer": [
+        "Napoléon Bonaparte"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « La Vision après le sermon » ?",
+      "options": [
+        "Georges Bizet",
+        "Gustave Courbet",
+        "Claude Debussy",
+        "Jean-Luc Godard",
+        "Charlemagne"
+      ],
+      "answer": [
+        "Paul Gauguin"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « La Peste » ?",
+      "options": [
+        "Claude Monet",
+        "Émile Zola",
+        "Maurice Ravel",
+        "Charles Baudelaire",
+        "Arthur Rimbaud",
+        "Henri IV"
+      ],
+      "answer": [
+        "Albert Camus"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Danse macabre » ?",
+      "options": [
+        "Molière",
+        "Charlemagne",
+        "Jacques Offenbach",
+        "Henri Matisse",
+        "Louis XIV",
+        "Edgar Degas"
+      ],
+      "answer": [
+        "Camille Saint-Saëns"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Clair de lune » ?",
+      "options": [
+        "Paul Gauguin",
+        "Edgar Degas",
+        "Henri IV",
+        "Henri de Toulouse-Lautrec",
+        "Charles de Gaulle"
+      ],
+      "answer": [
+        "Claude Debussy"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « le vase de Soissons » ?",
+      "options": [
+        "Henri Matisse",
+        "Alexandre Dumas",
+        "Claude Debussy",
+        "Jules Verne"
+      ],
+      "answer": [
+        "Clovis"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « le sacre du roi Charles VII à Reims » ?",
+      "options": [
+        "Arthur Rimbaud",
+        "Claude Debussy",
+        "Louis XIV",
+        "Clovis",
+        "Antoine de Saint-Exupéry"
+      ],
+      "answer": [
+        "Jeanne d'Arc"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Samson et Dalila » ?",
+      "options": [
+        "Henri Matisse",
+        "François Truffaut",
+        "Edgar Degas",
+        "Charles de Gaulle"
+      ],
+      "answer": [
+        "Camille Saint-Saëns"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Voyage au centre de la Terre » ?",
+      "options": [
+        "Henri Matisse",
+        "Jean-Luc Godard",
+        "Henri de Toulouse-Lautrec",
+        "Napoléon Bonaparte",
+        "Charles Baudelaire"
+      ],
+      "answer": [
+        "Jules Verne"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Pavane pour une infante défunte » ?",
+      "options": [
+        "Auguste Renoir",
+        "Camille Saint-Saëns",
+        "Émile Zola",
+        "Clovis",
+        "Henri Matisse",
+        "Louis XIV"
+      ],
+      "answer": [
+        "Maurice Ravel"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Les Quatre Cents Coups » ?",
+      "options": [
+        "Charles de Gaulle",
+        "Jeanne d'Arc",
+        "Arthur Rimbaud",
+        "Maurice Ravel",
+        "Claude Debussy"
+      ],
+      "answer": [
+        "François Truffaut"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Mireille » ?",
+      "options": [
+        "Charlemagne",
+        "Paul Gauguin",
+        "Henri IV",
+        "François Truffaut",
+        "Henri de Toulouse-Lautrec"
+      ],
+      "answer": [
+        "Charles Gounod"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Le Spleen de Paris » ?",
+      "options": [
+        "Clovis",
+        "Napoléon Bonaparte",
+        "François Truffaut",
+        "Jules Verne",
+        "Antoine de Saint-Exupéry"
+      ],
+      "answer": [
+        "Charles Baudelaire"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « La Règle du jeu » ?",
+      "options": [
+        "Paul Gauguin",
+        "Gustave Flaubert",
+        "Charles Baudelaire",
+        "Louis Malle",
+        "Georges Bizet",
+        "Napoléon Bonaparte"
+      ],
+      "answer": [
+        "Jean Renoir"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Les Contemplations » ?",
+      "options": [
+        "Charles Baudelaire",
+        "Henri de Toulouse-Lautrec",
+        "Louis Malle",
+        "Clovis",
+        "Claude Monet",
+        "Edgar Degas"
+      ],
+      "answer": [
+        "Victor Hugo"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « la fondation de la Cinquième République » ?",
+      "options": [
+        "Molière",
+        "Albert Camus",
+        "Antoine de Saint-Exupéry",
+        "Charlemagne",
+        "Émile Zola",
+        "Henri Matisse"
+      ],
+      "answer": [
+        "Charles de Gaulle"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « À la recherche du temps perdu » ?",
+      "options": [
+        "Émile Zola",
+        "Albert Camus",
+        "Camille Saint-Saëns",
+        "Jeanne d'Arc",
+        "Napoléon Bonaparte",
+        "Jean Renoir"
+      ],
+      "answer": [
+        "Marcel Proust"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Le Bateau ivre » ?",
+      "options": [
+        "Clovis",
+        "Jean Renoir",
+        "Émile Zola",
+        "Hector Berlioz"
+      ],
+      "answer": [
+        "Arthur Rimbaud"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Lacombe Lucien » ?",
+      "options": [
+        "Henri de Toulouse-Lautrec",
+        "Georges Bizet",
+        "Jeanne d'Arc",
+        "Albert Camus",
+        "Jules Verne"
+      ],
+      "answer": [
+        "Louis Malle"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Vol de nuit » ?",
+      "options": [
+        "Paul Gauguin",
+        "Jean Renoir",
+        "Charles de Gaulle",
+        "Edgar Degas",
+        "Louis XIV",
+        "Louis Malle"
+      ],
+      "answer": [
+        "Antoine de Saint-Exupéry"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Vingt mille lieues sous les mers » ?",
+      "options": [
+        "Édouard Manet",
+        "Henri Matisse",
+        "Alexandre Dumas",
+        "Jean-Luc Godard",
+        "Charles de Gaulle",
+        "Jean Renoir"
+      ],
+      "answer": [
+        "Jules Verne"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « le siège d'Orléans » ?",
+      "options": [
+        "Charles Gounod",
+        "Albert Camus",
+        "Auguste Renoir",
+        "Paul Gauguin"
+      ],
+      "answer": [
+        "Jeanne d'Arc"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Le Comte de Monte-Cristo » ?",
+      "options": [
+        "Gustave Courbet",
+        "Georges Méliès",
+        "Napoléon Bonaparte",
+        "Charles de Gaulle",
+        "Camille Saint-Saëns"
+      ],
+      "answer": [
+        "Alexandre Dumas"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Un enterrement à Ornans » ?",
+      "options": [
+        "Albert Camus",
+        "Paul Cézanne",
+        "Gustave Flaubert",
+        "Jean Renoir"
+      ],
+      "answer": [
+        "Gustave Courbet"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « l'hôtel des Invalides » ?",
+      "options": [
+        "Alexandre Dumas",
+        "Gustave Courbet",
+        "Claude Monet",
+        "Charles Baudelaire",
+        "Charles Gounod"
+      ],
+      "answer": [
+        "Louis XIV"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « L'Atelier du peintre » ?",
+      "options": [
+        "Georges Méliès",
+        "Claude Monet",
+        "Albert Camus",
+        "Victor Hugo",
+        "Louis Malle"
+      ],
+      "answer": [
+        "Gustave Courbet"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « La Belle Hélène » ?",
+      "options": [
+        "Claude Monet",
+        "Charles Baudelaire",
+        "Alexandre Dumas",
+        "Georges Bizet",
+        "Antoine de Saint-Exupéry"
+      ],
+      "answer": [
+        "Jacques Offenbach"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Le Divan japonais » ?",
+      "options": [
+        "Jacques Offenbach",
+        "Molière",
+        "Gustave Flaubert",
+        "Arthur Rimbaud",
+        "Clovis"
+      ],
+      "answer": [
+        "Henri de Toulouse-Lautrec"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Ascenseur pour l'échafaud » ?",
+      "options": [
+        "Charles de Gaulle",
+        "Georges Bizet",
+        "Arthur Rimbaud",
+        "Jacques Offenbach",
+        "Jean Renoir",
+        "Maurice Ravel"
+      ],
+      "answer": [
+        "Louis Malle"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « la poule au pot » ?",
+      "options": [
+        "Arthur Rimbaud",
+        "Paul Cézanne",
+        "Gustave Flaubert",
+        "Jean-Luc Godard",
+        "Maurice Ravel"
+      ],
+      "answer": [
+        "Henri IV"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « L'Absinthe » ?",
+      "options": [
+        "Henri Matisse",
+        "François Truffaut",
+        "Henri de Toulouse-Lautrec",
+        "Arthur Rimbaud",
+        "Molière"
+      ],
+      "answer": [
+        "Edgar Degas"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « La Nuit américaine » ?",
+      "options": [
+        "Louis Malle",
+        "Jules Verne",
+        "Jeanne d'Arc",
+        "Charles Baudelaire",
+        "Georges Bizet",
+        "Marcel Proust"
+      ],
+      "answer": [
+        "François Truffaut"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Les Paradis artificiels » ?",
+      "options": [
+        "Georges Méliès",
+        "Hector Berlioz",
+        "Louis Malle",
+        "Henri IV",
+        "Alexandre Dumas"
+      ],
+      "answer": [
+        "Charles Baudelaire"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « le Code civil » ?",
+      "options": [
+        "Émile Zola",
+        "Gustave Flaubert",
+        "Charles Gounod",
+        "Jean-Luc Godard",
+        "Charles de Gaulle"
+      ],
+      "answer": [
+        "Napoléon Bonaparte"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Madame Bovary » ?",
+      "options": [
+        "Paul Gauguin",
+        "Molière",
+        "Albert Camus",
+        "Claude Monet"
+      ],
+      "answer": [
+        "Gustave Flaubert"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « La Danse » ?",
+      "options": [
+        "Charles de Gaulle",
+        "Napoléon Bonaparte",
+        "Jacques Offenbach",
+        "Auguste Renoir",
+        "Paul Gauguin",
+        "Charles Baudelaire"
+      ],
+      "answer": [
+        "Henri Matisse"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « Les Fleurs du mal » ?",
+      "options": [
+        "Paul Gauguin",
+        "Jacques Offenbach",
+        "Charles de Gaulle",
+        "Auguste Renoir"
+      ],
+      "answer": [
+        "Charles Baudelaire"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Les Pêcheurs de perles » ?",
+      "options": [
+        "Charles Baudelaire",
+        "Auguste Renoir",
+        "Maurice Ravel",
+        "Jean Renoir"
+      ],
+      "answer": [
+        "Georges Bizet"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « le bûcher de Rouen » ?",
+      "options": [
+        "Georges Méliès",
+        "Georges Bizet",
+        "Charles Baudelaire",
+        "Claude Monet",
+        "Henri Matisse"
+      ],
+      "answer": [
+        "Jeanne d'Arc"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Femmes de Tahiti » ?",
+      "options": [
+        "Maurice Ravel",
+        "Paul Cézanne",
+        "Georges Bizet",
+        "Jean-Luc Godard",
+        "Jacques Offenbach",
+        "Auguste Renoir"
+      ],
+      "answer": [
+        "Paul Gauguin"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Le Déjeuner des canotiers » ?",
+      "options": [
+        "Camille Saint-Saëns",
+        "Jeanne d'Arc",
+        "Napoléon Bonaparte",
+        "Clovis",
+        "Henri de Toulouse-Lautrec",
+        "Alexandre Dumas"
+      ],
+      "answer": [
+        "Auguste Renoir"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « L'Homme orchestre » ?",
+      "options": [
+        "Henri de Toulouse-Lautrec",
+        "Paul Gauguin",
+        "Jean Renoir",
+        "Antoine de Saint-Exupéry",
+        "Edgar Degas"
+      ],
+      "answer": [
+        "Georges Méliès"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « La Maison du pendu » ?",
+      "options": [
+        "Georges Méliès",
+        "Charles Baudelaire",
+        "Camille Saint-Saëns",
+        "Claude Debussy",
+        "Napoléon Bonaparte"
+      ],
+      "answer": [
+        "Paul Cézanne"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « Faust » ?",
+      "options": [
+        "Edgar Degas",
+        "Jean Renoir",
+        "Paul Gauguin",
+        "Napoléon Bonaparte"
+      ],
+      "answer": [
+        "Charles Gounod"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Les Troyens » ?",
+      "options": [
+        "Auguste Renoir",
+        "Jean Renoir",
+        "Arthur Rimbaud",
+        "Paul Cézanne",
+        "Charles Baudelaire"
+      ],
+      "answer": [
+        "Hector Berlioz"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Alphaville » ?",
+      "options": [
+        "Camille Saint-Saëns",
+        "Jacques Offenbach",
+        "Marcel Proust",
+        "Edgar Degas",
+        "Louis XIV"
+      ],
+      "answer": [
+        "Jean-Luc Godard"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « La Reine Margot » ?",
+      "options": [
+        "Henri de Toulouse-Lautrec",
+        "Albert Camus",
+        "Jules Verne",
+        "Molière",
+        "Hector Berlioz",
+        "Jacques Offenbach"
+      ],
+      "answer": [
+        "Alexandre Dumas"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « la bataille d'Austerlitz » ?",
+      "options": [
+        "Alexandre Dumas",
+        "Jean-Luc Godard",
+        "Jacques Offenbach",
+        "Jules Verne",
+        "Edgar Degas"
+      ],
+      "answer": [
+        "Napoléon Bonaparte"
+      ]
+    },
+    {
+      "text": "Le nom de qui est attaché à « Ave Maria » ?",
+      "options": [
+        "Paul Gauguin",
+        "Alexandre Dumas",
+        "Jeanne d'Arc",
+        "Clovis",
+        "Jules Verne"
+      ],
+      "answer": [
+        "Charles Gounod"
+      ]
+    },
+    {
+      "text": "Quelle personne célèbre est liée à « Le Tour du monde en quatre-vingts jours » ?",
+      "options": [
+        "Jacques Offenbach",
+        "Charlemagne",
+        "Maurice Ravel",
+        "Clovis"
+      ],
+      "answer": [
+        "Jules Verne"
+      ]
+    },
+    {
+      "text": "Avec quelle personne associe-t-on « Les Misérables » ?",
+      "options": [
+        "Jacques Offenbach",
+        "Louis Malle",
+        "Édouard Manet",
+        "Paul Cézanne",
+        "Claude Debussy"
+      ],
+      "answer": [
+        "Victor Hugo"
+      ]
+    },
+    {
+      "text": "À quelle personnalité associe-t-on « La Cathédrale de Rouen » ?",
+      "options": [
+        "Paul Cézanne",
+        "Charles de Gaulle",
+        "Camille Saint-Saëns",
+        "Napoléon Bonaparte",
+        "Clovis"
+      ],
+      "answer": [
+        "Claude Monet"
+      ]
+    },
+    {
+      "text": "Quel grand nom est lié à « le château de Versailles » ?",
+      "options": [
+        "Alexandre Dumas",
+        "Émile Zola",
+        "Auguste Renoir",
+        "Camille Saint-Saëns"
+      ],
+      "answer": [
+        "Louis XIV"
+      ]
+    }
+  ]
+}

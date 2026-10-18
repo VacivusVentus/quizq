@@ -1,0 +1,1561 @@
+{
+  "theme": "Cuisines du monde",
+  "questions": [
+    {
+      "text": "Lesquels de ces plats sont des spécialités de la cuisine gasconne ?",
+      "options": [
+        "paella",
+        "quenelles",
+        "gaspacho",
+        "churros",
+        "currywurst"
+      ],
+      "answer": [
+        "croustade",
+        "magret de canard"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « ficelle picarde » ?",
+      "options": [
+        "la cuisine alsacienne",
+        "la cuisine basque",
+        "la cuisine grecque",
+        "la cuisine lorraine",
+        "la cuisine chinoise"
+      ],
+      "answer": [
+        "la cuisine picarde"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « piperade » est-il une spécialité ?",
+      "options": [
+        "la cuisine mexicaine",
+        "la cuisine auvergnate",
+        "la cuisine picarde",
+        "la cuisine libanaise"
+      ],
+      "answer": [
+        "la cuisine basque"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « gaspacho » ?",
+      "options": [
+        "la cuisine anglaise",
+        "la cuisine grecque",
+        "la cuisine auvergnate",
+        "la cuisine allemande",
+        "la cuisine du Nord"
+      ],
+      "answer": [
+        "la cuisine espagnole"
+      ]
+    },
+    {
+      "text": "Le plat « churros » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine péruvienne",
+        "la cuisine du Nord",
+        "la cuisine corse",
+        "la cuisine anglaise",
+        "la cuisine basque",
+        "la cuisine auvergnate"
+      ],
+      "answer": [
+        "la cuisine espagnole"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « tom yam » ?",
+      "options": [
+        "la cuisine périgourdine",
+        "la cuisine savoyarde",
+        "la cuisine anglaise",
+        "la cuisine grecque",
+        "la cuisine picarde"
+      ],
+      "answer": [
+        "la cuisine thaïlandaise"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « shepherd's pie » ?",
+      "options": [
+        "la cuisine alsacienne",
+        "la cuisine auvergnate",
+        "la cuisine libanaise",
+        "la cuisine thaïlandaise",
+        "la cuisine italienne"
+      ],
+      "answer": [
+        "la cuisine anglaise"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « magret de canard » est-il une spécialité ?",
+      "options": [
+        "la cuisine savoyarde",
+        "la cuisine américaine",
+        "la cuisine allemande",
+        "la cuisine bourguignonne"
+      ],
+      "answer": [
+        "la cuisine gasconne"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « crêpes » est-il une spécialité ?",
+      "options": [
+        "la cuisine espagnole",
+        "la cuisine marocaine",
+        "la cuisine périgourdine",
+        "la cuisine corse"
+      ],
+      "answer": [
+        "la cuisine bretonne"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « baba au rhum » ?",
+      "options": [
+        "la cuisine portugaise",
+        "la cuisine italienne",
+        "la cuisine savoyarde",
+        "la cuisine grecque",
+        "la cuisine thaïlandaise"
+      ],
+      "answer": [
+        "la cuisine lorraine"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « choucroute » ?",
+      "options": [
+        "la cuisine marocaine",
+        "la cuisine portugaise",
+        "la cuisine basque",
+        "la cuisine allemande"
+      ],
+      "answer": [
+        "la cuisine alsacienne"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « pounti » ?",
+      "options": [
+        "la cuisine gasconne",
+        "la cuisine bretonne",
+        "la cuisine marocaine",
+        "la cuisine chinoise",
+        "la cuisine savoyarde",
+        "la cuisine anglaise"
+      ],
+      "answer": [
+        "la cuisine auvergnate"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « truffade » est-il une spécialité ?",
+      "options": [
+        "la cuisine provençale",
+        "la cuisine bourguignonne",
+        "la cuisine japonaise",
+        "la cuisine péruvienne",
+        "la cuisine gasconne"
+      ],
+      "answer": [
+        "la cuisine auvergnate"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « foie gras » ?",
+      "options": [
+        "la cuisine grecque",
+        "la cuisine thaïlandaise",
+        "la cuisine provençale",
+        "la cuisine portugaise",
+        "la cuisine savoyarde",
+        "la cuisine du Nord"
+      ],
+      "answer": [
+        "la cuisine périgourdine"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « kimchi » ?",
+      "options": [
+        "la cuisine normande",
+        "la cuisine auvergnate",
+        "la cuisine thaïlandaise",
+        "la cuisine grecque",
+        "la cuisine basque",
+        "la cuisine libanaise"
+      ],
+      "answer": [
+        "la cuisine coréenne"
+      ]
+    },
+    {
+      "text": "Quelle spécialité compte la cuisine péruvienne parmi ses plats ?",
+      "options": [
+        "tripes à la mode de Caen",
+        "gaspacho",
+        "lasagnes",
+        "pastilla",
+        "mole poblano",
+        "houmous"
+      ],
+      "answer": [
+        "lomo saltado"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « kouign-amann » ?",
+      "options": [
+        "la cuisine lyonnaise",
+        "la cuisine japonaise",
+        "la cuisine péruvienne",
+        "la cuisine allemande",
+        "la cuisine coréenne"
+      ],
+      "answer": [
+        "la cuisine bretonne"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « nouilles sautées » ?",
+      "options": [
+        "la cuisine espagnole",
+        "la cuisine anglaise",
+        "la cuisine grecque",
+        "la cuisine lorraine",
+        "la cuisine péruvienne",
+        "la cuisine bretonne"
+      ],
+      "answer": [
+        "la cuisine chinoise"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « andouillette » est-il une spécialité ?",
+      "options": [
+        "la cuisine chinoise",
+        "la cuisine indienne",
+        "la cuisine lorraine",
+        "la cuisine basque",
+        "la cuisine péruvienne"
+      ],
+      "answer": [
+        "la cuisine lyonnaise"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « harira » ?",
+      "options": [
+        "la cuisine auvergnate",
+        "la cuisine péruvienne",
+        "la cuisine corse",
+        "la cuisine libanaise"
+      ],
+      "answer": [
+        "la cuisine marocaine"
+      ]
+    },
+    {
+      "text": "Le plat « bacalhau » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine normande",
+        "la cuisine gasconne",
+        "la cuisine japonaise",
+        "la cuisine lyonnaise",
+        "la cuisine allemande",
+        "la cuisine vietnamienne"
+      ],
+      "answer": [
+        "la cuisine portugaise"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « francesinha » ?",
+      "options": [
+        "la cuisine espagnole",
+        "la cuisine péruvienne",
+        "la cuisine grecque",
+        "la cuisine chinoise",
+        "la cuisine anglaise"
+      ],
+      "answer": [
+        "la cuisine portugaise"
+      ]
+    },
+    {
+      "text": "Quel plat appartient à la cuisine périgourdine ?",
+      "options": [
+        "caramel au beurre salé",
+        "gaspacho",
+        "saucisson brioché",
+        "brocciu"
+      ],
+      "answer": [
+        "pommes sarladaises"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « currywurst » ?",
+      "options": [
+        "la cuisine savoyarde",
+        "la cuisine portugaise",
+        "la cuisine basque",
+        "la cuisine libanaise",
+        "la cuisine bretonne",
+        "la cuisine alsacienne"
+      ],
+      "answer": [
+        "la cuisine allemande"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « hot-dog » est-il une spécialité ?",
+      "options": [
+        "la cuisine allemande",
+        "la cuisine alsacienne",
+        "la cuisine japonaise",
+        "la cuisine indienne"
+      ],
+      "answer": [
+        "la cuisine américaine"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « tortilla de patatas » ?",
+      "options": [
+        "la cuisine marocaine",
+        "la cuisine provençale",
+        "la cuisine bourguignonne",
+        "la cuisine péruvienne"
+      ],
+      "answer": [
+        "la cuisine espagnole"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « tiramisu » ?",
+      "options": [
+        "la cuisine américaine",
+        "la cuisine normande",
+        "la cuisine gasconne",
+        "la cuisine chinoise",
+        "la cuisine japonaise",
+        "la cuisine auvergnate"
+      ],
+      "answer": [
+        "la cuisine italienne"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « ceviche » ?",
+      "options": [
+        "la cuisine lorraine",
+        "la cuisine grecque",
+        "la cuisine périgourdine",
+        "la cuisine savoyarde",
+        "la cuisine mexicaine"
+      ],
+      "answer": [
+        "la cuisine péruvienne"
+      ]
+    },
+    {
+      "text": "Lequel de ces plats est une spécialité de la cuisine alsacienne ?",
+      "options": [
+        "forêt-noire",
+        "mole poblano",
+        "tajine",
+        "caramel au beurre salé",
+        "pounti"
+      ],
+      "answer": [
+        "tarte flambée"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « lomo saltado » ?",
+      "options": [
+        "la cuisine allemande",
+        "la cuisine vietnamienne",
+        "la cuisine lorraine",
+        "la cuisine basque",
+        "la cuisine portugaise",
+        "la cuisine indienne"
+      ],
+      "answer": [
+        "la cuisine péruvienne"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « œufs en meurette » ?",
+      "options": [
+        "la cuisine vietnamienne",
+        "la cuisine italienne",
+        "la cuisine coréenne",
+        "la cuisine américaine",
+        "la cuisine alsacienne"
+      ],
+      "answer": [
+        "la cuisine bourguignonne"
+      ]
+    },
+    {
+      "text": "Quel plat de cette liste est traditionnel dans la cuisine allemande ?",
+      "options": [
+        "harira",
+        "lasagnes",
+        "biryani",
+        "foie gras",
+        "brocciu"
+      ],
+      "answer": [
+        "bretzel"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « moussaka » est-il une spécialité ?",
+      "options": [
+        "la cuisine chinoise",
+        "la cuisine américaine",
+        "la cuisine vietnamienne",
+        "la cuisine libanaise"
+      ],
+      "answer": [
+        "la cuisine grecque"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « axoa » ?",
+      "options": [
+        "la cuisine coréenne",
+        "la cuisine picarde",
+        "la cuisine espagnole",
+        "la cuisine auvergnate",
+        "la cuisine japonaise"
+      ],
+      "answer": [
+        "la cuisine basque"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « pastel de nata » ?",
+      "options": [
+        "la cuisine basque",
+        "la cuisine bourguignonne",
+        "la cuisine auvergnate",
+        "la cuisine picarde"
+      ],
+      "answer": [
+        "la cuisine portugaise"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « gougères » ?",
+      "options": [
+        "la cuisine mexicaine",
+        "la cuisine indienne",
+        "la cuisine libanaise",
+        "la cuisine allemande"
+      ],
+      "answer": [
+        "la cuisine bourguignonne"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « nems » ?",
+      "options": [
+        "la cuisine provençale",
+        "la cuisine anglaise",
+        "la cuisine bourguignonne",
+        "la cuisine picarde",
+        "la cuisine périgourdine"
+      ],
+      "answer": [
+        "la cuisine vietnamienne"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « anchoïade » ?",
+      "options": [
+        "la cuisine normande",
+        "la cuisine indienne",
+        "la cuisine japonaise",
+        "la cuisine mexicaine"
+      ],
+      "answer": [
+        "la cuisine provençale"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « fiadone » ?",
+      "options": [
+        "la cuisine picarde",
+        "la cuisine mexicaine",
+        "la cuisine libanaise",
+        "la cuisine américaine",
+        "la cuisine gasconne"
+      ],
+      "answer": [
+        "la cuisine corse"
+      ]
+    },
+    {
+      "text": "Le plat « caramel au beurre salé » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine mexicaine",
+        "la cuisine indienne",
+        "la cuisine normande",
+        "la cuisine corse",
+        "la cuisine vietnamienne",
+        "la cuisine allemande"
+      ],
+      "answer": [
+        "la cuisine bretonne"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « bouillabaisse » ?",
+      "options": [
+        "la cuisine gasconne",
+        "la cuisine alsacienne",
+        "la cuisine allemande",
+        "la cuisine japonaise",
+        "la cuisine lyonnaise"
+      ],
+      "answer": [
+        "la cuisine provençale"
+      ]
+    },
+    {
+      "text": "Quels plats de cette liste sont traditionnels dans la cuisine basque ?",
+      "options": [
+        "diots",
+        "nouilles sautées",
+        "saucisson brioché",
+        "tapenade",
+        "houmous",
+        "bouillabaisse"
+      ],
+      "answer": [
+        "piperade",
+        "axoa"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « tartiflette » ?",
+      "options": [
+        "la cuisine provençale",
+        "la cuisine bretonne",
+        "la cuisine coréenne",
+        "la cuisine italienne",
+        "la cuisine lyonnaise"
+      ],
+      "answer": [
+        "la cuisine savoyarde"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « teurgoule » ?",
+      "options": [
+        "la cuisine japonaise",
+        "la cuisine provençale",
+        "la cuisine auvergnate",
+        "la cuisine italienne",
+        "la cuisine thaïlandaise"
+      ],
+      "answer": [
+        "la cuisine normande"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « mole poblano » ?",
+      "options": [
+        "la cuisine thaïlandaise",
+        "la cuisine bretonne",
+        "la cuisine espagnole",
+        "la cuisine auvergnate",
+        "la cuisine japonaise"
+      ],
+      "answer": [
+        "la cuisine mexicaine"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « naan » ?",
+      "options": [
+        "la cuisine grecque",
+        "la cuisine vietnamienne",
+        "la cuisine américaine",
+        "la cuisine japonaise",
+        "la cuisine coréenne"
+      ],
+      "answer": [
+        "la cuisine indienne"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « aligot » ?",
+      "options": [
+        "la cuisine japonaise",
+        "la cuisine lyonnaise",
+        "la cuisine péruvienne",
+        "la cuisine gasconne",
+        "la cuisine italienne"
+      ],
+      "answer": [
+        "la cuisine auvergnate"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « ratatouille » ?",
+      "options": [
+        "la cuisine alsacienne",
+        "la cuisine coréenne",
+        "la cuisine auvergnate",
+        "la cuisine grecque",
+        "la cuisine lorraine"
+      ],
+      "answer": [
+        "la cuisine provençale"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « madeleines » ?",
+      "options": [
+        "la cuisine picarde",
+        "la cuisine basque",
+        "la cuisine libanaise",
+        "la cuisine coréenne"
+      ],
+      "answer": [
+        "la cuisine lorraine"
+      ]
+    },
+    {
+      "text": "Le plat « tapenade » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine lyonnaise",
+        "la cuisine anglaise",
+        "la cuisine auvergnate",
+        "la cuisine portugaise",
+        "la cuisine normande",
+        "la cuisine italienne"
+      ],
+      "answer": [
+        "la cuisine provençale"
+      ]
+    },
+    {
+      "text": "Le plat « tarte flambée » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine portugaise",
+        "la cuisine lorraine",
+        "la cuisine périgourdine",
+        "la cuisine coréenne",
+        "la cuisine gasconne"
+      ],
+      "answer": [
+        "la cuisine alsacienne"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « diots » ?",
+      "options": [
+        "la cuisine américaine",
+        "la cuisine bretonne",
+        "la cuisine gasconne",
+        "la cuisine italienne",
+        "la cuisine du Nord",
+        "la cuisine thaïlandaise"
+      ],
+      "answer": [
+        "la cuisine savoyarde"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « poulet tandoori » est-il une spécialité ?",
+      "options": [
+        "la cuisine italienne",
+        "la cuisine péruvienne",
+        "la cuisine allemande",
+        "la cuisine libanaise"
+      ],
+      "answer": [
+        "la cuisine indienne"
+      ]
+    },
+    {
+      "text": "Quelle spécialité compte la cuisine japonaise parmi ses plats ?",
+      "options": [
+        "taboulé",
+        "brownie",
+        "kouglof",
+        "raclette",
+        "forêt-noire",
+        "ratatouille"
+      ],
+      "answer": [
+        "ramen"
+      ]
+    },
+    {
+      "text": "Quels plats de cette liste sont traditionnels dans la cuisine thaïlandaise ?",
+      "options": [
+        "tapenade",
+        "kouign-amann",
+        "kimchi",
+        "jambon persillé",
+        "soupe miso",
+        "tartiflette"
+      ],
+      "answer": [
+        "pad thaï",
+        "tom yam"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « guacamole » ?",
+      "options": [
+        "la cuisine bretonne",
+        "la cuisine grecque",
+        "la cuisine anglaise",
+        "la cuisine du Nord"
+      ],
+      "answer": [
+        "la cuisine mexicaine"
+      ]
+    },
+    {
+      "text": "Lesquels de ces plats sont des spécialités de la cuisine libanaise ?",
+      "options": [
+        "pizza",
+        "anchoïade",
+        "hot-dog",
+        "bo bun",
+        "paella"
+      ],
+      "answer": [
+        "taboulé",
+        "houmous"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « kouglof » ?",
+      "options": [
+        "la cuisine coréenne",
+        "la cuisine italienne",
+        "la cuisine auvergnate",
+        "la cuisine vietnamienne",
+        "la cuisine allemande",
+        "la cuisine du Nord"
+      ],
+      "answer": [
+        "la cuisine alsacienne"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « pommes sarladaises » ?",
+      "options": [
+        "la cuisine chinoise",
+        "la cuisine gasconne",
+        "la cuisine picarde",
+        "la cuisine grecque"
+      ],
+      "answer": [
+        "la cuisine périgourdine"
+      ]
+    },
+    {
+      "text": "Quels deux plats de cette liste viennent de la cuisine mexicaine ?",
+      "options": [
+        "soupe miso",
+        "risotto",
+        "takoyaki",
+        "tiramisu",
+        "paella"
+      ],
+      "answer": [
+        "tacos",
+        "mole poblano"
+      ]
+    },
+    {
+      "text": "Quel plat de cette liste est traditionnel dans la cuisine normande ?",
+      "options": [
+        "tajine",
+        "bo bun",
+        "croustade",
+        "risotto",
+        "axoa"
+      ],
+      "answer": [
+        "camembert"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « pastilla » ?",
+      "options": [
+        "la cuisine espagnole",
+        "la cuisine bourguignonne",
+        "la cuisine vietnamienne",
+        "la cuisine portugaise",
+        "la cuisine basque",
+        "la cuisine picarde"
+      ],
+      "answer": [
+        "la cuisine marocaine"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « sushi » ?",
+      "options": [
+        "la cuisine provençale",
+        "la cuisine périgourdine",
+        "la cuisine du Nord",
+        "la cuisine anglaise",
+        "la cuisine lorraine"
+      ],
+      "answer": [
+        "la cuisine japonaise"
+      ]
+    },
+    {
+      "text": "Le plat « fish and chips » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine japonaise",
+        "la cuisine gasconne",
+        "la cuisine libanaise",
+        "la cuisine auvergnate",
+        "la cuisine bourguignonne"
+      ],
+      "answer": [
+        "la cuisine anglaise"
+      ]
+    },
+    {
+      "text": "Le plat « bulgogi » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine américaine",
+        "la cuisine allemande",
+        "la cuisine indienne",
+        "la cuisine portugaise",
+        "la cuisine espagnole"
+      ],
+      "answer": [
+        "la cuisine coréenne"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « paella » ?",
+      "options": [
+        "la cuisine du Nord",
+        "la cuisine grecque",
+        "la cuisine anglaise",
+        "la cuisine péruvienne",
+        "la cuisine lorraine"
+      ],
+      "answer": [
+        "la cuisine espagnole"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « takoyaki » ?",
+      "options": [
+        "la cuisine mexicaine",
+        "la cuisine grecque",
+        "la cuisine du Nord",
+        "la cuisine italienne",
+        "la cuisine indienne",
+        "la cuisine normande"
+      ],
+      "answer": [
+        "la cuisine japonaise"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « camembert » ?",
+      "options": [
+        "la cuisine marocaine",
+        "la cuisine lorraine",
+        "la cuisine péruvienne",
+        "la cuisine corse"
+      ],
+      "answer": [
+        "la cuisine normande"
+      ]
+    },
+    {
+      "text": "Quelle spécialité compte la cuisine américaine parmi ses plats ?",
+      "options": [
+        "nems",
+        "tarte au sucre",
+        "tortilla de patatas",
+        "kimchi",
+        "churros",
+        "baeckeoffe"
+      ],
+      "answer": [
+        "brownie"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « croustade » ?",
+      "options": [
+        "la cuisine basque",
+        "la cuisine américaine",
+        "la cuisine portugaise",
+        "la cuisine bourguignonne",
+        "la cuisine bretonne"
+      ],
+      "answer": [
+        "la cuisine gasconne"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « tajine » est-il une spécialité ?",
+      "options": [
+        "la cuisine vietnamienne",
+        "la cuisine américaine",
+        "la cuisine lyonnaise",
+        "la cuisine japonaise",
+        "la cuisine bourguignonne"
+      ],
+      "answer": [
+        "la cuisine marocaine"
+      ]
+    },
+    {
+      "text": "Quels deux plats de cette liste viennent de la cuisine bretonne ?",
+      "options": [
+        "nouilles sautées",
+        "andouillette",
+        "piperade",
+        "tiramisu",
+        "francesinha"
+      ],
+      "answer": [
+        "kouign-amann",
+        "crêpes"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « garbure » ?",
+      "options": [
+        "la cuisine péruvienne",
+        "la cuisine espagnole",
+        "la cuisine basque",
+        "la cuisine bretonne",
+        "la cuisine japonaise",
+        "la cuisine lyonnaise"
+      ],
+      "answer": [
+        "la cuisine gasconne"
+      ]
+    },
+    {
+      "text": "Le plat « jambon persillé » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine portugaise",
+        "la cuisine anglaise",
+        "la cuisine gasconne",
+        "la cuisine provençale",
+        "la cuisine coréenne",
+        "la cuisine du Nord"
+      ],
+      "answer": [
+        "la cuisine bourguignonne"
+      ]
+    },
+    {
+      "text": "Quel plat de cette liste est traditionnel dans la cuisine marocaine ?",
+      "options": [
+        "nems",
+        "maroilles",
+        "kouign-amann",
+        "baba au rhum",
+        "dim sum"
+      ],
+      "answer": [
+        "pastilla"
+      ]
+    },
+    {
+      "text": "Quel plat appartient à la cuisine lorraine ?",
+      "options": [
+        "tortilla de patatas",
+        "moussaka",
+        "kouglof",
+        "piperade"
+      ],
+      "answer": [
+        "baba au rhum"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « galette de sarrasin » ?",
+      "options": [
+        "la cuisine coréenne",
+        "la cuisine picarde",
+        "la cuisine basque",
+        "la cuisine mexicaine",
+        "la cuisine portugaise"
+      ],
+      "answer": [
+        "la cuisine bretonne"
+      ]
+    },
+    {
+      "text": "Le plat « houmous » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine péruvienne",
+        "la cuisine vietnamienne",
+        "la cuisine marocaine",
+        "la cuisine bretonne",
+        "la cuisine provençale"
+      ],
+      "answer": [
+        "la cuisine libanaise"
+      ]
+    },
+    {
+      "text": "Quelle spécialité compte la cuisine italienne parmi ses plats ?",
+      "options": [
+        "tarte au sucre",
+        "croustade",
+        "moussaka",
+        "tapenade",
+        "foie gras",
+        "saucisson brioché"
+      ],
+      "answer": [
+        "pizza"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « forêt-noire » ?",
+      "options": [
+        "la cuisine normande",
+        "la cuisine bretonne",
+        "la cuisine grecque",
+        "la cuisine anglaise"
+      ],
+      "answer": [
+        "la cuisine allemande"
+      ]
+    },
+    {
+      "text": "Lequel de ces plats est une spécialité de la cuisine auvergnate ?",
+      "options": [
+        "andouillette",
+        "shepherd's pie",
+        "choucroute",
+        "moutabal",
+        "brownie"
+      ],
+      "answer": [
+        "truffade"
+      ]
+    },
+    {
+      "text": "Le plat « canard laqué » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine indienne",
+        "la cuisine allemande",
+        "la cuisine anglaise",
+        "la cuisine italienne",
+        "la cuisine péruvienne"
+      ],
+      "answer": [
+        "la cuisine chinoise"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « tripes à la mode de Caen » est-il une spécialité ?",
+      "options": [
+        "la cuisine japonaise",
+        "la cuisine bretonne",
+        "la cuisine thaïlandaise",
+        "la cuisine vietnamienne",
+        "la cuisine italienne"
+      ],
+      "answer": [
+        "la cuisine normande"
+      ]
+    },
+    {
+      "text": "Lequel de ces plats est une spécialité de la cuisine corse ?",
+      "options": [
+        "gougères",
+        "brownie",
+        "bulgogi",
+        "baba au rhum",
+        "tom yam"
+      ],
+      "answer": [
+        "brocciu"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « bo bun » est-il une spécialité ?",
+      "options": [
+        "la cuisine provençale",
+        "la cuisine coréenne",
+        "la cuisine lorraine",
+        "la cuisine périgourdine",
+        "la cuisine libanaise"
+      ],
+      "answer": [
+        "la cuisine vietnamienne"
+      ]
+    },
+    {
+      "text": "Quel plat appartient à la cuisine lyonnaise ?",
+      "options": [
+        "forêt-noire",
+        "fish and chips",
+        "pastel de nata",
+        "tajine"
+      ],
+      "answer": [
+        "saucisson brioché"
+      ]
+    },
+    {
+      "text": "Quels plats appartiennent à la cuisine chinoise ?",
+      "options": [
+        "choucroute",
+        "sushi",
+        "galette de sarrasin",
+        "croustade"
+      ],
+      "answer": [
+        "canard laqué",
+        "dim sum"
+      ]
+    },
+    {
+      "text": "Le plat « raclette » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine périgourdine",
+        "la cuisine marocaine",
+        "la cuisine anglaise",
+        "la cuisine allemande",
+        "la cuisine américaine"
+      ],
+      "answer": [
+        "la cuisine savoyarde"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « risotto » ?",
+      "options": [
+        "la cuisine chinoise",
+        "la cuisine mexicaine",
+        "la cuisine anglaise",
+        "la cuisine grecque",
+        "la cuisine bourguignonne"
+      ],
+      "answer": [
+        "la cuisine italienne"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « dim sum » ?",
+      "options": [
+        "la cuisine corse",
+        "la cuisine thaïlandaise",
+        "la cuisine périgourdine",
+        "la cuisine alsacienne",
+        "la cuisine lorraine"
+      ],
+      "answer": [
+        "la cuisine chinoise"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « tzatziki » ?",
+      "options": [
+        "la cuisine picarde",
+        "la cuisine chinoise",
+        "la cuisine gasconne",
+        "la cuisine thaïlandaise",
+        "la cuisine auvergnate"
+      ],
+      "answer": [
+        "la cuisine grecque"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « maroilles » ?",
+      "options": [
+        "la cuisine péruvienne",
+        "la cuisine périgourdine",
+        "la cuisine japonaise",
+        "la cuisine normande",
+        "la cuisine savoyarde",
+        "la cuisine thaïlandaise"
+      ],
+      "answer": [
+        "la cuisine du Nord"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « taboulé » ?",
+      "options": [
+        "la cuisine anglaise",
+        "la cuisine gasconne",
+        "la cuisine lyonnaise",
+        "la cuisine picarde",
+        "la cuisine corse"
+      ],
+      "answer": [
+        "la cuisine libanaise"
+      ]
+    },
+    {
+      "text": "Quels plats appartiennent à la cuisine coréenne ?",
+      "options": [
+        "bacalhau",
+        "brownie",
+        "harira",
+        "pad thaï"
+      ],
+      "answer": [
+        "kimchi",
+        "bulgogi"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « bretzel » est-il une spécialité ?",
+      "options": [
+        "la cuisine portugaise",
+        "la cuisine lyonnaise",
+        "la cuisine provençale",
+        "la cuisine corse",
+        "la cuisine périgourdine"
+      ],
+      "answer": [
+        "la cuisine allemande"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « lasagnes » est-il une spécialité ?",
+      "options": [
+        "la cuisine japonaise",
+        "la cuisine grecque",
+        "la cuisine chinoise",
+        "la cuisine lyonnaise"
+      ],
+      "answer": [
+        "la cuisine italienne"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « baeckeoffe » ?",
+      "options": [
+        "la cuisine grecque",
+        "la cuisine lyonnaise",
+        "la cuisine chinoise",
+        "la cuisine marocaine",
+        "la cuisine corse"
+      ],
+      "answer": [
+        "la cuisine alsacienne"
+      ]
+    },
+    {
+      "text": "Quel plat de cette liste est traditionnel dans la cuisine provençale ?",
+      "options": [
+        "brocciu",
+        "quenelles",
+        "magret de canard",
+        "axoa",
+        "sushi"
+      ],
+      "answer": [
+        "ratatouille"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « quenelles » ?",
+      "options": [
+        "la cuisine anglaise",
+        "la cuisine portugaise",
+        "la cuisine marocaine",
+        "la cuisine coréenne",
+        "la cuisine grecque"
+      ],
+      "answer": [
+        "la cuisine lyonnaise"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « ramen » est-il une spécialité ?",
+      "options": [
+        "la cuisine mexicaine",
+        "la cuisine corse",
+        "la cuisine portugaise",
+        "la cuisine lyonnaise",
+        "la cuisine coréenne"
+      ],
+      "answer": [
+        "la cuisine japonaise"
+      ]
+    },
+    {
+      "text": "Le plat « pulenta » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine péruvienne",
+        "la cuisine auvergnate",
+        "la cuisine coréenne",
+        "la cuisine provençale",
+        "la cuisine basque"
+      ],
+      "answer": [
+        "la cuisine corse"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « soupe miso » ?",
+      "options": [
+        "la cuisine libanaise",
+        "la cuisine normande",
+        "la cuisine picarde",
+        "la cuisine indienne"
+      ],
+      "answer": [
+        "la cuisine japonaise"
+      ]
+    },
+    {
+      "text": "Le plat « gâteau battu » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine japonaise",
+        "la cuisine alsacienne",
+        "la cuisine libanaise",
+        "la cuisine gasconne",
+        "la cuisine anglaise",
+        "la cuisine thaïlandaise"
+      ],
+      "answer": [
+        "la cuisine picarde"
+      ]
+    },
+    {
+      "text": "Le plat « pad thaï » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine gasconne",
+        "la cuisine anglaise",
+        "la cuisine corse",
+        "la cuisine savoyarde",
+        "la cuisine italienne",
+        "la cuisine bretonne"
+      ],
+      "answer": [
+        "la cuisine thaïlandaise"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « saucisson brioché » ?",
+      "options": [
+        "la cuisine coréenne",
+        "la cuisine libanaise",
+        "la cuisine espagnole",
+        "la cuisine grecque",
+        "la cuisine périgourdine",
+        "la cuisine savoyarde"
+      ],
+      "answer": [
+        "la cuisine lyonnaise"
+      ]
+    },
+    {
+      "text": "Lequel de ces plats est une spécialité de la cuisine anglaise ?",
+      "options": [
+        "forêt-noire",
+        "choucroute",
+        "soupe miso",
+        "tarte flambée",
+        "pho"
+      ],
+      "answer": [
+        "shepherd's pie"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « brownie » ?",
+      "options": [
+        "la cuisine lorraine",
+        "la cuisine grecque",
+        "la cuisine thaïlandaise",
+        "la cuisine normande",
+        "la cuisine lyonnaise"
+      ],
+      "answer": [
+        "la cuisine américaine"
+      ]
+    },
+    {
+      "text": "Quelle cuisine prépare traditionnellement le plat « pho » ?",
+      "options": [
+        "la cuisine lyonnaise",
+        "la cuisine savoyarde",
+        "la cuisine américaine",
+        "la cuisine bretonne"
+      ],
+      "answer": [
+        "la cuisine vietnamienne"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « biryani » ?",
+      "options": [
+        "la cuisine portugaise",
+        "la cuisine gasconne",
+        "la cuisine alsacienne",
+        "la cuisine vietnamienne",
+        "la cuisine italienne"
+      ],
+      "answer": [
+        "la cuisine indienne"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « moutabal » ?",
+      "options": [
+        "la cuisine chinoise",
+        "la cuisine allemande",
+        "la cuisine savoyarde",
+        "la cuisine anglaise",
+        "la cuisine péruvienne",
+        "la cuisine vietnamienne"
+      ],
+      "answer": [
+        "la cuisine libanaise"
+      ]
+    },
+    {
+      "text": "Le plat « tacos » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine péruvienne",
+        "la cuisine lyonnaise",
+        "la cuisine américaine",
+        "la cuisine basque",
+        "la cuisine bretonne",
+        "la cuisine indienne"
+      ],
+      "answer": [
+        "la cuisine mexicaine"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « tarte au sucre » ?",
+      "options": [
+        "la cuisine italienne",
+        "la cuisine mexicaine",
+        "la cuisine marocaine",
+        "la cuisine corse"
+      ],
+      "answer": [
+        "la cuisine du Nord"
+      ]
+    },
+    {
+      "text": "Dans quelle cuisine trouve-t-on le plat « hamburger » ?",
+      "options": [
+        "la cuisine italienne",
+        "la cuisine provençale",
+        "la cuisine coréenne",
+        "la cuisine normande",
+        "la cuisine lyonnaise",
+        "la cuisine libanaise"
+      ],
+      "answer": [
+        "la cuisine américaine"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « bibimbap » ?",
+      "options": [
+        "la cuisine mexicaine",
+        "la cuisine chinoise",
+        "la cuisine américaine",
+        "la cuisine thaïlandaise"
+      ],
+      "answer": [
+        "la cuisine coréenne"
+      ]
+    },
+    {
+      "text": "Le plat « pizza » est la spécialité de quelle cuisine ?",
+      "options": [
+        "la cuisine libanaise",
+        "la cuisine du Nord",
+        "la cuisine lyonnaise",
+        "la cuisine basque",
+        "la cuisine corse"
+      ],
+      "answer": [
+        "la cuisine italienne"
+      ]
+    },
+    {
+      "text": "Quel plat appartient à la cuisine du Nord ?",
+      "options": [
+        "brownie",
+        "galette de sarrasin",
+        "naan",
+        "taboulé"
+      ],
+      "answer": [
+        "maroilles"
+      ]
+    },
+    {
+      "text": "De quelle cuisine vient le plat « souvlaki » ?",
+      "options": [
+        "la cuisine corse",
+        "la cuisine péruvienne",
+        "la cuisine auvergnate",
+        "la cuisine périgourdine",
+        "la cuisine japonaise"
+      ],
+      "answer": [
+        "la cuisine grecque"
+      ]
+    },
+    {
+      "text": "De quelle cuisine le plat « potjevleesch » est-il une spécialité ?",
+      "options": [
+        "la cuisine portugaise",
+        "la cuisine marocaine",
+        "la cuisine chinoise",
+        "la cuisine bretonne",
+        "la cuisine coréenne"
+      ],
+      "answer": [
+        "la cuisine du Nord"
+      ]
+    },
+    {
+      "text": "À quelle cuisine appartient le plat « brocciu » ?",
+      "options": [
+        "la cuisine allemande",
+        "la cuisine portugaise",
+        "la cuisine lorraine",
+        "la cuisine picarde"
+      ],
+      "answer": [
+        "la cuisine corse"
+      ]
+    }
+  ]
+}

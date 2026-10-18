@@ -1,0 +1,63 @@
+// « Grands noms » — 39 personnes (écrivains, compositeurs, peintres, hommes d'État, cinéastes),
+// 3 œuvres / hauts faits chacune. keyQuestions: 0 → seules les questions « item -> personne ».
+export default {
+  lang: 'fr',
+  theme: 'Grands noms',
+  seed: 71004,
+  keyQuestions: 0,
+  templates: {
+    item: [
+      'Avec quelle personne associe-t-on « {v} » ?',
+      'À quelle personnalité associe-t-on « {v} » ?',
+      'Quel grand nom est lié à « {v} » ?',
+      'Le nom de qui est attaché à « {v} » ?',
+      'Quelle personne célèbre est liée à « {v} » ?',
+    ],
+  },
+  groups: [
+    // écrivains
+    ['Victor Hugo', 'Les Misérables', 'Notre-Dame de Paris', 'Les Contemplations'],
+    ['Gustave Flaubert', 'Madame Bovary', 'L\'Éducation sentimentale', 'Salammbô'],
+    ['Marcel Proust', 'À la recherche du temps perdu', 'Du côté de chez Swann', 'Le Temps retrouvé'],
+    ['Albert Camus', 'L\'Étranger', 'La Peste', 'Le Mythe de Sisyphe'],
+    ['Émile Zola', 'Germinal', 'Nana', 'L\'Assommoir'],
+    ['Molière', 'Le Misanthrope', 'L\'Avare', 'Le Bourgeois gentilhomme'],
+    ['Jules Verne', 'Vingt mille lieues sous les mers', 'Le Tour du monde en quatre-vingts jours', 'Voyage au centre de la Terre'],
+    ['Antoine de Saint-Exupéry', 'Le Petit Prince', 'Vol de nuit', 'Terre des hommes'],
+    ['Alexandre Dumas', 'Les Trois Mousquetaires', 'Le Comte de Monte-Cristo', 'La Reine Margot'],
+    ['Charles Baudelaire', 'Les Fleurs du mal', 'Le Spleen de Paris', 'Les Paradis artificiels'],
+    ['Arthur Rimbaud', 'Une saison en enfer', 'Le Bateau ivre', 'Illuminations'],
+    // compositeurs
+    ['Claude Debussy', 'Clair de lune', 'La Mer', 'Prélude à l\'après-midi d\'un faune'],
+    ['Maurice Ravel', 'Boléro', 'Daphnis et Chloé', 'Pavane pour une infante défunte'],
+    ['Hector Berlioz', 'Symphonie fantastique', 'Les Troyens', 'La Damnation de Faust'],
+    ['Georges Bizet', 'Carmen', 'Les Pêcheurs de perles', 'L\'Arlésienne'],
+    ['Camille Saint-Saëns', 'Le Carnaval des animaux', 'Danse macabre', 'Samson et Dalila'],
+    ['Jacques Offenbach', 'La Belle Hélène', 'Les Contes d\'Hoffmann', 'Orphée aux enfers'],
+    ['Charles Gounod', 'Faust', 'Mireille', 'Ave Maria'],
+    // peintres
+    ['Claude Monet', 'Impression, soleil levant', 'Les Nymphéas', 'La Cathédrale de Rouen'],
+    ['Auguste Renoir', 'Le Bal du moulin de la Galette', 'Le Déjeuner des canotiers', 'Jeunes filles au piano'],
+    ['Edgar Degas', 'La Classe de danse', 'L\'Absinthe', 'Les Repasseuses'],
+    ['Paul Cézanne', 'La Montagne Sainte-Victoire', 'Les Joueurs de cartes', 'La Maison du pendu'],
+    ['Henri Matisse', 'La Danse', 'La Joie de vivre', 'L\'Atelier rouge'],
+    ['Paul Gauguin', 'La Vision après le sermon', 'Femmes de Tahiti', 'Le Cheval blanc'],
+    ['Henri de Toulouse-Lautrec', 'Au Moulin Rouge', 'Le Divan japonais', 'Jane Avril au Jardin de Paris'],
+    ['Édouard Manet', 'Olympia', 'Un bar aux Folies Bergère', 'La Musique aux Tuileries'],
+    ['Gustave Courbet', 'L\'Origine du monde', 'Un enterrement à Ornans', 'L\'Atelier du peintre'],
+    // hommes d'État
+    ['Charles de Gaulle', 'l\'appel du 18 Juin', 'la fondation de la Cinquième République', 'la libération de Paris'],
+    ['Napoléon Bonaparte', 'la bataille d\'Austerlitz', 'le Code civil', 'le blocus continental'],
+    ['Louis XIV', 'le château de Versailles', 'la révocation de l\'édit de Nantes', 'l\'hôtel des Invalides'],
+    ['Charlemagne', 'le couronnement impérial à Rome', 'les missi dominici', 'la guerre contre les Saxons'],
+    ['Clovis', 'le baptême à Reims', 'la bataille de Tolbiac', 'le vase de Soissons'],
+    ['Henri IV', 'l\'édit de Nantes', 'la poule au pot', 'la bataille d\'Ivry'],
+    ['Jeanne d\'Arc', 'le siège d\'Orléans', 'le sacre du roi Charles VII à Reims', 'le bûcher de Rouen'],
+    // cinéma
+    ['Georges Méliès', 'Le Voyage dans la Lune', 'Le Voyage à travers l\'impossible', 'L\'Homme orchestre'],
+    ['Jean Renoir', 'La Grande Illusion', 'La Règle du jeu', 'Partie de campagne'],
+    ['François Truffaut', 'Les Quatre Cents Coups', 'Jules et Jim', 'La Nuit américaine'],
+    ['Jean-Luc Godard', 'À bout de souffle', 'Pierrot le Fou', 'Alphaville'],
+    ['Louis Malle', 'Ascenseur pour l\'échafaud', 'Au revoir les enfants', 'Lacombe Lucien'],
+  ],
+};

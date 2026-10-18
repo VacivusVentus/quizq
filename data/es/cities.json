@@ -1,0 +1,1404 @@
+{
+  "theme": "Ciudades y monumentos",
+  "questions": [
+    {
+      "text": "¿A qué ciudad pertenece Playa de la Caleta?",
+      "options": [
+        "Córdoba",
+        "Cartagena de Indias",
+        "Ciudad de México",
+        "Salamanca",
+        "Lima"
+      ],
+      "answer": [
+        "Cádiz"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Paseo del Born?",
+      "options": [
+        "Madrid",
+        "Sevilla",
+        "Toledo",
+        "Segovia"
+      ],
+      "answer": [
+        "Palma"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Giralda?",
+      "options": [
+        "Barcelona",
+        "Bogotá",
+        "Valencia",
+        "Cusco",
+        "Bilbao"
+      ],
+      "answer": [
+        "Sevilla"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Casa de Colón?",
+      "options": [
+        "Cádiz",
+        "Zaragoza",
+        "Bogotá",
+        "Salamanca",
+        "Madrid"
+      ],
+      "answer": [
+        "Las Palmas"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Albaicín?",
+      "options": [
+        "Barcelona",
+        "Toledo",
+        "Zaragoza",
+        "Cuenca"
+      ],
+      "answer": [
+        "Granada"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos monumentos se pueden ver en La Habana?",
+      "options": [
+        "Caminito",
+        "Museo Nacional de Antropología",
+        "Las Ramblas",
+        "Convento de la Popa",
+        "Casas Colgadas",
+        "Casa del Cordón"
+      ],
+      "answer": [
+        "Castillo del Morro",
+        "Capitolio"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Ciudad de las Artes y las Ciencias?",
+      "options": [
+        "Santiago de Compostela",
+        "Madrid",
+        "Córdoba",
+        "Málaga",
+        "Sevilla"
+      ],
+      "answer": [
+        "Valencia"
+      ]
+    },
+    {
+      "text": "¿Qué se puede ver en Madrid?",
+      "options": [
+        "Palacio del Marqués de Dos Aguas",
+        "Puente Romano",
+        "Paseo del Born",
+        "Peine del Viento",
+        "Museo del Oro",
+        "Puente de Piedra"
+      ],
+      "answer": [
+        "Museo del Prado"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Puente de Alcántara?",
+      "options": [
+        "Santiago de Compostela",
+        "Buenos Aires",
+        "Salamanca",
+        "Valencia"
+      ],
+      "answer": [
+        "Toledo"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Casa Batlló?",
+      "options": [
+        "Cusco",
+        "Ciudad de México",
+        "Cuenca",
+        "Granada"
+      ],
+      "answer": [
+        "Barcelona"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Panecillo?",
+      "options": [
+        "Madrid",
+        "Buenos Aires",
+        "Valencia",
+        "Bogotá",
+        "Las Palmas"
+      ],
+      "answer": [
+        "Quito"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Playa de la Concha?",
+      "options": [
+        "Zaragoza",
+        "Bilbao",
+        "Granada",
+        "Palma"
+      ],
+      "answer": [
+        "San Sebastián"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Torre del Reloj?",
+      "options": [
+        "Zaragoza",
+        "Las Palmas",
+        "Sevilla",
+        "Buenos Aires",
+        "Palma"
+      ],
+      "answer": [
+        "Cartagena de Indias"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos monumentos está en Córdoba?",
+      "options": [
+        "Museo del Prado",
+        "Hostal de los Reyes Católicos",
+        "La Candelaria",
+        "Casa de los Picos",
+        "Qorikancha"
+      ],
+      "answer": [
+        "Puente Romano"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Gran Teatro Falla?",
+      "options": [
+        "La Habana",
+        "Ciudad de México",
+        "Zaragoza",
+        "Las Palmas",
+        "Quito"
+      ],
+      "answer": [
+        "Cádiz"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos monumentos está en Zaragoza?",
+      "options": [
+        "Sinagoga del Tránsito",
+        "Caminito",
+        "Torre de la Calahorra",
+        "Catacumbas de San Francisco",
+        "Casa del Cordón"
+      ],
+      "answer": [
+        "Palacio de la Aljafería"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Convento de San Esteban?",
+      "options": [
+        "Santiago de Compostela",
+        "Barcelona",
+        "Bogotá",
+        "Zaragoza",
+        "Segovia",
+        "Cartagena de Indias"
+      ],
+      "answer": [
+        "Salamanca"
+      ]
+    },
+    {
+      "text": "¿Qué monumento se encuentra en Cusco?",
+      "options": [
+        "Iglesia de la Vera Cruz",
+        "Palacio del Marqués de Dos Aguas",
+        "Mercado de la Ribera",
+        "Museo del Oro"
+      ],
+      "answer": [
+        "Piedra de los Doce Ángulos"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Palacio del Marqués de Dos Aguas?",
+      "options": [
+        "San Sebastián",
+        "Toledo",
+        "Cusco",
+        "Quito"
+      ],
+      "answer": [
+        "Valencia"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Teatro Colón?",
+      "options": [
+        "Valencia",
+        "Palma",
+        "Cartagena de Indias",
+        "Barcelona"
+      ],
+      "answer": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Puerta de Alcalá?",
+      "options": [
+        "Palma",
+        "Las Palmas",
+        "Málaga",
+        "Cádiz",
+        "Ciudad de México"
+      ],
+      "answer": [
+        "Madrid"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Torre de la Calahorra?",
+      "options": [
+        "Lima",
+        "Cuenca",
+        "Quito",
+        "Las Palmas",
+        "La Habana",
+        "Barcelona"
+      ],
+      "answer": [
+        "Córdoba"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Las Ramblas?",
+      "options": [
+        "Salamanca",
+        "Zaragoza",
+        "La Habana",
+        "Valencia",
+        "Cuenca",
+        "Burgos"
+      ],
+      "answer": [
+        "Barcelona"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Playa de las Canteras?",
+      "options": [
+        "Lima",
+        "Sevilla",
+        "Burgos",
+        "Bogotá",
+        "Ciudad de México"
+      ],
+      "answer": [
+        "Las Palmas"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Museo del Prado?",
+      "options": [
+        "Lima",
+        "Barcelona",
+        "Las Palmas",
+        "Zaragoza",
+        "La Habana"
+      ],
+      "answer": [
+        "Madrid"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Piedra de los Doce Ángulos?",
+      "options": [
+        "Palma",
+        "Madrid",
+        "Lima",
+        "Córdoba",
+        "Bilbao",
+        "Salamanca"
+      ],
+      "answer": [
+        "Cusco"
+      ]
+    },
+    {
+      "text": "¿Qué monumento se puede visitar en Valencia?",
+      "options": [
+        "Museo Nacional de Antropología",
+        "Monte do Gozo",
+        "Playa de la Concha",
+        "Basílica del Pilar",
+        "Palacio de la Aljafería"
+      ],
+      "answer": [
+        "Torres de Serranos"
+      ]
+    },
+    {
+      "text": "¿Qué monumento se puede visitar en Burgos?",
+      "options": [
+        "Peine del Viento",
+        "Puente de San Pablo",
+        "Torre del Reloj",
+        "Museo Guggenheim",
+        "Monasterio de San Juan de los Reyes"
+      ],
+      "answer": [
+        "Casa del Cordón"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Lonja de la Seda?",
+      "options": [
+        "Buenos Aires",
+        "Madrid",
+        "Salamanca",
+        "Sevilla",
+        "Cusco",
+        "Bilbao"
+      ],
+      "answer": [
+        "Valencia"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Monasterio de San Juan de los Reyes?",
+      "options": [
+        "Buenos Aires",
+        "Zaragoza",
+        "Granada",
+        "Salamanca",
+        "Cuenca",
+        "La Habana"
+      ],
+      "answer": [
+        "Toledo"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Hostal de los Reyes Católicos?",
+      "options": [
+        "Buenos Aires",
+        "La Habana",
+        "Córdoba",
+        "Segovia",
+        "Málaga"
+      ],
+      "answer": [
+        "Santiago de Compostela"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Museo Nacional de Antropología?",
+      "options": [
+        "Toledo",
+        "Burgos",
+        "Bilbao",
+        "Santiago de Compostela",
+        "Sevilla"
+      ],
+      "answer": [
+        "Ciudad de México"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Acueducto romano?",
+      "options": [
+        "Valencia",
+        "Bilbao",
+        "Málaga",
+        "Sevilla",
+        "Cádiz"
+      ],
+      "answer": [
+        "Segovia"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Palacio de Bellas Artes?",
+      "options": [
+        "Cádiz",
+        "Palma",
+        "Barcelona",
+        "Bogotá",
+        "Lima"
+      ],
+      "answer": [
+        "Ciudad de México"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos monumentos están en Salamanca?",
+      "options": [
+        "Casa del Cordón",
+        "Acueducto romano",
+        "Parque Güell",
+        "Las Ramblas",
+        "Piedra de los Doce Ángulos"
+      ],
+      "answer": [
+        "Casa de las Conchas",
+        "Plaza Mayor"
+      ]
+    },
+    {
+      "text": "¿Qué monumento se puede visitar en Bilbao?",
+      "options": [
+        "Albaicín",
+        "Ciudad de las Artes y las Ciencias",
+        "Malecón",
+        "Casa de las Conchas",
+        "Playa de las Canteras"
+      ],
+      "answer": [
+        "Mercado de la Ribera"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Parque del Retiro?",
+      "options": [
+        "Quito",
+        "Málaga",
+        "Sevilla",
+        "Santiago de Compostela",
+        "Salamanca",
+        "Lima"
+      ],
+      "answer": [
+        "Madrid"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Mercado de Atarazanas?",
+      "options": [
+        "Salamanca",
+        "Sevilla",
+        "Santiago de Compostela",
+        "Las Palmas",
+        "Bilbao"
+      ],
+      "answer": [
+        "Málaga"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Plaza Mayor?",
+      "options": [
+        "Barcelona",
+        "Santiago de Compostela",
+        "Burgos",
+        "Cartagena de Indias",
+        "San Sebastián"
+      ],
+      "answer": [
+        "Salamanca"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Puente Romano?",
+      "options": [
+        "Salamanca",
+        "Madrid",
+        "Cusco",
+        "Quito",
+        "La Habana"
+      ],
+      "answer": [
+        "Córdoba"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Museo Guggenheim?",
+      "options": [
+        "Zaragoza",
+        "Toledo",
+        "Málaga",
+        "Lima",
+        "Salamanca",
+        "Ciudad de México"
+      ],
+      "answer": [
+        "Bilbao"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Casa de los Picos?",
+      "options": [
+        "La Habana",
+        "Cádiz",
+        "Valencia",
+        "Sevilla",
+        "Cuenca",
+        "Toledo"
+      ],
+      "answer": [
+        "Segovia"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Auditorio Alfredo Kraus?",
+      "options": [
+        "Cádiz",
+        "San Sebastián",
+        "Salamanca",
+        "Toledo",
+        "Sevilla",
+        "Palma"
+      ],
+      "answer": [
+        "Las Palmas"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Castillo de Bellver?",
+      "options": [
+        "Salamanca",
+        "Málaga",
+        "Burgos",
+        "Bilbao",
+        "Quito",
+        "La Habana"
+      ],
+      "answer": [
+        "Palma"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Puente de Piedra?",
+      "options": [
+        "Segovia",
+        "Palma",
+        "Quito",
+        "Sevilla"
+      ],
+      "answer": [
+        "Zaragoza"
+      ]
+    },
+    {
+      "text": "¿Qué monumentos se encuentran en Bogotá?",
+      "options": [
+        "Casa Batlló",
+        "Capitolio",
+        "Puerta de Bisagra",
+        "Ciudad de las Artes y las Ciencias"
+      ],
+      "answer": [
+        "Monserrate",
+        "Museo del Oro"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Catacumbas de San Francisco?",
+      "options": [
+        "La Habana",
+        "Ciudad de México",
+        "Las Palmas",
+        "Madrid"
+      ],
+      "answer": [
+        "Lima"
+      ]
+    },
+    {
+      "text": "¿Qué se puede ver en Cartagena de Indias?",
+      "options": [
+        "La Candelaria",
+        "Paseo del Born",
+        "Plaza Mayor",
+        "Catacumbas de San Francisco",
+        "Parque del Retiro",
+        "Palacio del Marqués de Dos Aguas"
+      ],
+      "answer": [
+        "Convento de la Popa"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Huaca Pucllana?",
+      "options": [
+        "Zaragoza",
+        "Bilbao",
+        "Málaga",
+        "Madrid",
+        "Cusco"
+      ],
+      "answer": [
+        "Lima"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Sacsayhuamán?",
+      "options": [
+        "Valencia",
+        "Granada",
+        "Segovia",
+        "Burgos",
+        "Quito"
+      ],
+      "answer": [
+        "Cusco"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Hoz del Huécar?",
+      "options": [
+        "Madrid",
+        "Valencia",
+        "Granada",
+        "Las Palmas",
+        "Burgos"
+      ],
+      "answer": [
+        "Cuenca"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Plaza del Obradoiro?",
+      "options": [
+        "Quito",
+        "Palma",
+        "Cuenca",
+        "Córdoba"
+      ],
+      "answer": [
+        "Santiago de Compostela"
+      ]
+    },
+    {
+      "text": "¿Qué monumento se puede visitar en Toledo?",
+      "options": [
+        "Monserrate",
+        "Casa Batlló",
+        "Malecón",
+        "Palacio de Bellas Artes",
+        "Gran Teatro Falla"
+      ],
+      "answer": [
+        "Monasterio de San Juan de los Reyes"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Castillo del Morro?",
+      "options": [
+        "Zaragoza",
+        "Granada",
+        "Salamanca",
+        "San Sebastián",
+        "Cádiz"
+      ],
+      "answer": [
+        "La Habana"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Generalife?",
+      "options": [
+        "Las Palmas",
+        "Sevilla",
+        "Cádiz",
+        "Salamanca",
+        "Toledo"
+      ],
+      "answer": [
+        "Granada"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Torre del Oro?",
+      "options": [
+        "Cádiz",
+        "Salamanca",
+        "Las Palmas",
+        "Palma",
+        "Barcelona",
+        "Quito"
+      ],
+      "answer": [
+        "Sevilla"
+      ]
+    },
+    {
+      "text": "¿Qué monumentos se pueden visitar en Barcelona?",
+      "options": [
+        "Puente de Alcántara",
+        "Acueducto romano",
+        "Peine del Viento",
+        "Sacsayhuamán",
+        "Casas Colgadas"
+      ],
+      "answer": [
+        "Casa Batlló",
+        "Sagrada Familia"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos monumentos están en Málaga?",
+      "options": [
+        "Museo Nacional de Antropología",
+        "Torres de Serranos",
+        "Alhambra",
+        "Playa de las Canteras",
+        "Puerta de Bisagra"
+      ],
+      "answer": [
+        "Playa de la Malagueta",
+        "Mercado de Atarazanas"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Palacio de la Aljafería?",
+      "options": [
+        "Madrid",
+        "Granada",
+        "Toledo",
+        "Cartagena de Indias",
+        "Córdoba",
+        "Salamanca"
+      ],
+      "answer": [
+        "Zaragoza"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Iglesia de la Vera Cruz?",
+      "options": [
+        "Málaga",
+        "Sevilla",
+        "Buenos Aires",
+        "Madrid"
+      ],
+      "answer": [
+        "Segovia"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Peine del Viento?",
+      "options": [
+        "Ciudad de México",
+        "Lima",
+        "Salamanca",
+        "Zaragoza",
+        "Barcelona"
+      ],
+      "answer": [
+        "San Sebastián"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Mezquita-Catedral?",
+      "options": [
+        "Barcelona",
+        "Salamanca",
+        "Bogotá",
+        "Cádiz",
+        "Ciudad de México"
+      ],
+      "answer": [
+        "Córdoba"
+      ]
+    },
+    {
+      "text": "¿Qué monumentos se encuentran en Cádiz?",
+      "options": [
+        "Castillo del Morro",
+        "Sinagoga del Tránsito",
+        "Playa de las Canteras",
+        "Monte do Gozo"
+      ],
+      "answer": [
+        "Torre Tavira",
+        "Playa de la Caleta"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Monte do Gozo?",
+      "options": [
+        "Málaga",
+        "Córdoba",
+        "Zaragoza",
+        "Burgos",
+        "Toledo"
+      ],
+      "answer": [
+        "Santiago de Compostela"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Obelisco?",
+      "options": [
+        "Palma",
+        "Madrid",
+        "Cartagena de Indias",
+        "Toledo",
+        "Cusco",
+        "Burgos"
+      ],
+      "answer": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece La Seu?",
+      "options": [
+        "Cádiz",
+        "Segovia",
+        "Bilbao",
+        "Las Palmas",
+        "Ciudad de México"
+      ],
+      "answer": [
+        "Palma"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Basílica del Pilar?",
+      "options": [
+        "Salamanca",
+        "Segovia",
+        "Cádiz",
+        "Bilbao",
+        "Lima"
+      ],
+      "answer": [
+        "Zaragoza"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos monumentos se pueden ver en Lima?",
+      "options": [
+        "Palacio de Bellas Artes",
+        "Museo del Oro",
+        "Museo Reina Sofía",
+        "Puente de Piedra",
+        "Paseo del Born",
+        "Mercado de Atarazanas"
+      ],
+      "answer": [
+        "Catacumbas de San Francisco",
+        "Huaca Pucllana"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Monserrate?",
+      "options": [
+        "Segovia",
+        "Quito",
+        "Palma",
+        "Cádiz",
+        "Burgos"
+      ],
+      "answer": [
+        "Bogotá"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Qorikancha?",
+      "options": [
+        "Cartagena de Indias",
+        "Barcelona",
+        "Toledo",
+        "Sevilla",
+        "San Sebastián"
+      ],
+      "answer": [
+        "Cusco"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Alhambra?",
+      "options": [
+        "Bilbao",
+        "Cusco",
+        "Barcelona",
+        "San Sebastián",
+        "Palma"
+      ],
+      "answer": [
+        "Granada"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Parque Güell?",
+      "options": [
+        "Ciudad de México",
+        "Sevilla",
+        "Madrid",
+        "Málaga",
+        "Segovia"
+      ],
+      "answer": [
+        "Barcelona"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Sinagoga del Tránsito?",
+      "options": [
+        "Zaragoza",
+        "Bogotá",
+        "Ciudad de México",
+        "Córdoba",
+        "Cuenca"
+      ],
+      "answer": [
+        "Toledo"
+      ]
+    },
+    {
+      "text": "¿Qué monumento se encuentra en Quito?",
+      "options": [
+        "Puente de Alcántara",
+        "Qorikancha",
+        "Torre Tavira",
+        "Ciudad de las Artes y las Ciencias"
+      ],
+      "answer": [
+        "Panecillo"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Casa del Cordón?",
+      "options": [
+        "Santiago de Compostela",
+        "Cartagena de Indias",
+        "Ciudad de México",
+        "Lima"
+      ],
+      "answer": [
+        "Burgos"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Puerta de Bisagra?",
+      "options": [
+        "Buenos Aires",
+        "Granada",
+        "Ciudad de México",
+        "Salamanca",
+        "Málaga"
+      ],
+      "answer": [
+        "Toledo"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Zócalo?",
+      "options": [
+        "San Sebastián",
+        "Quito",
+        "Cartagena de Indias",
+        "Las Palmas"
+      ],
+      "answer": [
+        "Ciudad de México"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos monumentos está en Ciudad de México?",
+      "options": [
+        "Albaicín",
+        "Ciudad de las Artes y las Ciencias",
+        "Basílica del Pilar",
+        "Mercado de la Ribera",
+        "Lonja de la Seda"
+      ],
+      "answer": [
+        "Zócalo"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Museo Reina Sofía?",
+      "options": [
+        "Cusco",
+        "Buenos Aires",
+        "Cuenca",
+        "Valencia"
+      ],
+      "answer": [
+        "Madrid"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Plaza de la Independencia?",
+      "options": [
+        "Salamanca",
+        "San Sebastián",
+        "Toledo",
+        "Cusco"
+      ],
+      "answer": [
+        "Quito"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Capitolio?",
+      "options": [
+        "Málaga",
+        "Granada",
+        "San Sebastián",
+        "Zaragoza"
+      ],
+      "answer": [
+        "La Habana"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Sagrada Familia?",
+      "options": [
+        "Granada",
+        "Segovia",
+        "Ciudad de México",
+        "Santiago de Compostela",
+        "Buenos Aires"
+      ],
+      "answer": [
+        "Barcelona"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Capilla Real?",
+      "options": [
+        "Segovia",
+        "Cusco",
+        "Málaga",
+        "San Sebastián",
+        "Bilbao",
+        "Palma"
+      ],
+      "answer": [
+        "Granada"
+      ]
+    },
+    {
+      "text": "¿Qué monumento se encuentra en Las Palmas?",
+      "options": [
+        "Castillo de San Felipe de Barajas",
+        "Castillo de Gibralfaro",
+        "Museo Reina Sofía",
+        "Huaca Pucllana"
+      ],
+      "answer": [
+        "Playa de las Canteras"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Mercado de la Ribera?",
+      "options": [
+        "Cádiz",
+        "Cusco",
+        "Sevilla",
+        "Cuenca",
+        "Valencia"
+      ],
+      "answer": [
+        "Bilbao"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Castillo de San Felipe de Barajas?",
+      "options": [
+        "Cuenca",
+        "Cusco",
+        "Palma",
+        "San Sebastián"
+      ],
+      "answer": [
+        "Cartagena de Indias"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Barrio de Santa Cruz?",
+      "options": [
+        "Málaga",
+        "Valencia",
+        "Segovia",
+        "San Sebastián"
+      ],
+      "answer": [
+        "Sevilla"
+      ]
+    },
+    {
+      "text": "¿Qué se puede ver en Palma?",
+      "options": [
+        "Casa del Cordón",
+        "Monasterio de las Huelgas",
+        "Caminito",
+        "Monserrate",
+        "Torre del Reloj",
+        "Alhambra"
+      ],
+      "answer": [
+        "Castillo de Bellver"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Torre Tavira?",
+      "options": [
+        "Las Palmas",
+        "Madrid",
+        "Cartagena de Indias",
+        "Córdoba"
+      ],
+      "answer": [
+        "Cádiz"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Casas Colgadas?",
+      "options": [
+        "Cartagena de Indias",
+        "Bogotá",
+        "Cusco",
+        "Bilbao",
+        "Córdoba"
+      ],
+      "answer": [
+        "Cuenca"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Torres de Serranos?",
+      "options": [
+        "Cádiz",
+        "Santiago de Compostela",
+        "Buenos Aires",
+        "Ciudad de México",
+        "Cusco"
+      ],
+      "answer": [
+        "Valencia"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Monasterio de las Huelgas?",
+      "options": [
+        "Cuenca",
+        "Lima",
+        "Segovia",
+        "Quito",
+        "Palma"
+      ],
+      "answer": [
+        "Burgos"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Teatro Arriaga?",
+      "options": [
+        "Lima",
+        "Bogotá",
+        "Granada",
+        "Segovia"
+      ],
+      "answer": [
+        "Bilbao"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Casa de las Conchas?",
+      "options": [
+        "Córdoba",
+        "Las Palmas",
+        "Toledo",
+        "Valencia",
+        "Buenos Aires"
+      ],
+      "answer": [
+        "Salamanca"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Museo del Oro?",
+      "options": [
+        "San Sebastián",
+        "Valencia",
+        "Quito",
+        "Santiago de Compostela",
+        "Bilbao"
+      ],
+      "answer": [
+        "Bogotá"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Arco de Santa María?",
+      "options": [
+        "Granada",
+        "Cusco",
+        "Cádiz",
+        "Ciudad de México",
+        "La Habana",
+        "Quito"
+      ],
+      "answer": [
+        "Burgos"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Basílica del Voto Nacional?",
+      "options": [
+        "Santiago de Compostela",
+        "Segovia",
+        "Cádiz",
+        "Barcelona",
+        "Salamanca",
+        "Buenos Aires"
+      ],
+      "answer": [
+        "Quito"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Real Alcázar?",
+      "options": [
+        "Cuenca",
+        "Salamanca",
+        "Segovia",
+        "Cádiz",
+        "Zaragoza"
+      ],
+      "answer": [
+        "Sevilla"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad está Monte Igueldo?",
+      "options": [
+        "Zaragoza",
+        "Cuenca",
+        "Santiago de Compostela",
+        "Granada",
+        "Toledo"
+      ],
+      "answer": [
+        "San Sebastián"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Malecón?",
+      "options": [
+        "Lima",
+        "Burgos",
+        "Sevilla",
+        "Valencia",
+        "San Sebastián",
+        "Barcelona"
+      ],
+      "answer": [
+        "La Habana"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar La Candelaria?",
+      "options": [
+        "Cartagena de Indias",
+        "Salamanca",
+        "Madrid",
+        "Córdoba",
+        "Toledo",
+        "Segovia"
+      ],
+      "answer": [
+        "Bogotá"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se puede visitar Castillo de Gibralfaro?",
+      "options": [
+        "Cádiz",
+        "Salamanca",
+        "Granada",
+        "San Sebastián",
+        "Quito",
+        "Cartagena de Indias"
+      ],
+      "answer": [
+        "Málaga"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Puente de San Pablo?",
+      "options": [
+        "Sevilla",
+        "Madrid",
+        "Málaga",
+        "Bilbao",
+        "La Habana",
+        "Valencia"
+      ],
+      "answer": [
+        "Cuenca"
+      ]
+    },
+    {
+      "text": "¿Qué ciudad alberga Caminito?",
+      "options": [
+        "Santiago de Compostela",
+        "Valencia",
+        "Toledo",
+        "Cuenca",
+        "La Habana"
+      ],
+      "answer": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Malecón de Miraflores?",
+      "options": [
+        "Bogotá",
+        "Segovia",
+        "Las Palmas",
+        "Granada",
+        "Cusco",
+        "Barcelona"
+      ],
+      "answer": [
+        "Lima"
+      ]
+    },
+    {
+      "text": "¿A qué ciudad pertenece Convento de la Popa?",
+      "options": [
+        "Quito",
+        "Cuenca",
+        "Bilbao",
+        "Valencia",
+        "La Habana"
+      ],
+      "answer": [
+        "Cartagena de Indias"
+      ]
+    },
+    {
+      "text": "¿En qué ciudad se encuentra Playa de la Malagueta?",
+      "options": [
+        "Bogotá",
+        "Las Palmas",
+        "La Habana",
+        "Bilbao"
+      ],
+      "answer": [
+        "Málaga"
+      ]
+    }
+  ]
+}

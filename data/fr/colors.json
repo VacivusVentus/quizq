@@ -1,0 +1,1345 @@
+{
+  "theme": "Couleurs",
+  "questions": [
+    {
+      "text": "Quelle couleur évoque pour vous la mer au-dessus du récif de corail ?",
+      "options": [
+        "rouge",
+        "marron",
+        "blanc",
+        "orange",
+        "rose"
+      ],
+      "answer": [
+        "turquoise"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour la farine de blé ?",
+      "options": [
+        "violet",
+        "gris",
+        "bleu",
+        "jaune",
+        "marron",
+        "noir"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "Quelle couleur a la nuit sans lune ?",
+      "options": [
+        "turquoise",
+        "blanc",
+        "gris",
+        "vert"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le gland ?",
+      "options": [
+        "violet",
+        "jaune",
+        "rose",
+        "bleu",
+        "turquoise"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on le charbon ?",
+      "options": [
+        "violet",
+        "bleu",
+        "turquoise",
+        "rouge",
+        "rose"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on la carotte ?",
+      "options": [
+        "noir",
+        "rouge",
+        "jaune",
+        "gris",
+        "bleu",
+        "blanc"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "De quelle couleur est le corbeau ?",
+      "options": [
+        "gris",
+        "marron",
+        "violet",
+        "vert",
+        "bleu",
+        "turquoise"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous la fleur de cerisier ?",
+      "options": [
+        "noir",
+        "marron",
+        "violet",
+        "orange"
+      ],
+      "answer": [
+        "rose"
+      ]
+    },
+    {
+      "text": "l'aiguille de pin est de quelle couleur ?",
+      "options": [
+        "bleu",
+        "rouge",
+        "marron",
+        "rose",
+        "violet"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "De quelle couleur est l'eau de la mer des Caraïbes ?",
+      "options": [
+        "blanc",
+        "gris",
+        "violet",
+        "rouge",
+        "rose",
+        "vert"
+      ],
+      "answer": [
+        "turquoise"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on la craie ?",
+      "options": [
+        "jaune",
+        "marron",
+        "noir",
+        "bleu",
+        "orange",
+        "vert"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "Quelle couleur a la neige fraîche ?",
+      "options": [
+        "gris",
+        "jaune",
+        "violet",
+        "noir"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "De quelle couleur est la poudre de cacao ?",
+      "options": [
+        "bleu",
+        "rouge",
+        "turquoise",
+        "blanc",
+        "rose",
+        "noir"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "De quelle couleur est l'épi de maïs ?",
+      "options": [
+        "turquoise",
+        "orange",
+        "blanc",
+        "rose",
+        "marron"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le cône de signalisation ?",
+      "options": [
+        "marron",
+        "gris",
+        "vert",
+        "noir",
+        "violet",
+        "jaune"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "Quelle couleur a le pain complet ?",
+      "options": [
+        "vert",
+        "violet",
+        "jaune",
+        "noir"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "l'amanite tue-mouche est de quelle couleur ?",
+      "options": [
+        "vert",
+        "turquoise",
+        "jaune",
+        "marron"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on l'eau peu profonde d'un atoll ?",
+      "options": [
+        "noir",
+        "rouge",
+        "bleu",
+        "blanc",
+        "vert"
+      ],
+      "answer": [
+        "turquoise"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le café moulu ?",
+      "options": [
+        "gris",
+        "blanc",
+        "orange",
+        "rose",
+        "noir",
+        "vert"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous l'herbe au printemps ?",
+      "options": [
+        "rose",
+        "marron",
+        "violet",
+        "rouge",
+        "orange"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "Quelle couleur a le chocolat ?",
+      "options": [
+        "gris",
+        "turquoise",
+        "vert",
+        "rouge",
+        "blanc"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le nuage de pluie ?",
+      "options": [
+        "orange",
+        "noir",
+        "vert",
+        "violet",
+        "turquoise",
+        "jaune"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "l'eau d'un lagon tropical est de quelle couleur ?",
+      "options": [
+        "bleu",
+        "marron",
+        "vert",
+        "noir"
+      ],
+      "answer": [
+        "turquoise"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on le miel ?",
+      "options": [
+        "orange",
+        "bleu",
+        "violet",
+        "rouge",
+        "turquoise"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "Quelle couleur a l'encre d'un stylo ?",
+      "options": [
+        "blanc",
+        "violet",
+        "marron",
+        "turquoise"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on le cochon ?",
+      "options": [
+        "rouge",
+        "turquoise",
+        "violet",
+        "noir",
+        "marron",
+        "jaune"
+      ],
+      "answer": [
+        "rose"
+      ]
+    },
+    {
+      "text": "le goudron est de quelle couleur ?",
+      "options": [
+        "bleu",
+        "jaune",
+        "rouge",
+        "gris",
+        "blanc"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous la Méditerranée ?",
+      "options": [
+        "rouge",
+        "noir",
+        "turquoise",
+        "gris"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "De quelle couleur est le lait ?",
+      "options": [
+        "bleu",
+        "rouge",
+        "violet",
+        "turquoise",
+        "jaune",
+        "gris"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "le cygne est de quelle couleur ?",
+      "options": [
+        "vert",
+        "noir",
+        "rouge",
+        "rose",
+        "bleu"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "Quelle couleur a le tournesol ?",
+      "options": [
+        "orange",
+        "rouge",
+        "gris",
+        "marron",
+        "noir"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "le bouchon de liège est de quelle couleur ?",
+      "options": [
+        "orange",
+        "bleu",
+        "jaune",
+        "blanc",
+        "rose"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "Quelle couleur a le sel de cuisine ?",
+      "options": [
+        "rouge",
+        "bleu",
+        "turquoise",
+        "violet",
+        "orange"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous le gilet de sauvetage ?",
+      "options": [
+        "blanc",
+        "turquoise",
+        "violet",
+        "noir",
+        "gris"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "Quelle couleur a le jus de carotte ?",
+      "options": [
+        "gris",
+        "vert",
+        "turquoise",
+        "marron",
+        "rouge"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous le trèfle ?",
+      "options": [
+        "bleu",
+        "marron",
+        "noir",
+        "jaune"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "Quelle couleur a le citron mûr ?",
+      "options": [
+        "marron",
+        "blanc",
+        "rouge",
+        "vert"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour la moutarde ?",
+      "options": [
+        "bleu",
+        "noir",
+        "turquoise",
+        "vert",
+        "gris",
+        "marron"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on l'asphalte mouillé ?",
+      "options": [
+        "violet",
+        "blanc",
+        "rose",
+        "vert",
+        "noir"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on la cannelle ?",
+      "options": [
+        "rouge",
+        "blanc",
+        "gris",
+        "violet",
+        "noir",
+        "turquoise"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "Quelle couleur a la prune mûre ?",
+      "options": [
+        "rouge",
+        "bleu",
+        "rose",
+        "orange",
+        "noir"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "le béton est de quelle couleur ?",
+      "options": [
+        "marron",
+        "turquoise",
+        "jaune",
+        "violet"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on le pneu de voiture ?",
+      "options": [
+        "gris",
+        "vert",
+        "marron",
+        "violet",
+        "turquoise",
+        "rouge"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "le flamant est de quelle couleur ?",
+      "options": [
+        "marron",
+        "gris",
+        "violet",
+        "turquoise",
+        "vert"
+      ],
+      "answer": [
+        "rose"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous la cendre ?",
+      "options": [
+        "blanc",
+        "rouge",
+        "turquoise",
+        "vert"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le rubis ?",
+      "options": [
+        "bleu",
+        "orange",
+        "rose",
+        "marron",
+        "vert",
+        "blanc"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "le ballon de basket est de quelle couleur ?",
+      "options": [
+        "turquoise",
+        "violet",
+        "noir",
+        "rouge"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "De quelle couleur est le pétrole brut ?",
+      "options": [
+        "rose",
+        "blanc",
+        "gris",
+        "jaune",
+        "orange"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "la lavande est de quelle couleur ?",
+      "options": [
+        "jaune",
+        "vert",
+        "turquoise",
+        "rouge"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "Quelle couleur a le ciment ?",
+      "options": [
+        "blanc",
+        "noir",
+        "violet",
+        "orange"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour l'améthyste ?",
+      "options": [
+        "blanc",
+        "rose",
+        "turquoise",
+        "gris",
+        "jaune",
+        "orange"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous le nuage par beau temps ?",
+      "options": [
+        "vert",
+        "marron",
+        "violet",
+        "gris"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on l'avocat ?",
+      "options": [
+        "rouge",
+        "bleu",
+        "gris",
+        "noir",
+        "rose",
+        "turquoise"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on la tomate mûre ?",
+      "options": [
+        "gris",
+        "orange",
+        "noir",
+        "rose",
+        "marron"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "De quelle couleur est la mandarine mûre ?",
+      "options": [
+        "marron",
+        "rose",
+        "rouge",
+        "gris",
+        "violet"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "De quelle couleur est le pigeon ?",
+      "options": [
+        "rose",
+        "orange",
+        "violet",
+        "vert",
+        "blanc",
+        "rouge"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on la châtaigne ?",
+      "options": [
+        "blanc",
+        "gris",
+        "bleu",
+        "jaune",
+        "violet"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous la citrouille ?",
+      "options": [
+        "jaune",
+        "rouge",
+        "marron",
+        "noir"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "Quelle couleur a la barbe à papa ?",
+      "options": [
+        "turquoise",
+        "marron",
+        "vert",
+        "jaune",
+        "gris"
+      ],
+      "answer": [
+        "rose"
+      ]
+    },
+    {
+      "text": "Quelle couleur a le coquelicot ?",
+      "options": [
+        "orange",
+        "bleu",
+        "gris",
+        "noir",
+        "marron"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on le myosotis ?",
+      "options": [
+        "orange",
+        "jaune",
+        "rose",
+        "gris",
+        "blanc"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "De quelle couleur est l'éléphant ?",
+      "options": [
+        "orange",
+        "bleu",
+        "marron",
+        "violet",
+        "vert"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le loup ?",
+      "options": [
+        "jaune",
+        "marron",
+        "blanc",
+        "violet",
+        "orange"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous le crocus ?",
+      "options": [
+        "rouge",
+        "orange",
+        "vert",
+        "marron",
+        "turquoise"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous la suie ?",
+      "options": [
+        "rose",
+        "violet",
+        "vert",
+        "turquoise",
+        "rouge"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "le ciel clair en journée est de quelle couleur ?",
+      "options": [
+        "violet",
+        "blanc",
+        "noir",
+        "turquoise"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour la panthère ?",
+      "options": [
+        "marron",
+        "blanc",
+        "jaune",
+        "violet",
+        "rouge"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "De quelle couleur est le sang ?",
+      "options": [
+        "marron",
+        "violet",
+        "bleu",
+        "turquoise",
+        "gris"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "le riz cuit est de quelle couleur ?",
+      "options": [
+        "rose",
+        "rouge",
+        "marron",
+        "jaune"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "De quelle couleur est la fraise mûre ?",
+      "options": [
+        "turquoise",
+        "rose",
+        "blanc",
+        "bleu",
+        "jaune",
+        "vert"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le soleil ?",
+      "options": [
+        "rouge",
+        "turquoise",
+        "violet",
+        "noir",
+        "blanc"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "le poussin est de quelle couleur ?",
+      "options": [
+        "orange",
+        "vert",
+        "violet",
+        "blanc",
+        "gris"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le petit pois ?",
+      "options": [
+        "rouge",
+        "noir",
+        "orange",
+        "turquoise",
+        "jaune"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le jean ?",
+      "options": [
+        "rouge",
+        "rose",
+        "marron",
+        "vert",
+        "noir"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "le sirop de grenadine est de quelle couleur ?",
+      "options": [
+        "marron",
+        "blanc",
+        "orange",
+        "violet",
+        "bleu"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous le jais ?",
+      "options": [
+        "rouge",
+        "gris",
+        "turquoise",
+        "blanc"
+      ],
+      "answer": [
+        "noir"
+      ]
+    },
+    {
+      "text": "Quelle couleur a la cerise mûre ?",
+      "options": [
+        "blanc",
+        "turquoise",
+        "jaune",
+        "vert"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "le canari est de quelle couleur ?",
+      "options": [
+        "violet",
+        "marron",
+        "vert",
+        "rose"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on l'iris ?",
+      "options": [
+        "noir",
+        "blanc",
+        "marron",
+        "bleu",
+        "vert"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on la banane ?",
+      "options": [
+        "turquoise",
+        "rouge",
+        "rose",
+        "violet",
+        "vert",
+        "bleu"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous la boue après la pluie ?",
+      "options": [
+        "gris",
+        "turquoise",
+        "violet",
+        "blanc",
+        "vert"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous le saphir ?",
+      "options": [
+        "marron",
+        "jaune",
+        "gris",
+        "noir",
+        "rose"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on le lapis-lazuli ?",
+      "options": [
+        "orange",
+        "gris",
+        "turquoise",
+        "jaune",
+        "rose",
+        "violet"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour la framboise ?",
+      "options": [
+        "rose",
+        "turquoise",
+        "blanc",
+        "bleu",
+        "marron"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous le pissenlit ?",
+      "options": [
+        "turquoise",
+        "bleu",
+        "marron",
+        "noir"
+      ],
+      "answer": [
+        "jaune"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous la fumée d'un feu de camp ?",
+      "options": [
+        "bleu",
+        "orange",
+        "marron",
+        "vert",
+        "rose"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "De quelle couleur décrit-on la papaye mûre ?",
+      "options": [
+        "vert",
+        "jaune",
+        "bleu",
+        "rouge",
+        "blanc"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "De quelle couleur est la myrtille ?",
+      "options": [
+        "noir",
+        "gris",
+        "turquoise",
+        "rose",
+        "rouge",
+        "vert"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "De quelle couleur est l'abricot mûr ?",
+      "options": [
+        "blanc",
+        "violet",
+        "noir",
+        "jaune",
+        "bleu",
+        "vert"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "l'écorce du chêne est de quelle couleur ?",
+      "options": [
+        "blanc",
+        "noir",
+        "rose",
+        "orange"
+      ],
+      "answer": [
+        "marron"
+      ]
+    },
+    {
+      "text": "De quelle couleur est la marguerite ?",
+      "options": [
+        "turquoise",
+        "violet",
+        "vert",
+        "bleu",
+        "marron"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour la pivoine ?",
+      "options": [
+        "gris",
+        "turquoise",
+        "blanc",
+        "marron",
+        "rouge",
+        "bleu"
+      ],
+      "answer": [
+        "rose"
+      ]
+    },
+    {
+      "text": "Quelle couleur évoque pour vous le camion de pompiers ?",
+      "options": [
+        "bleu",
+        "violet",
+        "gris",
+        "rose",
+        "orange"
+      ],
+      "answer": [
+        "rouge"
+      ]
+    },
+    {
+      "text": "Quelle couleur a la sauterelle ?",
+      "options": [
+        "gris",
+        "rose",
+        "noir",
+        "bleu"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "Quelle couleur a la souris ?",
+      "options": [
+        "vert",
+        "jaune",
+        "marron",
+        "turquoise",
+        "noir"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour l'épinard ?",
+      "options": [
+        "violet",
+        "noir",
+        "gris",
+        "rose",
+        "orange",
+        "marron"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "De quelle couleur est l'aubergine ?",
+      "options": [
+        "marron",
+        "turquoise",
+        "jaune",
+        "rose",
+        "orange"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "De quelle couleur est le brocoli ?",
+      "options": [
+        "gris",
+        "rose",
+        "orange",
+        "violet",
+        "jaune"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "De quelle couleur est le concombre ?",
+      "options": [
+        "rose",
+        "blanc",
+        "noir",
+        "orange",
+        "turquoise",
+        "bleu"
+      ],
+      "answer": [
+        "vert"
+      ]
+    },
+    {
+      "text": "De quelle couleur est le pétale de l'églantier ?",
+      "options": [
+        "gris",
+        "turquoise",
+        "violet",
+        "marron",
+        "jaune"
+      ],
+      "answer": [
+        "rose"
+      ]
+    },
+    {
+      "text": "Quelle couleur vient à l'esprit pour le sucre ?",
+      "options": [
+        "noir",
+        "gris",
+        "rouge",
+        "violet",
+        "bleu"
+      ],
+      "answer": [
+        "blanc"
+      ]
+    },
+    {
+      "text": "l'océan est de quelle couleur ?",
+      "options": [
+        "rouge",
+        "noir",
+        "orange",
+        "violet",
+        "rose"
+      ],
+      "answer": [
+        "bleu"
+      ]
+    },
+    {
+      "text": "Quelle couleur a la feuille de menthe ?",
+      "options": [
+        "marron",
+        "gris",
+        "turquoise",
+        "rouge",
+        "orange"
+      ],
+      "answer": [
+        "vert"
+      ]
+    }
+  ]
+}

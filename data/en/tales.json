@@ -1,0 +1,1573 @@
+{
+  "theme": "Fairy Tales and Their Characters",
+  "questions": [
+    {
+      "text": "Which of these fairy tales tells of a cooking pot?",
+      "options": [
+        "Rapunzel",
+        "Goldilocks and the Three Bears",
+        "The Princess and the Pea",
+        "Rumpelstiltskin",
+        "The Little Mermaid",
+        "The Pied Piper"
+      ],
+      "answer": [
+        "Stone Soup"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a wall of thorns?",
+      "options": [
+        "The Snow Queen",
+        "The Fisherman and His Wife",
+        "The Elves and the Shoemaker",
+        "The Three Little Pigs",
+        "Jack and the Beanstalk",
+        "Stone Soup"
+      ],
+      "answer": [
+        "Sleeping Beauty"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a mighty emperor?",
+      "options": [
+        "Goldilocks and the Three Bears",
+        "Beauty and the Beast",
+        "The Snow Queen",
+        "The Tinderbox",
+        "Rapunzel"
+      ],
+      "answer": [
+        "The Nightingale"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a glass slipper?",
+      "options": [
+        "Aladdin",
+        "Beauty and the Beast",
+        "The Snow Queen",
+        "Rapunzel",
+        "The Three Little Pigs"
+      ],
+      "answer": [
+        "Cinderella"
+      ]
+    },
+    {
+      "text": "The detail a vow of silence belongs to which fairy tale?",
+      "options": [
+        "Snow White",
+        "Goldilocks and the Three Bears",
+        "The Snow Queen",
+        "The Pied Piper"
+      ],
+      "answer": [
+        "The Wild Swans"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a pair of boots?",
+      "options": [
+        "The Ugly Duckling",
+        "The Snow Queen",
+        "Little Red Riding Hood",
+        "Aladdin"
+      ],
+      "answer": [
+        "Puss in Boots"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a powerful genie?",
+      "options": [
+        "The Nightingale",
+        "Stone Soup",
+        "Thumbelina",
+        "The Snow Queen",
+        "The Three Little Pigs",
+        "The Tinderbox"
+      ],
+      "answer": [
+        "Aladdin"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a broken promise appear?",
+      "options": [
+        "Hansel and Gretel",
+        "Little Red Riding Hood",
+        "The Ugly Duckling",
+        "The Nightingale"
+      ],
+      "answer": [
+        "The Frog Prince"
+      ]
+    },
+    {
+      "text": "Which item belongs to the story “Beauty and the Beast”?",
+      "options": [
+        "fine leather",
+        "a magic fish",
+        "a brave woodcutter",
+        "a paper ballerina",
+        "guessing the odd name",
+        "an ogre"
+      ],
+      "answer": [
+        "an enchanted rose"
+      ]
+    },
+    {
+      "text": "Which element belongs to the fairy tale “The Nightingale”?",
+      "options": [
+        "mirror shards",
+        "a poor hut",
+        "oil jars",
+        "a toad",
+        "a lonely winter"
+      ],
+      "answer": [
+        "a humble kitchen maid"
+      ]
+    },
+    {
+      "text": "The detail a farmyard belongs to which fairy tale?",
+      "options": [
+        "Little Red Riding Hood",
+        "Rapunzel",
+        "The Twelve Dancing Princesses",
+        "The Brave Little Tailor"
+      ],
+      "answer": [
+        "The Ugly Duckling"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a toad?",
+      "options": [
+        "The Nightingale",
+        "Aladdin",
+        "The Princess and the Pea",
+        "The Twelve Dancing Princesses",
+        "The Tinderbox"
+      ],
+      "answer": [
+        "Thumbelina"
+      ]
+    },
+    {
+      "text": "Which tale is invisible cloth a part of?",
+      "options": [
+        "Puss in Boots",
+        "The Little Mermaid",
+        "The Snow Queen",
+        "The Golden Goose",
+        "Rumpelstiltskin"
+      ],
+      "answer": [
+        "The Emperor's New Clothes"
+      ]
+    },
+    {
+      "text": "Which fairy tale features Seven at one blow?",
+      "options": [
+        "The Three Little Pigs",
+        "The Golden Goose",
+        "Little Red Riding Hood",
+        "Stone Soup",
+        "The Little Mermaid",
+        "Puss in Boots"
+      ],
+      "answer": [
+        "The Brave Little Tailor"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a high window appear?",
+      "options": [
+        "Rumpelstiltskin",
+        "The Fisherman and His Wife",
+        "The Three Little Pigs",
+        "The Frog Prince"
+      ],
+      "answer": [
+        "Rapunzel"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a wide belt?",
+      "options": [
+        "Sleeping Beauty",
+        "Rumpelstiltskin",
+        "The Tinderbox",
+        "The Nightingale",
+        "Thumbelina"
+      ],
+      "answer": [
+        "The Brave Little Tailor"
+      ]
+    },
+    {
+      "text": "The detail a dark fairy's curse belongs to which fairy tale?",
+      "options": [
+        "The Twelve Dancing Princesses",
+        "The Nightingale",
+        "Puss in Boots",
+        "The Ugly Duckling",
+        "The Three Little Pigs"
+      ],
+      "answer": [
+        "Sleeping Beauty"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a poisoned apple?",
+      "options": [
+        "Jack and the Beanstalk",
+        "The Princess and the Pea",
+        "Rapunzel",
+        "Hansel and Gretel",
+        "The Twelve Dancing Princesses"
+      ],
+      "answer": [
+        "Snow White"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of twenty mattresses?",
+      "options": [
+        "The Emperor's New Clothes",
+        "Aladdin",
+        "Sleeping Beauty",
+        "The Little Mermaid",
+        "The Brave Little Tailor",
+        "The Fisherman and His Wife"
+      ],
+      "answer": [
+        "The Princess and the Pea"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a secret trapdoor?",
+      "options": [
+        "Stone Soup",
+        "Hansel and Gretel",
+        "Puss in Boots",
+        "Beauty and the Beast",
+        "The Brave Little Tailor"
+      ],
+      "answer": [
+        "The Twelve Dancing Princesses"
+      ]
+    },
+    {
+      "text": "The detail fine leather belongs to which fairy tale?",
+      "options": [
+        "The Wild Swans",
+        "The Pied Piper",
+        "The Golden Goose",
+        "Jack and the Beanstalk"
+      ],
+      "answer": [
+        "The Elves and the Shoemaker"
+      ]
+    },
+    {
+      "text": "Which item belongs to the story “The Golden Goose”?",
+      "options": [
+        "Kay and Gerda",
+        "a farmyard",
+        "a pumpkin coach",
+        "a bowl of porridge",
+        "a deep well"
+      ],
+      "answer": [
+        "a simpleton"
+      ]
+    },
+    {
+      "text": "Which of these are part of “Goldilocks and the Three Bears”?",
+      "options": [
+        "worn-out shoes",
+        "an enchanted rose",
+        "a powerful genie",
+        "a smooth stone",
+        "guessing the odd name",
+        "flint and steel"
+      ],
+      "answer": [
+        "three chairs",
+        "three beds"
+      ]
+    },
+    {
+      "text": "Which of these is found in “Rapunzel”?",
+      "options": [
+        "a humble kitchen maid",
+        "three beds",
+        "a vow of silence",
+        "a farmyard",
+        "a paper ballerina"
+      ],
+      "answer": [
+        "a high window"
+      ]
+    },
+    {
+      "text": "The detail a little toy boat belongs to which fairy tale?",
+      "options": [
+        "The Fisherman and His Wife",
+        "Ali Baba",
+        "The Nightingale",
+        "The Frog Prince"
+      ],
+      "answer": [
+        "The Steadfast Tin Soldier"
+      ]
+    },
+    {
+      "text": "Which of these are part of “The Twelve Dancing Princesses”?",
+      "options": [
+        "invisible cloth",
+        "her grandmother",
+        "a trail of breadcrumbs",
+        "a graceful swan",
+        "the forty thieves",
+        "a running chase"
+      ],
+      "answer": [
+        "worn-out shoes",
+        "an underground castle"
+      ]
+    },
+    {
+      "text": "Which tale is a graceful swan a part of?",
+      "options": [
+        "Sleeping Beauty",
+        "Snow White",
+        "Stone Soup",
+        "The Frog Prince",
+        "The Nightingale",
+        "The Emperor's New Clothes"
+      ],
+      "answer": [
+        "The Ugly Duckling"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a baker's oven?",
+      "options": [
+        "The Tinderbox",
+        "Aladdin",
+        "Stone Soup",
+        "Rumpelstiltskin",
+        "Beauty and the Beast",
+        "Goldilocks and the Three Bears"
+      ],
+      "answer": [
+        "Hansel and Gretel"
+      ]
+    },
+    {
+      "text": "Which element belongs to the fairy tale “The Princess and the Pea”?",
+      "options": [
+        "an enchanted rose",
+        "a one-legged soldier",
+        "a kind swallow",
+        "the miller's son",
+        "a trail of breadcrumbs",
+        "a straw house"
+      ],
+      "answer": [
+        "a sleepless night"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a tall tower?",
+      "options": [
+        "The Fisherman and His Wife",
+        "The Gingerbread Man",
+        "Sleeping Beauty",
+        "The Frog Prince",
+        "The Twelve Dancing Princesses"
+      ],
+      "answer": [
+        "Rapunzel"
+      ]
+    },
+    {
+      "text": "The detail a simpleton belongs to which fairy tale?",
+      "options": [
+        "The Fisherman and His Wife",
+        "The Tinderbox",
+        "The Frog Prince",
+        "Stone Soup",
+        "The Brave Little Tailor"
+      ],
+      "answer": [
+        "The Golden Goose"
+      ]
+    },
+    {
+      "text": "The detail a smooth stone belongs to which fairy tale?",
+      "options": [
+        "The Frog Prince",
+        "Snow White",
+        "The Twelve Dancing Princesses",
+        "The Elves and the Shoemaker",
+        "The Ugly Duckling"
+      ],
+      "answer": [
+        "Stone Soup"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a mechanical bird?",
+      "options": [
+        "Puss in Boots",
+        "Goldilocks and the Three Bears",
+        "The Little Mermaid",
+        "Snow White"
+      ],
+      "answer": [
+        "The Nightingale"
+      ]
+    },
+    {
+      "text": "Which tale is three strange dogs a part of?",
+      "options": [
+        "Beauty and the Beast",
+        "The Steadfast Tin Soldier",
+        "The Emperor's New Clothes",
+        "The Brave Little Tailor",
+        "The Three Little Pigs"
+      ],
+      "answer": [
+        "The Tinderbox"
+      ]
+    },
+    {
+      "text": "Which tale is a paper ballerina a part of?",
+      "options": [
+        "The Frog Prince",
+        "Beauty and the Beast",
+        "The Three Little Pigs",
+        "Goldilocks and the Three Bears",
+        "The Tinderbox",
+        "The Fisherman and His Wife"
+      ],
+      "answer": [
+        "The Steadfast Tin Soldier"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a talking mirror?",
+      "options": [
+        "The Twelve Dancing Princesses",
+        "The Little Mermaid",
+        "The Emperor's New Clothes",
+        "The Brave Little Tailor",
+        "Cinderella"
+      ],
+      "answer": [
+        "Snow White"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a long braid?",
+      "options": [
+        "The Tinderbox",
+        "The Twelve Dancing Princesses",
+        "Jack and the Beanstalk",
+        "The Gingerbread Man",
+        "The Snow Queen",
+        "The Pied Piper"
+      ],
+      "answer": [
+        "Rapunzel"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a single pea?",
+      "options": [
+        "Goldilocks and the Three Bears",
+        "Rapunzel",
+        "The Snow Queen",
+        "The Wild Swans"
+      ],
+      "answer": [
+        "The Princess and the Pea"
+      ]
+    },
+    {
+      "text": "Which of these elements are found in “The Frog Prince”?",
+      "options": [
+        "secretive elves",
+        "three chairs",
+        "a toad",
+        "a kind swallow",
+        "a secret trapdoor"
+      ],
+      "answer": [
+        "a golden ball",
+        "a broken promise"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a truthful child?",
+      "options": [
+        "Rumpelstiltskin",
+        "Sleeping Beauty",
+        "Snow White",
+        "Goldilocks and the Three Bears",
+        "Jack and the Beanstalk",
+        "The Brave Little Tailor"
+      ],
+      "answer": [
+        "The Emperor's New Clothes"
+      ]
+    },
+    {
+      "text": "Which tale is a fairy godmother a part of?",
+      "options": [
+        "Puss in Boots",
+        "Sleeping Beauty",
+        "Goldilocks and the Three Bears",
+        "The Tinderbox",
+        "Rapunzel",
+        "The Princess and the Pea"
+      ],
+      "answer": [
+        "Cinderella"
+      ]
+    },
+    {
+      "text": "Which tale is eleven brothers a part of?",
+      "options": [
+        "Puss in Boots",
+        "Goldilocks and the Three Bears",
+        "The Snow Queen",
+        "Stone Soup",
+        "Sleeping Beauty",
+        "The Frog Prince"
+      ],
+      "answer": [
+        "The Wild Swans"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a swarm of rats?",
+      "options": [
+        "The Steadfast Tin Soldier",
+        "The Fisherman and His Wife",
+        "Beauty and the Beast",
+        "Stone Soup"
+      ],
+      "answer": [
+        "The Pied Piper"
+      ]
+    },
+    {
+      "text": "Which of these belongs to “Ali Baba”?",
+      "options": [
+        "a simpleton",
+        "the miller's son",
+        "a brave woodcutter",
+        "shirts of nettle"
+      ],
+      "answer": [
+        "oil jars"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a poor shoemaker?",
+      "options": [
+        "The Emperor's New Clothes",
+        "The Twelve Dancing Princesses",
+        "The Nightingale",
+        "Aladdin",
+        "The Three Little Pigs"
+      ],
+      "answer": [
+        "The Elves and the Shoemaker"
+      ]
+    },
+    {
+      "text": "Which item belongs to the story “The Little Mermaid”?",
+      "options": [
+        "three strange dogs",
+        "Kay and Gerda",
+        "a humble kitchen maid",
+        "a long braid",
+        "guessing the odd name",
+        "a secret trapdoor"
+      ],
+      "answer": [
+        "a handsome prince"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a running chase?",
+      "options": [
+        "The Frog Prince",
+        "Rumpelstiltskin",
+        "The Twelve Dancing Princesses",
+        "Rapunzel",
+        "The Emperor's New Clothes",
+        "The Steadfast Tin Soldier"
+      ],
+      "answer": [
+        "The Gingerbread Man"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of guessing the odd name?",
+      "options": [
+        "The Elves and the Shoemaker",
+        "The Little Mermaid",
+        "Beauty and the Beast",
+        "The Princess and the Pea",
+        "The Three Little Pigs"
+      ],
+      "answer": [
+        "Rumpelstiltskin"
+      ]
+    },
+    {
+      "text": "Which two of these details come from “Hansel and Gretel”?",
+      "options": [
+        "stuck travellers",
+        "a chimney",
+        "a magic pipe",
+        "a wall of thorns",
+        "a brave woodcutter"
+      ],
+      "answer": [
+        "a gingerbread house",
+        "a trail of breadcrumbs"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a brave woodcutter appear?",
+      "options": [
+        "The Little Mermaid",
+        "The Golden Goose",
+        "Hansel and Gretel",
+        "Aladdin"
+      ],
+      "answer": [
+        "Little Red Riding Hood"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a gigantic beanstalk?",
+      "options": [
+        "Goldilocks and the Three Bears",
+        "The Three Little Pigs",
+        "The Princess and the Pea",
+        "The Frog Prince",
+        "Ali Baba"
+      ],
+      "answer": [
+        "Jack and the Beanstalk"
+      ]
+    },
+    {
+      "text": "The detail a trail of breadcrumbs belongs to which fairy tale?",
+      "options": [
+        "The Elves and the Shoemaker",
+        "The Princess and the Pea",
+        "The Steadfast Tin Soldier",
+        "Ali Baba",
+        "The Frog Prince"
+      ],
+      "answer": [
+        "Hansel and Gretel"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a straw house?",
+      "options": [
+        "The Nightingale",
+        "The Emperor's New Clothes",
+        "Little Red Riding Hood",
+        "Beauty and the Beast",
+        "Hansel and Gretel"
+      ],
+      "answer": [
+        "The Three Little Pigs"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a flying sleigh appear?",
+      "options": [
+        "The Ugly Duckling",
+        "The Brave Little Tailor",
+        "The Frog Prince",
+        "Snow White",
+        "The Little Mermaid"
+      ],
+      "answer": [
+        "The Snow Queen"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet mirror shards?",
+      "options": [
+        "Rapunzel",
+        "Sleeping Beauty",
+        "Aladdin",
+        "Jack and the Beanstalk"
+      ],
+      "answer": [
+        "The Snow Queen"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet magic beans?",
+      "options": [
+        "The Little Mermaid",
+        "Beauty and the Beast",
+        "The Brave Little Tailor",
+        "Rapunzel"
+      ],
+      "answer": [
+        "Jack and the Beanstalk"
+      ]
+    },
+    {
+      "text": "Which tale is a gingerbread house a part of?",
+      "options": [
+        "The Fisherman and His Wife",
+        "The Nightingale",
+        "The Golden Goose",
+        "The Elves and the Shoemaker",
+        "Beauty and the Beast"
+      ],
+      "answer": [
+        "Hansel and Gretel"
+      ]
+    },
+    {
+      "text": "The detail three chairs belongs to which fairy tale?",
+      "options": [
+        "The Wild Swans",
+        "The Twelve Dancing Princesses",
+        "Thumbelina",
+        "Puss in Boots"
+      ],
+      "answer": [
+        "Goldilocks and the Three Bears"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a magic lamp?",
+      "options": [
+        "The Gingerbread Man",
+        "The Elves and the Shoemaker",
+        "The Brave Little Tailor",
+        "The Snow Queen",
+        "The Steadfast Tin Soldier"
+      ],
+      "answer": [
+        "Aladdin"
+      ]
+    },
+    {
+      "text": "Which of these belongs to “Little Red Riding Hood”?",
+      "options": [
+        "secretive elves",
+        "a long braid",
+        "Open Sesame",
+        "three chairs"
+      ],
+      "answer": [
+        "a brave woodcutter"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a kind swallow appear?",
+      "options": [
+        "The Fisherman and His Wife",
+        "The Tinderbox",
+        "The Elves and the Shoemaker",
+        "Little Red Riding Hood"
+      ],
+      "answer": [
+        "Thumbelina"
+      ]
+    },
+    {
+      "text": "Which tale is a spinning wheel a part of?",
+      "options": [
+        "Ali Baba",
+        "The Steadfast Tin Soldier",
+        "The Tinderbox",
+        "The Emperor's New Clothes",
+        "The Golden Goose",
+        "Snow White"
+      ],
+      "answer": [
+        "Rumpelstiltskin"
+      ]
+    },
+    {
+      "text": "Which of these belong to “Aladdin”?",
+      "options": [
+        "a trail of breadcrumbs",
+        "fine leather",
+        "magic beans",
+        "a high window"
+      ],
+      "answer": [
+        "a magic ring",
+        "a powerful genie"
+      ]
+    },
+    {
+      "text": "The detail two swindlers belongs to which fairy tale?",
+      "options": [
+        "Ali Baba",
+        "The Ugly Duckling",
+        "Stone Soup",
+        "Puss in Boots",
+        "Rumpelstiltskin"
+      ],
+      "answer": [
+        "The Emperor's New Clothes"
+      ]
+    },
+    {
+      "text": "Which element belongs to the fairy tale “Snow White”?",
+      "options": [
+        "an ogre",
+        "a field mouse",
+        "a sea witch",
+        "a truthful child",
+        "a trail of breadcrumbs",
+        "a flying sleigh"
+      ],
+      "answer": [
+        "seven dwarfs"
+      ]
+    },
+    {
+      "text": "Which of these belongs to “The Pied Piper”?",
+      "options": [
+        "a golden hen",
+        "a straw house",
+        "Open Sesame",
+        "a wall of thorns",
+        "a cooking pot"
+      ],
+      "answer": [
+        "a magic pipe"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a deep well?",
+      "options": [
+        "Sleeping Beauty",
+        "The Twelve Dancing Princesses",
+        "Rapunzel",
+        "Cinderella",
+        "Thumbelina",
+        "The Princess and the Pea"
+      ],
+      "answer": [
+        "The Frog Prince"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a handsome prince?",
+      "options": [
+        "The Elves and the Shoemaker",
+        "The Pied Piper",
+        "Snow White",
+        "Sleeping Beauty",
+        "Goldilocks and the Three Bears"
+      ],
+      "answer": [
+        "The Little Mermaid"
+      ]
+    },
+    {
+      "text": "Which fairy tale features an ogre?",
+      "options": [
+        "The Elves and the Shoemaker",
+        "Aladdin",
+        "The Nightingale",
+        "Sleeping Beauty",
+        "The Gingerbread Man"
+      ],
+      "answer": [
+        "Puss in Boots"
+      ]
+    },
+    {
+      "text": "Which tale is a goose with golden feathers a part of?",
+      "options": [
+        "The Brave Little Tailor",
+        "Goldilocks and the Three Bears",
+        "The Ugly Duckling",
+        "Snow White",
+        "Rumpelstiltskin"
+      ],
+      "answer": [
+        "The Golden Goose"
+      ]
+    },
+    {
+      "text": "Which two of these details come from “The Brave Little Tailor”?",
+      "options": [
+        "the miller's daughter",
+        "a flying sleigh",
+        "a vow of silence",
+        "an enchanted castle",
+        "a dark fairy's curse"
+      ],
+      "answer": [
+        "Seven at one blow",
+        "a wide belt"
+      ]
+    },
+    {
+      "text": "Which fairy tale features an underground castle?",
+      "options": [
+        "The Tinderbox",
+        "The Frog Prince",
+        "Puss in Boots",
+        "Rumpelstiltskin",
+        "Rapunzel",
+        "The Wild Swans"
+      ],
+      "answer": [
+        "The Twelve Dancing Princesses"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a golden ball?",
+      "options": [
+        "The Twelve Dancing Princesses",
+        "Cinderella",
+        "Thumbelina",
+        "The Ugly Duckling",
+        "The Nightingale"
+      ],
+      "answer": [
+        "The Frog Prince"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a chimney appear?",
+      "options": [
+        "The Steadfast Tin Soldier",
+        "Rapunzel",
+        "The Frog Prince",
+        "Cinderella"
+      ],
+      "answer": [
+        "The Three Little Pigs"
+      ]
+    },
+    {
+      "text": "Which of these belongs to “The Gingerbread Man”?",
+      "options": [
+        "magic beans",
+        "a cooking pot",
+        "a baker's oven",
+        "a deep well"
+      ],
+      "answer": [
+        "a running chase"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a brick house?",
+      "options": [
+        "Cinderella",
+        "The Tinderbox",
+        "Jack and the Beanstalk",
+        "Puss in Boots",
+        "The Steadfast Tin Soldier",
+        "The Brave Little Tailor"
+      ],
+      "answer": [
+        "The Three Little Pigs"
+      ]
+    },
+    {
+      "text": "Which tale is secretive elves a part of?",
+      "options": [
+        "Aladdin",
+        "The Ugly Duckling",
+        "The Brave Little Tailor",
+        "The Fisherman and His Wife",
+        "Cinderella",
+        "Rapunzel"
+      ],
+      "answer": [
+        "The Elves and the Shoemaker"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a lonely winter?",
+      "options": [
+        "The Nightingale",
+        "Beauty and the Beast",
+        "The Twelve Dancing Princesses",
+        "The Golden Goose",
+        "The Little Mermaid"
+      ],
+      "answer": [
+        "The Ugly Duckling"
+      ]
+    },
+    {
+      "text": "Which tale is a spindle a part of?",
+      "options": [
+        "The Little Mermaid",
+        "Rapunzel",
+        "The Ugly Duckling",
+        "Beauty and the Beast",
+        "The Pied Piper"
+      ],
+      "answer": [
+        "Sleeping Beauty"
+      ]
+    },
+    {
+      "text": "The detail an enchanted castle belongs to which fairy tale?",
+      "options": [
+        "The Ugly Duckling",
+        "Stone Soup",
+        "Cinderella",
+        "Rumpelstiltskin"
+      ],
+      "answer": [
+        "Beauty and the Beast"
+      ]
+    },
+    {
+      "text": "Which tale is a greedy wife a part of?",
+      "options": [
+        "Goldilocks and the Three Bears",
+        "The Twelve Dancing Princesses",
+        "Little Red Riding Hood",
+        "The Princess and the Pea",
+        "Ali Baba"
+      ],
+      "answer": [
+        "The Fisherman and His Wife"
+      ]
+    },
+    {
+      "text": "In which fairy tale does flint and steel appear?",
+      "options": [
+        "The Pied Piper",
+        "The Twelve Dancing Princesses",
+        "Puss in Boots",
+        "Aladdin"
+      ],
+      "answer": [
+        "The Tinderbox"
+      ]
+    },
+    {
+      "text": "In which fairy tale do we meet a sea witch?",
+      "options": [
+        "The Twelve Dancing Princesses",
+        "Ali Baba",
+        "The Nightingale",
+        "The Frog Prince"
+      ],
+      "answer": [
+        "The Little Mermaid"
+      ]
+    },
+    {
+      "text": "Which element belongs to the fairy tale “The Fisherman and His Wife”?",
+      "options": [
+        "a chimney",
+        "three chairs",
+        "Seven at one blow",
+        "a brave woodcutter",
+        "two swindlers"
+      ],
+      "answer": [
+        "a greedy wife"
+      ]
+    },
+    {
+      "text": "The detail the miller's daughter belongs to which fairy tale?",
+      "options": [
+        "The Twelve Dancing Princesses",
+        "The Gingerbread Man",
+        "The Snow Queen",
+        "Cinderella"
+      ],
+      "answer": [
+        "Rumpelstiltskin"
+      ]
+    },
+    {
+      "text": "Which tale is the forty thieves a part of?",
+      "options": [
+        "Thumbelina",
+        "Rapunzel",
+        "The Ugly Duckling",
+        "Beauty and the Beast",
+        "The Gingerbread Man"
+      ],
+      "answer": [
+        "Ali Baba"
+      ]
+    },
+    {
+      "text": "Which of these belong to “Jack and the Beanstalk”?",
+      "options": [
+        "a pair of boots",
+        "a little toy boat",
+        "a gingerbread house",
+        "a swarm of rats"
+      ],
+      "answer": [
+        "a gigantic beanstalk",
+        "a golden hen"
+      ]
+    },
+    {
+      "text": "Which tale is a cunning fox a part of?",
+      "options": [
+        "The Little Mermaid",
+        "The Twelve Dancing Princesses",
+        "The Nightingale",
+        "The Elves and the Shoemaker",
+        "The Pied Piper"
+      ],
+      "answer": [
+        "The Gingerbread Man"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of oil jars?",
+      "options": [
+        "The Fisherman and His Wife",
+        "Rumpelstiltskin",
+        "Aladdin",
+        "The Wild Swans",
+        "The Brave Little Tailor",
+        "The Tinderbox"
+      ],
+      "answer": [
+        "Ali Baba"
+      ]
+    },
+    {
+      "text": "In which fairy tale does shirts of nettle appear?",
+      "options": [
+        "Snow White",
+        "Cinderella",
+        "Ali Baba",
+        "Little Red Riding Hood",
+        "Goldilocks and the Three Bears"
+      ],
+      "answer": [
+        "The Wild Swans"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a magic fish appear?",
+      "options": [
+        "The Tinderbox",
+        "The Three Little Pigs",
+        "The Princess and the Pea",
+        "Cinderella"
+      ],
+      "answer": [
+        "The Fisherman and His Wife"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a field mouse?",
+      "options": [
+        "The Brave Little Tailor",
+        "Aladdin",
+        "The Golden Goose",
+        "The Frog Prince",
+        "Goldilocks and the Three Bears",
+        "Ali Baba"
+      ],
+      "answer": [
+        "Thumbelina"
+      ]
+    },
+    {
+      "text": "The detail seven dwarfs belongs to which fairy tale?",
+      "options": [
+        "The Elves and the Shoemaker",
+        "Sleeping Beauty",
+        "The Little Mermaid",
+        "The Fisherman and His Wife"
+      ],
+      "answer": [
+        "Snow White"
+      ]
+    },
+    {
+      "text": "Which fairy tale features Kay and Gerda?",
+      "options": [
+        "The Ugly Duckling",
+        "The Wild Swans",
+        "The Little Mermaid",
+        "Ali Baba",
+        "Cinderella"
+      ],
+      "answer": [
+        "The Snow Queen"
+      ]
+    },
+    {
+      "text": "In which fairy tale does the miller's son appear?",
+      "options": [
+        "Jack and the Beanstalk",
+        "Hansel and Gretel",
+        "The Princess and the Pea",
+        "Cinderella",
+        "Thumbelina"
+      ],
+      "answer": [
+        "Puss in Boots"
+      ]
+    },
+    {
+      "text": "Which of these is found in “The Tinderbox”?",
+      "options": [
+        "a poor hut",
+        "a kind swallow",
+        "fine leather",
+        "a voice given away",
+        "stuck travellers"
+      ],
+      "answer": [
+        "flint and steel"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a magic ring appear?",
+      "options": [
+        "The Elves and the Shoemaker",
+        "The Tinderbox",
+        "The Ugly Duckling",
+        "Puss in Boots"
+      ],
+      "answer": [
+        "Aladdin"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a one-legged soldier?",
+      "options": [
+        "The Little Mermaid",
+        "Thumbelina",
+        "Goldilocks and the Three Bears",
+        "Rumpelstiltskin",
+        "The Wild Swans"
+      ],
+      "answer": [
+        "The Steadfast Tin Soldier"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of three beds?",
+      "options": [
+        "The Snow Queen",
+        "Hansel and Gretel",
+        "The Princess and the Pea",
+        "The Gingerbread Man",
+        "Sleeping Beauty"
+      ],
+      "answer": [
+        "Goldilocks and the Three Bears"
+      ]
+    },
+    {
+      "text": "Which of these is found in “The Three Little Pigs”?",
+      "options": [
+        "a deep well",
+        "Seven at one blow",
+        "a poisoned apple",
+        "a one-legged soldier"
+      ],
+      "answer": [
+        "a straw house"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a pumpkin coach appear?",
+      "options": [
+        "Thumbelina",
+        "Aladdin",
+        "Beauty and the Beast",
+        "Puss in Boots",
+        "The Gingerbread Man"
+      ],
+      "answer": [
+        "Cinderella"
+      ]
+    },
+    {
+      "text": "Which item belongs to the story “The Emperor's New Clothes”?",
+      "options": [
+        "a voice given away",
+        "missing children",
+        "a cooking pot",
+        "an underground castle",
+        "a mechanical bird"
+      ],
+      "answer": [
+        "a truthful child"
+      ]
+    },
+    {
+      "text": "Which of these elements are found in “Thumbelina”?",
+      "options": [
+        "a brave woodcutter",
+        "mirror shards",
+        "a bowl of porridge",
+        "an enchanted rose",
+        "a fairy godmother"
+      ],
+      "answer": [
+        "a field mouse",
+        "a toad"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a sleepless night?",
+      "options": [
+        "Hansel and Gretel",
+        "Goldilocks and the Three Bears",
+        "The Ugly Duckling",
+        "Stone Soup",
+        "The Snow Queen"
+      ],
+      "answer": [
+        "The Princess and the Pea"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a voice given away appear?",
+      "options": [
+        "Thumbelina",
+        "The Steadfast Tin Soldier",
+        "Goldilocks and the Three Bears",
+        "Rapunzel",
+        "The Snow Queen"
+      ],
+      "answer": [
+        "The Little Mermaid"
+      ]
+    },
+    {
+      "text": "The detail Open Sesame belongs to which fairy tale?",
+      "options": [
+        "The Nightingale",
+        "Sleeping Beauty",
+        "The Elves and the Shoemaker",
+        "Beauty and the Beast",
+        "The Pied Piper"
+      ],
+      "answer": [
+        "Ali Baba"
+      ]
+    },
+    {
+      "text": "The detail a poor hut belongs to which fairy tale?",
+      "options": [
+        "Jack and the Beanstalk",
+        "The Emperor's New Clothes",
+        "The Wild Swans",
+        "Stone Soup",
+        "The Little Mermaid"
+      ],
+      "answer": [
+        "The Fisherman and His Wife"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a humble kitchen maid appear?",
+      "options": [
+        "The Pied Piper",
+        "The Golden Goose",
+        "The Elves and the Shoemaker",
+        "Goldilocks and the Three Bears",
+        "The Brave Little Tailor"
+      ],
+      "answer": [
+        "The Nightingale"
+      ]
+    },
+    {
+      "text": "In which fairy tale does missing children appear?",
+      "options": [
+        "The Ugly Duckling",
+        "Cinderella",
+        "The Tinderbox",
+        "The Gingerbread Man",
+        "Stone Soup"
+      ],
+      "answer": [
+        "The Pied Piper"
+      ]
+    },
+    {
+      "text": "Which fairy tale features a magic pipe?",
+      "options": [
+        "Goldilocks and the Three Bears",
+        "Rapunzel",
+        "The Three Little Pigs",
+        "Hansel and Gretel",
+        "Stone Soup"
+      ],
+      "answer": [
+        "The Pied Piper"
+      ]
+    },
+    {
+      "text": "The detail a wide river belongs to which fairy tale?",
+      "options": [
+        "Jack and the Beanstalk",
+        "The Brave Little Tailor",
+        "Puss in Boots",
+        "The Steadfast Tin Soldier",
+        "The Princess and the Pea"
+      ],
+      "answer": [
+        "The Gingerbread Man"
+      ]
+    },
+    {
+      "text": "Which of these belongs to “The Snow Queen”?",
+      "options": [
+        "a kind swallow",
+        "a poor hut",
+        "a fearsome beast",
+        "magic beans",
+        "a tall tower"
+      ],
+      "answer": [
+        "a flying sleigh"
+      ]
+    },
+    {
+      "text": "Which tale is a bowl of porridge a part of?",
+      "options": [
+        "Cinderella",
+        "The Ugly Duckling",
+        "Puss in Boots",
+        "Rapunzel",
+        "The Twelve Dancing Princesses",
+        "Ali Baba"
+      ],
+      "answer": [
+        "Goldilocks and the Three Bears"
+      ]
+    },
+    {
+      "text": "In which fairy tale does a golden hen appear?",
+      "options": [
+        "Cinderella",
+        "The Ugly Duckling",
+        "Rumpelstiltskin",
+        "Sleeping Beauty",
+        "The Golden Goose"
+      ],
+      "answer": [
+        "Jack and the Beanstalk"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of stuck travellers?",
+      "options": [
+        "Sleeping Beauty",
+        "The Wild Swans",
+        "Little Red Riding Hood",
+        "The Nightingale",
+        "Rumpelstiltskin",
+        "The Fisherman and His Wife"
+      ],
+      "answer": [
+        "The Golden Goose"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of a fearsome beast?",
+      "options": [
+        "Goldilocks and the Three Bears",
+        "Puss in Boots",
+        "The Twelve Dancing Princesses",
+        "The Princess and the Pea",
+        "The Emperor's New Clothes"
+      ],
+      "answer": [
+        "Beauty and the Beast"
+      ]
+    },
+    {
+      "text": "Which of these fairy tales tells of worn-out shoes?",
+      "options": [
+        "Rapunzel",
+        "Jack and the Beanstalk",
+        "The Ugly Duckling",
+        "The Frog Prince",
+        "Cinderella"
+      ],
+      "answer": [
+        "The Twelve Dancing Princesses"
+      ]
+    },
+    {
+      "text": "Which of these is found in “Puss in Boots”?",
+      "options": [
+        "a humble kitchen maid",
+        "eleven brothers",
+        "a kind swallow",
+        "three strange dogs"
+      ],
+      "answer": [
+        "an ogre"
+      ]
+    },
+    {
+      "text": "Which tale is an enchanted rose a part of?",
+      "options": [
+        "The Snow Queen",
+        "Rapunzel",
+        "Hansel and Gretel",
+        "The Emperor's New Clothes",
+        "The Frog Prince",
+        "The Nightingale"
+      ],
+      "answer": [
+        "Beauty and the Beast"
+      ]
+    },
+    {
+      "text": "Which fairy tale features her grandmother?",
+      "options": [
+        "Sleeping Beauty",
+        "The Fisherman and His Wife",
+        "The Wild Swans",
+        "Beauty and the Beast",
+        "The Three Little Pigs",
+        "The Nightingale"
+      ],
+      "answer": [
+        "Little Red Riding Hood"
+      ]
+    }
+  ]
+}

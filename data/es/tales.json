@@ -1,0 +1,1482 @@
+{
+  "theme": "Cuentos y leyendas",
+  "questions": [
+    {
+      "text": "¿A qué cuento pertenece el lobo disfrazado de abuela?",
+      "options": [
+        "El Flautista de Hamelín",
+        "El Cid",
+        "Rapunzel",
+        "El Gato con Botas",
+        "Los amantes de Teruel"
+      ],
+      "answer": [
+        "Caperucita Roja"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece el obsequio del molinero?",
+      "options": [
+        "La leyenda de la flor de Nochebuena",
+        "La Llorona",
+        "Los siete cabritillos",
+        "La Sirenita",
+        "Juan sin Miedo",
+        "La Ratita Presumida"
+      ],
+      "answer": [
+        "El Gato con Botas"
+      ]
+    },
+    {
+      "text": "¿Qué dos elementos pertenecen al cuento «La Bella y la Bestia»?",
+      "options": [
+        "el marqués de Carabás",
+        "el cisne blanco",
+        "el pez que lo traga",
+        "la lechuga del huerto",
+        "la moneda encontrada",
+        "el hada azul"
+      ],
+      "answer": [
+        "la rosa del jardín",
+        "el castillo de la Bestia"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye los niños que juegan?",
+      "options": [
+        "El Dorado",
+        "El Ratoncito Pérez",
+        "Los músicos de Bremen",
+        "Juan sin Miedo",
+        "El Patito Feo"
+      ],
+      "answer": [
+        "El gigante egoísta"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece el marqués de Carabás?",
+      "options": [
+        "La leyenda de la flor de Nochebuena",
+        "Cenicienta",
+        "La Bella Durmiente",
+        "Pinocho"
+      ],
+      "answer": [
+        "El Gato con Botas"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece los zapatos terminados?",
+      "options": [
+        "Rapunzel",
+        "Los siete cabritillos",
+        "La Sirenita",
+        "El Gato con Botas",
+        "La Bella Durmiente"
+      ],
+      "answer": [
+        "Los duendes y el zapatero"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale los siete enanitos?",
+      "options": [
+        "La leyenda de la flor de Nochebuena",
+        "El Ratoncito Pérez",
+        "Pulgarcito",
+        "Caperucita Roja",
+        "El Flautista de Hamelín"
+      ],
+      "answer": [
+        "Blancanieves"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye las ratas de la ciudad?",
+      "options": [
+        "El Cid",
+        "La leyenda de la flor de Nochebuena",
+        "El Sastrecillo Valiente",
+        "La Llorona",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "El Flautista de Hamelín"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de el castillo abandonado?",
+      "options": [
+        "El Dorado",
+        "Pinocho",
+        "Blancanieves",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "La Dama de Blanco"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos la advertencia de la madre?",
+      "options": [
+        "La Llorona",
+        "El Gato con Botas",
+        "Blancanieves",
+        "La Ratita Presumida",
+        "Los duendes y el zapatero",
+        "Los músicos de Bremen"
+      ],
+      "answer": [
+        "Caperucita Roja"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de Gepeto?",
+      "options": [
+        "La Bella y la Bestia",
+        "La leyenda de la flor de Nochebuena",
+        "Pulgarcito",
+        "La Sirenita",
+        "El Sastrecillo Valiente"
+      ],
+      "answer": [
+        "Pinocho"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos la jaula del niño?",
+      "options": [
+        "Pinocho",
+        "Los tres cerditos",
+        "El Ratoncito Pérez",
+        "Los siete cabritillos",
+        "El Flautista de Hamelín"
+      ],
+      "answer": [
+        "Hansel y Gretel"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de el premio del rey?",
+      "options": [
+        "El Dorado",
+        "Cenicienta",
+        "San Jorge y el dragón",
+        "El gigante egoísta"
+      ],
+      "answer": [
+        "Juan sin Miedo"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece el cinturón de los siete de un golpe?",
+      "options": [
+        "El Cid",
+        "El Dorado",
+        "Los duendes y el zapatero",
+        "La Bella y la Bestia",
+        "Pulgarcito",
+        "Los amantes de Teruel"
+      ],
+      "answer": [
+        "El Sastrecillo Valiente"
+      ]
+    },
+    {
+      "text": "¿Qué encontramos en el cuento «El Ratoncito Pérez»?",
+      "options": [
+        "el príncipe transformado",
+        "la casa de ladrillo",
+        "Isabel y Diego",
+        "el río",
+        "el castillo abandonado",
+        "el vestido blanco"
+      ],
+      "answer": [
+        "la moneda bajo la almohada"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye la torre sin puerta?",
+      "options": [
+        "Los músicos de Bremen",
+        "El Flautista de Hamelín",
+        "El Dorado",
+        "Caperucita Roja",
+        "Los amantes de Teruel",
+        "El Patito Feo"
+      ],
+      "answer": [
+        "Rapunzel"
+      ]
+    },
+    {
+      "text": "¿Qué elemento pertenece al cuento «La Dama de Blanco»?",
+      "options": [
+        "la chimenea con la olla",
+        "el corral",
+        "la moneda encontrada",
+        "la rosa del jardín",
+        "la lechuga del huerto"
+      ],
+      "answer": [
+        "la aparición nocturna"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece la moneda encontrada?",
+      "options": [
+        "Los duendes y el zapatero",
+        "El Patito Feo",
+        "Los siete cabritillos",
+        "El gigante egoísta",
+        "Los músicos de Bremen"
+      ],
+      "answer": [
+        "La Ratita Presumida"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale el huso?",
+      "options": [
+        "El Dorado",
+        "Juan sin Miedo",
+        "San Jorge y el dragón",
+        "La leyenda de la flor de Nochebuena"
+      ],
+      "answer": [
+        "La Bella Durmiente"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye el castillo dormido?",
+      "options": [
+        "La leyenda de la flor de Nochebuena",
+        "El Patito Feo",
+        "El gigante egoísta",
+        "La Llorona",
+        "La Sirenita"
+      ],
+      "answer": [
+        "La Bella Durmiente"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye los espíritus?",
+      "options": [
+        "La Bella y la Bestia",
+        "San Jorge y el dragón",
+        "Blancanieves",
+        "Rapunzel",
+        "La Sirenita",
+        "El Sastrecillo Valiente"
+      ],
+      "answer": [
+        "Juan sin Miedo"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece la madre que sale al prado?",
+      "options": [
+        "El Gato con Botas",
+        "Blancanieves",
+        "Caperucita Roja",
+        "Los músicos de Bremen"
+      ],
+      "answer": [
+        "Los siete cabritillos"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el ogro de la casa?",
+      "options": [
+        "El gigante egoísta",
+        "El Patito Feo",
+        "El Soldadito de Plomo",
+        "El Sastrecillo Valiente",
+        "San Jorge y el dragón",
+        "La Ratita Presumida"
+      ],
+      "answer": [
+        "Pulgarcito"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de los niños desaparecidos?",
+      "options": [
+        "La Llorona",
+        "El Gato con Botas",
+        "Pulgarcito",
+        "Rapunzel",
+        "La Sirenita"
+      ],
+      "answer": [
+        "El Flautista de Hamelín"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece la pierna de menos?",
+      "options": [
+        "Caperucita Roja",
+        "Rapunzel",
+        "El Gato con Botas",
+        "Cenicienta"
+      ],
+      "answer": [
+        "El Soldadito de Plomo"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye Tizona?",
+      "options": [
+        "Blancanieves",
+        "Juan sin Miedo",
+        "El gigante egoísta",
+        "La Dama de Blanco",
+        "Los siete cabritillos",
+        "La Bella Durmiente"
+      ],
+      "answer": [
+        "El Cid"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de los cien años de sueño?",
+      "options": [
+        "Pulgarcito",
+        "El Patito Feo",
+        "Los duendes y el zapatero",
+        "Los amantes de Teruel",
+        "El gigante egoísta"
+      ],
+      "answer": [
+        "La Bella Durmiente"
+      ]
+    },
+    {
+      "text": "¿Qué encontramos en el cuento «Caperucita Roja»?",
+      "options": [
+        "la voz perdida",
+        "los cuatro animales cantores",
+        "la lanza del caballero",
+        "el marqués de Carabás",
+        "los cien años de sueño"
+      ],
+      "answer": [
+        "la cesta de la abuela"
+      ]
+    },
+    {
+      "text": "¿Qué encontramos en el cuento «La leyenda de la flor de Nochebuena»?",
+      "options": [
+        "el molino del padre",
+        "Babieca",
+        "la ciudad de oro",
+        "el roedor que recoge dientes",
+        "el príncipe transformado"
+      ],
+      "answer": [
+        "la niña pobre"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la casa de paja?",
+      "options": [
+        "La Llorona",
+        "El Gato con Botas",
+        "La Bella y la Bestia",
+        "Rapunzel",
+        "El Flautista de Hamelín",
+        "La Sirenita"
+      ],
+      "answer": [
+        "Los tres cerditos"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece el castillo de la Bestia?",
+      "options": [
+        "Los siete cabritillos",
+        "La Dama de Blanco",
+        "Los tres cerditos",
+        "El Dorado",
+        "Los músicos de Bremen"
+      ],
+      "answer": [
+        "La Bella y la Bestia"
+      ]
+    },
+    {
+      "text": "¿Qué personaje u objeto aparece en «La Bella Durmiente»?",
+      "options": [
+        "la manzana envenenada",
+        "los espíritus",
+        "los niños desaparecidos",
+        "la trenza larga"
+      ],
+      "answer": [
+        "el huso"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye el lago de Guatavita?",
+      "options": [
+        "La Llorona",
+        "El Sastrecillo Valiente",
+        "Blancanieves",
+        "La Sirenita",
+        "Los duendes y el zapatero"
+      ],
+      "answer": [
+        "El Dorado"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el molino del padre?",
+      "options": [
+        "Los duendes y el zapatero",
+        "Pinocho",
+        "Rapunzel",
+        "La Ratita Presumida",
+        "El Ratoncito Pérez"
+      ],
+      "answer": [
+        "El Gato con Botas"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye el espejo mágico?",
+      "options": [
+        "Los tres cerditos",
+        "Pinocho",
+        "Pulgarcito",
+        "Cenicienta",
+        "El gigante egoísta",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "Blancanieves"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye el hada madrina?",
+      "options": [
+        "Los tres cerditos",
+        "El Patito Feo",
+        "El Dorado",
+        "Los amantes de Teruel",
+        "San Jorge y el dragón"
+      ],
+      "answer": [
+        "Cenicienta"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de la lechuga del huerto?",
+      "options": [
+        "Los siete cabritillos",
+        "La Ratita Presumida",
+        "Hansel y Gretel",
+        "La Dama de Blanco"
+      ],
+      "answer": [
+        "Rapunzel"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece las migas de pan?",
+      "options": [
+        "El Gato con Botas",
+        "El Ratoncito Pérez",
+        "San Jorge y el dragón",
+        "La Dama de Blanco",
+        "Los duendes y el zapatero"
+      ],
+      "answer": [
+        "Pulgarcito"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de los exploradores?",
+      "options": [
+        "El Cid",
+        "El Soldadito de Plomo",
+        "Los siete cabritillos",
+        "Los tres cerditos",
+        "Caperucita Roja"
+      ],
+      "answer": [
+        "El Dorado"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la cesta de la abuela?",
+      "options": [
+        "El Ratoncito Pérez",
+        "Pinocho",
+        "La Ratita Presumida",
+        "La Dama de Blanco",
+        "Pulgarcito"
+      ],
+      "answer": [
+        "Caperucita Roja"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale los cuatro animales cantores?",
+      "options": [
+        "Los duendes y el zapatero",
+        "El Cid",
+        "La Dama de Blanco",
+        "Pinocho",
+        "El Flautista de Hamelín"
+      ],
+      "answer": [
+        "Los músicos de Bremen"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece el juramento incumplido?",
+      "options": [
+        "Los duendes y el zapatero",
+        "La Dama de Blanco",
+        "Hansel y Gretel",
+        "El Cid"
+      ],
+      "answer": [
+        "Los amantes de Teruel"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale la nariz que crece?",
+      "options": [
+        "Caperucita Roja",
+        "Los tres cerditos",
+        "Cenicienta",
+        "El Sastrecillo Valiente"
+      ],
+      "answer": [
+        "Pinocho"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el unicornio capturado?",
+      "options": [
+        "Los duendes y el zapatero",
+        "El Dorado",
+        "Juan sin Miedo",
+        "La Llorona",
+        "El Soldadito de Plomo"
+      ],
+      "answer": [
+        "El Sastrecillo Valiente"
+      ]
+    },
+    {
+      "text": "¿Qué elementos encontramos en el cuento «El Flautista de Hamelín»?",
+      "options": [
+        "el cisne blanco",
+        "los ayudantes nocturnos",
+        "el gallo en el tejado",
+        "el molino del padre"
+      ],
+      "answer": [
+        "los niños desaparecidos",
+        "las ratas de la ciudad"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece la casa de ladrillo?",
+      "options": [
+        "El Cid",
+        "Los siete cabritillos",
+        "El Dorado",
+        "Los músicos de Bremen"
+      ],
+      "answer": [
+        "Los tres cerditos"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la escoba?",
+      "options": [
+        "Los amantes de Teruel",
+        "El gigante egoísta",
+        "Pulgarcito",
+        "La Bella Durmiente",
+        "Caperucita Roja"
+      ],
+      "answer": [
+        "La Ratita Presumida"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece la princesa rescatada?",
+      "options": [
+        "Los duendes y el zapatero",
+        "La Bella Durmiente",
+        "Cenicienta",
+        "Juan sin Miedo",
+        "Rapunzel"
+      ],
+      "answer": [
+        "San Jorge y el dragón"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale el jardín amurallado?",
+      "options": [
+        "El Flautista de Hamelín",
+        "Rapunzel",
+        "Juan sin Miedo",
+        "La leyenda de la flor de Nochebuena"
+      ],
+      "answer": [
+        "El gigante egoísta"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye el hada azul?",
+      "options": [
+        "El Soldadito de Plomo",
+        "Cenicienta",
+        "Hansel y Gretel",
+        "Rapunzel",
+        "La Bella Durmiente"
+      ],
+      "answer": [
+        "Pinocho"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos la lanza del caballero?",
+      "options": [
+        "El Flautista de Hamelín",
+        "La Sirenita",
+        "La leyenda de la flor de Nochebuena",
+        "El Soldadito de Plomo",
+        "Los amantes de Teruel",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "San Jorge y el dragón"
+      ]
+    },
+    {
+      "text": "¿Qué elemento forma parte del cuento «Hansel y Gretel»?",
+      "options": [
+        "la casa de los ladrones",
+        "Tizona",
+        "los cien años de sueño",
+        "los ayudantes nocturnos"
+      ],
+      "answer": [
+        "el horno de la bruja"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece el río?",
+      "options": [
+        "Pinocho",
+        "El Dorado",
+        "La leyenda de la flor de Nochebuena",
+        "El Sastrecillo Valiente",
+        "Pulgarcito"
+      ],
+      "answer": [
+        "La Llorona"
+      ]
+    },
+    {
+      "text": "¿Qué elementos encontramos en el cuento «Los tres cerditos»?",
+      "options": [
+        "la trenza larga",
+        "el ogro de la casa",
+        "la advertencia de la madre",
+        "Babieca"
+      ],
+      "answer": [
+        "la chimenea con la olla",
+        "la casa de paja"
+      ]
+    },
+    {
+      "text": "¿Qué elemento pertenece al cuento «El Soldadito de Plomo»?",
+      "options": [
+        "la rosa del jardín",
+        "las botas de siete leguas",
+        "la voz perdida",
+        "el cisne blanco",
+        "Isabel y Diego",
+        "el lago de Guatavita"
+      ],
+      "answer": [
+        "el pez que lo traga"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la bestia escamada?",
+      "options": [
+        "Hansel y Gretel",
+        "Blancanieves",
+        "El Patito Feo",
+        "Los tres cerditos",
+        "Caperucita Roja"
+      ],
+      "answer": [
+        "San Jorge y el dragón"
+      ]
+    },
+    {
+      "text": "¿Qué detalles forman parte del cuento «El Patito Feo»?",
+      "options": [
+        "el castillo abandonado",
+        "los niños que juegan",
+        "la flor roja de Navidad",
+        "la lechuga del huerto",
+        "el huso"
+      ],
+      "answer": [
+        "el corral",
+        "el cisne blanco"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece el gigante vencido?",
+      "options": [
+        "Caperucita Roja",
+        "Pulgarcito",
+        "El Ratoncito Pérez",
+        "El Patito Feo"
+      ],
+      "answer": [
+        "El Sastrecillo Valiente"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece Isabel y Diego?",
+      "options": [
+        "La Sirenita",
+        "La Bella y la Bestia",
+        "Caperucita Roja",
+        "El gigante egoísta",
+        "Pinocho",
+        "La Llorona"
+      ],
+      "answer": [
+        "Los amantes de Teruel"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye la casa de los ladrones?",
+      "options": [
+        "La Dama de Blanco",
+        "El Gato con Botas",
+        "Caperucita Roja",
+        "La Bella Durmiente",
+        "Juan sin Miedo",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "Los músicos de Bremen"
+      ]
+    },
+    {
+      "text": "¿Qué elemento forma parte del cuento «El Dorado»?",
+      "options": [
+        "el río",
+        "la conquista de Valencia",
+        "la primavera que no vuelve",
+        "los ayudantes nocturnos",
+        "el horno de la bruja"
+      ],
+      "answer": [
+        "la ciudad de oro"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye el vestido blanco?",
+      "options": [
+        "La Ratita Presumida",
+        "San Jorge y el dragón",
+        "La Llorona",
+        "Los músicos de Bremen",
+        "Los siete cabritillos",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "La Dama de Blanco"
+      ]
+    },
+    {
+      "text": "¿Qué elemento forma parte del cuento «Los duendes y el zapatero»?",
+      "options": [
+        "la calabaza-carroza",
+        "la bestia escamada",
+        "el roedor que recoge dientes",
+        "la casa de los ladrones",
+        "la lechuga del huerto"
+      ],
+      "answer": [
+        "los ayudantes nocturnos"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el príncipe transformado?",
+      "options": [
+        "La Bella Durmiente",
+        "El Dorado",
+        "La Ratita Presumida",
+        "Los siete cabritillos",
+        "El Gato con Botas",
+        "Rapunzel"
+      ],
+      "answer": [
+        "La Bella y la Bestia"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale el cisne blanco?",
+      "options": [
+        "Los músicos de Bremen",
+        "Cenicienta",
+        "La Bella Durmiente",
+        "El Dorado",
+        "El Flautista de Hamelín"
+      ],
+      "answer": [
+        "El Patito Feo"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de la flor roja de Navidad?",
+      "options": [
+        "Pulgarcito",
+        "El Soldadito de Plomo",
+        "El Patito Feo",
+        "La Llorona",
+        "El Ratoncito Pérez"
+      ],
+      "answer": [
+        "La leyenda de la flor de Nochebuena"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos la voz perdida?",
+      "options": [
+        "Rapunzel",
+        "Cenicienta",
+        "Los amantes de Teruel",
+        "La Ratita Presumida",
+        "Los siete cabritillos",
+        "Blancanieves"
+      ],
+      "answer": [
+        "La Sirenita"
+      ]
+    },
+    {
+      "text": "¿Qué elemento pertenece al cuento «San Jorge y el dragón»?",
+      "options": [
+        "el cisne blanco",
+        "el obsequio del molinero",
+        "los ayudantes nocturnos",
+        "la voz perdida",
+        "los espíritus",
+        "los cuatro animales cantores"
+      ],
+      "answer": [
+        "la lanza del caballero"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la cola de pez?",
+      "options": [
+        "El Soldadito de Plomo",
+        "El Cid",
+        "El Patito Feo",
+        "Los tres cerditos",
+        "Cenicienta"
+      ],
+      "answer": [
+        "La Sirenita"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale el zapato de cristal?",
+      "options": [
+        "El Dorado",
+        "Blancanieves",
+        "Pinocho",
+        "El Flautista de Hamelín"
+      ],
+      "answer": [
+        "Cenicienta"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de el gallo en el tejado?",
+      "options": [
+        "Juan sin Miedo",
+        "La Sirenita",
+        "Blancanieves",
+        "El Ratoncito Pérez"
+      ],
+      "answer": [
+        "Los músicos de Bremen"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el reloj donde se esconde el último?",
+      "options": [
+        "Pulgarcito",
+        "El Sastrecillo Valiente",
+        "El gigante egoísta",
+        "San Jorge y el dragón",
+        "Los duendes y el zapatero"
+      ],
+      "answer": [
+        "Los siete cabritillos"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de la conquista de Valencia?",
+      "options": [
+        "Pinocho",
+        "Juan sin Miedo",
+        "La Sirenita",
+        "Caperucita Roja"
+      ],
+      "answer": [
+        "El Cid"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye el corral?",
+      "options": [
+        "El Gato con Botas",
+        "El gigante egoísta",
+        "Caperucita Roja",
+        "El Cid",
+        "Los músicos de Bremen",
+        "Pinocho"
+      ],
+      "answer": [
+        "El Patito Feo"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos las momias de la catedral?",
+      "options": [
+        "Cenicienta",
+        "Blancanieves",
+        "El Dorado",
+        "San Jorge y el dragón",
+        "Juan sin Miedo"
+      ],
+      "answer": [
+        "Los amantes de Teruel"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale la aparición nocturna?",
+      "options": [
+        "Pinocho",
+        "La leyenda de la flor de Nochebuena",
+        "Los tres cerditos",
+        "El Patito Feo",
+        "Pulgarcito"
+      ],
+      "answer": [
+        "La Dama de Blanco"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece los ayudantes nocturnos?",
+      "options": [
+        "Caperucita Roja",
+        "Pinocho",
+        "Rapunzel",
+        "El Patito Feo",
+        "Cenicienta"
+      ],
+      "answer": [
+        "Los duendes y el zapatero"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la rosa del jardín?",
+      "options": [
+        "La Llorona",
+        "La Dama de Blanco",
+        "El Dorado",
+        "San Jorge y el dragón",
+        "Los siete cabritillos"
+      ],
+      "answer": [
+        "La Bella y la Bestia"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale la niña pobre?",
+      "options": [
+        "El Dorado",
+        "Los duendes y el zapatero",
+        "El Patito Feo",
+        "El Ratoncito Pérez"
+      ],
+      "answer": [
+        "La leyenda de la flor de Nochebuena"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale la melodía que atrae a los niños?",
+      "options": [
+        "El Dorado",
+        "Hansel y Gretel",
+        "Pulgarcito",
+        "Los amantes de Teruel"
+      ],
+      "answer": [
+        "El Flautista de Hamelín"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale la trenza larga?",
+      "options": [
+        "Juan sin Miedo",
+        "Pulgarcito",
+        "Los músicos de Bremen",
+        "San Jorge y el dragón",
+        "El Soldadito de Plomo"
+      ],
+      "answer": [
+        "Rapunzel"
+      ]
+    },
+    {
+      "text": "¿Qué elemento pertenece al cuento «Los amantes de Teruel»?",
+      "options": [
+        "la torre sin puerta",
+        "la primavera que no vuelve",
+        "el príncipe transformado",
+        "el diente caído",
+        "los cuatro animales cantores"
+      ],
+      "answer": [
+        "Isabel y Diego"
+      ]
+    },
+    {
+      "text": "¿Qué personaje u objeto aparece en «El Gato con Botas»?",
+      "options": [
+        "el corral",
+        "los espíritus",
+        "el ratoncito que la pretende",
+        "la trenza larga"
+      ],
+      "answer": [
+        "el obsequio del molinero"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de el roedor que recoge dientes?",
+      "options": [
+        "El Cid",
+        "La Sirenita",
+        "El gigante egoísta",
+        "La Bella Durmiente",
+        "Cenicienta"
+      ],
+      "answer": [
+        "El Ratoncito Pérez"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el cuero fino?",
+      "options": [
+        "San Jorge y el dragón",
+        "La Dama de Blanco",
+        "El Soldadito de Plomo",
+        "El Cid",
+        "Pinocho",
+        "Blancanieves"
+      ],
+      "answer": [
+        "Los duendes y el zapatero"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece el horno de la bruja?",
+      "options": [
+        "La Bella Durmiente",
+        "San Jorge y el dragón",
+        "Los siete cabritillos",
+        "El Dorado"
+      ],
+      "answer": [
+        "Hansel y Gretel"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la casa donde se esconden los cabritos?",
+      "options": [
+        "San Jorge y el dragón",
+        "La Sirenita",
+        "Los amantes de Teruel",
+        "Blancanieves",
+        "Pinocho",
+        "Rapunzel"
+      ],
+      "answer": [
+        "Los siete cabritillos"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el pez que lo traga?",
+      "options": [
+        "Blancanieves",
+        "El Dorado",
+        "Los tres cerditos",
+        "El Patito Feo",
+        "La Sirenita"
+      ],
+      "answer": [
+        "El Soldadito de Plomo"
+      ]
+    },
+    {
+      "text": "¿Qué dos elementos pertenecen al cuento «Los músicos de Bremen»?",
+      "options": [
+        "el espejo mágico",
+        "la aparición nocturna",
+        "el llanto en la noche",
+        "el castillo dormido",
+        "el ogro de la casa",
+        "la pierna de menos"
+      ],
+      "answer": [
+        "los cuatro animales cantores",
+        "el gallo en el tejado"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale el diente caído?",
+      "options": [
+        "Los músicos de Bremen",
+        "El Flautista de Hamelín",
+        "Los amantes de Teruel",
+        "El Cid"
+      ],
+      "answer": [
+        "El Ratoncito Pérez"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece el príncipe?",
+      "options": [
+        "Los amantes de Teruel",
+        "Hansel y Gretel",
+        "El Ratoncito Pérez",
+        "La Bella Durmiente",
+        "El Sastrecillo Valiente"
+      ],
+      "answer": [
+        "La Sirenita"
+      ]
+    },
+    {
+      "text": "¿Qué dos detalles salen del cuento «El Sastrecillo Valiente»?",
+      "options": [
+        "el gallo en el tejado",
+        "Gepeto",
+        "la trenza larga",
+        "la advertencia de la madre",
+        "Isabel y Diego"
+      ],
+      "answer": [
+        "el unicornio capturado",
+        "el cinturón de los siete de un golpe"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale la noche en la casa encantada?",
+      "options": [
+        "El Ratoncito Pérez",
+        "El Flautista de Hamelín",
+        "La Bella y la Bestia",
+        "La Llorona",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "Juan sin Miedo"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale Babieca?",
+      "options": [
+        "Cenicienta",
+        "El Ratoncito Pérez",
+        "San Jorge y el dragón",
+        "El Flautista de Hamelín",
+        "El Patito Feo"
+      ],
+      "answer": [
+        "El Cid"
+      ]
+    },
+    {
+      "text": "¿Qué elemento forma parte del cuento «Juan sin Miedo»?",
+      "options": [
+        "la lechuga del huerto",
+        "la flor roja de Navidad",
+        "el espejo mágico",
+        "el ratoncito que la pretende"
+      ],
+      "answer": [
+        "los espíritus"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece los hijos perdidos?",
+      "options": [
+        "Rapunzel",
+        "Pulgarcito",
+        "Cenicienta",
+        "Juan sin Miedo",
+        "La Dama de Blanco"
+      ],
+      "answer": [
+        "La Llorona"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el ratoncito que la pretende?",
+      "options": [
+        "El Ratoncito Pérez",
+        "Los siete cabritillos",
+        "La leyenda de la flor de Nochebuena",
+        "El Sastrecillo Valiente",
+        "El Gato con Botas",
+        "El Cid"
+      ],
+      "answer": [
+        "La Ratita Presumida"
+      ]
+    },
+    {
+      "text": "¿Qué encontramos en el cuento «El gigante egoísta»?",
+      "options": [
+        "el obsequio del molinero",
+        "la torre sin puerta",
+        "la moneda encontrada",
+        "la bestia escamada",
+        "el pez que lo traga",
+        "el reloj donde se esconde el último"
+      ],
+      "answer": [
+        "los niños que juegan"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos la chimenea con la olla?",
+      "options": [
+        "Blancanieves",
+        "La Sirenita",
+        "La Bella y la Bestia",
+        "El Soldadito de Plomo",
+        "El Dorado"
+      ],
+      "answer": [
+        "Los tres cerditos"
+      ]
+    },
+    {
+      "text": "¿De qué cuento sale la ciudad de oro?",
+      "options": [
+        "El Soldadito de Plomo",
+        "Caperucita Roja",
+        "Los duendes y el zapatero",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "El Dorado"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la bailarina de papel?",
+      "options": [
+        "Los amantes de Teruel",
+        "Los siete cabritillos",
+        "San Jorge y el dragón",
+        "El Cid",
+        "El Ratoncito Pérez",
+        "Hansel y Gretel"
+      ],
+      "answer": [
+        "El Soldadito de Plomo"
+      ]
+    },
+    {
+      "text": "¿Qué personaje u objeto aparece en «Blancanieves»?",
+      "options": [
+        "el castillo abandonado",
+        "el ratoncito que la pretende",
+        "el horno de la bruja",
+        "la ciudad de oro",
+        "la nariz que crece"
+      ],
+      "answer": [
+        "los siete enanitos"
+      ]
+    },
+    {
+      "text": "¿A qué cuento pertenece las botas de siete leguas?",
+      "options": [
+        "Los duendes y el zapatero",
+        "La leyenda de la flor de Nochebuena",
+        "Pinocho",
+        "El gigante egoísta",
+        "La Ratita Presumida"
+      ],
+      "answer": [
+        "Pulgarcito"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de la primavera que no vuelve?",
+      "options": [
+        "El Flautista de Hamelín",
+        "Hansel y Gretel",
+        "Pinocho",
+        "La Sirenita",
+        "Los siete cabritillos"
+      ],
+      "answer": [
+        "El gigante egoísta"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye las hierbas del camino?",
+      "options": [
+        "La Dama de Blanco",
+        "Blancanieves",
+        "Hansel y Gretel",
+        "La Llorona",
+        "Cenicienta"
+      ],
+      "answer": [
+        "La leyenda de la flor de Nochebuena"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de la manzana envenenada?",
+      "options": [
+        "Rapunzel",
+        "El Soldadito de Plomo",
+        "La Bella Durmiente",
+        "La Bella y la Bestia"
+      ],
+      "answer": [
+        "Blancanieves"
+      ]
+    },
+    {
+      "text": "¿En qué cuento encontramos el llanto en la noche?",
+      "options": [
+        "La Ratita Presumida",
+        "La Sirenita",
+        "Pinocho",
+        "El Soldadito de Plomo",
+        "Hansel y Gretel",
+        "El gigante egoísta"
+      ],
+      "answer": [
+        "La Llorona"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de la calabaza-carroza?",
+      "options": [
+        "La Llorona",
+        "El Gato con Botas",
+        "La Dama de Blanco",
+        "La Ratita Presumida",
+        "El Flautista de Hamelín"
+      ],
+      "answer": [
+        "Cenicienta"
+      ]
+    },
+    {
+      "text": "¿Qué dos detalles salen del cuento «Pinocho»?",
+      "options": [
+        "el cuero fino",
+        "la trenza larga",
+        "la rosa del jardín",
+        "el cinturón de los siete de un golpe",
+        "el ratoncito que la pretende"
+      ],
+      "answer": [
+        "Gepeto",
+        "el hada azul"
+      ]
+    },
+    {
+      "text": "¿Qué cuento incluye la moneda bajo la almohada?",
+      "options": [
+        "Juan sin Miedo",
+        "Pulgarcito",
+        "Rapunzel",
+        "La Bella Durmiente",
+        "Los tres cerditos"
+      ],
+      "answer": [
+        "El Ratoncito Pérez"
+      ]
+    },
+    {
+      "text": "¿En qué cuento se habla de el invierno solitario?",
+      "options": [
+        "La Bella Durmiente",
+        "Los siete cabritillos",
+        "Los amantes de Teruel",
+        "El Sastrecillo Valiente"
+      ],
+      "answer": [
+        "El Patito Feo"
+      ]
+    },
+    {
+      "text": "¿En qué cuento aparece la casa de chocolate?",
+      "options": [
+        "La Bella Durmiente",
+        "El Ratoncito Pérez",
+        "Los amantes de Teruel",
+        "La Sirenita",
+        "Rapunzel",
+        "Caperucita Roja"
+      ],
+      "answer": [
+        "Hansel y Gretel"
+      ]
+    },
+    {
+      "text": "¿Qué detalles forman parte del cuento «La Ratita Presumida»?",
+      "options": [
+        "las migas de pan",
+        "la trenza larga",
+        "los niños que juegan",
+        "el obsequio del molinero",
+        "el gallo en el tejado"
+      ],
+      "answer": [
+        "el ratoncito que la pretende",
+        "la escoba"
+      ]
+    }
+  ]
+}

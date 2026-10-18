@@ -1,0 +1,1313 @@
+{
+  "theme": "World Cuisines and Dishes",
+  "questions": [
+    {
+      "text": "Which cuisine is traditionally known for pastel de nata?",
+      "options": [
+        "German cuisine",
+        "French cuisine",
+        "Korean cuisine",
+        "Japanese cuisine",
+        "Armenian cuisine"
+      ],
+      "answer": [
+        "Portuguese cuisine"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of shepherds pie?",
+      "options": [
+        "Mexican cuisine",
+        "Malaysian cuisine",
+        "Portuguese cuisine",
+        "Indian cuisine",
+        "Spanish cuisine"
+      ],
+      "answer": [
+        "British cuisine"
+      ]
+    },
+    {
+      "text": "The dish tzatziki comes from which cuisine?",
+      "options": [
+        "Italian cuisine",
+        "Thai cuisine",
+        "Turkish cuisine",
+        "Japanese cuisine"
+      ],
+      "answer": [
+        "Greek cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for bulgogi?",
+      "options": [
+        "Filipino cuisine",
+        "Spanish cuisine",
+        "Mexican cuisine",
+        "Uzbek cuisine",
+        "Japanese cuisine"
+      ],
+      "answer": [
+        "Korean cuisine"
+      ]
+    },
+    {
+      "text": "The dish bibimbap is a classic of which cuisine?",
+      "options": [
+        "Italian cuisine",
+        "Vietnamese cuisine",
+        "Brazilian cuisine",
+        "Chinese cuisine"
+      ],
+      "answer": [
+        "Korean cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes come from German cuisine?",
+      "options": [
+        "surstromming",
+        "banh mi",
+        "naan",
+        "paella"
+      ],
+      "answer": [
+        "currywurst",
+        "pretzel"
+      ]
+    },
+    {
+      "text": "The dish hummus is a classic of which cuisine?",
+      "options": [
+        "Japanese cuisine",
+        "French cuisine",
+        "Mexican cuisine",
+        "Greek cuisine",
+        "British cuisine"
+      ],
+      "answer": [
+        "Lebanese cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes are classics of Italian cuisine?",
+      "options": [
+        "green curry",
+        "plov",
+        "khinkali",
+        "injera",
+        "bibimbap"
+      ],
+      "answer": [
+        "tiramisu",
+        "pasta"
+      ]
+    },
+    {
+      "text": "Which of these dishes is traditionally served in Hungarian cuisine?",
+      "options": [
+        "kimchi",
+        "naan",
+        "tacos",
+        "kebab",
+        "green curry",
+        "ghapama"
+      ],
+      "answer": [
+        "langos"
+      ]
+    },
+    {
+      "text": "The dish pasta is a classic of which cuisine?",
+      "options": [
+        "Russian cuisine",
+        "Korean cuisine",
+        "British cuisine",
+        "Portuguese cuisine",
+        "Armenian cuisine"
+      ],
+      "answer": [
+        "Italian cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish hamburger belong to?",
+      "options": [
+        "Chinese cuisine",
+        "Russian cuisine",
+        "Uzbek cuisine",
+        "Polish cuisine",
+        "Filipino cuisine",
+        "British cuisine"
+      ],
+      "answer": [
+        "American cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is part of Malaysian cuisine?",
+      "options": [
+        "moussaka",
+        "semla",
+        "tagine",
+        "croissant",
+        "okroshka"
+      ],
+      "answer": [
+        "nasi lemak"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish langos belong to?",
+      "options": [
+        "Swedish cuisine",
+        "Vietnamese cuisine",
+        "Polish cuisine",
+        "Moroccan cuisine",
+        "Japanese cuisine",
+        "Ethiopian cuisine"
+      ],
+      "answer": [
+        "Hungarian cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes are traditionally served in Turkish cuisine?",
+      "options": [
+        "hummus",
+        "pho",
+        "bigos",
+        "Peking duck",
+        "biryani",
+        "nasi lemak"
+      ],
+      "answer": [
+        "pide",
+        "baklava"
+      ]
+    },
+    {
+      "text": "The dish guacamole is a classic of which cuisine?",
+      "options": [
+        "Lebanese cuisine",
+        "Vietnamese cuisine",
+        "Brazilian cuisine",
+        "Swedish cuisine",
+        "Peruvian cuisine"
+      ],
+      "answer": [
+        "Mexican cuisine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find onion soup?",
+      "options": [
+        "British cuisine",
+        "Japanese cuisine",
+        "Polish cuisine",
+        "Armenian cuisine"
+      ],
+      "answer": [
+        "French cuisine"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of baklava?",
+      "options": [
+        "Brazilian cuisine",
+        "Chinese cuisine",
+        "Malaysian cuisine",
+        "Portuguese cuisine",
+        "Moroccan cuisine"
+      ],
+      "answer": [
+        "Turkish cuisine"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of tagine?",
+      "options": [
+        "Filipino cuisine",
+        "Lebanese cuisine",
+        "American cuisine",
+        "Chinese cuisine",
+        "Georgian cuisine"
+      ],
+      "answer": [
+        "Moroccan cuisine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find moussaka?",
+      "options": [
+        "Mexican cuisine",
+        "Italian cuisine",
+        "Polish cuisine",
+        "Uzbek cuisine",
+        "Moroccan cuisine"
+      ],
+      "answer": [
+        "Greek cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is a classic of French cuisine?",
+      "options": [
+        "paella",
+        "langos",
+        "khash",
+        "doro wat",
+        "sinigang"
+      ],
+      "answer": [
+        "ratatouille"
+      ]
+    },
+    {
+      "text": "The dish ramen is a classic of which cuisine?",
+      "options": [
+        "Indian cuisine",
+        "Brazilian cuisine",
+        "Uzbek cuisine",
+        "Spanish cuisine"
+      ],
+      "answer": [
+        "Japanese cuisine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find shchi?",
+      "options": [
+        "Spanish cuisine",
+        "Ethiopian cuisine",
+        "Portuguese cuisine",
+        "Italian cuisine",
+        "Uzbek cuisine"
+      ],
+      "answer": [
+        "Russian cuisine"
+      ]
+    },
+    {
+      "text": "Which two of these dishes belong to American cuisine?",
+      "options": [
+        "fish and chips",
+        "doro wat",
+        "tempura",
+        "bulgogi",
+        "bigos"
+      ],
+      "answer": [
+        "hot dog",
+        "hamburger"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of naan?",
+      "options": [
+        "Moroccan cuisine",
+        "Filipino cuisine",
+        "Japanese cuisine",
+        "Korean cuisine",
+        "Hungarian cuisine"
+      ],
+      "answer": [
+        "Indian cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes comes from Chinese cuisine?",
+      "options": [
+        "pretzel",
+        "goi cuon",
+        "hamburger",
+        "moussaka"
+      ],
+      "answer": [
+        "mapo tofu"
+      ]
+    },
+    {
+      "text": "The dish khash is a classic of which cuisine?",
+      "options": [
+        "Swedish cuisine",
+        "Vietnamese cuisine",
+        "Japanese cuisine",
+        "Turkish cuisine",
+        "Hungarian cuisine"
+      ],
+      "answer": [
+        "Armenian cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for churros?",
+      "options": [
+        "Vietnamese cuisine",
+        "Turkish cuisine",
+        "American cuisine",
+        "Uzbek cuisine",
+        "German cuisine",
+        "Peruvian cuisine"
+      ],
+      "answer": [
+        "Spanish cuisine"
+      ]
+    },
+    {
+      "text": "The dish biryani comes from which cuisine?",
+      "options": [
+        "Thai cuisine",
+        "Brazilian cuisine",
+        "Uzbek cuisine",
+        "Turkish cuisine",
+        "Greek cuisine"
+      ],
+      "answer": [
+        "Indian cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for laksa?",
+      "options": [
+        "Chinese cuisine",
+        "Russian cuisine",
+        "Polish cuisine",
+        "Vietnamese cuisine",
+        "Uzbek cuisine",
+        "Ethiopian cuisine"
+      ],
+      "answer": [
+        "Malaysian cuisine"
+      ]
+    },
+    {
+      "text": "The dish goi cuon comes from which cuisine?",
+      "options": [
+        "Brazilian cuisine",
+        "Mexican cuisine",
+        "Uzbek cuisine",
+        "Hungarian cuisine"
+      ],
+      "answer": [
+        "Vietnamese cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes comes from Filipino cuisine?",
+      "options": [
+        "green curry",
+        "couscous",
+        "butter chicken",
+        "tagine"
+      ],
+      "answer": [
+        "adobo"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish doro wat belong to?",
+      "options": [
+        "Brazilian cuisine",
+        "Swedish cuisine",
+        "Georgian cuisine",
+        "Lebanese cuisine",
+        "Italian cuisine"
+      ],
+      "answer": [
+        "Ethiopian cuisine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find ceviche?",
+      "options": [
+        "Thai cuisine",
+        "Japanese cuisine",
+        "Russian cuisine",
+        "Mexican cuisine",
+        "Greek cuisine"
+      ],
+      "answer": [
+        "Peruvian cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is part of Uzbek cuisine?",
+      "options": [
+        "pad thai",
+        "full English breakfast",
+        "shchi",
+        "tacos",
+        "ghapama"
+      ],
+      "answer": [
+        "dimlama"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish pretzel belong to?",
+      "options": [
+        "Swedish cuisine",
+        "Thai cuisine",
+        "Malaysian cuisine",
+        "Armenian cuisine",
+        "Lebanese cuisine"
+      ],
+      "answer": [
+        "German cuisine"
+      ]
+    },
+    {
+      "text": "The dish full English breakfast comes from which cuisine?",
+      "options": [
+        "Swedish cuisine",
+        "Peruvian cuisine",
+        "Mexican cuisine",
+        "Spanish cuisine",
+        "Korean cuisine"
+      ],
+      "answer": [
+        "British cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes comes from Lebanese cuisine?",
+      "options": [
+        "ramen",
+        "sushi",
+        "kimchi",
+        "tagine"
+      ],
+      "answer": [
+        "tabbouleh"
+      ]
+    },
+    {
+      "text": "Which of these dishes come from Polish cuisine?",
+      "options": [
+        "ramen",
+        "okroshka",
+        "fish and chips",
+        "surstromming"
+      ],
+      "answer": [
+        "bigos",
+        "pierogi"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for green curry?",
+      "options": [
+        "Russian cuisine",
+        "Greek cuisine",
+        "Turkish cuisine",
+        "Portuguese cuisine",
+        "Swedish cuisine"
+      ],
+      "answer": [
+        "Thai cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is a classic of Ethiopian cuisine?",
+      "options": [
+        "okroshka",
+        "goi cuon",
+        "full English breakfast",
+        "khinkali",
+        "croissant"
+      ],
+      "answer": [
+        "injera"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish pizza belong to?",
+      "options": [
+        "Indian cuisine",
+        "British cuisine",
+        "Armenian cuisine",
+        "Peruvian cuisine",
+        "Spanish cuisine"
+      ],
+      "answer": [
+        "Italian cuisine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find fish and chips?",
+      "options": [
+        "Hungarian cuisine",
+        "Spanish cuisine",
+        "Thai cuisine",
+        "Georgian cuisine"
+      ],
+      "answer": [
+        "British cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for burrito?",
+      "options": [
+        "Swedish cuisine",
+        "Filipino cuisine",
+        "Polish cuisine",
+        "Japanese cuisine",
+        "Ethiopian cuisine",
+        "Korean cuisine"
+      ],
+      "answer": [
+        "Mexican cuisine"
+      ]
+    },
+    {
+      "text": "The dish injera comes from which cuisine?",
+      "options": [
+        "Swedish cuisine",
+        "Uzbek cuisine",
+        "German cuisine",
+        "Lebanese cuisine"
+      ],
+      "answer": [
+        "Ethiopian cuisine"
+      ]
+    },
+    {
+      "text": "The dish goulash comes from which cuisine?",
+      "options": [
+        "Lebanese cuisine",
+        "Japanese cuisine",
+        "Swedish cuisine",
+        "Mexican cuisine",
+        "Ethiopian cuisine"
+      ],
+      "answer": [
+        "Hungarian cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is a classic of Indian cuisine?",
+      "options": [
+        "bigos",
+        "bulgogi",
+        "shchi",
+        "lomo saltado",
+        "moussaka"
+      ],
+      "answer": [
+        "naan"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find kebab?",
+      "options": [
+        "Armenian cuisine",
+        "German cuisine",
+        "Lebanese cuisine",
+        "British cuisine"
+      ],
+      "answer": [
+        "Turkish cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes are traditionally served in Greek cuisine?",
+      "options": [
+        "tacos",
+        "shepherds pie",
+        "surstromming",
+        "hummus",
+        "sauerbraten",
+        "plov"
+      ],
+      "answer": [
+        "tzatziki",
+        "souvlaki"
+      ]
+    },
+    {
+      "text": "The dish bacalhau is a classic of which cuisine?",
+      "options": [
+        "Moroccan cuisine",
+        "Swedish cuisine",
+        "Armenian cuisine",
+        "Greek cuisine"
+      ],
+      "answer": [
+        "Portuguese cuisine"
+      ]
+    },
+    {
+      "text": "The dish currywurst is a classic of which cuisine?",
+      "options": [
+        "Armenian cuisine",
+        "Korean cuisine",
+        "Turkish cuisine",
+        "Ethiopian cuisine",
+        "Greek cuisine"
+      ],
+      "answer": [
+        "German cuisine"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of lomo saltado?",
+      "options": [
+        "Chinese cuisine",
+        "Swedish cuisine",
+        "Korean cuisine",
+        "Georgian cuisine",
+        "Portuguese cuisine",
+        "Polish cuisine"
+      ],
+      "answer": [
+        "Peruvian cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for sauerbraten?",
+      "options": [
+        "Brazilian cuisine",
+        "Uzbek cuisine",
+        "Spanish cuisine",
+        "Malaysian cuisine",
+        "Georgian cuisine",
+        "Korean cuisine"
+      ],
+      "answer": [
+        "German cuisine"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of souvlaki?",
+      "options": [
+        "German cuisine",
+        "Armenian cuisine",
+        "Malaysian cuisine",
+        "Brazilian cuisine",
+        "Korean cuisine",
+        "Spanish cuisine"
+      ],
+      "answer": [
+        "Greek cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is traditionally served in Armenian cuisine?",
+      "options": [
+        "shchi",
+        "paella",
+        "tom yum",
+        "kebab",
+        "pretzel",
+        "sauerbraten"
+      ],
+      "answer": [
+        "khash"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish kimchi belong to?",
+      "options": [
+        "Indian cuisine",
+        "Ethiopian cuisine",
+        "Turkish cuisine",
+        "Chinese cuisine",
+        "Italian cuisine",
+        "Swedish cuisine"
+      ],
+      "answer": [
+        "Korean cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish sinigang belong to?",
+      "options": [
+        "Greek cuisine",
+        "Lebanese cuisine",
+        "Chinese cuisine",
+        "Mexican cuisine",
+        "Turkish cuisine"
+      ],
+      "answer": [
+        "Filipino cuisine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find bigos?",
+      "options": [
+        "Georgian cuisine",
+        "Vietnamese cuisine",
+        "Spanish cuisine",
+        "Ethiopian cuisine",
+        "Thai cuisine"
+      ],
+      "answer": [
+        "Polish cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes are classics of Russian cuisine?",
+      "options": [
+        "tempura",
+        "hummus",
+        "semla",
+        "tagine",
+        "sushi"
+      ],
+      "answer": [
+        "okroshka",
+        "shchi"
+      ]
+    },
+    {
+      "text": "Which two of these dishes belong to Japanese cuisine?",
+      "options": [
+        "tiramisu",
+        "khinkali",
+        "guacamole",
+        "tagine",
+        "churros"
+      ],
+      "answer": [
+        "ramen",
+        "tempura"
+      ]
+    },
+    {
+      "text": "Which of these dishes is traditionally served in Korean cuisine?",
+      "options": [
+        "paella",
+        "tagine",
+        "pide",
+        "sauerbraten",
+        "biryani",
+        "tom yum"
+      ],
+      "answer": [
+        "kimchi"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of dim sum?",
+      "options": [
+        "German cuisine",
+        "Moroccan cuisine",
+        "Armenian cuisine",
+        "British cuisine",
+        "Lebanese cuisine",
+        "Japanese cuisine"
+      ],
+      "answer": [
+        "Chinese cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is traditionally served in Brazilian cuisine?",
+      "options": [
+        "pho",
+        "tagine",
+        "adobo",
+        "croissant",
+        "sinigang",
+        "ratatouille"
+      ],
+      "answer": [
+        "feijoada"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find Peking duck?",
+      "options": [
+        "Portuguese cuisine",
+        "Filipino cuisine",
+        "Italian cuisine",
+        "Armenian cuisine",
+        "Ethiopian cuisine"
+      ],
+      "answer": [
+        "Chinese cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish khinkali belong to?",
+      "options": [
+        "Korean cuisine",
+        "Uzbek cuisine",
+        "Russian cuisine",
+        "Filipino cuisine",
+        "Italian cuisine"
+      ],
+      "answer": [
+        "Georgian cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is part of Mexican cuisine?",
+      "options": [
+        "bibimbap",
+        "pad thai",
+        "ramen",
+        "hot dog",
+        "shchi"
+      ],
+      "answer": [
+        "guacamole"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for tiramisu?",
+      "options": [
+        "Russian cuisine",
+        "French cuisine",
+        "Greek cuisine",
+        "Hungarian cuisine",
+        "Moroccan cuisine",
+        "Swedish cuisine"
+      ],
+      "answer": [
+        "Italian cuisine"
+      ]
+    },
+    {
+      "text": "The dish nasi lemak is a classic of which cuisine?",
+      "options": [
+        "Brazilian cuisine",
+        "Uzbek cuisine",
+        "Japanese cuisine",
+        "Filipino cuisine",
+        "Georgian cuisine"
+      ],
+      "answer": [
+        "Malaysian cuisine"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of banh mi?",
+      "options": [
+        "Uzbek cuisine",
+        "Japanese cuisine",
+        "Korean cuisine",
+        "Turkish cuisine",
+        "Armenian cuisine",
+        "Thai cuisine"
+      ],
+      "answer": [
+        "Vietnamese cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish tom yum belong to?",
+      "options": [
+        "Armenian cuisine",
+        "Turkish cuisine",
+        "Polish cuisine",
+        "Mexican cuisine",
+        "Uzbek cuisine",
+        "Brazilian cuisine"
+      ],
+      "answer": [
+        "Thai cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for buffalo wings?",
+      "options": [
+        "French cuisine",
+        "Polish cuisine",
+        "Korean cuisine",
+        "Italian cuisine",
+        "Lebanese cuisine"
+      ],
+      "answer": [
+        "American cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is part of Swedish cuisine?",
+      "options": [
+        "ramen",
+        "tzatziki",
+        "churros",
+        "shchi",
+        "pasta"
+      ],
+      "answer": [
+        "semla"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of croissant?",
+      "options": [
+        "Polish cuisine",
+        "Japanese cuisine",
+        "Brazilian cuisine",
+        "Italian cuisine",
+        "Hungarian cuisine"
+      ],
+      "answer": [
+        "French cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for tempura?",
+      "options": [
+        "Indian cuisine",
+        "British cuisine",
+        "Russian cuisine",
+        "Spanish cuisine",
+        "Peruvian cuisine"
+      ],
+      "answer": [
+        "Japanese cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish semla belong to?",
+      "options": [
+        "Korean cuisine",
+        "Thai cuisine",
+        "Armenian cuisine",
+        "Ethiopian cuisine",
+        "British cuisine",
+        "Hungarian cuisine"
+      ],
+      "answer": [
+        "Swedish cuisine"
+      ]
+    },
+    {
+      "text": "The dish adobo comes from which cuisine?",
+      "options": [
+        "French cuisine",
+        "Chinese cuisine",
+        "Portuguese cuisine",
+        "Polish cuisine"
+      ],
+      "answer": [
+        "Filipino cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for ghapama?",
+      "options": [
+        "German cuisine",
+        "Filipino cuisine",
+        "Vietnamese cuisine",
+        "Lebanese cuisine",
+        "Chinese cuisine",
+        "Turkish cuisine"
+      ],
+      "answer": [
+        "Armenian cuisine"
+      ]
+    },
+    {
+      "text": "The dish gazpacho is a classic of which cuisine?",
+      "options": [
+        "Italian cuisine",
+        "Filipino cuisine",
+        "Thai cuisine",
+        "French cuisine",
+        "Swedish cuisine"
+      ],
+      "answer": [
+        "Spanish cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish tacos belong to?",
+      "options": [
+        "Brazilian cuisine",
+        "Hungarian cuisine",
+        "Malaysian cuisine",
+        "Moroccan cuisine",
+        "Korean cuisine"
+      ],
+      "answer": [
+        "Mexican cuisine"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of pierogi?",
+      "options": [
+        "Vietnamese cuisine",
+        "Thai cuisine",
+        "Spanish cuisine",
+        "Indian cuisine",
+        "Lebanese cuisine",
+        "Mexican cuisine"
+      ],
+      "answer": [
+        "Polish cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes comes from Portuguese cuisine?",
+      "options": [
+        "ceviche",
+        "khash",
+        "khachapuri",
+        "gazpacho"
+      ],
+      "answer": [
+        "pastel de nata"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of dimlama?",
+      "options": [
+        "Spanish cuisine",
+        "Japanese cuisine",
+        "German cuisine",
+        "Armenian cuisine",
+        "Greek cuisine"
+      ],
+      "answer": [
+        "Uzbek cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish paella belong to?",
+      "options": [
+        "French cuisine",
+        "Vietnamese cuisine",
+        "Hungarian cuisine",
+        "Korean cuisine",
+        "German cuisine"
+      ],
+      "answer": [
+        "Spanish cuisine"
+      ]
+    },
+    {
+      "text": "The dish feijoada is a classic of which cuisine?",
+      "options": [
+        "Georgian cuisine",
+        "Moroccan cuisine",
+        "Italian cuisine",
+        "Chinese cuisine"
+      ],
+      "answer": [
+        "Brazilian cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine does the dish sushi belong to?",
+      "options": [
+        "Hungarian cuisine",
+        "Vietnamese cuisine",
+        "Uzbek cuisine",
+        "Indian cuisine",
+        "Polish cuisine",
+        "Portuguese cuisine"
+      ],
+      "answer": [
+        "Japanese cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes comes from Moroccan cuisine?",
+      "options": [
+        "ghapama",
+        "tempura",
+        "hummus",
+        "plov"
+      ],
+      "answer": [
+        "tagine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find couscous?",
+      "options": [
+        "Georgian cuisine",
+        "Korean cuisine",
+        "Swedish cuisine",
+        "German cuisine"
+      ],
+      "answer": [
+        "Moroccan cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for tabbouleh?",
+      "options": [
+        "Vietnamese cuisine",
+        "Korean cuisine",
+        "Mexican cuisine",
+        "Filipino cuisine",
+        "Armenian cuisine",
+        "Japanese cuisine"
+      ],
+      "answer": [
+        "Lebanese cuisine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find butter chicken?",
+      "options": [
+        "American cuisine",
+        "Vietnamese cuisine",
+        "British cuisine",
+        "German cuisine"
+      ],
+      "answer": [
+        "Indian cuisine"
+      ]
+    },
+    {
+      "text": "The dish pad thai is a classic of which cuisine?",
+      "options": [
+        "Russian cuisine",
+        "Portuguese cuisine",
+        "Brazilian cuisine",
+        "British cuisine"
+      ],
+      "answer": [
+        "Thai cuisine"
+      ]
+    },
+    {
+      "text": "The dish mapo tofu comes from which cuisine?",
+      "options": [
+        "Malaysian cuisine",
+        "Turkish cuisine",
+        "Moroccan cuisine",
+        "Ethiopian cuisine"
+      ],
+      "answer": [
+        "Chinese cuisine"
+      ]
+    },
+    {
+      "text": "The dish surstromming comes from which cuisine?",
+      "options": [
+        "Spanish cuisine",
+        "Malaysian cuisine",
+        "Uzbek cuisine",
+        "Korean cuisine",
+        "Indian cuisine"
+      ],
+      "answer": [
+        "Swedish cuisine"
+      ]
+    },
+    {
+      "text": "Which cuisine is traditionally known for brigadeiro?",
+      "options": [
+        "Uzbek cuisine",
+        "Filipino cuisine",
+        "Peruvian cuisine",
+        "Spanish cuisine",
+        "Ethiopian cuisine"
+      ],
+      "answer": [
+        "Brazilian cuisine"
+      ]
+    },
+    {
+      "text": "The dish hot dog is a classic of which cuisine?",
+      "options": [
+        "Spanish cuisine",
+        "Georgian cuisine",
+        "Hungarian cuisine",
+        "Filipino cuisine"
+      ],
+      "answer": [
+        "American cuisine"
+      ]
+    },
+    {
+      "text": "The dish khachapuri comes from which cuisine?",
+      "options": [
+        "Moroccan cuisine",
+        "Thai cuisine",
+        "Indian cuisine",
+        "Mexican cuisine"
+      ],
+      "answer": [
+        "Georgian cuisine"
+      ]
+    },
+    {
+      "text": "Which of these dishes is a classic of Peruvian cuisine?",
+      "options": [
+        "pastel de nata",
+        "pasta",
+        "brigadeiro",
+        "goulash",
+        "hamburger"
+      ],
+      "answer": [
+        "ceviche"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find plov?",
+      "options": [
+        "Lebanese cuisine",
+        "Spanish cuisine",
+        "Japanese cuisine",
+        "Chinese cuisine"
+      ],
+      "answer": [
+        "Uzbek cuisine"
+      ]
+    },
+    {
+      "text": "The dish ratatouille comes from which cuisine?",
+      "options": [
+        "American cuisine",
+        "Spanish cuisine",
+        "Greek cuisine",
+        "Malaysian cuisine",
+        "Uzbek cuisine"
+      ],
+      "answer": [
+        "French cuisine"
+      ]
+    },
+    {
+      "text": "The dish pide comes from which cuisine?",
+      "options": [
+        "Mexican cuisine",
+        "Polish cuisine",
+        "Peruvian cuisine",
+        "Russian cuisine",
+        "Spanish cuisine"
+      ],
+      "answer": [
+        "Turkish cuisine"
+      ]
+    },
+    {
+      "text": "Which of these cuisines is the home of okroshka?",
+      "options": [
+        "Filipino cuisine",
+        "Armenian cuisine",
+        "Uzbek cuisine",
+        "Moroccan cuisine",
+        "British cuisine",
+        "Brazilian cuisine"
+      ],
+      "answer": [
+        "Russian cuisine"
+      ]
+    },
+    {
+      "text": "In which cuisine would you traditionally find pho?",
+      "options": [
+        "Korean cuisine",
+        "Moroccan cuisine",
+        "Japanese cuisine",
+        "Turkish cuisine",
+        "Ethiopian cuisine"
+      ],
+      "answer": [
+        "Vietnamese cuisine"
+      ]
+    }
+  ]
+}

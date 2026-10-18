@@ -1,0 +1,1331 @@
+{
+  "theme": "Animals",
+  "questions": [
+    {
+      "text": "What animal is this: \"its babies are born blind with soft spines\"?",
+      "options": [
+        "crocodile",
+        "lion",
+        "zebra",
+        "panda",
+        "chameleon"
+      ],
+      "answer": [
+        "hedgehog"
+      ]
+    },
+    {
+      "text": "Name the animal: \"in autumn it hangs mushrooms on branches to dry while stocking up\".",
+      "options": [
+        "tiger",
+        "ostrich",
+        "kangaroo",
+        "elephant",
+        "flamingo"
+      ],
+      "answer": [
+        "squirrel"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it has a bushy red tail with a white tip\"?",
+      "options": [
+        "elephant",
+        "flamingo",
+        "butterfly",
+        "ostrich"
+      ],
+      "answer": [
+        "fox"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"a black and white bear that feeds mainly on bamboo\"?",
+      "options": [
+        "wolf",
+        "lion",
+        "horse",
+        "dog",
+        "cobra"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"its flat paddle-like tail slaps loudly on the water\"?",
+      "options": [
+        "dog",
+        "lion",
+        "giraffe",
+        "bee",
+        "owl",
+        "horse"
+      ],
+      "answer": [
+        "beaver"
+      ]
+    },
+    {
+      "text": "Name the animal: \"its broad calloused feet do not sink into the sand\".",
+      "options": [
+        "koala",
+        "hedgehog",
+        "turtle",
+        "eagle",
+        "panda",
+        "beaver"
+      ],
+      "answer": [
+        "camel"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it breathes air and blows a fountain from its blowhole\"?",
+      "options": [
+        "dolphin",
+        "giraffe",
+        "horse",
+        "elephant",
+        "turtle",
+        "ostrich"
+      ],
+      "answer": [
+        "whale"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"a bird that cannot fly but swims beautifully\"?",
+      "options": [
+        "bee",
+        "hedgehog",
+        "flamingo",
+        "crocodile",
+        "kangaroo"
+      ],
+      "answer": [
+        "penguin"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"its stripe pattern is unique to each individual\"?",
+      "options": [
+        "kangaroo",
+        "bee",
+        "ostrich",
+        "eagle",
+        "crocodile",
+        "horse"
+      ],
+      "answer": [
+        "zebra"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it sheds tears while swallowing its prey\"?",
+      "options": [
+        "koala",
+        "squirrel",
+        "butterfly",
+        "wolf",
+        "owl"
+      ],
+      "answer": [
+        "crocodile"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"its picture appears on the coat of arms of Australia\"?",
+      "options": [
+        "lion",
+        "giraffe",
+        "beaver",
+        "butterfly",
+        "elephant"
+      ],
+      "answer": [
+        "kangaroo"
+      ]
+    },
+    {
+      "text": "What animal is this: \"some kinds of it keep aphids at home and milk them\"?",
+      "options": [
+        "lion",
+        "tiger",
+        "giraffe",
+        "owl"
+      ],
+      "answer": [
+        "ant"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it gathers nectar and makes honey, living in a big family in a hive\"?",
+      "options": [
+        "camel",
+        "giraffe",
+        "horse",
+        "kangaroo",
+        "wolf",
+        "crocodile"
+      ],
+      "answer": [
+        "bee"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it leaps through the branches and hides nuts in secret stores for the winter\"?",
+      "options": [
+        "zebra",
+        "ostrich",
+        "lion",
+        "crocodile",
+        "chameleon",
+        "dog"
+      ],
+      "answer": [
+        "squirrel"
+      ]
+    },
+    {
+      "text": "Name the animal: \"an Antarctic bird that waddles and slides on its belly over the ice\".",
+      "options": [
+        "flamingo",
+        "bear",
+        "cobra",
+        "kangaroo",
+        "ant",
+        "peacock"
+      ],
+      "answer": [
+        "penguin"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it has a hard bony shell that it cannot take off\"?",
+      "options": [
+        "horse",
+        "peacock",
+        "whale",
+        "tiger"
+      ],
+      "answer": [
+        "turtle"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"the largest bird in the world, and it cannot fly\"?",
+      "options": [
+        "whale",
+        "koala",
+        "peacock",
+        "camel",
+        "fox"
+      ],
+      "answer": [
+        "ostrich"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"the largest land animal\"?",
+      "options": [
+        "peacock",
+        "eagle",
+        "panda",
+        "turtle",
+        "ant",
+        "flamingo"
+      ],
+      "answer": [
+        "elephant"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it is called the king of beasts\"?",
+      "options": [
+        "dog",
+        "tiger",
+        "elephant",
+        "ostrich",
+        "whale"
+      ],
+      "answer": [
+        "lion"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it has black and white stripes all over its body\"?",
+      "options": [
+        "turtle",
+        "fox",
+        "wolf",
+        "koala",
+        "beaver"
+      ],
+      "answer": [
+        "zebra"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it hops on its hind legs and carries its baby in a pouch on its belly\"?",
+      "options": [
+        "panda",
+        "beaver",
+        "elephant",
+        "chameleon"
+      ],
+      "answer": [
+        "kangaroo"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it has one or two humps on its back that store fat\"?",
+      "options": [
+        "giraffe",
+        "penguin",
+        "hedgehog",
+        "bear",
+        "chameleon"
+      ],
+      "answer": [
+        "camel"
+      ]
+    },
+    {
+      "text": "Name the animal: \"its eggs are the largest of all birds\".",
+      "options": [
+        "flamingo",
+        "kangaroo",
+        "owl",
+        "tiger",
+        "bear",
+        "crocodile"
+      ],
+      "answer": [
+        "ostrich"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"the tallest animal on Earth\"?",
+      "options": [
+        "zebra",
+        "crocodile",
+        "ant",
+        "horse"
+      ],
+      "answer": [
+        "giraffe"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"its tail opens into a fan covered with colourful eye-spots\"?",
+      "options": [
+        "panda",
+        "dolphin",
+        "camel",
+        "bee",
+        "owl",
+        "elephant"
+      ],
+      "answer": [
+        "peacock"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it fans itself with its enormous ears\".",
+      "options": [
+        "penguin",
+        "dog",
+        "horse",
+        "turtle",
+        "squirrel"
+      ],
+      "answer": [
+        "elephant"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"its image decorates the coats of arms of many countries as a symbol of power\"?",
+      "options": [
+        "turtle",
+        "whale",
+        "bear",
+        "elephant"
+      ],
+      "answer": [
+        "eagle"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it soars in the sky on wide wings and spots prey from a great height\"?",
+      "options": [
+        "spider",
+        "camel",
+        "owl",
+        "whale",
+        "squirrel",
+        "kangaroo"
+      ],
+      "answer": [
+        "eagle"
+      ]
+    },
+    {
+      "text": "What animal is this: \"it was the first animal tamed by humans and its babies are called puppies\"?",
+      "options": [
+        "bee",
+        "wolf",
+        "peacock",
+        "ostrich",
+        "camel"
+      ],
+      "answer": [
+        "dog"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it begins life as a caterpillar and then becomes a chrysalis\"?",
+      "options": [
+        "spider",
+        "kangaroo",
+        "hedgehog",
+        "dog",
+        "flamingo"
+      ],
+      "answer": [
+        "butterfly"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"its web is stronger than steel of the same weight\"?",
+      "options": [
+        "owl",
+        "beaver",
+        "zebra",
+        "eagle",
+        "hedgehog"
+      ],
+      "answer": [
+        "spider"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it changes the colour of its skin with its mood and surroundings\"?",
+      "options": [
+        "owl",
+        "eagle",
+        "flamingo",
+        "kangaroo",
+        "dolphin"
+      ],
+      "answer": [
+        "chameleon"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it has a long trunk instead of an ordinary nose\"?",
+      "options": [
+        "beaver",
+        "chameleon",
+        "owl",
+        "bee"
+      ],
+      "answer": [
+        "elephant"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"a night bird that hunts in the dark and flies almost silently\"?",
+      "options": [
+        "cobra",
+        "panda",
+        "camel",
+        "fox",
+        "flamingo"
+      ],
+      "answer": [
+        "owl"
+      ]
+    },
+    {
+      "text": "What animal is this: \"its stripes confuse predators when it runs away\"?",
+      "options": [
+        "spider",
+        "flamingo",
+        "panda",
+        "fox"
+      ],
+      "answer": [
+        "zebra"
+      ]
+    },
+    {
+      "text": "Name the animal: \"its wings are covered with tiny scales that rub off at a touch\".",
+      "options": [
+        "whale",
+        "beaver",
+        "zebra",
+        "kangaroo",
+        "giraffe",
+        "wolf"
+      ],
+      "answer": [
+        "butterfly"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it fells trees with its teeth and builds a dam across a river\"?",
+      "options": [
+        "dog",
+        "flamingo",
+        "peacock",
+        "owl",
+        "butterfly"
+      ],
+      "answer": [
+        "beaver"
+      ]
+    },
+    {
+      "text": "What animal is this: \"the female of this creature sometimes eats the male after mating\"?",
+      "options": [
+        "dolphin",
+        "zebra",
+        "peacock",
+        "panda",
+        "beaver"
+      ],
+      "answer": [
+        "spider"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it howls at the moon and its whole pack answers in chorus\"?",
+      "options": [
+        "lion",
+        "cobra",
+        "dolphin",
+        "kangaroo",
+        "ant"
+      ],
+      "answer": [
+        "wolf"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it folds its wings and drops like a stone onto its prey\".",
+      "options": [
+        "ostrich",
+        "giraffe",
+        "panda",
+        "wolf",
+        "ant"
+      ],
+      "answer": [
+        "eagle"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it has prickly spines on its back and rolls itself into a ball\"?",
+      "options": [
+        "bee",
+        "zebra",
+        "turtle",
+        "panda"
+      ],
+      "answer": [
+        "hedgehog"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it comes out to hunt at dusk and gathers insects in the grass\"?",
+      "options": [
+        "eagle",
+        "fox",
+        "penguin",
+        "koala",
+        "peacock"
+      ],
+      "answer": [
+        "hedgehog"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it has eight legs and weaves a web from thin thread\"?",
+      "options": [
+        "bee",
+        "peacock",
+        "dog",
+        "cobra"
+      ],
+      "answer": [
+        "spider"
+      ]
+    },
+    {
+      "text": "What animal is this: \"it strains water through horny plates to eat tiny crustaceans\"?",
+      "options": [
+        "giraffe",
+        "fox",
+        "bee",
+        "dog"
+      ],
+      "answer": [
+        "whale"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it is the only big cat that loves swimming and is not afraid of water\".",
+      "options": [
+        "dog",
+        "fox",
+        "chameleon",
+        "spider",
+        "whale"
+      ],
+      "answer": [
+        "tiger"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"in winter it changes its grey coat for a white one\"?",
+      "options": [
+        "zebra",
+        "peacock",
+        "elephant",
+        "giraffe",
+        "butterfly",
+        "spider"
+      ],
+      "answer": [
+        "hare"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it eats almost nothing but eucalyptus leaves\"?",
+      "options": [
+        "flamingo",
+        "fox",
+        "turtle",
+        "elephant",
+        "whale",
+        "beaver"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it runs faster than a horse on two long toes\"?",
+      "options": [
+        "horse",
+        "penguin",
+        "chameleon",
+        "elephant",
+        "cobra"
+      ],
+      "answer": [
+        "ostrich"
+      ]
+    },
+    {
+      "text": "What animal is this: \"its long tail serves as a support while it jumps\"?",
+      "options": [
+        "flamingo",
+        "koala",
+        "dolphin",
+        "hare",
+        "horse"
+      ],
+      "answer": [
+        "kangaroo"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it has no teeth and grinds its food with a horny beak\"?",
+      "options": [
+        "cobra",
+        "butterfly",
+        "fox",
+        "horse",
+        "ant"
+      ],
+      "answer": [
+        "turtle"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"a sea animal that saves drowning people and pushes them towards the shore\"?",
+      "options": [
+        "squirrel",
+        "whale",
+        "ant",
+        "beaver",
+        "wolf"
+      ],
+      "answer": [
+        "dolphin"
+      ]
+    },
+    {
+      "text": "What animal is this: \"its home is called a lodge and the entrance is hidden under water\"?",
+      "options": [
+        "eagle",
+        "spider",
+        "cobra",
+        "dolphin"
+      ],
+      "answer": [
+        "beaver"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it has an orange coat with black stripes\"?",
+      "options": [
+        "eagle",
+        "flamingo",
+        "butterfly",
+        "peacock",
+        "wolf",
+        "bear"
+      ],
+      "answer": [
+        "tiger"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it reaches acacia leaves at the very tops of trees\"?",
+      "options": [
+        "horse",
+        "lion",
+        "hare",
+        "turtle",
+        "eagle"
+      ],
+      "answer": [
+        "giraffe"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it is the largest member of the cat family\"?",
+      "options": [
+        "crocodile",
+        "koala",
+        "horse",
+        "lion"
+      ],
+      "answer": [
+        "tiger"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it swims in front of a ship and leaps out of the water in an arc\".",
+      "options": [
+        "elephant",
+        "dog",
+        "tiger",
+        "bee",
+        "zebra",
+        "beaver"
+      ],
+      "answer": [
+        "dolphin"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"its bushy tail works as a rudder when it jumps\"?",
+      "options": [
+        "cobra",
+        "eagle",
+        "koala",
+        "bear"
+      ],
+      "answer": [
+        "squirrel"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it stands for a long time on one leg with the other folded up\"?",
+      "options": [
+        "beaver",
+        "butterfly",
+        "penguin",
+        "panda",
+        "elephant"
+      ],
+      "answer": [
+        "flamingo"
+      ]
+    },
+    {
+      "text": "Name the animal: \"people ride on its back, and its baby is called a foal\".",
+      "options": [
+        "hedgehog",
+        "butterfly",
+        "wolf",
+        "peacock",
+        "turtle",
+        "bee"
+      ],
+      "answer": [
+        "horse"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"the male has a thick mane that the female lacks\"?",
+      "options": [
+        "koala",
+        "peacock",
+        "zebra",
+        "kangaroo"
+      ],
+      "answer": [
+        "lion"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"the largest animal on the planet, and it lives in the ocean\"?",
+      "options": [
+        "panda",
+        "tiger",
+        "bee",
+        "squirrel",
+        "kangaroo"
+      ],
+      "answer": [
+        "whale"
+      ]
+    },
+    {
+      "text": "What animal is this: \"it lives in a burrow that it sometimes takes from a badger\"?",
+      "options": [
+        "koala",
+        "squirrel",
+        "hedgehog",
+        "hare",
+        "kangaroo"
+      ],
+      "answer": [
+        "fox"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it sleeps up to twenty hours a day, hugging a branch\"?",
+      "options": [
+        "eagle",
+        "owl",
+        "chameleon",
+        "panda"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "What animal is this: \"it has a tongue about half a metre long with a bluish tint\"?",
+      "options": [
+        "beaver",
+        "hare",
+        "wolf",
+        "lion",
+        "dolphin"
+      ],
+      "answer": [
+        "giraffe"
+      ]
+    },
+    {
+      "text": "What animal is this: \"it lives in a pride in which mostly the females hunt\"?",
+      "options": [
+        "horse",
+        "owl",
+        "elephant",
+        "dolphin",
+        "koala"
+      ],
+      "answer": [
+        "lion"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"its pink plumage comes from the pigmented crustaceans it eats\"?",
+      "options": [
+        "hare",
+        "fox",
+        "spider",
+        "cobra"
+      ],
+      "answer": [
+        "flamingo"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it goes for weeks without water and is called the ship of the desert\"?",
+      "options": [
+        "cobra",
+        "squirrel",
+        "koala",
+        "wolf",
+        "fox"
+      ],
+      "answer": [
+        "camel"
+      ]
+    },
+    {
+      "text": "What animal is this: \"tufts of feathers on its head look like little ears, and its voice is a hoot\"?",
+      "options": [
+        "elephant",
+        "tiger",
+        "horse",
+        "koala"
+      ],
+      "answer": [
+        "owl"
+      ]
+    },
+    {
+      "text": "Name the animal: \"in India its bite is deadly and people even worship it\".",
+      "options": [
+        "penguin",
+        "bear",
+        "whale",
+        "crocodile",
+        "owl",
+        "camel"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it has powerful jaws and drags its victim under the water\".",
+      "options": [
+        "camel",
+        "whale",
+        "peacock",
+        "owl",
+        "hare",
+        "cobra"
+      ],
+      "answer": [
+        "crocodile"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it loves honey and may ruin a beehive\"?",
+      "options": [
+        "dolphin",
+        "flamingo",
+        "turtle",
+        "butterfly"
+      ],
+      "answer": [
+        "bear"
+      ]
+    },
+    {
+      "text": "What animal is this: \"its picture is the emblem of the World Wide Fund for Nature\"?",
+      "options": [
+        "lion",
+        "spider",
+        "beaver",
+        "flamingo"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it dances to show its sisters where the flowers grow\"?",
+      "options": [
+        "lion",
+        "wolf",
+        "eagle",
+        "peacock"
+      ],
+      "answer": [
+        "bee"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it can sleep standing up and recognises its owner by voice\"?",
+      "options": [
+        "koala",
+        "panda",
+        "camel",
+        "spider",
+        "fox"
+      ],
+      "answer": [
+        "horse"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"in fairy tales it is the cleverest and cheats the wolf and the bear\"?",
+      "options": [
+        "beaver",
+        "turtle",
+        "penguin",
+        "koala",
+        "panda"
+      ],
+      "answer": [
+        "fox"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"a bird whose wings have turned into flippers\"?",
+      "options": [
+        "crocodile",
+        "bee",
+        "camel",
+        "whale",
+        "chameleon"
+      ],
+      "answer": [
+        "penguin"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"the largest living reptile\"?",
+      "options": [
+        "bee",
+        "horse",
+        "hedgehog",
+        "ostrich",
+        "turtle"
+      ],
+      "answer": [
+        "crocodile"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it guards the house, follows a trail and serves people\"?",
+      "options": [
+        "bee",
+        "hedgehog",
+        "koala",
+        "owl"
+      ],
+      "answer": [
+        "dog"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it wags its tail for joy and offers a paw\"?",
+      "options": [
+        "butterfly",
+        "bear",
+        "penguin",
+        "peacock",
+        "wolf"
+      ],
+      "answer": [
+        "dog"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"its family has a queen and workers, and they talk to each other with smells\"?",
+      "options": [
+        "beaver",
+        "turtle",
+        "ostrich",
+        "koala",
+        "spider",
+        "bear"
+      ],
+      "answer": [
+        "ant"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"a venomous snake that spreads a hood when it is angry\"?",
+      "options": [
+        "tiger",
+        "panda",
+        "eagle",
+        "hare",
+        "kangaroo"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it has dark rings around its eyes that look like spectacles\"?",
+      "options": [
+        "lion",
+        "cobra",
+        "eagle",
+        "horse",
+        "dog",
+        "peacock"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it is the largest predator of the forest and can stand up on its hind legs\".",
+      "options": [
+        "bee",
+        "peacock",
+        "kangaroo",
+        "horse",
+        "dolphin"
+      ],
+      "answer": [
+        "bear"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it carries pollen in baskets on its hind legs and can sting only once\".",
+      "options": [
+        "kangaroo",
+        "ostrich",
+        "elephant",
+        "fox",
+        "beaver"
+      ],
+      "answer": [
+        "bee"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it has no tail at all, and white tufts of fur show on its ears\".",
+      "options": [
+        "chameleon",
+        "squirrel",
+        "zebra",
+        "kangaroo",
+        "peacock"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it is considered the national bird of India\".",
+      "options": [
+        "koala",
+        "flamingo",
+        "hedgehog",
+        "panda",
+        "dog"
+      ],
+      "answer": [
+        "peacock"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it digs a den under tree roots and sleeps there all winter\"?",
+      "options": [
+        "turtle",
+        "elephant",
+        "eagle",
+        "beaver",
+        "wolf",
+        "bee"
+      ],
+      "answer": [
+        "bear"
+      ]
+    },
+    {
+      "text": "What animal is this: \"its bent bill filters the water of salt lakes\"?",
+      "options": [
+        "beaver",
+        "cobra",
+        "zebra",
+        "spider",
+        "owl"
+      ],
+      "answer": [
+        "flamingo"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"it has bright patterned wings and flutters from flower to flower\"?",
+      "options": [
+        "hare",
+        "penguin",
+        "peacock",
+        "ant",
+        "dolphin"
+      ],
+      "answer": [
+        "butterfly"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"it can turn its head almost two hundred and seventy degrees\"?",
+      "options": [
+        "peacock",
+        "giraffe",
+        "bee",
+        "panda",
+        "whale",
+        "hare"
+      ],
+      "answer": [
+        "owl"
+      ]
+    },
+    {
+      "text": "What animal is this: \"the sea-dwelling kinds row with flippers and lay their eggs on sandy beaches\"?",
+      "options": [
+        "bear",
+        "penguin",
+        "horse",
+        "giraffe",
+        "kangaroo"
+      ],
+      "answer": [
+        "turtle"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it has an elongated beak-like snout and is easily trained\"?",
+      "options": [
+        "owl",
+        "spider",
+        "dog",
+        "lion",
+        "bear"
+      ],
+      "answer": [
+        "dolphin"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it is considered the ancestor of the domestic dog\"?",
+      "options": [
+        "ostrich",
+        "chameleon",
+        "panda",
+        "eagle",
+        "squirrel"
+      ],
+      "answer": [
+        "wolf"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"the crest of feathers on its head looks like a small crown\"?",
+      "options": [
+        "bear",
+        "squirrel",
+        "owl",
+        "fox"
+      ],
+      "answer": [
+        "peacock"
+      ]
+    },
+    {
+      "text": "What animal is this: \"it tangles its own tracks, looping through the forest to fool the chase\"?",
+      "options": [
+        "penguin",
+        "koala",
+        "hedgehog",
+        "camel"
+      ],
+      "answer": [
+        "hare"
+      ]
+    },
+    {
+      "text": "Name the animal: \"it can run dozens of kilometres after a herd without rest\".",
+      "options": [
+        "hedgehog",
+        "owl",
+        "panda",
+        "squirrel",
+        "fox",
+        "butterfly"
+      ],
+      "answer": [
+        "wolf"
+      ]
+    },
+    {
+      "text": "Which animal fits this description: \"its two eyes move independently of each other\"?",
+      "options": [
+        "crocodile",
+        "zebra",
+        "hedgehog",
+        "dog",
+        "horse",
+        "elephant"
+      ],
+      "answer": [
+        "chameleon"
+      ]
+    },
+    {
+      "text": "What animal matches this description: \"it has no legs at all and flicks a forked tongue\"?",
+      "options": [
+        "dolphin",
+        "wolf",
+        "koala",
+        "chameleon",
+        "ostrich"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it builds a tall mound of needles and twigs and can lift more than its own weight\"?",
+      "options": [
+        "tiger",
+        "crocodile",
+        "dog",
+        "zebra",
+        "giraffe"
+      ],
+      "answer": [
+        "ant"
+      ]
+    },
+    {
+      "text": "What animal is this: \"it catches insects with a tongue that shoots out longer than its body\"?",
+      "options": [
+        "eagle",
+        "cobra",
+        "whale",
+        "lion"
+      ],
+      "answer": [
+        "chameleon"
+      ]
+    },
+    {
+      "text": "Which animal hides behind this description: \"it has long ears and a short fluffy tail like a little ball\"?",
+      "options": [
+        "dog",
+        "penguin",
+        "panda",
+        "peacock",
+        "camel"
+      ],
+      "answer": [
+        "hare"
+      ]
+    },
+    {
+      "text": "Which animal is described as \"iron shoes are nailed to its hooves\"?",
+      "options": [
+        "wolf",
+        "panda",
+        "ant",
+        "butterfly",
+        "spider"
+      ],
+      "answer": [
+        "horse"
+      ]
+    }
+  ]
+}

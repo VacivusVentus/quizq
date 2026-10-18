@@ -1,0 +1,1691 @@
+{
+  "theme": "Cities and Their Landmarks",
+  "questions": [
+    {
+      "text": "Arthur's Seat is a landmark of which city?",
+      "options": [
+        "Buenos Aires",
+        "Tokyo",
+        "Dublin",
+        "Singapore"
+      ],
+      "answer": [
+        "Edinburgh"
+      ]
+    },
+    {
+      "text": "Which of these landmarks are located in Seoul?",
+      "options": [
+        "Chapultepec Castle",
+        "Rijksmuseum",
+        "Jumeirah Beach",
+        "Westminster Abbey"
+      ],
+      "answer": [
+        "Gyeongbokgung Palace",
+        "Cheonggyecheon Stream"
+      ]
+    },
+    {
+      "text": "Which city is home to Parthenon?",
+      "options": [
+        "Chicago",
+        "Cairo",
+        "Lisbon",
+        "Dubai",
+        "Amsterdam",
+        "Paris"
+      ],
+      "answer": [
+        "Athens"
+      ]
+    },
+    {
+      "text": "In which city is St Stephen's Green located?",
+      "options": [
+        "Florence",
+        "London",
+        "Singapore",
+        "Cairo",
+        "Toronto"
+      ],
+      "answer": [
+        "Dublin"
+      ]
+    },
+    {
+      "text": "Which of these landmarks is located in Buenos Aires?",
+      "options": [
+        "Royal Ontario Museum",
+        "Holyrood Palace",
+        "Retiro Park",
+        "Trinity College"
+      ],
+      "answer": [
+        "Teatro Colon"
+      ]
+    },
+    {
+      "text": "Rialto Bridge is a landmark of which city?",
+      "options": [
+        "Amsterdam",
+        "Dubai",
+        "Buenos Aires",
+        "Singapore",
+        "Paris"
+      ],
+      "answer": [
+        "Venice"
+      ]
+    },
+    {
+      "text": "Which of these sights can you visit in London?",
+      "options": [
+        "Reichstag Building",
+        "Bourbon Street",
+        "Acropolis",
+        "Blue Mosque",
+        "Copacabana Beach"
+      ],
+      "answer": [
+        "Westminster Abbey"
+      ]
+    },
+    {
+      "text": "Museum Island is a landmark of which city?",
+      "options": [
+        "Sydney",
+        "Paris",
+        "Singapore",
+        "Buenos Aires",
+        "Jerusalem",
+        "Rome"
+      ],
+      "answer": [
+        "Berlin"
+      ]
+    },
+    {
+      "text": "In which city is Egyptian Museum located?",
+      "options": [
+        "Boston",
+        "Istanbul",
+        "Barcelona",
+        "Rome",
+        "Rio de Janeiro",
+        "Edinburgh"
+      ],
+      "answer": [
+        "Cairo"
+      ]
+    },
+    {
+      "text": "Plaza Mayor is a landmark of which city?",
+      "options": [
+        "Jerusalem",
+        "San Francisco",
+        "Washington",
+        "Florence",
+        "New Orleans"
+      ],
+      "answer": [
+        "Madrid"
+      ]
+    },
+    {
+      "text": "Spanish Steps is a landmark of which city?",
+      "options": [
+        "Rio de Janeiro",
+        "Boston",
+        "Mexico City",
+        "Berlin",
+        "Seoul"
+      ],
+      "answer": [
+        "Rome"
+      ]
+    },
+    {
+      "text": "In which city is Fenway Park located?",
+      "options": [
+        "Cairo",
+        "Paris",
+        "Buenos Aires",
+        "Amsterdam",
+        "Mexico City"
+      ],
+      "answer": [
+        "Boston"
+      ]
+    },
+    {
+      "text": "In which city would you find Chapultepec Castle?",
+      "options": [
+        "Chicago",
+        "Buenos Aires",
+        "Dublin",
+        "Prague",
+        "Bangkok"
+      ],
+      "answer": [
+        "Mexico City"
+      ]
+    },
+    {
+      "text": "Which of these landmarks is located in Rome?",
+      "options": [
+        "Wat Arun",
+        "Egyptian Museum",
+        "Prado Museum",
+        "Zocalo"
+      ],
+      "answer": [
+        "Spanish Steps"
+      ]
+    },
+    {
+      "text": "Which of these sights can be found in Sydney?",
+      "options": [
+        "Statue of Liberty",
+        "Casa Loma",
+        "Egyptian Museum",
+        "Meiji Shrine",
+        "Reichstag Building"
+      ],
+      "answer": [
+        "Manly Beach",
+        "Bondi Beach"
+      ]
+    },
+    {
+      "text": "In which city is Acropolis located?",
+      "options": [
+        "New Orleans",
+        "Boston",
+        "Vienna",
+        "Florence",
+        "Istanbul"
+      ],
+      "answer": [
+        "Athens"
+      ]
+    },
+    {
+      "text": "Navy Pier is a landmark of which city?",
+      "options": [
+        "Boston",
+        "Madrid",
+        "Lisbon",
+        "Dubai",
+        "Edinburgh",
+        "Cairo"
+      ],
+      "answer": [
+        "Chicago"
+      ]
+    },
+    {
+      "text": "Cheonggyecheon Stream is a landmark of which city?",
+      "options": [
+        "Sydney",
+        "Paris",
+        "Chicago",
+        "Toronto",
+        "Vienna",
+        "Singapore"
+      ],
+      "answer": [
+        "Seoul"
+      ]
+    },
+    {
+      "text": "Which city is famous for Bourbon Street?",
+      "options": [
+        "San Francisco",
+        "Bangkok",
+        "New York",
+        "Paris",
+        "Chicago"
+      ],
+      "answer": [
+        "New Orleans"
+      ]
+    },
+    {
+      "text": "In which city is Eiffel Tower located?",
+      "options": [
+        "Washington",
+        "Venice",
+        "Prague",
+        "Sydney",
+        "Athens"
+      ],
+      "answer": [
+        "Paris"
+      ]
+    },
+    {
+      "text": "Which of these attractions is found in Venice?",
+      "options": [
+        "Museum Island",
+        "Pyramids of Giza",
+        "Gyeongbokgung Palace",
+        "Astronomical Clock",
+        "Anne Frank House"
+      ],
+      "answer": [
+        "St Mark's Basilica"
+      ]
+    },
+    {
+      "text": "In which city would you find Notre-Dame Cathedral?",
+      "options": [
+        "Florence",
+        "Tokyo",
+        "London",
+        "New Orleans",
+        "Vienna",
+        "Cairo"
+      ],
+      "answer": [
+        "Paris"
+      ]
+    },
+    {
+      "text": "Which city is home to Brandenburg Gate?",
+      "options": [
+        "London",
+        "Madrid",
+        "Singapore",
+        "Prague",
+        "Lisbon"
+      ],
+      "answer": [
+        "Berlin"
+      ]
+    },
+    {
+      "text": "Palm Jumeirah is a landmark of which city?",
+      "options": [
+        "Sydney",
+        "Cairo",
+        "Rio de Janeiro",
+        "Barcelona",
+        "New York"
+      ],
+      "answer": [
+        "Dubai"
+      ]
+    },
+    {
+      "text": "Which of these sights can be found in Toronto?",
+      "options": [
+        "Piazzale Michelangelo",
+        "Reichstag Building",
+        "Wat Arun",
+        "Guinness Storehouse",
+        "St Stephen's Cathedral"
+      ],
+      "answer": [
+        "Casa Loma",
+        "CN Tower"
+      ]
+    },
+    {
+      "text": "Which city is famous for Guinness Storehouse?",
+      "options": [
+        "Buenos Aires",
+        "Istanbul",
+        "Bangkok",
+        "Chicago"
+      ],
+      "answer": [
+        "Dublin"
+      ]
+    },
+    {
+      "text": "Which of these sights can you visit in Amsterdam?",
+      "options": [
+        "Great Sphinx",
+        "Sugarloaf Mountain",
+        "Times Square",
+        "Navy Pier",
+        "Rialto Bridge"
+      ],
+      "answer": [
+        "Anne Frank House"
+      ]
+    },
+    {
+      "text": "CN Tower is a landmark of which city?",
+      "options": [
+        "Seoul",
+        "Boston",
+        "Berlin",
+        "Singapore",
+        "Bangkok"
+      ],
+      "answer": [
+        "Toronto"
+      ]
+    },
+    {
+      "text": "Old Town Square is a landmark of which city?",
+      "options": [
+        "Madrid",
+        "Mexico City",
+        "Rome",
+        "Edinburgh"
+      ],
+      "answer": [
+        "Prague"
+      ]
+    },
+    {
+      "text": "In which city is Van Gogh Museum located?",
+      "options": [
+        "Vienna",
+        "Jerusalem",
+        "Dublin",
+        "Rome",
+        "San Francisco"
+      ],
+      "answer": [
+        "Amsterdam"
+      ]
+    },
+    {
+      "text": "In which city is Buckingham Palace located?",
+      "options": [
+        "New Orleans",
+        "Cairo",
+        "Athens",
+        "Dubai",
+        "Prague"
+      ],
+      "answer": [
+        "London"
+      ]
+    },
+    {
+      "text": "Which landmark belongs to the city of San Francisco?",
+      "options": [
+        "Times Square",
+        "Palacio de Bellas Artes",
+        "Jackson Square",
+        "Big Ben",
+        "Uffizi Gallery",
+        "Guinness Storehouse"
+      ],
+      "answer": [
+        "Golden Gate Bridge"
+      ]
+    },
+    {
+      "text": "Which city is home to Willis Tower?",
+      "options": [
+        "Madrid",
+        "Sydney",
+        "Edinburgh",
+        "Cairo",
+        "Seoul"
+      ],
+      "answer": [
+        "Chicago"
+      ]
+    },
+    {
+      "text": "Which landmark belongs to the city of Florence?",
+      "options": [
+        "Burj Khalifa",
+        "Jeronimos Monastery",
+        "Holyrood Palace",
+        "Schoenbrunn Palace",
+        "Palacio de Bellas Artes",
+        "Westminster Abbey"
+      ],
+      "answer": [
+        "Piazzale Michelangelo"
+      ]
+    },
+    {
+      "text": "In which city would you find Copacabana Beach?",
+      "options": [
+        "San Francisco",
+        "Amsterdam",
+        "Berlin",
+        "Bangkok",
+        "New Orleans",
+        "Madrid"
+      ],
+      "answer": [
+        "Rio de Janeiro"
+      ]
+    },
+    {
+      "text": "Which city is home to Prater?",
+      "options": [
+        "Toronto",
+        "Istanbul",
+        "Chicago",
+        "Amsterdam",
+        "Venice"
+      ],
+      "answer": [
+        "Vienna"
+      ]
+    },
+    {
+      "text": "In which city would you find Burj Khalifa?",
+      "options": [
+        "Berlin",
+        "New York",
+        "Buenos Aires",
+        "Florence"
+      ],
+      "answer": [
+        "Dubai"
+      ]
+    },
+    {
+      "text": "Which city is famous for Obelisco?",
+      "options": [
+        "Mexico City",
+        "Athens",
+        "San Francisco",
+        "Prague",
+        "Sydney",
+        "Toronto"
+      ],
+      "answer": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "text": "Big Ben is a landmark of which city?",
+      "options": [
+        "Lisbon",
+        "Dublin",
+        "Tokyo",
+        "Seoul"
+      ],
+      "answer": [
+        "London"
+      ]
+    },
+    {
+      "text": "Which of these sights can you visit in Chicago?",
+      "options": [
+        "Freedom Trail",
+        "Retiro Park",
+        "Golden Gate Bridge",
+        "Grand Palace",
+        "Senso-ji Temple"
+      ],
+      "answer": [
+        "Cloud Gate"
+      ]
+    },
+    {
+      "text": "Which city is famous for Golden Gate Bridge?",
+      "options": [
+        "Washington",
+        "Cairo",
+        "Barcelona",
+        "Singapore"
+      ],
+      "answer": [
+        "San Francisco"
+      ]
+    },
+    {
+      "text": "Which city is famous for Great Sphinx?",
+      "options": [
+        "San Francisco",
+        "Boston",
+        "Jerusalem",
+        "Bangkok",
+        "Vienna"
+      ],
+      "answer": [
+        "Cairo"
+      ]
+    },
+    {
+      "text": "Which city is home to St Mark's Basilica?",
+      "options": [
+        "Washington",
+        "Rome",
+        "Boston",
+        "New York",
+        "Paris",
+        "Barcelona"
+      ],
+      "answer": [
+        "Venice"
+      ]
+    },
+    {
+      "text": "In which city would you find Brooklyn Bridge?",
+      "options": [
+        "Sydney",
+        "Bangkok",
+        "Dublin",
+        "Madrid",
+        "Seoul"
+      ],
+      "answer": [
+        "New York"
+      ]
+    },
+    {
+      "text": "Which city is home to Sugarloaf Mountain?",
+      "options": [
+        "Seoul",
+        "Bangkok",
+        "Buenos Aires",
+        "Dubai",
+        "London"
+      ],
+      "answer": [
+        "Rio de Janeiro"
+      ]
+    },
+    {
+      "text": "Which of these attractions belong to the city of Jerusalem?",
+      "options": [
+        "Royal Ontario Museum",
+        "Prater",
+        "Casa Loma",
+        "St Mark's Basilica",
+        "Chapultepec Castle"
+      ],
+      "answer": [
+        "Church of the Holy Sepulchre",
+        "Dome of the Rock"
+      ]
+    },
+    {
+      "text": "Which of these attractions is found in Vienna?",
+      "options": [
+        "Lincoln Memorial",
+        "Prado Museum",
+        "White House",
+        "Museum of Fine Arts",
+        "Empire State Building"
+      ],
+      "answer": [
+        "Prater"
+      ]
+    },
+    {
+      "text": "Which of these landmarks is located in Athens?",
+      "options": [
+        "Wat Pho",
+        "Colosseum",
+        "Piazzale Michelangelo",
+        "Park Guell"
+      ],
+      "answer": [
+        "Parthenon"
+      ]
+    },
+    {
+      "text": "In which city is Alcatraz Island located?",
+      "options": [
+        "Toronto",
+        "Edinburgh",
+        "Lisbon",
+        "Berlin",
+        "New York"
+      ],
+      "answer": [
+        "San Francisco"
+      ]
+    },
+    {
+      "text": "Which city is famous for Jumeirah Beach?",
+      "options": [
+        "Vienna",
+        "Sydney",
+        "Amsterdam",
+        "Seoul",
+        "Berlin"
+      ],
+      "answer": [
+        "Dubai"
+      ]
+    },
+    {
+      "text": "Rijksmuseum is a landmark of which city?",
+      "options": [
+        "Lisbon",
+        "Dubai",
+        "Mexico City",
+        "Dublin"
+      ],
+      "answer": [
+        "Amsterdam"
+      ]
+    },
+    {
+      "text": "In which city would you find Merlion?",
+      "options": [
+        "Tokyo",
+        "Dubai",
+        "San Francisco",
+        "Chicago",
+        "Rome"
+      ],
+      "answer": [
+        "Singapore"
+      ]
+    },
+    {
+      "text": "Which city is home to Ponte Vecchio?",
+      "options": [
+        "New Orleans",
+        "Buenos Aires",
+        "Madrid",
+        "Venice"
+      ],
+      "answer": [
+        "Florence"
+      ]
+    },
+    {
+      "text": "In which city is Marina Bay Sands located?",
+      "options": [
+        "Dubai",
+        "Venice",
+        "Berlin",
+        "Sydney",
+        "Istanbul",
+        "Prague"
+      ],
+      "answer": [
+        "Singapore"
+      ]
+    },
+    {
+      "text": "Which city is famous for Park Guell?",
+      "options": [
+        "Berlin",
+        "Rio de Janeiro",
+        "Madrid",
+        "Florence",
+        "Seoul",
+        "New York"
+      ],
+      "answer": [
+        "Barcelona"
+      ]
+    },
+    {
+      "text": "In which city is Casa Loma located?",
+      "options": [
+        "Dubai",
+        "Jerusalem",
+        "Singapore",
+        "Washington"
+      ],
+      "answer": [
+        "Toronto"
+      ]
+    },
+    {
+      "text": "Sagrada Familia is a landmark of which city?",
+      "options": [
+        "Singapore",
+        "Edinburgh",
+        "Rio de Janeiro",
+        "Amsterdam",
+        "Madrid"
+      ],
+      "answer": [
+        "Barcelona"
+      ]
+    },
+    {
+      "text": "Which city is home to Louvre Museum?",
+      "options": [
+        "Washington",
+        "Dubai",
+        "Istanbul",
+        "Madrid",
+        "Prague"
+      ],
+      "answer": [
+        "Paris"
+      ]
+    },
+    {
+      "text": "Which city is famous for Bondi Beach?",
+      "options": [
+        "Bangkok",
+        "London",
+        "Jerusalem",
+        "Washington"
+      ],
+      "answer": [
+        "Sydney"
+      ]
+    },
+    {
+      "text": "In which city would you find Blue Mosque?",
+      "options": [
+        "Dublin",
+        "Toronto",
+        "Berlin",
+        "Washington",
+        "Barcelona"
+      ],
+      "answer": [
+        "Istanbul"
+      ]
+    },
+    {
+      "text": "Which city is home to Hagia Sophia?",
+      "options": [
+        "Buenos Aires",
+        "Toronto",
+        "Paris",
+        "Berlin"
+      ],
+      "answer": [
+        "Istanbul"
+      ]
+    },
+    {
+      "text": "In which city would you find Trevi Fountain?",
+      "options": [
+        "Tokyo",
+        "Mexico City",
+        "Seoul",
+        "London"
+      ],
+      "answer": [
+        "Rome"
+      ]
+    },
+    {
+      "text": "Which city is home to Teatro Colon?",
+      "options": [
+        "Lisbon",
+        "Bangkok",
+        "Jerusalem",
+        "Sydney",
+        "Mexico City"
+      ],
+      "answer": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "text": "Which city is famous for Westminster Abbey?",
+      "options": [
+        "Vienna",
+        "Paris",
+        "Edinburgh",
+        "Rome",
+        "Bangkok"
+      ],
+      "answer": [
+        "London"
+      ]
+    },
+    {
+      "text": "Which city is home to Empire State Building?",
+      "options": [
+        "Istanbul",
+        "Athens",
+        "Berlin",
+        "Sydney"
+      ],
+      "answer": [
+        "New York"
+      ]
+    },
+    {
+      "text": "Manly Beach is a landmark of which city?",
+      "options": [
+        "Singapore",
+        "Toronto",
+        "Rome",
+        "Buenos Aires",
+        "Tokyo",
+        "Florence"
+      ],
+      "answer": [
+        "Sydney"
+      ]
+    },
+    {
+      "text": "Which of these landmarks is located in Washington?",
+      "options": [
+        "Old Town Square",
+        "Royal Ontario Museum",
+        "Copacabana Beach",
+        "Ponte Vecchio"
+      ],
+      "answer": [
+        "White House"
+      ]
+    },
+    {
+      "text": "Which city is home to Colosseum?",
+      "options": [
+        "Dublin",
+        "Chicago",
+        "Seoul",
+        "Mexico City",
+        "Madrid",
+        "Buenos Aires"
+      ],
+      "answer": [
+        "Rome"
+      ]
+    },
+    {
+      "text": "In which city would you find Doge's Palace?",
+      "options": [
+        "Istanbul",
+        "Toronto",
+        "Mexico City",
+        "Madrid"
+      ],
+      "answer": [
+        "Venice"
+      ]
+    },
+    {
+      "text": "In which city would you find Lincoln Memorial?",
+      "options": [
+        "Singapore",
+        "Rio de Janeiro",
+        "Amsterdam",
+        "Seoul",
+        "Lisbon",
+        "Berlin"
+      ],
+      "answer": [
+        "Washington"
+      ]
+    },
+    {
+      "text": "Which city is famous for Meiji Shrine?",
+      "options": [
+        "Amsterdam",
+        "Buenos Aires",
+        "Washington",
+        "Rome",
+        "Barcelona",
+        "Dubai"
+      ],
+      "answer": [
+        "Tokyo"
+      ]
+    },
+    {
+      "text": "In which city would you find Reichstag Building?",
+      "options": [
+        "Lisbon",
+        "Dublin",
+        "Chicago",
+        "Mexico City",
+        "Toronto"
+      ],
+      "answer": [
+        "Berlin"
+      ]
+    },
+    {
+      "text": "In which city would you find Royal Mile?",
+      "options": [
+        "Lisbon",
+        "Dubai",
+        "New York",
+        "Prague",
+        "Dublin",
+        "Singapore"
+      ],
+      "answer": [
+        "Edinburgh"
+      ]
+    },
+    {
+      "text": "Which landmark belongs to the city of Dubai?",
+      "options": [
+        "Zocalo",
+        "Trinity College",
+        "Guinness Storehouse",
+        "Topkapi Palace",
+        "Acropolis",
+        "Marina Bay Sands"
+      ],
+      "answer": [
+        "Palm Jumeirah"
+      ]
+    },
+    {
+      "text": "In which city is Dome of the Rock located?",
+      "options": [
+        "Washington",
+        "Vienna",
+        "Singapore",
+        "Berlin",
+        "Tokyo"
+      ],
+      "answer": [
+        "Jerusalem"
+      ]
+    },
+    {
+      "text": "In which city would you find Panathenaic Stadium?",
+      "options": [
+        "Barcelona",
+        "New York",
+        "Washington",
+        "Edinburgh"
+      ],
+      "answer": [
+        "Athens"
+      ]
+    },
+    {
+      "text": "In which city is Senso-ji Temple located?",
+      "options": [
+        "Vienna",
+        "Barcelona",
+        "Madrid",
+        "Rome"
+      ],
+      "answer": [
+        "Tokyo"
+      ]
+    },
+    {
+      "text": "Topkapi Palace is a landmark of which city?",
+      "options": [
+        "San Francisco",
+        "Amsterdam",
+        "Singapore",
+        "Toronto",
+        "Tokyo"
+      ],
+      "answer": [
+        "Istanbul"
+      ]
+    },
+    {
+      "text": "Which city is famous for Western Wall?",
+      "options": [
+        "San Francisco",
+        "Lisbon",
+        "Edinburgh",
+        "Seoul",
+        "Dublin"
+      ],
+      "answer": [
+        "Jerusalem"
+      ]
+    },
+    {
+      "text": "Which of these sights can you visit in Boston?",
+      "options": [
+        "Times Square",
+        "Ponte Vecchio",
+        "Jackson Square",
+        "Louvre Museum",
+        "Pyramids of Giza"
+      ],
+      "answer": [
+        "Fenway Park"
+      ]
+    },
+    {
+      "text": "Which city is home to Freedom Trail?",
+      "options": [
+        "London",
+        "New Orleans",
+        "Edinburgh",
+        "San Francisco",
+        "Seoul",
+        "Paris"
+      ],
+      "answer": [
+        "Boston"
+      ]
+    },
+    {
+      "text": "White House is a landmark of which city?",
+      "options": [
+        "Florence",
+        "Toronto",
+        "Rome",
+        "Chicago"
+      ],
+      "answer": [
+        "Washington"
+      ]
+    },
+    {
+      "text": "Which city is famous for Statue of Liberty?",
+      "options": [
+        "Edinburgh",
+        "Prague",
+        "New Orleans",
+        "Berlin",
+        "San Francisco"
+      ],
+      "answer": [
+        "New York"
+      ]
+    },
+    {
+      "text": "Which of these landmarks are located in Lisbon?",
+      "options": [
+        "Royal Mile",
+        "Bourbon Street",
+        "Manly Beach",
+        "Prado Museum"
+      ],
+      "answer": [
+        "Jeronimos Monastery",
+        "Castle of Sao Jorge"
+      ]
+    },
+    {
+      "text": "In which city would you find Cloud Gate?",
+      "options": [
+        "Rome",
+        "Sydney",
+        "Boston",
+        "San Francisco",
+        "Mexico City"
+      ],
+      "answer": [
+        "Chicago"
+      ]
+    },
+    {
+      "text": "In which city is Casa Rosada located?",
+      "options": [
+        "Jerusalem",
+        "Florence",
+        "Amsterdam",
+        "Singapore"
+      ],
+      "answer": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "text": "Which city is home to Shibuya Crossing?",
+      "options": [
+        "Toronto",
+        "Buenos Aires",
+        "Jerusalem",
+        "New York",
+        "Chicago"
+      ],
+      "answer": [
+        "Tokyo"
+      ]
+    },
+    {
+      "text": "Choose the landmarks that are located in Berlin.",
+      "options": [
+        "Bondi Beach",
+        "Empire State Building",
+        "Teatro Colon",
+        "Colosseum",
+        "Western Wall",
+        "Prater"
+      ],
+      "answer": [
+        "Reichstag Building",
+        "Museum Island"
+      ]
+    },
+    {
+      "text": "Which city is home to Holyrood Palace?",
+      "options": [
+        "Athens",
+        "Washington",
+        "Berlin",
+        "Toronto",
+        "Dubai"
+      ],
+      "answer": [
+        "Edinburgh"
+      ]
+    },
+    {
+      "text": "Which city is home to Wat Arun?",
+      "options": [
+        "Seoul",
+        "Sydney",
+        "Buenos Aires",
+        "Singapore",
+        "Chicago"
+      ],
+      "answer": [
+        "Bangkok"
+      ]
+    },
+    {
+      "text": "Which city is home to Gardens by the Bay?",
+      "options": [
+        "Dublin",
+        "London",
+        "Mexico City",
+        "Washington"
+      ],
+      "answer": [
+        "Singapore"
+      ]
+    },
+    {
+      "text": "In which city would you find Gyeongbokgung Palace?",
+      "options": [
+        "Berlin",
+        "Athens",
+        "Paris",
+        "Venice",
+        "New Orleans"
+      ],
+      "answer": [
+        "Seoul"
+      ]
+    },
+    {
+      "text": "Which of these attractions is found in Prague?",
+      "options": [
+        "Acropolis",
+        "Meiji Shrine",
+        "Grand Palace",
+        "Arthur's Seat",
+        "Merlion"
+      ],
+      "answer": [
+        "Astronomical Clock"
+      ]
+    },
+    {
+      "text": "In which city is Belem Tower located?",
+      "options": [
+        "Jerusalem",
+        "Seoul",
+        "Washington",
+        "Berlin"
+      ],
+      "answer": [
+        "Lisbon"
+      ]
+    },
+    {
+      "text": "In which city is Grand Palace located?",
+      "options": [
+        "Paris",
+        "Washington",
+        "Istanbul",
+        "Singapore",
+        "Seoul"
+      ],
+      "answer": [
+        "Bangkok"
+      ]
+    },
+    {
+      "text": "Which of these landmarks is located in New Orleans?",
+      "options": [
+        "Empire State Building",
+        "Senso-ji Temple",
+        "Sagrada Familia",
+        "Christ the Redeemer"
+      ],
+      "answer": [
+        "French Quarter"
+      ]
+    },
+    {
+      "text": "Which city is famous for Astronomical Clock?",
+      "options": [
+        "San Francisco",
+        "Sydney",
+        "Paris",
+        "Athens",
+        "Dublin"
+      ],
+      "answer": [
+        "Prague"
+      ]
+    },
+    {
+      "text": "Trinity College is a landmark of which city?",
+      "options": [
+        "Toronto",
+        "Vienna",
+        "Rio de Janeiro",
+        "New York",
+        "Venice",
+        "New Orleans"
+      ],
+      "answer": [
+        "Dublin"
+      ]
+    },
+    {
+      "text": "In which city would you find Charles Bridge?",
+      "options": [
+        "Athens",
+        "Bangkok",
+        "Buenos Aires",
+        "San Francisco",
+        "New York",
+        "Jerusalem"
+      ],
+      "answer": [
+        "Prague"
+      ]
+    },
+    {
+      "text": "Which city is famous for Piazzale Michelangelo?",
+      "options": [
+        "Seoul",
+        "Toronto",
+        "Boston",
+        "Dublin",
+        "Istanbul"
+      ],
+      "answer": [
+        "Florence"
+      ]
+    },
+    {
+      "text": "Which city is famous for United States Capitol?",
+      "options": [
+        "Rome",
+        "San Francisco",
+        "Amsterdam",
+        "Seoul",
+        "Jerusalem"
+      ],
+      "answer": [
+        "Washington"
+      ]
+    },
+    {
+      "text": "In which city is Christ the Redeemer located?",
+      "options": [
+        "Berlin",
+        "Paris",
+        "New Orleans",
+        "Barcelona",
+        "Seoul"
+      ],
+      "answer": [
+        "Rio de Janeiro"
+      ]
+    },
+    {
+      "text": "Which city is famous for Anne Frank House?",
+      "options": [
+        "San Francisco",
+        "Athens",
+        "Cairo",
+        "Berlin",
+        "Madrid"
+      ],
+      "answer": [
+        "Amsterdam"
+      ]
+    },
+    {
+      "text": "In which city would you find Castle of Sao Jorge?",
+      "options": [
+        "Sydney",
+        "Toronto",
+        "Seoul",
+        "San Francisco",
+        "Dublin"
+      ],
+      "answer": [
+        "Lisbon"
+      ]
+    },
+    {
+      "text": "Which city is home to Fisherman's Wharf?",
+      "options": [
+        "Dublin",
+        "Istanbul",
+        "Chicago",
+        "Rome",
+        "Prague"
+      ],
+      "answer": [
+        "San Francisco"
+      ]
+    },
+    {
+      "text": "In which city is Casa Batllo located?",
+      "options": [
+        "London",
+        "New York",
+        "Chicago",
+        "Buenos Aires"
+      ],
+      "answer": [
+        "Barcelona"
+      ]
+    },
+    {
+      "text": "In which city is Uffizi Gallery located?",
+      "options": [
+        "Rio de Janeiro",
+        "Dubai",
+        "Paris",
+        "Madrid",
+        "Dublin",
+        "Washington"
+      ],
+      "answer": [
+        "Florence"
+      ]
+    },
+    {
+      "text": "In which city is Times Square located?",
+      "options": [
+        "Bangkok",
+        "Venice",
+        "Buenos Aires",
+        "Sydney",
+        "New Orleans",
+        "Dubai"
+      ],
+      "answer": [
+        "New York"
+      ]
+    },
+    {
+      "text": "Choose the landmarks that are located in Barcelona.",
+      "options": [
+        "Notre-Dame Cathedral",
+        "Willis Tower",
+        "Ponte Vecchio",
+        "United States Capitol",
+        "Acropolis",
+        "Big Ben"
+      ],
+      "answer": [
+        "Park Guell",
+        "Sagrada Familia"
+      ]
+    },
+    {
+      "text": "In which city would you find Taronga Zoo?",
+      "options": [
+        "Lisbon",
+        "Seoul",
+        "Athens",
+        "Chicago",
+        "Singapore"
+      ],
+      "answer": [
+        "Sydney"
+      ]
+    },
+    {
+      "text": "Which of these attractions belong to the city of Paris?",
+      "options": [
+        "Charles Bridge",
+        "Prado Museum",
+        "Palacio de Bellas Artes",
+        "Schoenbrunn Palace",
+        "Acropolis"
+      ],
+      "answer": [
+        "Notre-Dame Cathedral",
+        "Eiffel Tower"
+      ]
+    },
+    {
+      "text": "Which of these attractions is found in Singapore?",
+      "options": [
+        "French Quarter",
+        "Doge's Palace",
+        "Blue Mosque",
+        "Guinness Storehouse",
+        "Cloud Gate"
+      ],
+      "answer": [
+        "Marina Bay Sands"
+      ]
+    },
+    {
+      "text": "Which city is home to Jeronimos Monastery?",
+      "options": [
+        "Barcelona",
+        "Prague",
+        "Singapore",
+        "Rio de Janeiro",
+        "New York"
+      ],
+      "answer": [
+        "Lisbon"
+      ]
+    },
+    {
+      "text": "French Quarter is a landmark of which city?",
+      "options": [
+        "Rome",
+        "Athens",
+        "Boston",
+        "Venice",
+        "San Francisco"
+      ],
+      "answer": [
+        "New Orleans"
+      ]
+    },
+    {
+      "text": "Pyramids of Giza is a landmark of which city?",
+      "options": [
+        "Seoul",
+        "Mexico City",
+        "Edinburgh",
+        "Madrid",
+        "Tokyo"
+      ],
+      "answer": [
+        "Cairo"
+      ]
+    },
+    {
+      "text": "Which city is famous for Retiro Park?",
+      "options": [
+        "Chicago",
+        "Washington",
+        "Rio de Janeiro",
+        "Athens",
+        "Vienna",
+        "London"
+      ],
+      "answer": [
+        "Madrid"
+      ]
+    },
+    {
+      "text": "Which city is home to Zocalo?",
+      "options": [
+        "Rio de Janeiro",
+        "New Orleans",
+        "Florence",
+        "Rome"
+      ],
+      "answer": [
+        "Mexico City"
+      ]
+    },
+    {
+      "text": "In which city is St Stephen's Cathedral located?",
+      "options": [
+        "Istanbul",
+        "Amsterdam",
+        "Barcelona",
+        "Florence",
+        "Venice"
+      ],
+      "answer": [
+        "Vienna"
+      ]
+    },
+    {
+      "text": "Which city is home to Church of the Holy Sepulchre?",
+      "options": [
+        "Seoul",
+        "Boston",
+        "Paris",
+        "Sydney",
+        "San Francisco",
+        "Rio de Janeiro"
+      ],
+      "answer": [
+        "Jerusalem"
+      ]
+    },
+    {
+      "text": "In which city would you find Museum of Fine Arts?",
+      "options": [
+        "Singapore",
+        "Prague",
+        "Chicago",
+        "Jerusalem"
+      ],
+      "answer": [
+        "Boston"
+      ]
+    },
+    {
+      "text": "Which landmark belongs to the city of Cairo?",
+      "options": [
+        "St Mark's Basilica",
+        "Teatro Colon",
+        "Lincoln Memorial",
+        "Ponte Vecchio",
+        "Senso-ji Temple",
+        "Bukchon Hanok Village"
+      ],
+      "answer": [
+        "Pyramids of Giza"
+      ]
+    },
+    {
+      "text": "Which city is famous for Royal Ontario Museum?",
+      "options": [
+        "Dublin",
+        "Rome",
+        "Madrid",
+        "Lisbon",
+        "Rio de Janeiro",
+        "Singapore"
+      ],
+      "answer": [
+        "Toronto"
+      ]
+    },
+    {
+      "text": "Which of these sights can be found in Edinburgh?",
+      "options": [
+        "Uffizi Gallery",
+        "Taronga Zoo",
+        "Alcatraz Island",
+        "Jeronimos Monastery",
+        "Plaza Mayor"
+      ],
+      "answer": [
+        "Arthur's Seat",
+        "Royal Mile"
+      ]
+    },
+    {
+      "text": "Which city is famous for Schoenbrunn Palace?",
+      "options": [
+        "Florence",
+        "New York",
+        "Jerusalem",
+        "Lisbon"
+      ],
+      "answer": [
+        "Vienna"
+      ]
+    },
+    {
+      "text": "In which city would you find Prado Museum?",
+      "options": [
+        "Amsterdam",
+        "Buenos Aires",
+        "Athens",
+        "Edinburgh",
+        "Chicago"
+      ],
+      "answer": [
+        "Madrid"
+      ]
+    },
+    {
+      "text": "Which city is famous for Bukchon Hanok Village?",
+      "options": [
+        "Rome",
+        "Barcelona",
+        "Prague",
+        "Dublin"
+      ],
+      "answer": [
+        "Seoul"
+      ]
+    },
+    {
+      "text": "Palacio de Bellas Artes is a landmark of which city?",
+      "options": [
+        "New York",
+        "Rio de Janeiro",
+        "Singapore",
+        "Amsterdam",
+        "Barcelona"
+      ],
+      "answer": [
+        "Mexico City"
+      ]
+    },
+    {
+      "text": "In which city is Jackson Square located?",
+      "options": [
+        "Amsterdam",
+        "Jerusalem",
+        "Berlin",
+        "Singapore",
+        "Dubai",
+        "Paris"
+      ],
+      "answer": [
+        "New Orleans"
+      ]
+    },
+    {
+      "text": "In which city would you find Wat Pho?",
+      "options": [
+        "Berlin",
+        "Dubai",
+        "Lisbon",
+        "Seoul",
+        "Venice",
+        "Edinburgh"
+      ],
+      "answer": [
+        "Bangkok"
+      ]
+    }
+  ]
+}

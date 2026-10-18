@@ -1,0 +1,1526 @@
+{
+  "theme": "Grandes nombres",
+  "questions": [
+    {
+      "text": "¿Con qué gran nombre se relaciona «Mar adentro»?",
+      "options": [
+        "Mario Vargas Llosa",
+        "Carlos V",
+        "Joaquín Turina",
+        "Luis Buñuel",
+        "Salvador Dalí"
+      ],
+      "answer": [
+        "Alejandro Amenábar"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «La oración del torero»?",
+      "options": [
+        "Rubén Darío",
+        "Gustavo Adolfo Bécquer",
+        "Carlos V",
+        "Benito Juárez",
+        "Mario Vargas Llosa",
+        "El Greco"
+      ],
+      "answer": [
+        "Joaquín Turina"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «El carnaval de Arlequín»?",
+      "options": [
+        "Pablo Picasso",
+        "Jorge Luis Borges",
+        "Salvador Dalí",
+        "Guillermo del Toro",
+        "Diego Velázquez",
+        "Enrique Granados"
+      ],
+      "answer": [
+        "Joan Miró"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Las meninas»?",
+      "options": [
+        "Antonio Machado",
+        "Isabel la Católica",
+        "Pablo Neruda",
+        "Julio Cortázar",
+        "Jorge Luis Borges",
+        "Simón Bolívar"
+      ],
+      "answer": [
+        "Diego Velázquez"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «la Armada Invencible»?",
+      "options": [
+        "Alejandro Amenábar",
+        "Emiliano Zapata",
+        "Pedro Almodóvar",
+        "Miguel de Cervantes"
+      ],
+      "answer": [
+        "Felipe II"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «las Leyes de Reforma»?",
+      "options": [
+        "Salvador Dalí",
+        "Joaquín Sorolla",
+        "Manuel de Falla",
+        "Antonio Machado",
+        "Fernando Sor"
+      ],
+      "answer": [
+        "Benito Juárez"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «el Plan de Ayala»?",
+      "options": [
+        "Salvador Dalí",
+        "Joaquín Turina",
+        "Mario Vargas Llosa",
+        "Francisco de Goya"
+      ],
+      "answer": [
+        "Emiliano Zapata"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «El perro andaluz»?",
+      "options": [
+        "Alejandro Amenábar",
+        "Simón Bolívar",
+        "Isaac Albéniz",
+        "Enrique Granados",
+        "Guillermo del Toro",
+        "Carlos Saura"
+      ],
+      "answer": [
+        "Luis Buñuel"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Saturno devorando a su hijo»?",
+      "options": [
+        "Federico García Lorca",
+        "Pablo Picasso",
+        "Antonio Machado",
+        "Joaquín Sorolla"
+      ],
+      "answer": [
+        "Francisco de Goya"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Danzas españolas»?",
+      "options": [
+        "Isaac Albéniz",
+        "Salvador Dalí",
+        "Mario Vargas Llosa",
+        "Luis Buñuel",
+        "Gustavo Adolfo Bécquer",
+        "Bartolomé Esteban Murillo"
+      ],
+      "answer": [
+        "Enrique Granados"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «La sagrada familia del pajarito»?",
+      "options": [
+        "El Greco",
+        "Simón Bolívar",
+        "Pablo Neruda",
+        "Pedro Almodóvar"
+      ],
+      "answer": [
+        "Bartolomé Esteban Murillo"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «la Gran Colombia»?",
+      "options": [
+        "Joaquín Rodrigo",
+        "Rubén Darío",
+        "Manuel de Falla",
+        "Benito Juárez",
+        "Diego Velázquez",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Simón Bolívar"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «la batalla de Pavía»?",
+      "options": [
+        "Diego Velázquez",
+        "Joaquín Turina",
+        "Pedro Almodóvar",
+        "El Greco",
+        "Gabriel García Márquez"
+      ],
+      "answer": [
+        "Carlos V"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «las variaciones sobre un tema de Mozart»?",
+      "options": [
+        "Francisco de Goya",
+        "Salvador Dalí",
+        "Frida Kahlo",
+        "Pablo Neruda",
+        "Miguel de Unamuno",
+        "Mario Vargas Llosa"
+      ],
+      "answer": [
+        "Fernando Sor"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Veinte poemas de amor y una canción desesperada»?",
+      "options": [
+        "Joaquín Turina",
+        "Pablo Picasso",
+        "Benito Juárez",
+        "Simón Bolívar",
+        "Alejandro Amenábar"
+      ],
+      "answer": [
+        "Pablo Neruda"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Pedro Páramo»?",
+      "options": [
+        "Joaquín Sorolla",
+        "Mario Vargas Llosa",
+        "Julio Cortázar",
+        "Luis Buñuel",
+        "Diego Velázquez",
+        "Joan Miró"
+      ],
+      "answer": [
+        "Juan Rulfo"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «los fusilamientos del tres de mayo»?",
+      "options": [
+        "El Greco",
+        "Carlos Saura",
+        "Salvador Dalí",
+        "Frida Kahlo",
+        "Enrique Granados",
+        "Pablo Neruda"
+      ],
+      "answer": [
+        "Francisco de Goya"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Viva la Vida»?",
+      "options": [
+        "Emiliano Zapata",
+        "Carlos Saura",
+        "Alejandro Amenábar",
+        "El Greco",
+        "Joan Miró"
+      ],
+      "answer": [
+        "Frida Kahlo"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Bodas de sangre»?",
+      "options": [
+        "Alejandro Amenábar",
+        "Carlos V",
+        "Felipe II",
+        "Miguel de Cervantes"
+      ],
+      "answer": [
+        "Federico García Lorca"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «El segador»?",
+      "options": [
+        "Mario Vargas Llosa",
+        "Miguel de Unamuno",
+        "Guillermo del Toro",
+        "Joaquín Rodrigo",
+        "Isaac Albéniz"
+      ],
+      "answer": [
+        "Joan Miró"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «La Madonna de Port Lligat»?",
+      "options": [
+        "Isaac Albéniz",
+        "Simón Bolívar",
+        "Guillermo del Toro",
+        "Joan Miró",
+        "Benito Juárez"
+      ],
+      "answer": [
+        "Salvador Dalí"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «El amor brujo»?",
+      "options": [
+        "Francisco de Goya",
+        "José de San Martín",
+        "Joaquín Rodrigo",
+        "Carlos V",
+        "Joan Miró"
+      ],
+      "answer": [
+        "Manuel de Falla"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Cría cuervos»?",
+      "options": [
+        "Carlos V",
+        "Juan Rulfo",
+        "Antonio Machado",
+        "Frida Kahlo",
+        "Bartolomé Esteban Murillo",
+        "Luis Buñuel"
+      ],
+      "answer": [
+        "Carlos Saura"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Suite española»?",
+      "options": [
+        "Simón Bolívar",
+        "Alejandro Amenábar",
+        "Julio Cortázar",
+        "Joaquín Rodrigo",
+        "Luis Buñuel"
+      ],
+      "answer": [
+        "Isaac Albéniz"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «La forma del agua»?",
+      "options": [
+        "Pedro Almodóvar",
+        "Rubén Darío",
+        "Enrique Granados",
+        "Gabriel García Márquez",
+        "José de San Martín"
+      ],
+      "answer": [
+        "Guillermo del Toro"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «la independencia de Argentina»?",
+      "options": [
+        "Alejandro Amenábar",
+        "Pedro Almodóvar",
+        "Frida Kahlo",
+        "Joan Miró",
+        "Enrique Granados"
+      ],
+      "answer": [
+        "José de San Martín"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Canto general»?",
+      "options": [
+        "Felipe II",
+        "Alejandro Amenábar",
+        "Juan Rulfo",
+        "Fernando Sor",
+        "Manuel de Falla"
+      ],
+      "answer": [
+        "Pablo Neruda"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «La Trinidad»?",
+      "options": [
+        "Manuel de Falla",
+        "Bartolomé Esteban Murillo",
+        "Jorge Luis Borges",
+        "Alejandro Amenábar",
+        "Federico García Lorca",
+        "Miguel de Unamuno"
+      ],
+      "answer": [
+        "El Greco"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «El entierro del conde de Orgaz»?",
+      "options": [
+        "Simón Bolívar",
+        "Jorge Luis Borges",
+        "Salvador Dalí",
+        "Pedro Almodóvar",
+        "Miguel de Cervantes"
+      ],
+      "answer": [
+        "El Greco"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «La columna rota»?",
+      "options": [
+        "Manuel de Falla",
+        "José de San Martín",
+        "Guillermo del Toro",
+        "Felipe II"
+      ],
+      "answer": [
+        "Frida Kahlo"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Valses poéticos»?",
+      "options": [
+        "José de San Martín",
+        "Emiliano Zapata",
+        "Francisco de Goya",
+        "Simón Bolívar"
+      ],
+      "answer": [
+        "Enrique Granados"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Cronos»?",
+      "options": [
+        "Isabel la Católica",
+        "Benito Juárez",
+        "Joaquín Sorolla",
+        "Francisco de Goya",
+        "Pedro Almodóvar",
+        "Luis Buñuel"
+      ],
+      "answer": [
+        "Guillermo del Toro"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Cantos de vida y esperanza»?",
+      "options": [
+        "Joaquín Turina",
+        "Alejandro Amenábar",
+        "Fernando Sor",
+        "Emiliano Zapata",
+        "Joan Miró"
+      ],
+      "answer": [
+        "Rubén Darío"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «San Manuel Bueno, mártir»?",
+      "options": [
+        "Pablo Neruda",
+        "José de San Martín",
+        "Juan Rulfo",
+        "Luis Buñuel"
+      ],
+      "answer": [
+        "Miguel de Unamuno"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Romancero gitano»?",
+      "options": [
+        "Isabel la Católica",
+        "Alejandro Amenábar",
+        "Pablo Picasso",
+        "Enrique Granados",
+        "Francisco de Goya"
+      ],
+      "answer": [
+        "Federico García Lorca"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «La vuelta de la pesca»?",
+      "options": [
+        "Isaac Albéniz",
+        "Gabriel García Márquez",
+        "Emiliano Zapata",
+        "Rubén Darío",
+        "Miguel de Unamuno"
+      ],
+      "answer": [
+        "Joaquín Sorolla"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «La casa de Bernarda Alba»?",
+      "options": [
+        "Enrique Granados",
+        "Fernando Sor",
+        "Gabriel García Márquez",
+        "José de San Martín",
+        "Isabel la Católica"
+      ],
+      "answer": [
+        "Federico García Lorca"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Prosas profanas»?",
+      "options": [
+        "Simón Bolívar",
+        "Manuel de Falla",
+        "José de San Martín",
+        "Pablo Neruda",
+        "Felipe II"
+      ],
+      "answer": [
+        "Rubén Darío"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Las armas secretas»?",
+      "options": [
+        "Felipe II",
+        "Isabel la Católica",
+        "Simón Bolívar",
+        "Joaquín Sorolla",
+        "Alejandro Amenábar"
+      ],
+      "answer": [
+        "Julio Cortázar"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «El sombrero de tres picos»?",
+      "options": [
+        "Joan Miró",
+        "Emiliano Zapata",
+        "Luis Buñuel",
+        "Enrique Granados",
+        "Antonio Machado"
+      ],
+      "answer": [
+        "Manuel de Falla"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Noches en los jardines de España»?",
+      "options": [
+        "Carlos Saura",
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges",
+        "Pablo Neruda",
+        "Isabel la Católica",
+        "Federico García Lorca"
+      ],
+      "answer": [
+        "Manuel de Falla"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «El viejo guitarrista»?",
+      "options": [
+        "Alejandro Amenábar",
+        "Rubén Darío",
+        "Carlos Saura",
+        "Joan Miró",
+        "Manuel de Falla",
+        "Bartolomé Esteban Murillo"
+      ],
+      "answer": [
+        "Pablo Picasso"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Fantasía para un gentilhombre»?",
+      "options": [
+        "Frida Kahlo",
+        "Francisco de Goya",
+        "Luis Buñuel",
+        "Julio Cortázar",
+        "Alejandro Amenábar"
+      ],
+      "answer": [
+        "Joaquín Rodrigo"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Conversación en La Catedral»?",
+      "options": [
+        "Luis Buñuel",
+        "Federico García Lorca",
+        "Manuel de Falla",
+        "Isaac Albéniz"
+      ],
+      "answer": [
+        "Mario Vargas Llosa"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «el pueblo de Comala»?",
+      "options": [
+        "Gabriel García Márquez",
+        "José de San Martín",
+        "Pablo Picasso",
+        "Jorge Luis Borges",
+        "Diego Velázquez"
+      ],
+      "answer": [
+        "Juan Rulfo"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «la Dieta de Worms»?",
+      "options": [
+        "Fernando Sor",
+        "Bartolomé Esteban Murillo",
+        "Rubén Darío",
+        "Mario Vargas Llosa"
+      ],
+      "answer": [
+        "Carlos V"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Bestiario»?",
+      "options": [
+        "Bartolomé Esteban Murillo",
+        "Joaquín Sorolla",
+        "Fernando Sor",
+        "Rubén Darío",
+        "Salvador Dalí"
+      ],
+      "answer": [
+        "Julio Cortázar"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Todo sobre mi madre»?",
+      "options": [
+        "Fernando Sor",
+        "Miguel de Cervantes",
+        "Frida Kahlo",
+        "Diego Velázquez",
+        "Guillermo del Toro",
+        "El Greco"
+      ],
+      "answer": [
+        "Pedro Almodóvar"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Escenas románticas»?",
+      "options": [
+        "Federico García Lorca",
+        "Gabriel García Márquez",
+        "Joaquín Turina",
+        "Pablo Neruda",
+        "Julio Cortázar"
+      ],
+      "answer": [
+        "Enrique Granados"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Los elefantes»?",
+      "options": [
+        "Joan Miró",
+        "Simón Bolívar",
+        "Joaquín Turina",
+        "Carlos Saura",
+        "Juan Rulfo"
+      ],
+      "answer": [
+        "Salvador Dalí"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «El caballero de la mano en el pecho»?",
+      "options": [
+        "Pedro Almodóvar",
+        "Fernando Sor",
+        "Carlos Saura",
+        "José de San Martín",
+        "Diego Velázquez"
+      ],
+      "answer": [
+        "El Greco"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «la victoria del cinco de mayo»?",
+      "options": [
+        "Luis Buñuel",
+        "Emiliano Zapata",
+        "Manuel de Falla",
+        "Miguel de Unamuno",
+        "Diego Velázquez"
+      ],
+      "answer": [
+        "Benito Juárez"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Juan de Mairena»?",
+      "options": [
+        "El Greco",
+        "Francisco de Goya",
+        "Felipe II",
+        "José de San Martín",
+        "Enrique Granados",
+        "Benito Juárez"
+      ],
+      "answer": [
+        "Antonio Machado"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Los niños en la playa»?",
+      "options": [
+        "Francisco de Goya",
+        "Carlos V",
+        "Isaac Albéniz",
+        "Frida Kahlo",
+        "Diego Velázquez"
+      ],
+      "answer": [
+        "Joaquín Sorolla"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «La maja desnuda»?",
+      "options": [
+        "Juan Rulfo",
+        "Jorge Luis Borges",
+        "Bartolomé Esteban Murillo",
+        "Carlos V",
+        "Luis Buñuel"
+      ],
+      "answer": [
+        "Francisco de Goya"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «El laberinto del fauno»?",
+      "options": [
+        "Joaquín Turina",
+        "Felipe II",
+        "Diego Velázquez",
+        "El Greco",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Guillermo del Toro"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «la lucha agraria en Morelos»?",
+      "options": [
+        "Carlos Saura",
+        "Simón Bolívar",
+        "Carlos V",
+        "Bartolomé Esteban Murillo",
+        "El Greco"
+      ],
+      "answer": [
+        "Emiliano Zapata"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «El amor en los tiempos del cólera»?",
+      "options": [
+        "El Greco",
+        "Federico García Lorca",
+        "Joan Miró",
+        "Gustavo Adolfo Bécquer",
+        "Pedro Almodóvar",
+        "Antonio Machado"
+      ],
+      "answer": [
+        "Gabriel García Márquez"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Odas elementales»?",
+      "options": [
+        "Isabel la Católica",
+        "Emiliano Zapata",
+        "Mario Vargas Llosa",
+        "Bartolomé Esteban Murillo",
+        "Diego Velázquez",
+        "Antonio Machado"
+      ],
+      "answer": [
+        "Pablo Neruda"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «La persistencia de la memoria»?",
+      "options": [
+        "Francisco de Goya",
+        "Diego Velázquez",
+        "Emiliano Zapata",
+        "Fernando Sor"
+      ],
+      "answer": [
+        "Salvador Dalí"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Niebla»?",
+      "options": [
+        "Pedro Almodóvar",
+        "Joaquín Sorolla",
+        "Isabel la Católica",
+        "Isaac Albéniz",
+        "Joaquín Turina",
+        "Fernando Sor"
+      ],
+      "answer": [
+        "Miguel de Unamuno"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Tesis»?",
+      "options": [
+        "Joaquín Turina",
+        "Julio Cortázar",
+        "Joaquín Sorolla",
+        "Federico García Lorca",
+        "Juan Rulfo"
+      ],
+      "answer": [
+        "Alejandro Amenábar"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «el Congreso de Angostura»?",
+      "options": [
+        "Benito Juárez",
+        "El Greco",
+        "Gabriel García Márquez",
+        "Francisco de Goya"
+      ],
+      "answer": [
+        "Simón Bolívar"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Volver»?",
+      "options": [
+        "Benito Juárez",
+        "Isabel la Católica",
+        "Joaquín Turina",
+        "Enrique Granados"
+      ],
+      "answer": [
+        "Pedro Almodóvar"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Campos de Castilla»?",
+      "options": [
+        "Enrique Granados",
+        "Joaquín Rodrigo",
+        "Francisco de Goya",
+        "Pablo Neruda",
+        "Isaac Albéniz"
+      ],
+      "answer": [
+        "Antonio Machado"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Mujeres al borde de un ataque de nervios»?",
+      "options": [
+        "Antonio Machado",
+        "Manuel de Falla",
+        "José de San Martín",
+        "Guillermo del Toro",
+        "Joan Miró"
+      ],
+      "answer": [
+        "Pedro Almodóvar"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «la construcción del Escorial»?",
+      "options": [
+        "Isabel la Católica",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Antonio Machado",
+        "José de San Martín"
+      ],
+      "answer": [
+        "Felipe II"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Danzas fantásticas»?",
+      "options": [
+        "Simón Bolívar",
+        "Carlos Saura",
+        "Diego Velázquez",
+        "Felipe II",
+        "Juan Rulfo"
+      ],
+      "answer": [
+        "Joaquín Turina"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Azul...»?",
+      "options": [
+        "Manuel de Falla",
+        "Joaquín Rodrigo",
+        "Guillermo del Toro",
+        "Isaac Albéniz"
+      ],
+      "answer": [
+        "Rubén Darío"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «El monte de las ánimas»?",
+      "options": [
+        "El Greco",
+        "Alejandro Amenábar",
+        "Pablo Picasso",
+        "José de San Martín"
+      ],
+      "answer": [
+        "Gustavo Adolfo Bécquer"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «los estudios para guitarra»?",
+      "options": [
+        "Pedro Almodóvar",
+        "Luis Buñuel",
+        "Juan Rulfo",
+        "Felipe II",
+        "Enrique Granados"
+      ],
+      "answer": [
+        "Fernando Sor"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Rimas y leyendas»?",
+      "options": [
+        "Carlos Saura",
+        "Diego Velázquez",
+        "Antonio Machado",
+        "José de San Martín",
+        "Luis Buñuel"
+      ],
+      "answer": [
+        "Gustavo Adolfo Bécquer"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Los niños comiendo melón»?",
+      "options": [
+        "Antonio Machado",
+        "Alejandro Amenábar",
+        "Benito Juárez",
+        "Rubén Darío",
+        "Simón Bolívar",
+        "Luis Buñuel"
+      ],
+      "answer": [
+        "Bartolomé Esteban Murillo"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Ficciones»?",
+      "options": [
+        "José de San Martín",
+        "Felipe II",
+        "Isaac Albéniz",
+        "Juan Rulfo"
+      ],
+      "answer": [
+        "Jorge Luis Borges"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «el ballet La Cenicienta»?",
+      "options": [
+        "Juan Rulfo",
+        "Simón Bolívar",
+        "Pablo Neruda",
+        "Joaquín Sorolla"
+      ],
+      "answer": [
+        "Fernando Sor"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Los olvidados»?",
+      "options": [
+        "Miguel de Cervantes",
+        "Joaquín Turina",
+        "Frida Kahlo",
+        "Juan Rulfo",
+        "Gabriel García Márquez"
+      ],
+      "answer": [
+        "Luis Buñuel"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Guernica»?",
+      "options": [
+        "Carlos Saura",
+        "El Greco",
+        "Julio Cortázar",
+        "Luis Buñuel",
+        "Jorge Luis Borges"
+      ],
+      "answer": [
+        "Pablo Picasso"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Autorretrato con collar de espinas»?",
+      "options": [
+        "Manuel de Falla",
+        "Enrique Granados",
+        "Pablo Picasso",
+        "Fernando Sor",
+        "Miguel de Unamuno",
+        "Salvador Dalí"
+      ],
+      "answer": [
+        "Frida Kahlo"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «la defensa de la República ante Maximiliano»?",
+      "options": [
+        "Antonio Machado",
+        "Carlos V",
+        "Joaquín Turina",
+        "Manuel de Falla",
+        "Joan Miró",
+        "Rubén Darío"
+      ],
+      "answer": [
+        "Benito Juárez"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «La casa verde»?",
+      "options": [
+        "Guillermo del Toro",
+        "Joaquín Turina",
+        "Diego Velázquez",
+        "Bartolomé Esteban Murillo",
+        "Francisco de Goya",
+        "Gabriel García Márquez"
+      ],
+      "answer": [
+        "Mario Vargas Llosa"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Historia universal de la infamia»?",
+      "options": [
+        "Diego Velázquez",
+        "Pablo Neruda",
+        "Francisco de Goya",
+        "Luis Buñuel",
+        "Juan Rulfo"
+      ],
+      "answer": [
+        "Jorge Luis Borges"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Sinfonía sevillana»?",
+      "options": [
+        "Fernando Sor",
+        "Felipe II",
+        "Antonio Machado",
+        "Pedro Almodóvar",
+        "Frida Kahlo"
+      ],
+      "answer": [
+        "Joaquín Turina"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «la conquista de Granada»?",
+      "options": [
+        "Miguel de Cervantes",
+        "Pablo Neruda",
+        "Antonio Machado",
+        "Joaquín Sorolla"
+      ],
+      "answer": [
+        "Isabel la Católica"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Las señoritas de Aviñón»?",
+      "options": [
+        "El Greco",
+        "Juan Rulfo",
+        "Joan Miró",
+        "Antonio Machado",
+        "José de San Martín"
+      ],
+      "answer": [
+        "Pablo Picasso"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Crónica de una muerte anunciada»?",
+      "options": [
+        "Federico García Lorca",
+        "Guillermo del Toro",
+        "Simón Bolívar",
+        "Francisco de Goya"
+      ],
+      "answer": [
+        "Gabriel García Márquez"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «La Galatea»?",
+      "options": [
+        "Mario Vargas Llosa",
+        "Gabriel García Márquez",
+        "Juan Rulfo",
+        "Alejandro Amenábar",
+        "Francisco de Goya"
+      ],
+      "answer": [
+        "Miguel de Cervantes"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Iberia»?",
+      "options": [
+        "Simón Bolívar",
+        "Miguel de Unamuno",
+        "José de San Martín",
+        "Miguel de Cervantes"
+      ],
+      "answer": [
+        "Isaac Albéniz"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «El llano en llamas»?",
+      "options": [
+        "Miguel de Unamuno",
+        "Federico García Lorca",
+        "Carlos Saura",
+        "Jorge Luis Borges"
+      ],
+      "answer": [
+        "Juan Rulfo"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Concierto de Aranjuez»?",
+      "options": [
+        "Alejandro Amenábar",
+        "Jorge Luis Borges",
+        "Luis Buñuel",
+        "Fernando Sor"
+      ],
+      "answer": [
+        "Joaquín Rodrigo"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «La Inmaculada Concepción»?",
+      "options": [
+        "Julio Cortázar",
+        "Antonio Machado",
+        "Enrique Granados",
+        "Emiliano Zapata",
+        "Isabel la Católica"
+      ],
+      "answer": [
+        "Bartolomé Esteban Murillo"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Novelas ejemplares»?",
+      "options": [
+        "Pablo Picasso",
+        "Enrique Granados",
+        "Miguel de Unamuno",
+        "Felipe II",
+        "Gustavo Adolfo Bécquer",
+        "Luis Buñuel"
+      ],
+      "answer": [
+        "Miguel de Cervantes"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Del sentimiento trágico de la vida»?",
+      "options": [
+        "Isaac Albéniz",
+        "Diego Velázquez",
+        "Manuel de Falla",
+        "Antonio Machado",
+        "Enrique Granados"
+      ],
+      "answer": [
+        "Miguel de Unamuno"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Carmen»?",
+      "options": [
+        "Joaquín Rodrigo",
+        "Antonio Machado",
+        "Mario Vargas Llosa",
+        "Julio Cortázar"
+      ],
+      "answer": [
+        "Carlos Saura"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Don Quijote de la Mancha»?",
+      "options": [
+        "Joaquín Turina",
+        "Pedro Almodóvar",
+        "Gabriel García Márquez",
+        "Diego Velázquez",
+        "Pablo Neruda"
+      ],
+      "answer": [
+        "Miguel de Cervantes"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «el Cruce de los Andes»?",
+      "options": [
+        "Pablo Picasso",
+        "Felipe II",
+        "Julio Cortázar",
+        "Joan Miró",
+        "Enrique Granados"
+      ],
+      "answer": [
+        "José de San Martín"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Las hilanderas»?",
+      "options": [
+        "Simón Bolívar",
+        "Juan Rulfo",
+        "Enrique Granados",
+        "Joan Miró"
+      ],
+      "answer": [
+        "Diego Velázquez"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «Viridiana»?",
+      "options": [
+        "Felipe II",
+        "Joan Miró",
+        "Guillermo del Toro",
+        "Rubén Darío"
+      ],
+      "answer": [
+        "Luis Buñuel"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «Cartas desde mi celda»?",
+      "options": [
+        "Antonio Machado",
+        "Mario Vargas Llosa",
+        "Julio Cortázar",
+        "Jorge Luis Borges",
+        "Benito Juárez",
+        "Federico García Lorca"
+      ],
+      "answer": [
+        "Gustavo Adolfo Bécquer"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «la unión de Castilla y Aragón»?",
+      "options": [
+        "Simón Bolívar",
+        "Fernando Sor",
+        "Luis Buñuel",
+        "Carlos V",
+        "Felipe II"
+      ],
+      "answer": [
+        "Isabel la Católica"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «el saqueo de Roma»?",
+      "options": [
+        "Joaquín Rodrigo",
+        "Federico García Lorca",
+        "Miguel de Unamuno",
+        "Pedro Almodóvar",
+        "Diego Velázquez",
+        "Frida Kahlo"
+      ],
+      "answer": [
+        "Carlos V"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «El Aleph»?",
+      "options": [
+        "Federico García Lorca",
+        "Pedro Almodóvar",
+        "Alejandro Amenábar",
+        "Miguel de Cervantes",
+        "Juan Rulfo",
+        "Frida Kahlo"
+      ],
+      "answer": [
+        "Jorge Luis Borges"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Soledades, galerías y otros poemas»?",
+      "options": [
+        "Rubén Darío",
+        "Mario Vargas Llosa",
+        "Fernando Sor",
+        "Carlos Saura",
+        "Jorge Luis Borges"
+      ],
+      "answer": [
+        "Antonio Machado"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «la independencia de Venezuela»?",
+      "options": [
+        "Isabel la Católica",
+        "Emiliano Zapata",
+        "Federico García Lorca",
+        "Joaquín Sorolla",
+        "Bartolomé Esteban Murillo"
+      ],
+      "answer": [
+        "Simón Bolívar"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «La ciudad y los perros»?",
+      "options": [
+        "Joaquín Sorolla",
+        "Rubén Darío",
+        "Francisco de Goya",
+        "Pedro Almodóvar",
+        "Gustavo Adolfo Bécquer"
+      ],
+      "answer": [
+        "Mario Vargas Llosa"
+      ]
+    },
+    {
+      "text": "¿Con qué gran nombre se relaciona «La masía»?",
+      "options": [
+        "Joaquín Turina",
+        "Bartolomé Esteban Murillo",
+        "Federico García Lorca",
+        "Rubén Darío"
+      ],
+      "answer": [
+        "Joan Miró"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Deprisa, deprisa»?",
+      "options": [
+        "Fernando Sor",
+        "El Greco",
+        "Joaquín Turina",
+        "Manuel de Falla",
+        "Alejandro Amenábar"
+      ],
+      "answer": [
+        "Carlos Saura"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Paseo a orillas del mar»?",
+      "options": [
+        "Frida Kahlo",
+        "Bartolomé Esteban Murillo",
+        "Federico García Lorca",
+        "Isabel la Católica"
+      ],
+      "answer": [
+        "Joaquín Sorolla"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «Cien años de soledad»?",
+      "options": [
+        "Pablo Neruda",
+        "Benito Juárez",
+        "Frida Kahlo",
+        "Joan Miró",
+        "Antonio Machado"
+      ],
+      "answer": [
+        "Gabriel García Márquez"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Asturias»?",
+      "options": [
+        "Federico García Lorca",
+        "Simón Bolívar",
+        "Bartolomé Esteban Murillo",
+        "Enrique Granados",
+        "Joaquín Sorolla"
+      ],
+      "answer": [
+        "Isaac Albéniz"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «el lema tierra y libertad»?",
+      "options": [
+        "Carlos Saura",
+        "Enrique Granados",
+        "Felipe II",
+        "Pedro Almodóvar",
+        "Joaquín Sorolla"
+      ],
+      "answer": [
+        "Emiliano Zapata"
+      ]
+    },
+    {
+      "text": "¿Qué personaje está relacionado con «la financiación del viaje de Colón»?",
+      "options": [
+        "Joaquín Rodrigo",
+        "Antonio Machado",
+        "Julio Cortázar",
+        "Benito Juárez",
+        "Isaac Albéniz"
+      ],
+      "answer": [
+        "Isabel la Católica"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «la liberación de Chile y Perú»?",
+      "options": [
+        "Pablo Neruda",
+        "Guillermo del Toro",
+        "Fernando Sor",
+        "Rubén Darío",
+        "Miguel de Cervantes",
+        "Carlos Saura"
+      ],
+      "answer": [
+        "José de San Martín"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «La rendición de Breda»?",
+      "options": [
+        "Miguel de Unamuno",
+        "Benito Juárez",
+        "Gabriel García Márquez",
+        "Joaquín Sorolla",
+        "Joaquín Turina"
+      ],
+      "answer": [
+        "Diego Velázquez"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «la batalla de Lepanto»?",
+      "options": [
+        "Frida Kahlo",
+        "Carlos V",
+        "Julio Cortázar",
+        "Salvador Dalí",
+        "Bartolomé Esteban Murillo",
+        "José de San Martín"
+      ],
+      "answer": [
+        "Felipe II"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje se relaciona «Rayuela»?",
+      "options": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Guillermo del Toro",
+        "Joaquín Sorolla"
+      ],
+      "answer": [
+        "Julio Cortázar"
+      ]
+    },
+    {
+      "text": "¿A quién se asocia «el Concierto andaluz»?",
+      "options": [
+        "Pablo Neruda",
+        "Luis Buñuel",
+        "Alejandro Amenábar",
+        "El Greco",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Joaquín Rodrigo"
+      ]
+    },
+    {
+      "text": "¿A qué personaje se asocia «Los otros»?",
+      "options": [
+        "Bartolomé Esteban Murillo",
+        "Enrique Granados",
+        "Luis Buñuel",
+        "Mario Vargas Llosa"
+      ],
+      "answer": [
+        "Alejandro Amenábar"
+      ]
+    }
+  ]
+}

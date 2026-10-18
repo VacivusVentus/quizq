@@ -1,0 +1,1678 @@
+{
+  "theme": "Mythology: Gods and Their Domains",
+  "questions": [
+    {
+      "text": "Which of these figures is linked to “the sword”?",
+      "options": [
+        "Persephone",
+        "Jormungandr",
+        "Hades",
+        "Orpheus",
+        "Achilles"
+      ],
+      "answer": [
+        "Tyr"
+      ]
+    },
+    {
+      "text": "Which of these is connected with Hermes?",
+      "options": [
+        "the twelve labours",
+        "the war chariot",
+        "grain",
+        "wings"
+      ],
+      "answer": [
+        "winged sandals"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the anvil”?",
+      "options": [
+        "Tyr",
+        "Freyr",
+        "Theseus",
+        "Nike",
+        "Odin"
+      ],
+      "answer": [
+        "Hephaestus"
+      ]
+    },
+    {
+      "text": "Which of these domains, symbols or deeds belong to Hades?",
+      "options": [
+        "the sky",
+        "the heel that stayed vulnerable",
+        "the labyrinth of Crete",
+        "the messenger of the gods"
+      ],
+      "answer": [
+        "the riches beneath the earth",
+        "the cap of invisibility"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the trident”?",
+      "options": [
+        "Hephaestus",
+        "Apollo",
+        "Heracles",
+        "Demeter",
+        "Orpheus",
+        "Perseus"
+      ],
+      "answer": [
+        "Poseidon"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the moon”?",
+      "options": [
+        "Dionysus",
+        "Orpheus",
+        "Hermes",
+        "Zeus",
+        "Loki",
+        "Aphrodite"
+      ],
+      "answer": [
+        "Artemis"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the ravens Huginn and Muninn”?",
+      "options": [
+        "Baldr",
+        "Loki",
+        "Njord",
+        "Zeus",
+        "Dionysus"
+      ],
+      "answer": [
+        "Odin"
+      ]
+    },
+    {
+      "text": "Which of these are linked to Idunn?",
+      "options": [
+        "healing and prophecy",
+        "the trident",
+        "trickery",
+        "the sorceress Medea",
+        "the harvest"
+      ],
+      "answer": [
+        "the abduction by the giant Thjazi",
+        "the apples of youth"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the Golden Fleece”?",
+      "options": [
+        "Thor",
+        "Apollo",
+        "Athena",
+        "Freyr",
+        "Odysseus"
+      ],
+      "answer": [
+        "Jason"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the god who returns after Ragnarok”?",
+      "options": [
+        "Aphrodite",
+        "Freyja",
+        "Nike",
+        "Loki",
+        "Heracles"
+      ],
+      "answer": [
+        "Baldr"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the long voyage home”?",
+      "options": [
+        "Baldr",
+        "Freyja",
+        "Persephone",
+        "Theseus",
+        "Athena"
+      ],
+      "answer": [
+        "Odysseus"
+      ]
+    },
+    {
+      "text": "“the return of spring” belongs to which figure of myth?",
+      "options": [
+        "Demeter",
+        "Jason",
+        "Odysseus",
+        "Baldr"
+      ],
+      "answer": [
+        "Persephone"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the world serpent”?",
+      "options": [
+        "Athena",
+        "Freyja",
+        "Idunn",
+        "Hephaestus",
+        "Fenrir"
+      ],
+      "answer": [
+        "Jormungandr"
+      ]
+    },
+    {
+      "text": "Which of these domains, symbols or deeds belong to Njord?",
+      "options": [
+        "sea foam",
+        "the hunt",
+        "the Nemean lion",
+        "the boar Gullinbursti"
+      ],
+      "answer": [
+        "the wealth of fishermen",
+        "safe sea voyages"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “safe sea voyages”?",
+      "options": [
+        "Persephone",
+        "Aphrodite",
+        "Artemis",
+        "Ares",
+        "Hera",
+        "Demeter"
+      ],
+      "answer": [
+        "Njord"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the death of Baldr”?",
+      "options": [
+        "Perseus",
+        "Demeter",
+        "Hestia",
+        "Tyr",
+        "Freyja"
+      ],
+      "answer": [
+        "Loki"
+      ]
+    },
+    {
+      "text": "“the thread of Ariadne” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Freyja",
+        "Ares",
+        "Hades",
+        "Persephone",
+        "Nike"
+      ],
+      "answer": [
+        "Theseus"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the labyrinth of Crete”?",
+      "options": [
+        "Aphrodite",
+        "Perseus",
+        "Poseidon",
+        "Fenrir",
+        "Thor"
+      ],
+      "answer": [
+        "Theseus"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “war” belong?",
+      "options": [
+        "Orpheus",
+        "Idunn",
+        "Jormungandr",
+        "Hephaestus",
+        "Odin"
+      ],
+      "answer": [
+        "Ares"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the messenger of the gods”?",
+      "options": [
+        "Dionysus",
+        "Idunn",
+        "Freyja",
+        "Thor",
+        "Hestia"
+      ],
+      "answer": [
+        "Hermes"
+      ]
+    },
+    {
+      "text": "What belongs to Tyr among these options?",
+      "options": [
+        "the oracle at Delphi",
+        "the eye given for wisdom",
+        "the spear Gungnir",
+        "trickery"
+      ],
+      "answer": [
+        "the sword"
+      ]
+    },
+    {
+      "text": "“the spear Gungnir” belongs to which figure of myth?",
+      "options": [
+        "Loki",
+        "Fenrir",
+        "Apollo",
+        "Persephone",
+        "Zeus"
+      ],
+      "answer": [
+        "Odin"
+      ]
+    },
+    {
+      "text": "“the riches beneath the earth” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Heracles",
+        "Freyr",
+        "Jormungandr",
+        "Idunn"
+      ],
+      "answer": [
+        "Hades"
+      ]
+    },
+    {
+      "text": "“music that charmed stones and trees” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Demeter",
+        "Freyr",
+        "Perseus",
+        "Idunn",
+        "Hades"
+      ],
+      "answer": [
+        "Orpheus"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the city of Athens”?",
+      "options": [
+        "Hestia",
+        "Theseus",
+        "Loki",
+        "Fenrir",
+        "Hephaestus",
+        "Odin"
+      ],
+      "answer": [
+        "Athena"
+      ]
+    },
+    {
+      "text": "What is Fenrir known for among these options?",
+      "options": [
+        "the ravens Huginn and Muninn",
+        "the theatre",
+        "trickery",
+        "the Trojan horse",
+        "the protection of marriage"
+      ],
+      "answer": [
+        "a monstrous wolf"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “winged sandals”?",
+      "options": [
+        "Achilles",
+        "Demeter",
+        "Thor",
+        "Ares",
+        "Freyja",
+        "Jormungandr"
+      ],
+      "answer": [
+        "Hermes"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the eagle”?",
+      "options": [
+        "Freyr",
+        "Ares",
+        "Perseus",
+        "Tyr",
+        "Jormungandr",
+        "Hephaestus"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "What belongs to Odysseus among these options?",
+      "options": [
+        "the protection of marriage",
+        "the Golden Fleece",
+        "winged sandals",
+        "the falcon-feather cloak",
+        "the cats that draw a chariot"
+      ],
+      "answer": [
+        "the Cyclops Polyphemus"
+      ]
+    },
+    {
+      "text": "“healing and prophecy” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Odin",
+        "Athena",
+        "Hermes",
+        "Jormungandr",
+        "Orpheus"
+      ],
+      "answer": [
+        "Apollo"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the vine”?",
+      "options": [
+        "Fenrir",
+        "Odysseus",
+        "Ares",
+        "Njord",
+        "Apollo",
+        "Jormungandr"
+      ],
+      "answer": [
+        "Dionysus"
+      ]
+    },
+    {
+      "text": "“biting its own tail” belongs to which figure of myth?",
+      "options": [
+        "Nike",
+        "Aphrodite",
+        "Achilles",
+        "Hephaestus",
+        "Persephone"
+      ],
+      "answer": [
+        "Jormungandr"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the chains forged by dwarves”?",
+      "options": [
+        "Perseus",
+        "Theseus",
+        "Hera",
+        "Njord",
+        "Thor",
+        "Hestia"
+      ],
+      "answer": [
+        "Fenrir"
+      ]
+    },
+    {
+      "text": "Which of these are associated with Freyr?",
+      "options": [
+        "the goats Tanngrisnir and Tanngnjostr",
+        "light",
+        "mistletoe",
+        "the owl",
+        "the eagle",
+        "the city of Athens"
+      ],
+      "answer": [
+        "the realm of Alfheim",
+        "the ship Skidbladnir"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the forge” belong?",
+      "options": [
+        "Hestia",
+        "Persephone",
+        "Dionysus",
+        "Odysseus"
+      ],
+      "answer": [
+        "Hephaestus"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the sacred fire of the home”?",
+      "options": [
+        "Theseus",
+        "Achilles",
+        "Poseidon",
+        "Aphrodite",
+        "Njord"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    },
+    {
+      "text": "“breaking free at Ragnarok” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Hermes",
+        "Zeus",
+        "Dionysus",
+        "Hera"
+      ],
+      "answer": [
+        "Fenrir"
+      ]
+    },
+    {
+      "text": "“the boar Gullinbursti” belongs to which figure of myth?",
+      "options": [
+        "Tyr",
+        "Nike",
+        "Njord",
+        "Theseus",
+        "Apollo"
+      ],
+      "answer": [
+        "Freyr"
+      ]
+    },
+    {
+      "text": "“sea foam” belongs to which figure of myth?",
+      "options": [
+        "Demeter",
+        "Odysseus",
+        "Fenrir",
+        "Tyr",
+        "Jason"
+      ],
+      "answer": [
+        "Aphrodite"
+      ]
+    },
+    {
+      "text": "What is Ares known for among these options?",
+      "options": [
+        "the protection of marriage",
+        "the thunderbolt",
+        "mistletoe",
+        "shapeshifting",
+        "the lyre"
+      ],
+      "answer": [
+        "the war chariot"
+      ]
+    },
+    {
+      "text": "“the rage at Troy” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Artemis",
+        "Tyr",
+        "Odysseus",
+        "Freyr"
+      ],
+      "answer": [
+        "Achilles"
+      ]
+    },
+    {
+      "text": "Which of these is associated with Jason?",
+      "options": [
+        "the long voyage home",
+        "the necklace Brisingamen",
+        "the falcon-feather cloak",
+        "the battle fury",
+        "the harvest",
+        "the abduction by the giant Thjazi"
+      ],
+      "answer": [
+        "the sorceress Medea"
+      ]
+    },
+    {
+      "text": "“the wealth of fishermen” belongs to which figure of myth?",
+      "options": [
+        "Odin",
+        "Dionysus",
+        "Jason",
+        "Heracles"
+      ],
+      "answer": [
+        "Njord"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the magic girdle”?",
+      "options": [
+        "Theseus",
+        "Freyr",
+        "Thor",
+        "Demeter",
+        "Hestia",
+        "Artemis"
+      ],
+      "answer": [
+        "Aphrodite"
+      ]
+    },
+    {
+      "text": "“the war chariot” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Odin",
+        "Zeus",
+        "Theseus",
+        "Perseus"
+      ],
+      "answer": [
+        "Ares"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the goats Tanngrisnir and Tanngnjostr”?",
+      "options": [
+        "Dionysus",
+        "Persephone",
+        "Freyr",
+        "Aphrodite",
+        "Poseidon"
+      ],
+      "answer": [
+        "Thor"
+      ]
+    },
+    {
+      "text": "“the golden net” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Jason",
+        "Odysseus",
+        "Heracles",
+        "Tyr",
+        "Persephone"
+      ],
+      "answer": [
+        "Hephaestus"
+      ]
+    },
+    {
+      "text": "“the abduction by the giant Thjazi” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Baldr",
+        "Orpheus",
+        "Jason",
+        "Heracles",
+        "Theseus"
+      ],
+      "answer": [
+        "Idunn"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the hunt”?",
+      "options": [
+        "Thor",
+        "Hermes",
+        "Theseus",
+        "Dionysus",
+        "Njord"
+      ],
+      "answer": [
+        "Artemis"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “calm waters for sailors”?",
+      "options": [
+        "Orpheus",
+        "Apollo",
+        "Idunn",
+        "Odin",
+        "Aphrodite"
+      ],
+      "answer": [
+        "Njord"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the eye given for wisdom”?",
+      "options": [
+        "Dionysus",
+        "Hera",
+        "Odysseus",
+        "Aphrodite",
+        "Njord",
+        "Hermes"
+      ],
+      "answer": [
+        "Odin"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the twelve labours” belong?",
+      "options": [
+        "Perseus",
+        "Athena",
+        "Fenrir",
+        "Hermes",
+        "Freyja"
+      ],
+      "answer": [
+        "Heracles"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the heel that stayed vulnerable” belong?",
+      "options": [
+        "Theseus",
+        "Thor",
+        "Nike",
+        "Hephaestus",
+        "Persephone"
+      ],
+      "answer": [
+        "Achilles"
+      ]
+    },
+    {
+      "text": "What is Demeter known for among these options?",
+      "options": [
+        "calm waters for sailors",
+        "healing and prophecy",
+        "the enemy of Thor",
+        "the theatre",
+        "the attempt to bring Eurydice back",
+        "trickery"
+      ],
+      "answer": [
+        "grain"
+      ]
+    },
+    {
+      "text": "What belongs to Theseus among these options?",
+      "options": [
+        "the rage at Troy",
+        "the eye given for wisdom",
+        "the chains forged by dwarves",
+        "the dove",
+        "the heel that stayed vulnerable"
+      ],
+      "answer": [
+        "the thread of Ariadne"
+      ]
+    },
+    {
+      "text": "Which of these is associated with Athena?",
+      "options": [
+        "the deer",
+        "the greatest warrior of the Greek camp",
+        "the goats Tanngrisnir and Tanngnjostr",
+        "a monstrous wolf",
+        "sea foam"
+      ],
+      "answer": [
+        "the owl"
+      ]
+    },
+    {
+      "text": "Which of these is associated with Apollo?",
+      "options": [
+        "the moon",
+        "sea foam",
+        "Medusa",
+        "the owl",
+        "the wealth of fishermen",
+        "the abduction by the giant Thjazi"
+      ],
+      "answer": [
+        "the oracle at Delphi"
+      ]
+    },
+    {
+      "text": "Which of these are attributed to Nike?",
+      "options": [
+        "the riches beneath the earth",
+        "the ship Skidbladnir",
+        "the boar Gullinbursti",
+        "the hearth",
+        "keeping the gods young"
+      ],
+      "answer": [
+        "wings",
+        "victory"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “a monstrous wolf” belong?",
+      "options": [
+        "Poseidon",
+        "Demeter",
+        "Freyja",
+        "Ares",
+        "Hades"
+      ],
+      "answer": [
+        "Fenrir"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “victory” belong?",
+      "options": [
+        "Achilles",
+        "Orpheus",
+        "Hestia",
+        "Jormungandr",
+        "Dionysus"
+      ],
+      "answer": [
+        "Nike"
+      ]
+    },
+    {
+      "text": "What belongs to Persephone among these options?",
+      "options": [
+        "the goats Tanngrisnir and Tanngnjostr",
+        "the forge",
+        "sea foam",
+        "the wealth of fishermen"
+      ],
+      "answer": [
+        "the queen of the dead"
+      ]
+    },
+    {
+      "text": "Which of these is associated with Freyja?",
+      "options": [
+        "the olive tree",
+        "the realm of Alfheim",
+        "the sorceress Medea",
+        "the wealth of fishermen",
+        "the twelve labours"
+      ],
+      "answer": [
+        "the necklace Brisingamen"
+      ]
+    },
+    {
+      "text": "“the sea monster Cetus” belongs to which figure of myth?",
+      "options": [
+        "Hermes",
+        "Freyr",
+        "Demeter",
+        "Theseus",
+        "Hera"
+      ],
+      "answer": [
+        "Perseus"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “Medusa”?",
+      "options": [
+        "Artemis",
+        "Demeter",
+        "Jormungandr",
+        "Heracles",
+        "Thor"
+      ],
+      "answer": [
+        "Perseus"
+      ]
+    },
+    {
+      "text": "Which of these are attributed to Thor?",
+      "options": [
+        "the messenger of the gods",
+        "the twelve labours",
+        "victory",
+        "the ship Skidbladnir",
+        "calm waters for sailors"
+      ],
+      "answer": [
+        "the defence of Midgard",
+        "the goats Tanngrisnir and Tanngnjostr"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the lyre” belong?",
+      "options": [
+        "Njord",
+        "Persephone",
+        "Hera",
+        "Idunn"
+      ],
+      "answer": [
+        "Orpheus"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the rescue of Andromeda”?",
+      "options": [
+        "Artemis",
+        "Theseus",
+        "Jormungandr",
+        "Persephone",
+        "Tyr",
+        "Hermes"
+      ],
+      "answer": [
+        "Perseus"
+      ]
+    },
+    {
+      "text": "“the olive tree” belongs to which figure of myth?",
+      "options": [
+        "Poseidon",
+        "Thor",
+        "Jormungandr",
+        "Hera",
+        "Aphrodite"
+      ],
+      "answer": [
+        "Athena"
+      ]
+    },
+    {
+      "text": "“light” belongs to which figure of myth?",
+      "options": [
+        "Freyja",
+        "Poseidon",
+        "Apollo",
+        "Fenrir"
+      ],
+      "answer": [
+        "Baldr"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the sky”?",
+      "options": [
+        "Odysseus",
+        "Loki",
+        "Idunn",
+        "Hephaestus",
+        "Hermes"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "“the ship Argo” belongs to which figure of myth?",
+      "options": [
+        "Aphrodite",
+        "Hades",
+        "Freyr",
+        "Fenrir",
+        "Orpheus"
+      ],
+      "answer": [
+        "Jason"
+      ]
+    },
+    {
+      "text": "“the horse” belongs to which figure of myth?",
+      "options": [
+        "Artemis",
+        "Heracles",
+        "Hades",
+        "Theseus"
+      ],
+      "answer": [
+        "Poseidon"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the apples of youth” belong?",
+      "options": [
+        "Hades",
+        "Theseus",
+        "Athena",
+        "Aphrodite"
+      ],
+      "answer": [
+        "Idunn"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “wine”?",
+      "options": [
+        "Hestia",
+        "Thor",
+        "Freyr",
+        "Heracles",
+        "Orpheus"
+      ],
+      "answer": [
+        "Dionysus"
+      ]
+    },
+    {
+      "text": "“the falcon-feather cloak” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Tyr",
+        "Ares",
+        "Nike",
+        "Orpheus"
+      ],
+      "answer": [
+        "Freyja"
+      ]
+    },
+    {
+      "text": "Which of these is associated with Perseus?",
+      "options": [
+        "the protection of marriage",
+        "the enemy of Thor",
+        "victory",
+        "wine",
+        "the wealth of fishermen",
+        "the search for her daughter"
+      ],
+      "answer": [
+        "the rescue of Andromeda"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the cats that draw a chariot” belong?",
+      "options": [
+        "Apollo",
+        "Tyr",
+        "Hermes",
+        "Baldr",
+        "Hephaestus"
+      ],
+      "answer": [
+        "Freyja"
+      ]
+    },
+    {
+      "text": "“the deer” belongs to which figure of myth?",
+      "options": [
+        "Hades",
+        "Achilles",
+        "Jason",
+        "Perseus"
+      ],
+      "answer": [
+        "Artemis"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the Minotaur” belong?",
+      "options": [
+        "Idunn",
+        "Ares",
+        "Thor",
+        "Persephone"
+      ],
+      "answer": [
+        "Theseus"
+      ]
+    },
+    {
+      "text": "“superhuman strength” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Apollo",
+        "Loki",
+        "Fenrir",
+        "Jason"
+      ],
+      "answer": [
+        "Heracles"
+      ]
+    },
+    {
+      "text": "“the search for her daughter” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Nike",
+        "Odysseus",
+        "Baldr",
+        "Freyja"
+      ],
+      "answer": [
+        "Demeter"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the hearth” belong?",
+      "options": [
+        "Fenrir",
+        "Zeus",
+        "Apollo",
+        "Nike"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the pomegranate”?",
+      "options": [
+        "Jormungandr",
+        "Dionysus",
+        "Freyr",
+        "Loki",
+        "Odin",
+        "Perseus"
+      ],
+      "answer": [
+        "Persephone"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the queen of the dead”?",
+      "options": [
+        "Aphrodite",
+        "Athena",
+        "Hera",
+        "Odysseus",
+        "Ares"
+      ],
+      "answer": [
+        "Persephone"
+      ]
+    },
+    {
+      "text": "Which of these are linked to Loki?",
+      "options": [
+        "the horse",
+        "biting its own tail",
+        "the twelve labours",
+        "the golden net",
+        "the falcon-feather cloak"
+      ],
+      "answer": [
+        "trickery",
+        "shapeshifting"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the queen of the gods”?",
+      "options": [
+        "Njord",
+        "Hephaestus",
+        "Artemis",
+        "Hestia",
+        "Freyja"
+      ],
+      "answer": [
+        "Hera"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the battle fury”?",
+      "options": [
+        "Freyr",
+        "Njord",
+        "Odysseus",
+        "Freyja",
+        "Achilles",
+        "Demeter"
+      ],
+      "answer": [
+        "Ares"
+      ]
+    },
+    {
+      "text": "“the thunderbolt” belongs to which figure of myth?",
+      "options": [
+        "Baldr",
+        "Odin",
+        "Theseus",
+        "Orpheus",
+        "Ares"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “sea storms”?",
+      "options": [
+        "Hestia",
+        "Baldr",
+        "Persephone",
+        "Athena",
+        "Hermes"
+      ],
+      "answer": [
+        "Poseidon"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the cap of invisibility”?",
+      "options": [
+        "Fenrir",
+        "Hera",
+        "Freyr",
+        "Perseus",
+        "Zeus",
+        "Poseidon"
+      ],
+      "answer": [
+        "Hades"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the realm of Alfheim”?",
+      "options": [
+        "Poseidon",
+        "Perseus",
+        "Jormungandr",
+        "Odysseus",
+        "Fenrir",
+        "Baldr"
+      ],
+      "answer": [
+        "Freyr"
+      ]
+    },
+    {
+      "text": "“the wreath of victory” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Hera",
+        "Poseidon",
+        "Persephone",
+        "Dionysus"
+      ],
+      "answer": [
+        "Nike"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “mistletoe”?",
+      "options": [
+        "Achilles",
+        "Apollo",
+        "Theseus",
+        "Hera",
+        "Hermes",
+        "Idunn"
+      ],
+      "answer": [
+        "Baldr"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the sun” belong?",
+      "options": [
+        "Njord",
+        "Heracles",
+        "Nike",
+        "Zeus"
+      ],
+      "answer": [
+        "Apollo"
+      ]
+    },
+    {
+      "text": "Which of these is connected with Jormungandr?",
+      "options": [
+        "Cerberus",
+        "the search for her daughter",
+        "winged sandals",
+        "the greatest warrior of the Greek camp",
+        "sea storms"
+      ],
+      "answer": [
+        "biting its own tail"
+      ]
+    },
+    {
+      "text": "Which of these is connected with Odin?",
+      "options": [
+        "the long voyage home",
+        "the sun",
+        "Cerberus",
+        "the city of Athens"
+      ],
+      "answer": [
+        "the spear Gungnir"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “justice” belong?",
+      "options": [
+        "Jason",
+        "Thor",
+        "Njord",
+        "Aphrodite"
+      ],
+      "answer": [
+        "Tyr"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “keeping the gods young”?",
+      "options": [
+        "Heracles",
+        "Odin",
+        "Achilles",
+        "Freyja",
+        "Hestia"
+      ],
+      "answer": [
+        "Idunn"
+      ]
+    },
+    {
+      "text": "Which of these is connected with Hestia?",
+      "options": [
+        "the ship Argo",
+        "the moon",
+        "the Trojan horse",
+        "the vine",
+        "the dove"
+      ],
+      "answer": [
+        "the hearth"
+      ]
+    },
+    {
+      "text": "“the theatre” belongs to which figure of myth?",
+      "options": [
+        "Thor",
+        "Poseidon",
+        "Fenrir",
+        "Demeter",
+        "Odysseus"
+      ],
+      "answer": [
+        "Dionysus"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “grain” belong?",
+      "options": [
+        "Freyja",
+        "Dionysus",
+        "Njord",
+        "Idunn",
+        "Persephone"
+      ],
+      "answer": [
+        "Demeter"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “wings”?",
+      "options": [
+        "Demeter",
+        "Zeus",
+        "Artemis",
+        "Aphrodite",
+        "Thor",
+        "Baldr"
+      ],
+      "answer": [
+        "Nike"
+      ]
+    },
+    {
+      "text": "“the caduceus” belongs to which figure of myth?",
+      "options": [
+        "Poseidon",
+        "Ares",
+        "Odysseus",
+        "Fenrir"
+      ],
+      "answer": [
+        "Hermes"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the harvest”?",
+      "options": [
+        "Tyr",
+        "Thor",
+        "Baldr",
+        "Ares",
+        "Zeus",
+        "Achilles"
+      ],
+      "answer": [
+        "Demeter"
+      ]
+    },
+    {
+      "text": "Which of these domains, symbols or deeds belong to Heracles?",
+      "options": [
+        "the eye given for wisdom",
+        "healing and prophecy",
+        "the boar Gullinbursti",
+        "trickery"
+      ],
+      "answer": [
+        "the Nemean lion",
+        "superhuman strength"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the Nemean lion”?",
+      "options": [
+        "Ares",
+        "Idunn",
+        "Dionysus",
+        "Baldr",
+        "Jason",
+        "Jormungandr"
+      ],
+      "answer": [
+        "Heracles"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the necklace Brisingamen”?",
+      "options": [
+        "Perseus",
+        "Fenrir",
+        "Apollo",
+        "Loki",
+        "Achilles",
+        "Orpheus"
+      ],
+      "answer": [
+        "Freyja"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “Cerberus” belong?",
+      "options": [
+        "Orpheus",
+        "Artemis",
+        "Poseidon",
+        "Jason",
+        "Persephone"
+      ],
+      "answer": [
+        "Hades"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the oracle at Delphi”?",
+      "options": [
+        "Loki",
+        "Hermes",
+        "Artemis",
+        "Dionysus",
+        "Tyr"
+      ],
+      "answer": [
+        "Apollo"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the owl”?",
+      "options": [
+        "Tyr",
+        "Artemis",
+        "Demeter",
+        "Perseus",
+        "Poseidon"
+      ],
+      "answer": [
+        "Athena"
+      ]
+    },
+    {
+      "text": "“shapeshifting” belongs to which figure of myth?",
+      "options": [
+        "Persephone",
+        "Orpheus",
+        "Hephaestus",
+        "Zeus"
+      ],
+      "answer": [
+        "Loki"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the sorceress Medea”?",
+      "options": [
+        "Loki",
+        "Demeter",
+        "Artemis",
+        "Njord",
+        "Nike",
+        "Heracles"
+      ],
+      "answer": [
+        "Jason"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the peacock” belong?",
+      "options": [
+        "Theseus",
+        "Thor",
+        "Artemis",
+        "Jason"
+      ],
+      "answer": [
+        "Hera"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “trickery”?",
+      "options": [
+        "Aphrodite",
+        "Jormungandr",
+        "Orpheus",
+        "Ares",
+        "Heracles",
+        "Achilles"
+      ],
+      "answer": [
+        "Loki"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the ship Skidbladnir”?",
+      "options": [
+        "Baldr",
+        "Nike",
+        "Aphrodite",
+        "Hera",
+        "Apollo"
+      ],
+      "answer": [
+        "Freyr"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the attempt to bring Eurydice back”?",
+      "options": [
+        "Fenrir",
+        "Jormungandr",
+        "Hestia",
+        "Demeter",
+        "Nike"
+      ],
+      "answer": [
+        "Orpheus"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the dove”?",
+      "options": [
+        "Hera",
+        "Idunn",
+        "Perseus",
+        "Apollo",
+        "Poseidon"
+      ],
+      "answer": [
+        "Aphrodite"
+      ]
+    },
+    {
+      "text": "“the hand lost to bind Fenrir” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Freyr",
+        "Jormungandr",
+        "Heracles",
+        "Baldr",
+        "Apollo"
+      ],
+      "answer": [
+        "Tyr"
+      ]
+    },
+    {
+      "text": "“the Cyclops Polyphemus” belongs to which figure of myth?",
+      "options": [
+        "Baldr",
+        "Njord",
+        "Achilles",
+        "Apollo"
+      ],
+      "answer": [
+        "Odysseus"
+      ]
+    },
+    {
+      "text": "Which figure is connected with “the enemy of Thor”?",
+      "options": [
+        "Tyr",
+        "Apollo",
+        "Odysseus",
+        "Dionysus",
+        "Poseidon",
+        "Nike"
+      ],
+      "answer": [
+        "Jormungandr"
+      ]
+    },
+    {
+      "text": "Which of these are associated with Aphrodite?",
+      "options": [
+        "the deer",
+        "the world serpent",
+        "the owl",
+        "the sorceress Medea",
+        "the eye given for wisdom",
+        "the vine"
+      ],
+      "answer": [
+        "sea foam",
+        "the magic girdle"
+      ]
+    },
+    {
+      "text": "“the defence of Midgard” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Odysseus",
+        "Baldr",
+        "Fenrir",
+        "Demeter",
+        "Theseus"
+      ],
+      "answer": [
+        "Thor"
+      ]
+    },
+    {
+      "text": "What is Artemis known for among these options?",
+      "options": [
+        "music that charmed stones and trees",
+        "biting its own tail",
+        "the theatre",
+        "shapeshifting",
+        "healing and prophecy",
+        "justice"
+      ],
+      "answer": [
+        "the moon"
+      ]
+    },
+    {
+      "text": "Which mythological figure is associated with “the Trojan horse”?",
+      "options": [
+        "Heracles",
+        "Zeus",
+        "Hera",
+        "Jormungandr",
+        "Fenrir",
+        "Apollo"
+      ],
+      "answer": [
+        "Odysseus"
+      ]
+    },
+    {
+      "text": "To which mythological figure does “the hammer Mjolnir” belong?",
+      "options": [
+        "Orpheus",
+        "Achilles",
+        "Hestia",
+        "Odysseus"
+      ],
+      "answer": [
+        "Thor"
+      ]
+    },
+    {
+      "text": "Which of these figures is linked to “the greatest warrior of the Greek camp”?",
+      "options": [
+        "Thor",
+        "Hephaestus",
+        "Hermes",
+        "Artemis",
+        "Jormungandr",
+        "Hestia"
+      ],
+      "answer": [
+        "Achilles"
+      ]
+    },
+    {
+      "text": "“the protection of marriage” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Artemis",
+        "Freyr",
+        "Fenrir",
+        "Jormungandr",
+        "Odysseus"
+      ],
+      "answer": [
+        "Hera"
+      ]
+    },
+    {
+      "text": "“the first offering at feasts” is a domain, symbol or deed of which figure?",
+      "options": [
+        "Odysseus",
+        "Persephone",
+        "Baldr",
+        "Achilles",
+        "Idunn"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    }
+  ]
+}

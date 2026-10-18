@@ -1,0 +1,1313 @@
+{
+  "theme": "Inventores e inventos",
+  "questions": [
+    {
+      "text": "¿Qué inventó Ladislao Biro?",
+      "options": [
+        "submarino torpedero eléctrico",
+        "máquina de calcular con multiplicación directa",
+        "método de control del mosquito transmisor",
+        "bloqueo anestésico peridural",
+        "espejo laríngeo para ver las cuerdas vocales",
+        "tinción de plata reducida"
+      ],
+      "answer": [
+        "bolígrafo de bolilla giratoria"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «cuchilla de diamante para cortes ultrafinos»?",
+      "options": [
+        "Francisco Salvá Campillo",
+        "Bartolomé de Medina",
+        "Leonardo Torres Quevedo",
+        "Emilio Herrera"
+      ],
+      "answer": [
+        "Humberto Fernández Morán"
+      ]
+    },
+    {
+      "text": "¿Quién creó «arcos de ladrillo sin cimbra»?",
+      "options": [
+        "Ángela Ruiz Robles",
+        "Alejandro Goicoechea",
+        "Narcís Monturiol",
+        "Francisco Salvá Campillo",
+        "Domingo Liotta"
+      ],
+      "answer": [
+        "Rafael Guastavino"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «planeador Demoiselle»?",
+      "options": [
+        "Juanelo Turriano",
+        "René Favaloro",
+        "Ladislao Biro",
+        "Juan de la Cierva",
+        "Rafael Guastavino"
+      ],
+      "answer": [
+        "Alberto Santos Dumont"
+      ]
+    },
+    {
+      "text": "¿Qué dos inventos son obra de Humberto Fernández Morán?",
+      "options": [
+        "laringoscopio",
+        "caramelo esférico ensartado en un palito",
+        "método de patio para amalgamar la plata",
+        "transbordador aéreo",
+        "vacuna de péptidos sintéticos",
+        "frontoluz de quirófano"
+      ],
+      "answer": [
+        "cortes histológicos a baja temperatura",
+        "cuchilla de diamante para cortes ultrafinos"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «máquina de calcular con multiplicación directa»?",
+      "options": [
+        "Enrique Finochietto",
+        "Jerónimo de Ayanz",
+        "Bartolomé de Medina",
+        "Narcís Monturiol",
+        "Ángela Ruiz Robles"
+      ],
+      "answer": [
+        "Ramón Verea"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «jeringuilla desechable de un solo uso»?",
+      "options": [
+        "Fidel Pagés",
+        "Bartolomé de Medina",
+        "Ramón Verea",
+        "Francisco Salvá Campillo",
+        "Isaac Peral",
+        "René Favaloro"
+      ],
+      "answer": [
+        "Manuel Jalón"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «telequino de mando a distancia»?",
+      "options": [
+        "Humberto Fernández Morán",
+        "Carlos Finlay",
+        "Ramón Verea",
+        "Fidel Pagés"
+      ],
+      "answer": [
+        "Leonardo Torres Quevedo"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estas creaciones se atribuyen a Isaac Peral?",
+      "options": [
+        "mapa de los focos de fiebre amarilla",
+        "válvula cardíaca artificial de bajo perfil",
+        "piruleta con palo",
+        "arcos de ladrillo sin cimbra"
+      ],
+      "answer": [
+        "tubo lanzatorpedos",
+        "periscopio"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «aguja especial para la anestesia raquídea»?",
+      "options": [
+        "Santiago Ramón y Cajal",
+        "Carlos Finlay",
+        "Jerónimo de Ayanz",
+        "Ladislao Biro",
+        "Alejandro Goicoechea"
+      ],
+      "answer": [
+        "Fidel Pagés"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «horno de amalgamación»?",
+      "options": [
+        "Manuel Patricio Rodríguez García",
+        "Isaac Peral",
+        "Rafael Guastavino",
+        "Humberto Fernández Morán"
+      ],
+      "answer": [
+        "Bartolomé de Medina"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas creaciones es obra de Francisco Salvá Campillo?",
+      "options": [
+        "rotor articulado con palas batientes",
+        "técnica de revascularización del corazón",
+        "aire acondicionado para el aire viciado de las minas",
+        "cubo escurridor para fregonas",
+        "jeringuilla desechable de un solo uso",
+        "arcos de ladrillo sin cimbra"
+      ],
+      "answer": [
+        "transmisión de letras por corrientes eléctricas"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos inventos se debe a Jerónimo de Ayanz?",
+      "options": [
+        "telégrafo electroquímico",
+        "fregona con escurridor",
+        "autogiro",
+        "aguja especial para la anestesia raquídea",
+        "sistema de rodadura Talgo"
+      ],
+      "answer": [
+        "aire acondicionado para el aire viciado de las minas"
+      ]
+    },
+    {
+      "text": "¿A qué invento se asocia el nombre de Juanelo Turriano?",
+      "options": [
+        "avión 14-bis",
+        "casco doble para navegar sumergido",
+        "sistema de rodadura Talgo",
+        "dirigible que rodeó la torre Eiffel",
+        "bóveda plana de rasilla"
+      ],
+      "answer": [
+        "autómatas de la corte imperial"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «técnica de revascularización del corazón»?",
+      "options": [
+        "Alberto Santos Dumont",
+        "Carlos Finlay",
+        "Alejandro Goicoechea",
+        "Domingo Liotta",
+        "Ramón Verea"
+      ],
+      "answer": [
+        "René Favaloro"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «vacuna de péptidos sintéticos»?",
+      "options": [
+        "Ángela Ruiz Robles",
+        "Enrique Finochietto",
+        "Juan de la Cierva",
+        "Fidel Pagés",
+        "Eduardo Torroja"
+      ],
+      "answer": [
+        "Manuel Elkin Patarroyo"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas creaciones es obra de Narcís Monturiol?",
+      "options": [
+        "periscopio",
+        "tinción de plata reducida",
+        "ajedrecista automático",
+        "rotor articulado con palas batientes",
+        "escafandra estratonáutica"
+      ],
+      "answer": [
+        "submarino Ictíneo"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «escafandra estratonáutica»?",
+      "options": [
+        "Manuel Patricio Rodríguez García",
+        "René Favaloro",
+        "Bartolomé de Medina",
+        "Ramón Verea"
+      ],
+      "answer": [
+        "Emilio Herrera"
+      ]
+    },
+    {
+      "text": "¿Quién creó «mesa quirúrgica de altura regulable»?",
+      "options": [
+        "Alejandro Goicoechea",
+        "Fidel Pagés",
+        "Ramón Verea",
+        "Luis Ernesto Miramontes",
+        "Francisco Salvá Campillo"
+      ],
+      "answer": [
+        "Enrique Finochietto"
+      ]
+    },
+    {
+      "text": "¿A qué invento se asocia el nombre de Rafael Guastavino?",
+      "options": [
+        "telégrafo electroquímico",
+        "síntesis de la noretisterona",
+        "enciclopedia mecánica",
+        "válvula cardíaca artificial de bajo perfil"
+      ],
+      "answer": [
+        "bóveda tabicada de ladrillo"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos inventos se deben a Carlos Finlay?",
+      "options": [
+        "fregona con escurridor",
+        "submarino Ictíneo",
+        "piruleta con palo",
+        "transmisión de letras por corrientes eléctricas",
+        "cañón automático de veinte milímetros"
+      ],
+      "answer": [
+        "método de control del mosquito transmisor",
+        "mapa de los focos de fiebre amarilla"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «método de patio para amalgamar la plata»?",
+      "options": [
+        "Narcís Monturiol",
+        "Carlos Finlay",
+        "Luis Ernesto Miramontes",
+        "Eduardo Torroja",
+        "Domingo Liotta"
+      ],
+      "answer": [
+        "Bartolomé de Medina"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «culata de aluminio en un solo bloque»?",
+      "options": [
+        "René Favaloro",
+        "Fidel Pagés",
+        "Carlos Finlay",
+        "Emilio Herrera"
+      ],
+      "answer": [
+        "Marc Birkigt"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «cubierta laminar de hormigón»?",
+      "options": [
+        "Leonardo Torres Quevedo",
+        "Isaac Peral",
+        "Juan de la Cierva",
+        "Ángela Ruiz Robles",
+        "Manuel Jalón"
+      ],
+      "answer": [
+        "Eduardo Torroja"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «calculadora mecánica de sobremesa»?",
+      "options": [
+        "Rafael Guastavino",
+        "Bartolomé de Medina",
+        "Emilio Herrera",
+        "Jerónimo de Ayanz",
+        "Enric Bernat"
+      ],
+      "answer": [
+        "Ramón Verea"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos inventos se debe a Ramón Verea?",
+      "options": [
+        "telequino de mando a distancia",
+        "cañón automático de veinte milímetros",
+        "frontón de lámina delgada",
+        "telégrafo electroquímico",
+        "escafandra estratonáutica"
+      ],
+      "answer": [
+        "máquina de calcular con multiplicación directa"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos inventos se debe a Manuel Patricio Rodríguez García?",
+      "options": [
+        "artefacto para subir el agua del Tajo a Toledo",
+        "síntesis de la noretisterona",
+        "método de control del mosquito transmisor",
+        "submarino Ictíneo",
+        "pluma estilográfica de punta esférica",
+        "calculadora mecánica de sobremesa"
+      ],
+      "answer": [
+        "laringoscopio"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «caramelo esférico ensartado en un palito»?",
+      "options": [
+        "Marc Birkigt",
+        "Jerónimo de Ayanz",
+        "Ángela Ruiz Robles",
+        "Francisco Salvá Campillo",
+        "Luis Ernesto Miramontes"
+      ],
+      "answer": [
+        "Enric Bernat"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «injerto de vena safena en las arterias coronarias»?",
+      "options": [
+        "Juan de la Cierva",
+        "Humberto Fernández Morán",
+        "Santiago Ramón y Cajal",
+        "Alejandro Goicoechea",
+        "Ramón Verea"
+      ],
+      "answer": [
+        "René Favaloro"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «cubo escurridor para fregonas»?",
+      "options": [
+        "Manuel Elkin Patarroyo",
+        "Eduardo Torroja",
+        "Luis Ernesto Miramontes",
+        "Enric Bernat"
+      ],
+      "answer": [
+        "Manuel Jalón"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas creaciones es obra de Alberto Santos Dumont?",
+      "options": [
+        "mesa quirúrgica de altura regulable",
+        "proyector de imágenes para el libro mecánico",
+        "ala giratoria no propulsada",
+        "motor de aviación en V de ocho cilindros"
+      ],
+      "answer": [
+        "avión 14-bis"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «bolígrafo de bolilla giratoria»?",
+      "options": [
+        "Bartolomé de Medina",
+        "Narcís Monturiol",
+        "Santiago Ramón y Cajal",
+        "René Favaloro",
+        "Fidel Pagés"
+      ],
+      "answer": [
+        "Ladislao Biro"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «primera vacuna sintética contra la malaria»?",
+      "options": [
+        "Manuel Jalón",
+        "Jerónimo de Ayanz",
+        "Humberto Fernández Morán",
+        "Enrique Finochietto",
+        "Domingo Liotta"
+      ],
+      "answer": [
+        "Manuel Elkin Patarroyo"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «aire acondicionado para el aire viciado de las minas»?",
+      "options": [
+        "Enric Bernat",
+        "Leonardo Torres Quevedo",
+        "Emilio Herrera",
+        "Santiago Ramón y Cajal",
+        "Francisco Salvá Campillo"
+      ],
+      "answer": [
+        "Jerónimo de Ayanz"
+      ]
+    },
+    {
+      "text": "¿Qué dos aportaciones técnicas son de Juan de la Cierva?",
+      "options": [
+        "mesa quirúrgica de altura regulable",
+        "arcos de ladrillo sin cimbra",
+        "escafandra estratonáutica",
+        "reloj astronómico de mesa",
+        "culata de aluminio en un solo bloque"
+      ],
+      "answer": [
+        "ala giratoria no propulsada",
+        "autogiro"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «frontoluz de quirófano»?",
+      "options": [
+        "Alberto Santos Dumont",
+        "Isaac Peral",
+        "Francisco Salvá Campillo",
+        "Ladislao Biro",
+        "Eduardo Torroja",
+        "Enric Bernat"
+      ],
+      "answer": [
+        "Enrique Finochietto"
+      ]
+    },
+    {
+      "text": "¿Quién creó «motor de combustión anaerobia»?",
+      "options": [
+        "Domingo Liotta",
+        "Juanelo Turriano",
+        "Juan de la Cierva",
+        "Eduardo Torroja",
+        "Carlos Finlay"
+      ],
+      "answer": [
+        "Narcís Monturiol"
+      ]
+    },
+    {
+      "text": "¿Quién creó «cañón automático de veinte milímetros»?",
+      "options": [
+        "Ramón Verea",
+        "Humberto Fernández Morán",
+        "Juan de la Cierva",
+        "Ladislao Biro",
+        "Leonardo Torres Quevedo",
+        "Eduardo Torroja"
+      ],
+      "answer": [
+        "Marc Birkigt"
+      ]
+    },
+    {
+      "text": "¿Qué aportación técnica se debe a René Favaloro?",
+      "options": [
+        "amalgamación con mercurio de los minerales",
+        "separador costal de cremallera",
+        "aire acondicionado para el aire viciado de las minas",
+        "cañón automático de veinte milímetros",
+        "examen de la voz con espejo inclinado",
+        "artefacto para subir el agua del Tajo a Toledo"
+      ],
+      "answer": [
+        "injerto de vena safena en las arterias coronarias"
+      ]
+    },
+    {
+      "text": "¿Qué inventó Luis Ernesto Miramontes?",
+      "options": [
+        "reloj astronómico de mesa",
+        "coche de ferrocarril basculante",
+        "cortes histológicos a baja temperatura",
+        "tren articulado de eje único",
+        "prótesis de válvula para el corazón"
+      ],
+      "answer": [
+        "síntesis de la noretisterona"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «depósito elevado de hormigón»?",
+      "options": [
+        "Santiago Ramón y Cajal",
+        "Enric Bernat",
+        "Alberto Santos Dumont",
+        "Bartolomé de Medina",
+        "Manuel Patricio Rodríguez García",
+        "Emilio Herrera"
+      ],
+      "answer": [
+        "Eduardo Torroja"
+      ]
+    },
+    {
+      "text": "¿Qué inventó Emilio Herrera?",
+      "options": [
+        "enciclopedia mecánica",
+        "dirigible que rodeó la torre Eiffel",
+        "ultramicrotomo de cuchilla de diamante",
+        "injerto de vena safena en las arterias coronarias"
+      ],
+      "answer": [
+        "escafandra estratonáutica"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «bóveda plana de rasilla»?",
+      "options": [
+        "Bartolomé de Medina",
+        "Marc Birkigt",
+        "Francisco Salvá Campillo",
+        "Alberto Santos Dumont",
+        "Leonardo Torres Quevedo"
+      ],
+      "answer": [
+        "Rafael Guastavino"
+      ]
+    },
+    {
+      "text": "¿Quién creó «telégrafo electroquímico»?",
+      "options": [
+        "Ángela Ruiz Robles",
+        "Emilio Herrera",
+        "Ladislao Biro",
+        "Enrique Finochietto",
+        "Enric Bernat"
+      ],
+      "answer": [
+        "Francisco Salvá Campillo"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «submarino Ictíneo»?",
+      "options": [
+        "Manuel Jalón",
+        "Bartolomé de Medina",
+        "Enric Bernat",
+        "Jerónimo de Ayanz"
+      ],
+      "answer": [
+        "Narcís Monturiol"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «submarino torpedero eléctrico»?",
+      "options": [
+        "Enric Bernat",
+        "Luis Ernesto Miramontes",
+        "Alberto Santos Dumont",
+        "Leonardo Torres Quevedo",
+        "Eduardo Torroja"
+      ],
+      "answer": [
+        "Isaac Peral"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «rotor articulado con palas batientes»?",
+      "options": [
+        "Manuel Elkin Patarroyo",
+        "Isaac Peral",
+        "René Favaloro",
+        "Ángela Ruiz Robles"
+      ],
+      "answer": [
+        "Juan de la Cierva"
+      ]
+    },
+    {
+      "text": "¿Quién creó «método de control del mosquito transmisor»?",
+      "options": [
+        "Ángela Ruiz Robles",
+        "Leonardo Torres Quevedo",
+        "Juan de la Cierva",
+        "Narcís Monturiol",
+        "Juanelo Turriano",
+        "Emilio Herrera"
+      ],
+      "answer": [
+        "Carlos Finlay"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «periscopio»?",
+      "options": [
+        "Rafael Guastavino",
+        "Emilio Herrera",
+        "Manuel Elkin Patarroyo",
+        "Juan de la Cierva",
+        "Alberto Santos Dumont"
+      ],
+      "answer": [
+        "Isaac Peral"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «tubo lanzatorpedos»?",
+      "options": [
+        "René Favaloro",
+        "Domingo Liotta",
+        "Juanelo Turriano",
+        "Narcís Monturiol",
+        "Alberto Santos Dumont",
+        "Ladislao Biro"
+      ],
+      "answer": [
+        "Isaac Peral"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «dirigible que rodeó la torre Eiffel»?",
+      "options": [
+        "Bartolomé de Medina",
+        "René Favaloro",
+        "Domingo Liotta",
+        "Juanelo Turriano"
+      ],
+      "answer": [
+        "Alberto Santos Dumont"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «fregona con escurridor»?",
+      "options": [
+        "Ladislao Biro",
+        "Santiago Ramón y Cajal",
+        "Narcís Monturiol",
+        "Rafael Guastavino",
+        "Carlos Finlay"
+      ],
+      "answer": [
+        "Manuel Jalón"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «cortes histológicos a baja temperatura»?",
+      "options": [
+        "Isaac Peral",
+        "Juan de la Cierva",
+        "Bartolomé de Medina",
+        "Francisco Salvá Campillo",
+        "Enric Bernat"
+      ],
+      "answer": [
+        "Humberto Fernández Morán"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «ultramicrotomo de cuchilla de diamante»?",
+      "options": [
+        "Jerónimo de Ayanz",
+        "Juan de la Cierva",
+        "Alejandro Goicoechea",
+        "Carlos Finlay",
+        "Manuel Elkin Patarroyo"
+      ],
+      "answer": [
+        "Humberto Fernández Morán"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «bóveda tabicada de ladrillo»?",
+      "options": [
+        "Eduardo Torroja",
+        "Humberto Fernández Morán",
+        "Juanelo Turriano",
+        "René Favaloro"
+      ],
+      "answer": [
+        "Rafael Guastavino"
+      ]
+    },
+    {
+      "text": "¿Qué dos inventos son obra de Manuel Jalón?",
+      "options": [
+        "corazón artificial neumático",
+        "culata de aluminio en un solo bloque",
+        "sistema de rodadura Talgo",
+        "reloj astronómico de mesa",
+        "transbordador aéreo",
+        "arcos de ladrillo sin cimbra"
+      ],
+      "answer": [
+        "jeringuilla desechable de un solo uso",
+        "cubo escurridor para fregonas"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «pluma estilográfica de punta esférica»?",
+      "options": [
+        "Humberto Fernández Morán",
+        "Jerónimo de Ayanz",
+        "Emilio Herrera",
+        "Alejandro Goicoechea"
+      ],
+      "answer": [
+        "Ladislao Biro"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «autómatas de la corte imperial»?",
+      "options": [
+        "Humberto Fernández Morán",
+        "Santiago Ramón y Cajal",
+        "Manuel Patricio Rodríguez García",
+        "Enrique Finochietto"
+      ],
+      "answer": [
+        "Juanelo Turriano"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «bloqueo anestésico peridural»?",
+      "options": [
+        "Isaac Peral",
+        "Juanelo Turriano",
+        "René Favaloro",
+        "Rafael Guastavino"
+      ],
+      "answer": [
+        "Fidel Pagés"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «enciclopedia mecánica»?",
+      "options": [
+        "Bartolomé de Medina",
+        "Jerónimo de Ayanz",
+        "Narcís Monturiol",
+        "Alberto Santos Dumont",
+        "Luis Ernesto Miramontes"
+      ],
+      "answer": [
+        "Ángela Ruiz Robles"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «ala giratoria no propulsada»?",
+      "options": [
+        "Humberto Fernández Morán",
+        "Isaac Peral",
+        "Narcís Monturiol",
+        "Alejandro Goicoechea",
+        "Emilio Herrera"
+      ],
+      "answer": [
+        "Juan de la Cierva"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «transmisión de letras por corrientes eléctricas»?",
+      "options": [
+        "Eduardo Torroja",
+        "Manuel Patricio Rodríguez García",
+        "Enrique Finochietto",
+        "Juan de la Cierva",
+        "Fidel Pagés"
+      ],
+      "answer": [
+        "Francisco Salvá Campillo"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «transbordador aéreo»?",
+      "options": [
+        "René Favaloro",
+        "Manuel Patricio Rodríguez García",
+        "Emilio Herrera",
+        "Ramón Verea",
+        "Santiago Ramón y Cajal"
+      ],
+      "answer": [
+        "Leonardo Torres Quevedo"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «mapas del tejido nervioso»?",
+      "options": [
+        "Francisco Salvá Campillo",
+        "Humberto Fernández Morán",
+        "Manuel Elkin Patarroyo",
+        "Marc Birkigt",
+        "Enrique Finochietto",
+        "Isaac Peral"
+      ],
+      "answer": [
+        "Santiago Ramón y Cajal"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «mapa de los focos de fiebre amarilla»?",
+      "options": [
+        "Manuel Patricio Rodríguez García",
+        "Manuel Elkin Patarroyo",
+        "Narcís Monturiol",
+        "Ángela Ruiz Robles"
+      ],
+      "answer": [
+        "Carlos Finlay"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «coche de ferrocarril basculante»?",
+      "options": [
+        "Ladislao Biro",
+        "Manuel Patricio Rodríguez García",
+        "Ángela Ruiz Robles",
+        "Luis Ernesto Miramontes",
+        "Juanelo Turriano",
+        "Manuel Elkin Patarroyo"
+      ],
+      "answer": [
+        "Alejandro Goicoechea"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «tinción de plata reducida»?",
+      "options": [
+        "Narcís Monturiol",
+        "Ramón Verea",
+        "Luis Ernesto Miramontes",
+        "Leonardo Torres Quevedo",
+        "Ladislao Biro"
+      ],
+      "answer": [
+        "Santiago Ramón y Cajal"
+      ]
+    },
+    {
+      "text": "¿Quién creó «prótesis de válvula para el corazón»?",
+      "options": [
+        "Alberto Santos Dumont",
+        "Ramón Verea",
+        "Enrique Finochietto",
+        "Carlos Finlay",
+        "Humberto Fernández Morán"
+      ],
+      "answer": [
+        "Domingo Liotta"
+      ]
+    },
+    {
+      "text": "¿Qué aportación técnica se debe a Alejandro Goicoechea?",
+      "options": [
+        "telégrafo electroquímico",
+        "dirigible que rodeó la torre Eiffel",
+        "pluma estilográfica de punta esférica",
+        "tinción de plata reducida"
+      ],
+      "answer": [
+        "coche de ferrocarril basculante"
+      ]
+    },
+    {
+      "text": "¿Quién creó «ajedrecista automático»?",
+      "options": [
+        "Enrique Finochietto",
+        "Enric Bernat",
+        "Carlos Finlay",
+        "Luis Ernesto Miramontes",
+        "Alberto Santos Dumont",
+        "Eduardo Torroja"
+      ],
+      "answer": [
+        "Leonardo Torres Quevedo"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «espejo laríngeo para ver las cuerdas vocales»?",
+      "options": [
+        "Bartolomé de Medina",
+        "Leonardo Torres Quevedo",
+        "René Favaloro",
+        "Fidel Pagés"
+      ],
+      "answer": [
+        "Manuel Patricio Rodríguez García"
+      ]
+    },
+    {
+      "text": "¿Quién creó «examen de la voz con espejo inclinado»?",
+      "options": [
+        "Ladislao Biro",
+        "Enric Bernat",
+        "Ramón Verea",
+        "Manuel Elkin Patarroyo",
+        "Narcís Monturiol"
+      ],
+      "answer": [
+        "Manuel Patricio Rodríguez García"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estas creaciones se atribuyen a Eduardo Torroja?",
+      "options": [
+        "máquina de vapor para achicar las minas",
+        "proyector de imágenes para el libro mecánico",
+        "corazón artificial neumático",
+        "caramelo esférico ensartado en un palito"
+      ],
+      "answer": [
+        "frontón de lámina delgada",
+        "cubierta laminar de hormigón"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «avión 14-bis»?",
+      "options": [
+        "Enrique Finochietto",
+        "Enric Bernat",
+        "Isaac Peral",
+        "René Favaloro",
+        "Ramón Verea",
+        "Santiago Ramón y Cajal"
+      ],
+      "answer": [
+        "Alberto Santos Dumont"
+      ]
+    },
+    {
+      "text": "¿Quién creó «anestesia epidural»?",
+      "options": [
+        "Isaac Peral",
+        "Leonardo Torres Quevedo",
+        "Santiago Ramón y Cajal",
+        "Rafael Guastavino",
+        "Domingo Liotta",
+        "Alejandro Goicoechea"
+      ],
+      "answer": [
+        "Fidel Pagés"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «separador costal de cremallera»?",
+      "options": [
+        "Isaac Peral",
+        "Ladislao Biro",
+        "Eduardo Torroja",
+        "Manuel Elkin Patarroyo"
+      ],
+      "answer": [
+        "Enrique Finochietto"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «válvula cardíaca artificial de bajo perfil»?",
+      "options": [
+        "Enrique Finochietto",
+        "Humberto Fernández Morán",
+        "Rafael Guastavino",
+        "Francisco Salvá Campillo",
+        "Juan de la Cierva",
+        "Bartolomé de Medina"
+      ],
+      "answer": [
+        "Domingo Liotta"
+      ]
+    },
+    {
+      "text": "¿Quién creó «amalgamación con mercurio de los minerales»?",
+      "options": [
+        "Enric Bernat",
+        "Emilio Herrera",
+        "Leonardo Torres Quevedo",
+        "Francisco Salvá Campillo",
+        "Ángela Ruiz Robles",
+        "René Favaloro"
+      ],
+      "answer": [
+        "Bartolomé de Medina"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «frontón de lámina delgada»?",
+      "options": [
+        "Marc Birkigt",
+        "Humberto Fernández Morán",
+        "Ramón Verea",
+        "Juanelo Turriano",
+        "Santiago Ramón y Cajal"
+      ],
+      "answer": [
+        "Eduardo Torroja"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «motor de aviación en V de ocho cilindros»?",
+      "options": [
+        "Juan de la Cierva",
+        "Narcís Monturiol",
+        "Jerónimo de Ayanz",
+        "Rafael Guastavino",
+        "Manuel Jalón"
+      ],
+      "answer": [
+        "Marc Birkigt"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos inventos se debe a Marc Birkigt?",
+      "options": [
+        "planeador Demoiselle",
+        "laringoscopio",
+        "aire acondicionado para el aire viciado de las minas",
+        "corazón artificial neumático",
+        "ultramicrotomo de cuchilla de diamante"
+      ],
+      "answer": [
+        "cañón automático de veinte milímetros"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «piruleta con palo»?",
+      "options": [
+        "Eduardo Torroja",
+        "Francisco Salvá Campillo",
+        "Manuel Patricio Rodríguez García",
+        "Santiago Ramón y Cajal",
+        "Isaac Peral"
+      ],
+      "answer": [
+        "Enric Bernat"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «artefacto para subir el agua del Tajo a Toledo»?",
+      "options": [
+        "Santiago Ramón y Cajal",
+        "Ladislao Biro",
+        "Manuel Elkin Patarroyo",
+        "Emilio Herrera",
+        "Narcís Monturiol",
+        "Humberto Fernández Morán"
+      ],
+      "answer": [
+        "Juanelo Turriano"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «síntesis de la noretisterona»?",
+      "options": [
+        "Juanelo Turriano",
+        "Alberto Santos Dumont",
+        "Eduardo Torroja",
+        "Carlos Finlay",
+        "Rafael Guastavino"
+      ],
+      "answer": [
+        "Luis Ernesto Miramontes"
+      ]
+    },
+    {
+      "text": "¿Qué dos aportaciones técnicas son de Enrique Finochietto?",
+      "options": [
+        "método de control del mosquito transmisor",
+        "planeador Demoiselle",
+        "espejo laríngeo para ver las cuerdas vocales",
+        "caramelo esférico ensartado en un palito",
+        "culata de aluminio en un solo bloque"
+      ],
+      "answer": [
+        "mesa quirúrgica de altura regulable",
+        "frontoluz de quirófano"
+      ]
+    },
+    {
+      "text": "¿A qué invento se asocia el nombre de Domingo Liotta?",
+      "options": [
+        "bóveda tabicada de ladrillo",
+        "autómatas de la corte imperial",
+        "artefacto para subir el agua del Tajo a Toledo",
+        "arcos de ladrillo sin cimbra",
+        "libro mecánico con carretes"
+      ],
+      "answer": [
+        "prótesis de válvula para el corazón"
+      ]
+    },
+    {
+      "text": "¿A quién se atribuye «casco doble para navegar sumergido»?",
+      "options": [
+        "Manuel Patricio Rodríguez García",
+        "Juan de la Cierva",
+        "Bartolomé de Medina",
+        "Enrique Finochietto",
+        "Humberto Fernández Morán"
+      ],
+      "answer": [
+        "Narcís Monturiol"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «proyector de imágenes para el libro mecánico»?",
+      "options": [
+        "Juanelo Turriano",
+        "Eduardo Torroja",
+        "Alberto Santos Dumont",
+        "Humberto Fernández Morán"
+      ],
+      "answer": [
+        "Ángela Ruiz Robles"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «máquina de vapor para achicar las minas»?",
+      "options": [
+        "Juan de la Cierva",
+        "Ángela Ruiz Robles",
+        "Humberto Fernández Morán",
+        "Domingo Liotta"
+      ],
+      "answer": [
+        "Jerónimo de Ayanz"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «tren articulado de eje único»?",
+      "options": [
+        "Juan de la Cierva",
+        "Domingo Liotta",
+        "Humberto Fernández Morán",
+        "Francisco Salvá Campillo",
+        "Emilio Herrera"
+      ],
+      "answer": [
+        "Alejandro Goicoechea"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «reloj astronómico de mesa»?",
+      "options": [
+        "Bartolomé de Medina",
+        "Ramón Verea",
+        "Eduardo Torroja",
+        "Humberto Fernández Morán",
+        "Marc Birkigt"
+      ],
+      "answer": [
+        "Juanelo Turriano"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos inventos se deben a Ángela Ruiz Robles?",
+      "options": [
+        "examen de la voz con espejo inclinado",
+        "pluma estilográfica de punta esférica",
+        "jeringuilla desechable de un solo uso",
+        "método de control del mosquito transmisor",
+        "coche de ferrocarril basculante"
+      ],
+      "answer": [
+        "libro mecánico con carretes",
+        "proyector de imágenes para el libro mecánico"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «libro mecánico con carretes»?",
+      "options": [
+        "Rafael Guastavino",
+        "Ladislao Biro",
+        "Narcís Monturiol",
+        "René Favaloro",
+        "Juan de la Cierva",
+        "Juanelo Turriano"
+      ],
+      "answer": [
+        "Ángela Ruiz Robles"
+      ]
+    },
+    {
+      "text": "¿A quién se debe «sistema de rodadura Talgo»?",
+      "options": [
+        "Emilio Herrera",
+        "Eduardo Torroja",
+        "Rafael Guastavino",
+        "Narcís Monturiol",
+        "Jerónimo de Ayanz"
+      ],
+      "answer": [
+        "Alejandro Goicoechea"
+      ]
+    },
+    {
+      "text": "¿De quién es la invención de «corazón artificial neumático»?",
+      "options": [
+        "Francisco Salvá Campillo",
+        "Manuel Elkin Patarroyo",
+        "Santiago Ramón y Cajal",
+        "Enrique Finochietto"
+      ],
+      "answer": [
+        "Domingo Liotta"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «autogiro»?",
+      "options": [
+        "René Favaloro",
+        "Francisco Salvá Campillo",
+        "Juanelo Turriano",
+        "Humberto Fernández Morán",
+        "Manuel Jalón",
+        "Eduardo Torroja"
+      ],
+      "answer": [
+        "Juan de la Cierva"
+      ]
+    },
+    {
+      "text": "¿Quién creó «tinta densa de secado instantáneo»?",
+      "options": [
+        "Eduardo Torroja",
+        "Leonardo Torres Quevedo",
+        "Emilio Herrera",
+        "Bartolomé de Medina",
+        "Carlos Finlay",
+        "Marc Birkigt"
+      ],
+      "answer": [
+        "Ladislao Biro"
+      ]
+    },
+    {
+      "text": "¿Quién creó «traje presurizado de gran altitud»?",
+      "options": [
+        "Bartolomé de Medina",
+        "René Favaloro",
+        "Juan de la Cierva",
+        "Santiago Ramón y Cajal",
+        "Leonardo Torres Quevedo"
+      ],
+      "answer": [
+        "Emilio Herrera"
+      ]
+    },
+    {
+      "text": "¿Quién inventó «primer anticonceptivo oral sintético»?",
+      "options": [
+        "Eduardo Torroja",
+        "Ladislao Biro",
+        "Juanelo Turriano",
+        "Ángela Ruiz Robles",
+        "Ramón Verea",
+        "Manuel Patricio Rodríguez García"
+      ],
+      "answer": [
+        "Luis Ernesto Miramontes"
+      ]
+    },
+    {
+      "text": "¿Quién es el inventor de «laringoscopio»?",
+      "options": [
+        "Isaac Peral",
+        "Jerónimo de Ayanz",
+        "Enrique Finochietto",
+        "Santiago Ramón y Cajal",
+        "Ramón Verea",
+        "Enric Bernat"
+      ],
+      "answer": [
+        "Manuel Patricio Rodríguez García"
+      ]
+    }
+  ]
+}

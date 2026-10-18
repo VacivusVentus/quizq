@@ -1,0 +1,1443 @@
+{
+  "theme": "Fêtes et traditions",
+  "questions": [
+    {
+      "text": "Quel élément est traditionnellement associé à Diwali ?",
+      "options": [
+        "les branches de buis",
+        "la capitulation de l’Allemagne",
+        "le brin de muguet",
+        "la galette des rois",
+        "la chasse aux œufs dans le jardin"
+      ],
+      "answer": [
+        "les lampes à huile"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les communions solennelles ?",
+      "options": [
+        "la Chandeleur",
+        "Thanksgiving",
+        "le huit mai",
+        "Hanouka",
+        "l’Épiphanie",
+        "le Carnaval"
+      ],
+      "answer": [
+        "la Pentecôte"
+      ]
+    },
+    {
+      "text": "Qu’est-ce qui se fait pendant la Fête des Lumières ?",
+      "options": [
+        "la bière colorée en vert",
+        "la chasse aux œufs dans le jardin",
+        "le défilé militaire",
+        "les vœux échangés à minuit",
+        "la bûche au chocolat"
+      ],
+      "answer": [
+        "les projections lumineuses sur les façades"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans le vin primeur ?",
+      "options": [
+        "Thanksgiving",
+        "la Fête de la Musique",
+        "Pâques",
+        "Hanouka",
+        "la fête nationale"
+      ],
+      "answer": [
+        "le Beaujolais nouveau"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les déguisements ?",
+      "options": [
+        "la Fête des Lumières",
+        "le dimanche des Rameaux",
+        "la Fête des Pères",
+        "le Beaujolais nouveau",
+        "l’Armistice",
+        "le huit mai"
+      ],
+      "answer": [
+        "le Carnaval"
+      ]
+    },
+    {
+      "text": "les échanges de douceurs : pour quelle fête est-ce typique ?",
+      "options": [
+        "le dimanche des Rameaux",
+        "l’Épiphanie",
+        "Halloween",
+        "la Fête de la Musique"
+      ],
+      "answer": [
+        "Diwali"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant la bûche au chocolat ?",
+      "options": [
+        "Diwali",
+        "l’Ascension",
+        "l’Oktoberfest",
+        "la Chandeleur",
+        "la Fête des Pères"
+      ],
+      "answer": [
+        "Noël"
+      ]
+    },
+    {
+      "text": "le compte à rebours : pour quelle fête est-ce typique ?",
+      "options": [
+        "le Nouvel An chinois",
+        "l’Épiphanie",
+        "le huit mai",
+        "l’Assomption",
+        "l’Ascension"
+      ],
+      "answer": [
+        "le Nouvel An"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour les fanfares bavaroises ?",
+      "options": [
+        "le premier Mai",
+        "la fête nationale",
+        "la Fête des Pères",
+        "la Toussaint",
+        "le Nouvel An",
+        "Pâques"
+      ],
+      "answer": [
+        "l’Oktoberfest"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour le quinze août ?",
+      "options": [
+        "le Nouvel An chinois",
+        "Halloween",
+        "la Fête des Mères",
+        "la Chandeleur",
+        "la Saint-Valentin",
+        "l’Oktoberfest"
+      ],
+      "answer": [
+        "l’Assomption"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour les confettis ?",
+      "options": [
+        "le dimanche des Rameaux",
+        "le huit mai",
+        "la Pentecôte",
+        "la Saint-Patrick",
+        "la Saint-Jean"
+      ],
+      "answer": [
+        "le Carnaval"
+      ]
+    },
+    {
+      "text": "Choisissez deux coutumes que l’on retrouve pendant le premier Mai.",
+      "options": [
+        "le réveillon en famille",
+        "les guirlandes lumineuses",
+        "le solstice d’été",
+        "la cravate offerte"
+      ],
+      "answer": [
+        "le brin de muguet",
+        "la fête du Travail"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour la nuit du vingt et un juin ?",
+      "options": [
+        "la Fête des Pères",
+        "l’Aïd el-Fitr",
+        "le Nouvel An chinois",
+        "l’Oktoberfest",
+        "Hanouka",
+        "Pâques"
+      ],
+      "answer": [
+        "la Fête de la Musique"
+      ]
+    },
+    {
+      "text": "le réveillon en famille : pour quelle fête est-ce typique ?",
+      "options": [
+        "la Fête des Lumières",
+        "Pâques",
+        "Diwali",
+        "l’Épiphanie",
+        "la Chandeleur"
+      ],
+      "answer": [
+        "Noël"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les pâtisseries au miel ?",
+      "options": [
+        "l’Ascension",
+        "la Toussaint",
+        "Pâques",
+        "Thanksgiving"
+      ],
+      "answer": [
+        "l’Aïd el-Fitr"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les habits neufs ?",
+      "options": [
+        "la Saint-Patrick",
+        "l’Épiphanie",
+        "Thanksgiving",
+        "la Fête des Mères",
+        "le dimanche des Rameaux"
+      ],
+      "answer": [
+        "l’Aïd el-Fitr"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les cartes anonymes ?",
+      "options": [
+        "la fête nationale",
+        "Diwali",
+        "la Chandeleur",
+        "Thanksgiving",
+        "Pâques"
+      ],
+      "answer": [
+        "la Saint-Valentin"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les drapeaux aux fenêtres ?",
+      "options": [
+        "le Nouvel An",
+        "la Fête des Pères",
+        "le premier Mai",
+        "la fête nationale"
+      ],
+      "answer": [
+        "le huit mai"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les enveloppes rouges ?",
+      "options": [
+        "le Nouvel An",
+        "Hanouka",
+        "la fête nationale",
+        "le Beaujolais nouveau"
+      ],
+      "answer": [
+        "le Nouvel An chinois"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans la tarte à la citrouille ?",
+      "options": [
+        "l’Oktoberfest",
+        "Pâques",
+        "la Fête des Lumières",
+        "Halloween",
+        "le Carnaval"
+      ],
+      "answer": [
+        "Thanksgiving"
+      ]
+    },
+    {
+      "text": "le recueillement familial : pour quelle fête est-ce typique ?",
+      "options": [
+        "la Saint-Jean",
+        "Thanksgiving",
+        "le premier Mai",
+        "l’Armistice",
+        "la Fête des Mères"
+      ],
+      "answer": [
+        "la Toussaint"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour les maisons décorées de fantômes ?",
+      "options": [
+        "la Chandeleur",
+        "l’Épiphanie",
+        "le Carnaval",
+        "Hanouka",
+        "Thanksgiving",
+        "la fête nationale"
+      ],
+      "answer": [
+        "Halloween"
+      ]
+    },
+    {
+      "text": "Qu’est-ce qui se fait pendant Pâques ?",
+      "options": [
+        "les cadeaux faits main",
+        "le recueillement familial",
+        "les manifestations syndicales",
+        "les communions solennelles",
+        "les lampes à huile",
+        "les habits neufs"
+      ],
+      "answer": [
+        "les cloches revenues de Rome"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour les dîners en amoureux ?",
+      "options": [
+        "Hanouka",
+        "le Beaujolais nouveau",
+        "la Pentecôte",
+        "l’Ascension",
+        "la Toussaint",
+        "Noël"
+      ],
+      "answer": [
+        "la Saint-Valentin"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant la fève cachée ?",
+      "options": [
+        "le premier Mai",
+        "l’Armistice",
+        "Halloween",
+        "la Chandeleur",
+        "la Saint-Jean",
+        "Pâques"
+      ],
+      "answer": [
+        "l’Épiphanie"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les chopes de bière ?",
+      "options": [
+        "Thanksgiving",
+        "la Saint-Valentin",
+        "l’Épiphanie",
+        "l’Ascension",
+        "Pâques"
+      ],
+      "answer": [
+        "l’Oktoberfest"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à la cravate offerte ?",
+      "options": [
+        "Diwali",
+        "la Fête des Mères",
+        "la Saint-Valentin",
+        "la Saint-Patrick",
+        "Hanouka",
+        "la Toussaint"
+      ],
+      "answer": [
+        "la Fête des Pères"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les concerts gratuits ?",
+      "options": [
+        "la Saint-Jean",
+        "Diwali",
+        "la Saint-Patrick",
+        "l’Assomption",
+        "la Pentecôte"
+      ],
+      "answer": [
+        "la Fête de la Musique"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour les chandelles allumées ?",
+      "options": [
+        "la Saint-Valentin",
+        "la Toussaint",
+        "la Saint-Patrick",
+        "le huit mai",
+        "Halloween"
+      ],
+      "answer": [
+        "la Chandeleur"
+      ]
+    },
+    {
+      "text": "Quels deux éléments accompagnent le Carnaval ?",
+      "options": [
+        "la prière du matin à la mosquée",
+        "le troisième jeudi de novembre",
+        "le brin de muguet",
+        "le solstice d’été",
+        "le feu d’artifice"
+      ],
+      "answer": [
+        "les confettis",
+        "les déguisements"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les vœux échangés à minuit ?",
+      "options": [
+        "la Saint-Patrick",
+        "le huit mai",
+        "la Saint-Jean",
+        "l’Épiphanie",
+        "le Carnaval"
+      ],
+      "answer": [
+        "le Nouvel An"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à le jeudi férié ?",
+      "options": [
+        "Noël",
+        "l’Assomption",
+        "Halloween",
+        "la Saint-Patrick",
+        "le Nouvel An chinois",
+        "le premier Mai"
+      ],
+      "answer": [
+        "l’Ascension"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans le chandelier à neuf branches ?",
+      "options": [
+        "le premier Mai",
+        "la Saint-Valentin",
+        "le Carnaval",
+        "la Toussaint"
+      ],
+      "answer": [
+        "Hanouka"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les chars fleuris ?",
+      "options": [
+        "l’Aïd el-Fitr",
+        "la Chandeleur",
+        "Hanouka",
+        "la Fête des Pères"
+      ],
+      "answer": [
+        "le Carnaval"
+      ]
+    },
+    {
+      "text": "Choisissez deux coutumes que l’on retrouve pendant l’Oktoberfest.",
+      "options": [
+        "les échanges de douceurs",
+        "les drapeaux aux fenêtres",
+        "les cartes anonymes",
+        "les fenêtres illuminées"
+      ],
+      "answer": [
+        "les bretzels",
+        "les chopes de bière"
+      ]
+    },
+    {
+      "text": "Quelle tradition accompagne l’Armistice ?",
+      "options": [
+        "les lanternes suspendues",
+        "les cloches revenues de Rome",
+        "le défilé militaire",
+        "l’entrée de Jésus à Jérusalem",
+        "les ponts de mai"
+      ],
+      "answer": [
+        "la sonnerie aux morts"
+      ]
+    },
+    {
+      "text": "le huit décembre : pour quelle fête est-ce typique ?",
+      "options": [
+        "Hanouka",
+        "Thanksgiving",
+        "le Carnaval",
+        "le huit mai"
+      ],
+      "answer": [
+        "la Fête des Lumières"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec la galette des rois ?",
+      "options": [
+        "le dimanche des Rameaux",
+        "l’Aïd el-Fitr",
+        "le premier Mai",
+        "le huit mai",
+        "l’Oktoberfest"
+      ],
+      "answer": [
+        "l’Épiphanie"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à le défilé militaire ?",
+      "options": [
+        "la Toussaint",
+        "la Pentecôte",
+        "l’Aïd el-Fitr",
+        "Hanouka",
+        "Halloween"
+      ],
+      "answer": [
+        "la fête nationale"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les rangolis de bienvenue ?",
+      "options": [
+        "la Chandeleur",
+        "la Fête des Mères",
+        "la Fête de la Musique",
+        "la Saint-Jean",
+        "la fête nationale",
+        "l’Oktoberfest"
+      ],
+      "answer": [
+        "Diwali"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les processions de la Vierge ?",
+      "options": [
+        "Hanouka",
+        "la Saint-Jean",
+        "la Saint-Valentin",
+        "l’Oktoberfest"
+      ],
+      "answer": [
+        "l’Assomption"
+      ]
+    },
+    {
+      "text": "Quels deux éléments accompagnent l’Épiphanie ?",
+      "options": [
+        "le troisième dimanche de juin",
+        "le défilé militaire",
+        "les feux de joie",
+        "le solstice d’été",
+        "les poèmes récités à l’école"
+      ],
+      "answer": [
+        "la fève cachée",
+        "la galette des rois"
+      ]
+    },
+    {
+      "text": "le solstice d’été : pour quelle fête est-ce typique ?",
+      "options": [
+        "Pâques",
+        "le Carnaval",
+        "l’Oktoberfest",
+        "Diwali"
+      ],
+      "answer": [
+        "la Saint-Jean"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant le bleuet à la boutonnière ?",
+      "options": [
+        "le Nouvel An",
+        "l’Ascension",
+        "la fête nationale",
+        "Pâques",
+        "la Fête des Pères",
+        "le Nouvel An chinois"
+      ],
+      "answer": [
+        "l’Armistice"
+      ]
+    },
+    {
+      "text": "Quelle coutume marque la Fête des Pères ?",
+      "options": [
+        "la nuit du vingt et un juin",
+        "le défilé militaire",
+        "le feu d’artifice",
+        "les cotillons"
+      ],
+      "answer": [
+        "les outils en cadeau"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les guirlandes lumineuses ?",
+      "options": [
+        "la fête nationale",
+        "Diwali",
+        "l’Assomption",
+        "Pâques",
+        "Hanouka",
+        "la Toussaint"
+      ],
+      "answer": [
+        "Noël"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec la colombe descendue du ciel ?",
+      "options": [
+        "Hanouka",
+        "le premier Mai",
+        "Pâques",
+        "la Fête des Lumières",
+        "le Carnaval"
+      ],
+      "answer": [
+        "la Pentecôte"
+      ]
+    },
+    {
+      "text": "Quelles deux traditions marquent l’Ascension ?",
+      "options": [
+        "le sapin décoré",
+        "les groupes amateurs dans la rue",
+        "les bretzels",
+        "le huit décembre",
+        "les danses du lion"
+      ],
+      "answer": [
+        "le jeudi férié",
+        "les ponts de mai"
+      ]
+    },
+    {
+      "text": "Qu’est-ce qui caractérise la fête nationale ?",
+      "options": [
+        "les communions solennelles",
+        "les déguisements",
+        "le quinze août",
+        "les vœux échangés à minuit",
+        "le huit décembre"
+      ],
+      "answer": [
+        "le feu d’artifice"
+      ]
+    },
+    {
+      "text": "Quelle tradition accompagne l’Assomption ?",
+      "options": [
+        "les cartes anonymes",
+        "le vin primeur",
+        "les branches de buis",
+        "le réveillon en famille",
+        "les bouteilles dégustées au bistrot"
+      ],
+      "answer": [
+        "les processions de la Vierge"
+      ]
+    },
+    {
+      "text": "le dernier dimanche de mai : pour quelle fête est-ce typique ?",
+      "options": [
+        "la Fête des Pères",
+        "l’Ascension",
+        "le dimanche des Rameaux",
+        "Noël",
+        "la Chandeleur"
+      ],
+      "answer": [
+        "la Fête des Mères"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les cotillons ?",
+      "options": [
+        "la Fête des Lumières",
+        "Thanksgiving",
+        "la Pentecôte",
+        "la Fête des Mères"
+      ],
+      "answer": [
+        "le Nouvel An"
+      ]
+    },
+    {
+      "text": "Quelle coutume marque le Beaujolais nouveau ?",
+      "options": [
+        "les lampes à huile",
+        "les dîners en amoureux",
+        "la fève cachée",
+        "les échanges de douceurs",
+        "le quinze août",
+        "les enveloppes rouges"
+      ],
+      "answer": [
+        "le vin primeur"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les feux de joie ?",
+      "options": [
+        "la Fête de la Musique",
+        "la Pentecôte",
+        "Thanksgiving",
+        "Noël",
+        "le premier Mai"
+      ],
+      "answer": [
+        "la Saint-Jean"
+      ]
+    },
+    {
+      "text": "Quelle coutume retrouve-t-on pendant le Nouvel An chinois ?",
+      "options": [
+        "les poèmes récités à l’école",
+        "les projections lumineuses sur les façades",
+        "le troisième dimanche de juin",
+        "les crêpes",
+        "les confettis"
+      ],
+      "answer": [
+        "les enveloppes rouges"
+      ]
+    },
+    {
+      "text": "l’entrée de Jésus à Jérusalem : pour quelle fête est-ce typique ?",
+      "options": [
+        "la fête nationale",
+        "la Fête des Pères",
+        "Pâques",
+        "Halloween",
+        "l’Assomption"
+      ],
+      "answer": [
+        "le dimanche des Rameaux"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les branches de buis ?",
+      "options": [
+        "la Chandeleur",
+        "la Saint-Valentin",
+        "le premier Mai",
+        "le huit mai",
+        "le Nouvel An"
+      ],
+      "answer": [
+        "le dimanche des Rameaux"
+      ]
+    },
+    {
+      "text": "Quelle coutume retrouve-t-on pendant la Saint-Jean ?",
+      "options": [
+        "les maisons décorées de fantômes",
+        "la bière colorée en vert",
+        "les roses rouges",
+        "les outils en cadeau",
+        "la colombe descendue du ciel",
+        "les concerts gratuits"
+      ],
+      "answer": [
+        "les feux de joie"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les roses rouges ?",
+      "options": [
+        "la Fête des Mères",
+        "Noël",
+        "Diwali",
+        "le Carnaval",
+        "l’Assomption"
+      ],
+      "answer": [
+        "la Saint-Valentin"
+      ]
+    },
+    {
+      "text": "Quelle coutume retrouve-t-on pendant Thanksgiving ?",
+      "options": [
+        "les défilés en vert",
+        "la fête du Travail",
+        "le feu d’artifice",
+        "les manifestations syndicales"
+      ],
+      "answer": [
+        "la tarte à la citrouille"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les lampes à huile ?",
+      "options": [
+        "Pâques",
+        "l’Assomption",
+        "le Nouvel An",
+        "l’Oktoberfest",
+        "l’Épiphanie"
+      ],
+      "answer": [
+        "Diwali"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les ponts de mai ?",
+      "options": [
+        "la Saint-Patrick",
+        "Hanouka",
+        "le dimanche des Rameaux",
+        "Noël"
+      ],
+      "answer": [
+        "l’Ascension"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les cérémonies du souvenir ?",
+      "options": [
+        "l’Ascension",
+        "la Fête des Mères",
+        "l’Épiphanie",
+        "la Chandeleur",
+        "l’Aïd el-Fitr",
+        "le Beaujolais nouveau"
+      ],
+      "answer": [
+        "le huit mai"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les danses autour du bûcher ?",
+      "options": [
+        "Thanksgiving",
+        "la Fête des Mères",
+        "l’Armistice",
+        "la Toussaint",
+        "le Nouvel An chinois",
+        "le Carnaval"
+      ],
+      "answer": [
+        "la Saint-Jean"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à la dinde rôtie ?",
+      "options": [
+        "la Toussaint",
+        "la Pentecôte",
+        "l’Armistice",
+        "Noël",
+        "Pâques"
+      ],
+      "answer": [
+        "Thanksgiving"
+      ]
+    },
+    {
+      "text": "Qu’est-ce qui caractérise la Toussaint ?",
+      "options": [
+        "les danses autour du bûcher",
+        "les projections lumineuses sur les façades",
+        "les vœux échangés à minuit",
+        "les poèmes récités à l’école",
+        "les bretzels"
+      ],
+      "answer": [
+        "les cimetières fleuris"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour la capitulation de l’Allemagne ?",
+      "options": [
+        "la Pentecôte",
+        "la Saint-Jean",
+        "Noël",
+        "le Carnaval",
+        "Thanksgiving"
+      ],
+      "answer": [
+        "le huit mai"
+      ]
+    },
+    {
+      "text": "Deux de ces éléments marquent la Fête de la Musique : lesquels ?",
+      "options": [
+        "les communions solennelles",
+        "la capitulation de l’Allemagne",
+        "les déguisements",
+        "les branches de buis",
+        "le feu d’artifice",
+        "les danses autour du bûcher"
+      ],
+      "answer": [
+        "les concerts gratuits",
+        "la nuit du vingt et un juin"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les poèmes récités à l’école ?",
+      "options": [
+        "Noël",
+        "le huit mai",
+        "le Beaujolais nouveau",
+        "le premier Mai",
+        "Pâques"
+      ],
+      "answer": [
+        "la Fête des Mères"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les fenêtres illuminées ?",
+      "options": [
+        "la Fête de la Musique",
+        "le dimanche des Rameaux",
+        "le Nouvel An chinois",
+        "la Saint-Valentin",
+        "le Carnaval",
+        "l’Aïd el-Fitr"
+      ],
+      "answer": [
+        "la Fête des Lumières"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les groupes amateurs dans la rue ?",
+      "options": [
+        "la Toussaint",
+        "la Chandeleur",
+        "Hanouka",
+        "la Saint-Jean",
+        "l’Épiphanie"
+      ],
+      "answer": [
+        "la Fête de la Musique"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les cadeaux faits main ?",
+      "options": [
+        "l’Armistice",
+        "la Saint-Jean",
+        "le Beaujolais nouveau",
+        "le huit mai"
+      ],
+      "answer": [
+        "la Fête des Mères"
+      ]
+    },
+    {
+      "text": "Quelle coutume marque Halloween ?",
+      "options": [
+        "les dîners en amoureux",
+        "la prière du matin à la mosquée",
+        "le compte à rebours",
+        "les groupes amateurs dans la rue",
+        "le sapin décoré"
+      ],
+      "answer": [
+        "les bonbons réclamés de porte en porte"
+      ]
+    },
+    {
+      "text": "Quelles deux traditions marquent la Saint-Valentin ?",
+      "options": [
+        "le bleuet à la boutonnière",
+        "le sapin décoré",
+        "le chandelier à neuf branches",
+        "le compte à rebours",
+        "les fanfares bavaroises"
+      ],
+      "answer": [
+        "les roses rouges",
+        "les cartes anonymes"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les bretzels ?",
+      "options": [
+        "la Toussaint",
+        "le Beaujolais nouveau",
+        "la Saint-Valentin",
+        "la Fête de la Musique",
+        "l’Épiphanie"
+      ],
+      "answer": [
+        "l’Oktoberfest"
+      ]
+    },
+    {
+      "text": "la sonnerie aux morts : pour quelle fête est-ce typique ?",
+      "options": [
+        "Thanksgiving",
+        "la Pentecôte",
+        "la Saint-Valentin",
+        "le Beaujolais nouveau"
+      ],
+      "answer": [
+        "l’Armistice"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les crêpes ?",
+      "options": [
+        "le Nouvel An",
+        "l’Épiphanie",
+        "la Toussaint",
+        "le premier Mai"
+      ],
+      "answer": [
+        "la Chandeleur"
+      ]
+    },
+    {
+      "text": "Quelle coutume retrouve-t-on pendant Noël ?",
+      "options": [
+        "les poèmes récités à l’école",
+        "les feux de joie",
+        "les chopes de bière",
+        "les cérémonies du souvenir"
+      ],
+      "answer": [
+        "la bûche au chocolat"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les outils en cadeau ?",
+      "options": [
+        "Thanksgiving",
+        "la Saint-Jean",
+        "Pâques",
+        "le premier Mai"
+      ],
+      "answer": [
+        "la Fête des Pères"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les manifestations syndicales ?",
+      "options": [
+        "l’Armistice",
+        "l’Assomption",
+        "le Nouvel An chinois",
+        "Noël"
+      ],
+      "answer": [
+        "le premier Mai"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les œufs en chocolat ?",
+      "options": [
+        "le Nouvel An",
+        "le huit mai",
+        "la Pentecôte",
+        "le Nouvel An chinois",
+        "l’Oktoberfest"
+      ],
+      "answer": [
+        "Pâques"
+      ]
+    },
+    {
+      "text": "Quelle tradition accompagne la Chandeleur ?",
+      "options": [
+        "les rangolis de bienvenue",
+        "la chasse aux œufs dans le jardin",
+        "le chandelier à neuf branches",
+        "le feu d’artifice"
+      ],
+      "answer": [
+        "les chandelles allumées"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les bonbons réclamés de porte en porte ?",
+      "options": [
+        "la Saint-Valentin",
+        "la fête nationale",
+        "l’Oktoberfest",
+        "la Saint-Patrick",
+        "la Fête de la Musique"
+      ],
+      "answer": [
+        "Halloween"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les cimetières fleuris ?",
+      "options": [
+        "Thanksgiving",
+        "le premier Mai",
+        "l’Armistice",
+        "Halloween",
+        "Hanouka"
+      ],
+      "answer": [
+        "la Toussaint"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour le troisième dimanche de juin ?",
+      "options": [
+        "le dimanche des Rameaux",
+        "la Chandeleur",
+        "la Saint-Jean",
+        "la Toussaint",
+        "la Pentecôte"
+      ],
+      "answer": [
+        "la Fête des Pères"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les chrysanthèmes ?",
+      "options": [
+        "la Saint-Jean",
+        "Hanouka",
+        "le huit mai",
+        "la Saint-Valentin"
+      ],
+      "answer": [
+        "la Toussaint"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à la toupie ?",
+      "options": [
+        "l’Aïd el-Fitr",
+        "la Fête des Lumières",
+        "Pâques",
+        "la Fête des Pères",
+        "le dimanche des Rameaux",
+        "l’Épiphanie"
+      ],
+      "answer": [
+        "Hanouka"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour les huit soirs de lumière ?",
+      "options": [
+        "la Saint-Valentin",
+        "le Beaujolais nouveau",
+        "l’Aïd el-Fitr",
+        "le dimanche des Rameaux",
+        "le huit mai"
+      ],
+      "answer": [
+        "Hanouka"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour la chasse aux œufs dans le jardin ?",
+      "options": [
+        "Diwali",
+        "la Fête de la Musique",
+        "la Saint-Jean",
+        "l’Oktoberfest",
+        "la Saint-Patrick",
+        "Halloween"
+      ],
+      "answer": [
+        "Pâques"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec le sapin décoré ?",
+      "options": [
+        "le Beaujolais nouveau",
+        "Halloween",
+        "l’Oktoberfest",
+        "la Toussaint"
+      ],
+      "answer": [
+        "Noël"
+      ]
+    },
+    {
+      "text": "Deux de ces éléments marquent la Saint-Patrick : lesquels ?",
+      "options": [
+        "le chandelier à neuf branches",
+        "le dernier dimanche de mai",
+        "les fanfares bavaroises",
+        "la sonnerie aux morts",
+        "les lanternes suspendues",
+        "les groupes amateurs dans la rue"
+      ],
+      "answer": [
+        "la bière colorée en vert",
+        "les trèfles"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les bouteilles dégustées au bistrot ?",
+      "options": [
+        "Hanouka",
+        "Diwali",
+        "le huit mai",
+        "la Toussaint",
+        "la fête nationale"
+      ],
+      "answer": [
+        "le Beaujolais nouveau"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les défilés en vert ?",
+      "options": [
+        "Pâques",
+        "la Chandeleur",
+        "le premier Mai",
+        "la Saint-Valentin",
+        "la Toussaint",
+        "Diwali"
+      ],
+      "answer": [
+        "la Saint-Patrick"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans le feu d’artifice ?",
+      "options": [
+        "l’Ascension",
+        "Noël",
+        "le premier Mai",
+        "le Beaujolais nouveau",
+        "Halloween"
+      ],
+      "answer": [
+        "la fête nationale"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les projections lumineuses sur les façades ?",
+      "options": [
+        "Noël",
+        "l’Épiphanie",
+        "le Beaujolais nouveau",
+        "le Carnaval",
+        "Pâques"
+      ],
+      "answer": [
+        "la Fête des Lumières"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec les trèfles ?",
+      "options": [
+        "la Fête de la Musique",
+        "la Fête des Pères",
+        "Noël",
+        "le huit mai",
+        "Diwali"
+      ],
+      "answer": [
+        "la Saint-Patrick"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour les langues de feu ?",
+      "options": [
+        "le dimanche des Rameaux",
+        "Hanouka",
+        "la Fête de la Musique",
+        "l’Épiphanie",
+        "le Nouvel An chinois"
+      ],
+      "answer": [
+        "la Pentecôte"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour la fête du Travail ?",
+      "options": [
+        "la Toussaint",
+        "Noël",
+        "l’Oktoberfest",
+        "Diwali",
+        "le Nouvel An chinois"
+      ],
+      "answer": [
+        "le premier Mai"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour le bal des pompiers ?",
+      "options": [
+        "la Saint-Patrick",
+        "Hanouka",
+        "le premier Mai",
+        "l’Épiphanie",
+        "la Toussaint",
+        "la Fête des Lumières"
+      ],
+      "answer": [
+        "la fête nationale"
+      ]
+    },
+    {
+      "text": "Quelle fête met en avant les danses du lion ?",
+      "options": [
+        "la Toussaint",
+        "Diwali",
+        "la Fête des Pères",
+        "la Fête des Lumières",
+        "l’Oktoberfest"
+      ],
+      "answer": [
+        "le Nouvel An chinois"
+      ]
+    },
+    {
+      "text": "la bière colorée en vert : pour quelle fête est-ce typique ?",
+      "options": [
+        "le Nouvel An chinois",
+        "le premier Mai",
+        "l’Armistice",
+        "la Saint-Valentin"
+      ],
+      "answer": [
+        "la Saint-Patrick"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à les citrouilles sculptées ?",
+      "options": [
+        "l’Épiphanie",
+        "le Beaujolais nouveau",
+        "l’Armistice",
+        "le premier Mai",
+        "le Nouvel An chinois"
+      ],
+      "answer": [
+        "Halloween"
+      ]
+    },
+    {
+      "text": "Quelle fête est connue pour le repas d’action de grâces ?",
+      "options": [
+        "le Beaujolais nouveau",
+        "la fête nationale",
+        "Diwali",
+        "la Fête de la Musique",
+        "Noël",
+        "la Fête des Pères"
+      ],
+      "answer": [
+        "Thanksgiving"
+      ]
+    },
+    {
+      "text": "Quelle fête ne va pas sans les cloches revenues de Rome ?",
+      "options": [
+        "Diwali",
+        "le dimanche des Rameaux",
+        "Thanksgiving",
+        "la Fête de la Musique",
+        "la Fête des Lumières"
+      ],
+      "answer": [
+        "Pâques"
+      ]
+    },
+    {
+      "text": "les lanternes suspendues : pour quelle fête est-ce typique ?",
+      "options": [
+        "l’Armistice",
+        "la fête nationale",
+        "le Carnaval",
+        "la Saint-Patrick",
+        "le Nouvel An"
+      ],
+      "answer": [
+        "le Nouvel An chinois"
+      ]
+    },
+    {
+      "text": "Quelle fête célèbre-t-on avec le onze novembre ?",
+      "options": [
+        "Noël",
+        "le Nouvel An chinois",
+        "Pâques",
+        "Diwali",
+        "le Beaujolais nouveau"
+      ],
+      "answer": [
+        "l’Armistice"
+      ]
+    },
+    {
+      "text": "la couronne en papier : pour quelle fête est-ce typique ?",
+      "options": [
+        "le Nouvel An",
+        "l’Assomption",
+        "le huit mai",
+        "la fête nationale"
+      ],
+      "answer": [
+        "l’Épiphanie"
+      ]
+    },
+    {
+      "text": "le troisième jeudi de novembre : pour quelle fête est-ce typique ?",
+      "options": [
+        "la Saint-Jean",
+        "Diwali",
+        "le huit mai",
+        "Noël"
+      ],
+      "answer": [
+        "le Beaujolais nouveau"
+      ]
+    },
+    {
+      "text": "la prière du matin à la mosquée : pour quelle fête est-ce typique ?",
+      "options": [
+        "la Fête des Mères",
+        "la Fête des Pères",
+        "Thanksgiving",
+        "la Saint-Jean",
+        "la Fête de la Musique"
+      ],
+      "answer": [
+        "l’Aïd el-Fitr"
+      ]
+    },
+    {
+      "text": "Quelle fête reconnaît-on à le brin de muguet ?",
+      "options": [
+        "la Fête des Lumières",
+        "le Beaujolais nouveau",
+        "Halloween",
+        "le Carnaval",
+        "Diwali",
+        "Noël"
+      ],
+      "answer": [
+        "le premier Mai"
+      ]
+    }
+  ]
+}

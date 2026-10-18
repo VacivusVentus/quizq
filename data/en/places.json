@@ -1,0 +1,1669 @@
+{
+  "theme": "Countries and Cities",
+  "questions": [
+    {
+      "text": "Which country is Nagoya located in?",
+      "options": [
+        "Belgium",
+        "Austria",
+        "Brazil",
+        "Netherlands"
+      ],
+      "answer": [
+        "Japan"
+      ]
+    },
+    {
+      "text": "Which country is the city of Wroclaw in?",
+      "options": [
+        "Denmark",
+        "Argentina",
+        "China",
+        "Ireland"
+      ],
+      "answer": [
+        "Poland"
+      ]
+    },
+    {
+      "text": "Which country is the city of Shanghai in?",
+      "options": [
+        "Czechia",
+        "South Korea",
+        "Turkey",
+        "Norway",
+        "Switzerland"
+      ],
+      "answer": [
+        "China"
+      ]
+    },
+    {
+      "text": "To which country does the city of Melbourne belong?",
+      "options": [
+        "Argentina",
+        "Norway",
+        "Sweden",
+        "South Korea",
+        "Greece"
+      ],
+      "answer": [
+        "Australia"
+      ]
+    },
+    {
+      "text": "Puebla is a city in which country?",
+      "options": [
+        "Norway",
+        "United States",
+        "United Kingdom",
+        "Turkey",
+        "India",
+        "Austria"
+      ],
+      "answer": [
+        "Mexico"
+      ]
+    },
+    {
+      "text": "Which country is Mumbai located in?",
+      "options": [
+        "Mexico",
+        "Australia",
+        "Portugal",
+        "Finland",
+        "United States"
+      ],
+      "answer": [
+        "India"
+      ]
+    },
+    {
+      "text": "Naples is a city in which country?",
+      "options": [
+        "Brazil",
+        "Australia",
+        "Spain",
+        "Portugal",
+        "Hungary",
+        "India"
+      ],
+      "answer": [
+        "Italy"
+      ]
+    },
+    {
+      "text": "In which country is The Hague located?",
+      "options": [
+        "Ireland",
+        "Mexico",
+        "Morocco",
+        "France",
+        "China",
+        "Japan"
+      ],
+      "answer": [
+        "Netherlands"
+      ]
+    },
+    {
+      "text": "In which country is Odense located?",
+      "options": [
+        "United States",
+        "Belgium",
+        "Austria",
+        "Hungary",
+        "United Kingdom",
+        "China"
+      ],
+      "answer": [
+        "Denmark"
+      ]
+    },
+    {
+      "text": "To which country does the city of Pecs belong?",
+      "options": [
+        "Czechia",
+        "China",
+        "Poland",
+        "Switzerland"
+      ],
+      "answer": [
+        "Hungary"
+      ]
+    },
+    {
+      "text": "In which country is Incheon located?",
+      "options": [
+        "Poland",
+        "Mexico",
+        "Egypt",
+        "United Kingdom",
+        "Denmark",
+        "Canada"
+      ],
+      "answer": [
+        "South Korea"
+      ]
+    },
+    {
+      "text": "In which country is Madrid located?",
+      "options": [
+        "Norway",
+        "Morocco",
+        "Sweden",
+        "South Korea",
+        "Australia"
+      ],
+      "answer": [
+        "Spain"
+      ]
+    },
+    {
+      "text": "To which country does the city of Istanbul belong?",
+      "options": [
+        "South Korea",
+        "Australia",
+        "Poland",
+        "Germany",
+        "Canada"
+      ],
+      "answer": [
+        "Turkey"
+      ]
+    },
+    {
+      "text": "To which country does the city of Aswan belong?",
+      "options": [
+        "Japan",
+        "Switzerland",
+        "Czechia",
+        "Finland"
+      ],
+      "answer": [
+        "Egypt"
+      ]
+    },
+    {
+      "text": "In which country is Oslo located?",
+      "options": [
+        "Ireland",
+        "China",
+        "Morocco",
+        "Denmark",
+        "Greece"
+      ],
+      "answer": [
+        "Norway"
+      ]
+    },
+    {
+      "text": "In which country is Kyoto located?",
+      "options": [
+        "Morocco",
+        "Norway",
+        "Germany",
+        "Poland",
+        "Belgium",
+        "India"
+      ],
+      "answer": [
+        "Japan"
+      ]
+    },
+    {
+      "text": "Which country is the city of Cologne in?",
+      "options": [
+        "Portugal",
+        "Italy",
+        "Brazil",
+        "Argentina"
+      ],
+      "answer": [
+        "Germany"
+      ]
+    },
+    {
+      "text": "Which country is the city of Debrecen in?",
+      "options": [
+        "Brazil",
+        "Canada",
+        "Denmark",
+        "Netherlands",
+        "South Korea"
+      ],
+      "answer": [
+        "Hungary"
+      ]
+    },
+    {
+      "text": "In which country is Innsbruck located?",
+      "options": [
+        "South Korea",
+        "Netherlands",
+        "Greece",
+        "India",
+        "Belgium",
+        "France"
+      ],
+      "answer": [
+        "Austria"
+      ]
+    },
+    {
+      "text": "Which country is Rosario located in?",
+      "options": [
+        "France",
+        "Norway",
+        "Czechia",
+        "Japan",
+        "Canada"
+      ],
+      "answer": [
+        "Argentina"
+      ]
+    },
+    {
+      "text": "In which country is Buenos Aires located?",
+      "options": [
+        "Australia",
+        "Denmark",
+        "Sweden",
+        "Egypt",
+        "China"
+      ],
+      "answer": [
+        "Argentina"
+      ]
+    },
+    {
+      "text": "Which country is Krakow located in?",
+      "options": [
+        "Switzerland",
+        "China",
+        "Norway",
+        "Finland",
+        "Brazil"
+      ],
+      "answer": [
+        "Poland"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Brussels?",
+      "options": [
+        "Norway",
+        "Czechia",
+        "Greece",
+        "India",
+        "United Kingdom"
+      ],
+      "answer": [
+        "Belgium"
+      ]
+    },
+    {
+      "text": "Copenhagen is a city in which country?",
+      "options": [
+        "Australia",
+        "Hungary",
+        "United Kingdom",
+        "Netherlands",
+        "Germany"
+      ],
+      "answer": [
+        "Denmark"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of New York?",
+      "options": [
+        "Sweden",
+        "Netherlands",
+        "Czechia",
+        "Norway",
+        "Poland"
+      ],
+      "answer": [
+        "United States"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Seville?",
+      "options": [
+        "Ireland",
+        "Hungary",
+        "Austria",
+        "Norway",
+        "Belgium",
+        "Poland"
+      ],
+      "answer": [
+        "Spain"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Vancouver?",
+      "options": [
+        "Sweden",
+        "France",
+        "Germany",
+        "Denmark",
+        "Norway",
+        "Argentina"
+      ],
+      "answer": [
+        "Canada"
+      ]
+    },
+    {
+      "text": "Malmo is a city in which country?",
+      "options": [
+        "India",
+        "Switzerland",
+        "Belgium",
+        "Austria",
+        "Turkey",
+        "Canada"
+      ],
+      "answer": [
+        "Sweden"
+      ]
+    },
+    {
+      "text": "To which country does the city of Salzburg belong?",
+      "options": [
+        "Denmark",
+        "United Kingdom",
+        "France",
+        "India",
+        "Greece"
+      ],
+      "answer": [
+        "Austria"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Budapest?",
+      "options": [
+        "Argentina",
+        "Switzerland",
+        "Australia",
+        "Finland",
+        "Belgium"
+      ],
+      "answer": [
+        "Hungary"
+      ]
+    },
+    {
+      "text": "Which country is the city of Milan in?",
+      "options": [
+        "India",
+        "Spain",
+        "Austria",
+        "Canada",
+        "Japan"
+      ],
+      "answer": [
+        "Italy"
+      ]
+    },
+    {
+      "text": "Which country is the city of Gothenburg in?",
+      "options": [
+        "Switzerland",
+        "China",
+        "Ireland",
+        "Morocco",
+        "United Kingdom"
+      ],
+      "answer": [
+        "Sweden"
+      ]
+    },
+    {
+      "text": "Which country is Perth located in?",
+      "options": [
+        "Poland",
+        "Ireland",
+        "Portugal",
+        "Canada"
+      ],
+      "answer": [
+        "Australia"
+      ]
+    },
+    {
+      "text": "In which country is Delhi located?",
+      "options": [
+        "Switzerland",
+        "Mexico",
+        "Greece",
+        "Argentina",
+        "Czechia"
+      ],
+      "answer": [
+        "India"
+      ]
+    },
+    {
+      "text": "In which country is Marseille located?",
+      "options": [
+        "Italy",
+        "India",
+        "Greece",
+        "South Korea",
+        "Netherlands",
+        "Mexico"
+      ],
+      "answer": [
+        "France"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Bern?",
+      "options": [
+        "Japan",
+        "Poland",
+        "United Kingdom",
+        "India",
+        "Turkey",
+        "Argentina"
+      ],
+      "answer": [
+        "Switzerland"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Kolkata?",
+      "options": [
+        "Japan",
+        "Netherlands",
+        "Germany",
+        "Czechia",
+        "Argentina",
+        "Turkey"
+      ],
+      "answer": [
+        "India"
+      ]
+    },
+    {
+      "text": "Which country is the city of Heraklion in?",
+      "options": [
+        "Brazil",
+        "Japan",
+        "Italy",
+        "Netherlands"
+      ],
+      "answer": [
+        "Greece"
+      ]
+    },
+    {
+      "text": "Which country is Bergen located in?",
+      "options": [
+        "Australia",
+        "Germany",
+        "Belgium",
+        "Italy",
+        "Sweden"
+      ],
+      "answer": [
+        "Norway"
+      ]
+    },
+    {
+      "text": "To which country does the city of Edinburgh belong?",
+      "options": [
+        "China",
+        "Morocco",
+        "Greece",
+        "Germany"
+      ],
+      "answer": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "text": "Which country is Daegu located in?",
+      "options": [
+        "Australia",
+        "Canada",
+        "Brazil",
+        "Poland"
+      ],
+      "answer": [
+        "South Korea"
+      ]
+    },
+    {
+      "text": "In which country is Fortaleza located?",
+      "options": [
+        "Poland",
+        "India",
+        "Switzerland",
+        "Greece",
+        "Portugal",
+        "Ireland"
+      ],
+      "answer": [
+        "Brazil"
+      ]
+    },
+    {
+      "text": "To which country does the city of Rio de Janeiro belong?",
+      "options": [
+        "Ireland",
+        "Finland",
+        "Switzerland",
+        "Belgium",
+        "Greece"
+      ],
+      "answer": [
+        "Brazil"
+      ]
+    },
+    {
+      "text": "To which country does the city of Boston belong?",
+      "options": [
+        "Finland",
+        "Netherlands",
+        "Czechia",
+        "Portugal"
+      ],
+      "answer": [
+        "United States"
+      ]
+    },
+    {
+      "text": "Ankara is a city in which country?",
+      "options": [
+        "Germany",
+        "Norway",
+        "Poland",
+        "France",
+        "Hungary"
+      ],
+      "answer": [
+        "Turkey"
+      ]
+    },
+    {
+      "text": "Which country is the city of Chennai in?",
+      "options": [
+        "Sweden",
+        "China",
+        "Mexico",
+        "Finland"
+      ],
+      "answer": [
+        "India"
+      ]
+    },
+    {
+      "text": "Which country is Utrecht located in?",
+      "options": [
+        "Belgium",
+        "Hungary",
+        "Canada",
+        "Denmark"
+      ],
+      "answer": [
+        "Netherlands"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Stockholm?",
+      "options": [
+        "Belgium",
+        "Japan",
+        "Hungary",
+        "Norway",
+        "France"
+      ],
+      "answer": [
+        "Sweden"
+      ]
+    },
+    {
+      "text": "To which country does the city of Brno belong?",
+      "options": [
+        "Denmark",
+        "India",
+        "Norway",
+        "Australia",
+        "Ireland"
+      ],
+      "answer": [
+        "Czechia"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Hamburg?",
+      "options": [
+        "Brazil",
+        "United Kingdom",
+        "Denmark",
+        "Switzerland",
+        "China",
+        "Spain"
+      ],
+      "answer": [
+        "Germany"
+      ]
+    },
+    {
+      "text": "In which country is Braga located?",
+      "options": [
+        "Argentina",
+        "Sweden",
+        "Poland",
+        "France",
+        "United Kingdom",
+        "Ireland"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "Which country is Recife located in?",
+      "options": [
+        "Japan",
+        "Argentina",
+        "Finland",
+        "Mexico"
+      ],
+      "answer": [
+        "Brazil"
+      ]
+    },
+    {
+      "text": "Which country is the city of La Plata in?",
+      "options": [
+        "Spain",
+        "Mexico",
+        "Sweden",
+        "Germany"
+      ],
+      "answer": [
+        "Argentina"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Rome?",
+      "options": [
+        "Argentina",
+        "Egypt",
+        "United States",
+        "Belgium",
+        "Japan"
+      ],
+      "answer": [
+        "Italy"
+      ]
+    },
+    {
+      "text": "Which country is Thessaloniki located in?",
+      "options": [
+        "Hungary",
+        "Poland",
+        "Austria",
+        "Brazil",
+        "Switzerland"
+      ],
+      "answer": [
+        "Greece"
+      ]
+    },
+    {
+      "text": "In which country is Brisbane located?",
+      "options": [
+        "Denmark",
+        "Italy",
+        "Sweden",
+        "United Kingdom",
+        "Mexico",
+        "Hungary"
+      ],
+      "answer": [
+        "Australia"
+      ]
+    },
+    {
+      "text": "Which country is Geneva located in?",
+      "options": [
+        "South Korea",
+        "Netherlands",
+        "Hungary",
+        "Germany",
+        "Spain"
+      ],
+      "answer": [
+        "Switzerland"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Beijing?",
+      "options": [
+        "South Korea",
+        "Spain",
+        "Turkey",
+        "Hungary",
+        "Denmark"
+      ],
+      "answer": [
+        "China"
+      ]
+    },
+    {
+      "text": "Which country is the city of Monterrey in?",
+      "options": [
+        "Finland",
+        "Netherlands",
+        "Japan",
+        "Portugal",
+        "Switzerland"
+      ],
+      "answer": [
+        "Mexico"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Patras?",
+      "options": [
+        "Hungary",
+        "United Kingdom",
+        "Argentina",
+        "Turkey",
+        "Switzerland",
+        "Denmark"
+      ],
+      "answer": [
+        "Greece"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Trondheim?",
+      "options": [
+        "South Korea",
+        "China",
+        "United States",
+        "Morocco",
+        "Switzerland",
+        "Austria"
+      ],
+      "answer": [
+        "Norway"
+      ]
+    },
+    {
+      "text": "In which country is Toronto located?",
+      "options": [
+        "Poland",
+        "Norway",
+        "Morocco",
+        "Portugal",
+        "Turkey"
+      ],
+      "answer": [
+        "Canada"
+      ]
+    },
+    {
+      "text": "Which country is the city of Valencia in?",
+      "options": [
+        "Mexico",
+        "Ireland",
+        "India",
+        "Norway"
+      ],
+      "answer": [
+        "Spain"
+      ]
+    },
+    {
+      "text": "Vienna is a city in which country?",
+      "options": [
+        "Greece",
+        "India",
+        "South Korea",
+        "France",
+        "Portugal"
+      ],
+      "answer": [
+        "Austria"
+      ]
+    },
+    {
+      "text": "To which country does the city of Lyon belong?",
+      "options": [
+        "Italy",
+        "Spain",
+        "India",
+        "China",
+        "Finland"
+      ],
+      "answer": [
+        "France"
+      ]
+    },
+    {
+      "text": "To which country does the city of Turin belong?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "India",
+        "United States"
+      ],
+      "answer": [
+        "Italy"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Cairo?",
+      "options": [
+        "Denmark",
+        "United States",
+        "Austria",
+        "Brazil",
+        "Poland"
+      ],
+      "answer": [
+        "Egypt"
+      ]
+    },
+    {
+      "text": "Tokyo is a city in which country?",
+      "options": [
+        "Australia",
+        "United States",
+        "Austria",
+        "India",
+        "South Korea"
+      ],
+      "answer": [
+        "Japan"
+      ]
+    },
+    {
+      "text": "To which country does the city of Bruges belong?",
+      "options": [
+        "Netherlands",
+        "Brazil",
+        "United Kingdom",
+        "Spain"
+      ],
+      "answer": [
+        "Belgium"
+      ]
+    },
+    {
+      "text": "Los Angeles is a city in which country?",
+      "options": [
+        "Australia",
+        "Belgium",
+        "Argentina",
+        "Sweden",
+        "China",
+        "Austria"
+      ],
+      "answer": [
+        "United States"
+      ]
+    },
+    {
+      "text": "Which country is Cork located in?",
+      "options": [
+        "Portugal",
+        "Czechia",
+        "Hungary",
+        "France",
+        "India"
+      ],
+      "answer": [
+        "Ireland"
+      ]
+    },
+    {
+      "text": "Which country is Munich located in?",
+      "options": [
+        "Mexico",
+        "Czechia",
+        "United States",
+        "Belgium",
+        "Finland"
+      ],
+      "answer": [
+        "Germany"
+      ]
+    },
+    {
+      "text": "To which country does the city of Rotterdam belong?",
+      "options": [
+        "Australia",
+        "Belgium",
+        "Norway",
+        "France",
+        "Austria"
+      ],
+      "answer": [
+        "Netherlands"
+      ]
+    },
+    {
+      "text": "Guangzhou is a city in which country?",
+      "options": [
+        "Netherlands",
+        "Poland",
+        "Ireland",
+        "Argentina",
+        "Hungary",
+        "Italy"
+      ],
+      "answer": [
+        "China"
+      ]
+    },
+    {
+      "text": "To which country does the city of Coimbra belong?",
+      "options": [
+        "Finland",
+        "Austria",
+        "Sweden",
+        "Greece",
+        "Ireland"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "Which country is the city of Alexandria in?",
+      "options": [
+        "Australia",
+        "Norway",
+        "Italy",
+        "Spain",
+        "United States"
+      ],
+      "answer": [
+        "Egypt"
+      ]
+    },
+    {
+      "text": "Which country is Casablanca located in?",
+      "options": [
+        "United Kingdom",
+        "China",
+        "Italy",
+        "Japan",
+        "Ireland"
+      ],
+      "answer": [
+        "Morocco"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of London?",
+      "options": [
+        "United States",
+        "Japan",
+        "Czechia",
+        "Egypt",
+        "Greece"
+      ],
+      "answer": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "text": "Amsterdam is a city in which country?",
+      "options": [
+        "Finland",
+        "Egypt",
+        "Hungary",
+        "France",
+        "Morocco"
+      ],
+      "answer": [
+        "Netherlands"
+      ]
+    },
+    {
+      "text": "Ghent is a city in which country?",
+      "options": [
+        "Czechia",
+        "Netherlands",
+        "Norway",
+        "Mexico",
+        "Finland",
+        "India"
+      ],
+      "answer": [
+        "Belgium"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Gdansk?",
+      "options": [
+        "Switzerland",
+        "Ireland",
+        "Portugal",
+        "Hungary",
+        "Austria",
+        "France"
+      ],
+      "answer": [
+        "Poland"
+      ]
+    },
+    {
+      "text": "In which country is Izmir located?",
+      "options": [
+        "Poland",
+        "United States",
+        "Norway",
+        "France",
+        "Germany",
+        "South Korea"
+      ],
+      "answer": [
+        "Turkey"
+      ]
+    },
+    {
+      "text": "Tampere is a city in which country?",
+      "options": [
+        "France",
+        "Greece",
+        "Norway",
+        "Ireland",
+        "Canada",
+        "Sweden"
+      ],
+      "answer": [
+        "Finland"
+      ]
+    },
+    {
+      "text": "To which country does the city of Chengdu belong?",
+      "options": [
+        "Germany",
+        "Canada",
+        "Netherlands",
+        "Australia"
+      ],
+      "answer": [
+        "China"
+      ]
+    },
+    {
+      "text": "Szeged is a city in which country?",
+      "options": [
+        "Belgium",
+        "Ireland",
+        "China",
+        "Portugal",
+        "Norway",
+        "Morocco"
+      ],
+      "answer": [
+        "Hungary"
+      ]
+    },
+    {
+      "text": "Which country is Nice located in?",
+      "options": [
+        "China",
+        "Netherlands",
+        "Spain",
+        "Turkey"
+      ],
+      "answer": [
+        "France"
+      ]
+    },
+    {
+      "text": "Which country is the city of Chicago in?",
+      "options": [
+        "Belgium",
+        "Australia",
+        "Switzerland",
+        "Brazil",
+        "Argentina"
+      ],
+      "answer": [
+        "United States"
+      ]
+    },
+    {
+      "text": "In which country is Zurich located?",
+      "options": [
+        "Finland",
+        "Mexico",
+        "United States",
+        "Belgium",
+        "Germany"
+      ],
+      "answer": [
+        "Switzerland"
+      ]
+    },
+    {
+      "text": "To which country does the city of Aarhus belong?",
+      "options": [
+        "Czechia",
+        "Netherlands",
+        "Morocco",
+        "Poland",
+        "United States"
+      ],
+      "answer": [
+        "Denmark"
+      ]
+    },
+    {
+      "text": "To which country does the city of Espoo belong?",
+      "options": [
+        "Norway",
+        "Greece",
+        "Sweden",
+        "Morocco"
+      ],
+      "answer": [
+        "Finland"
+      ]
+    },
+    {
+      "text": "In which country is Rabat located?",
+      "options": [
+        "India",
+        "Hungary",
+        "Japan",
+        "China",
+        "United Kingdom"
+      ],
+      "answer": [
+        "Morocco"
+      ]
+    },
+    {
+      "text": "To which country does the city of Busan belong?",
+      "options": [
+        "Sweden",
+        "United Kingdom",
+        "Portugal",
+        "Hungary",
+        "Netherlands"
+      ],
+      "answer": [
+        "South Korea"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Helsinki?",
+      "options": [
+        "Brazil",
+        "Belgium",
+        "Japan",
+        "Australia",
+        "China"
+      ],
+      "answer": [
+        "Finland"
+      ]
+    },
+    {
+      "text": "Which country is Montreal located in?",
+      "options": [
+        "Hungary",
+        "Egypt",
+        "United Kingdom",
+        "Austria",
+        "Belgium"
+      ],
+      "answer": [
+        "Canada"
+      ]
+    },
+    {
+      "text": "To which country does the city of Uppsala belong?",
+      "options": [
+        "India",
+        "Poland",
+        "Mexico",
+        "United States"
+      ],
+      "answer": [
+        "Sweden"
+      ]
+    },
+    {
+      "text": "To which country does the city of Osaka belong?",
+      "options": [
+        "Australia",
+        "Egypt",
+        "Italy",
+        "Morocco",
+        "Turkey"
+      ],
+      "answer": [
+        "Japan"
+      ]
+    },
+    {
+      "text": "Paris is a city in which country?",
+      "options": [
+        "Portugal",
+        "Greece",
+        "United States",
+        "Argentina",
+        "Turkey"
+      ],
+      "answer": [
+        "France"
+      ]
+    },
+    {
+      "text": "Which country is the city of Stavanger in?",
+      "options": [
+        "Finland",
+        "Czechia",
+        "Australia",
+        "Italy"
+      ],
+      "answer": [
+        "Norway"
+      ]
+    },
+    {
+      "text": "Which country is the city of Antwerp in?",
+      "options": [
+        "Poland",
+        "Czechia",
+        "Japan",
+        "Ireland",
+        "Netherlands"
+      ],
+      "answer": [
+        "Belgium"
+      ]
+    },
+    {
+      "text": "In which country is Athens located?",
+      "options": [
+        "United States",
+        "Spain",
+        "Denmark",
+        "United Kingdom",
+        "Egypt"
+      ],
+      "answer": [
+        "Greece"
+      ]
+    },
+    {
+      "text": "Prague is a city in which country?",
+      "options": [
+        "Netherlands",
+        "Finland",
+        "Egypt",
+        "Japan",
+        "Turkey"
+      ],
+      "answer": [
+        "Czechia"
+      ]
+    },
+    {
+      "text": "Which country is the city of Calgary in?",
+      "options": [
+        "Egypt",
+        "China",
+        "Brazil",
+        "Greece"
+      ],
+      "answer": [
+        "Canada"
+      ]
+    },
+    {
+      "text": "Which country is the city of Basel in?",
+      "options": [
+        "Argentina",
+        "Denmark",
+        "United States",
+        "South Korea"
+      ],
+      "answer": [
+        "Switzerland"
+      ]
+    },
+    {
+      "text": "Which country is Graz located in?",
+      "options": [
+        "Switzerland",
+        "Greece",
+        "Sweden",
+        "Morocco"
+      ],
+      "answer": [
+        "Austria"
+      ]
+    },
+    {
+      "text": "Sydney is a city in which country?",
+      "options": [
+        "Turkey",
+        "Austria",
+        "Portugal",
+        "Czechia",
+        "South Korea"
+      ],
+      "answer": [
+        "Australia"
+      ]
+    },
+    {
+      "text": "In which country is Ostrava located?",
+      "options": [
+        "Mexico",
+        "Greece",
+        "Egypt",
+        "Canada",
+        "Hungary",
+        "China"
+      ],
+      "answer": [
+        "Czechia"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Mendoza?",
+      "options": [
+        "United Kingdom",
+        "Poland",
+        "Spain",
+        "Japan",
+        "Greece",
+        "Italy"
+      ],
+      "answer": [
+        "Argentina"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Marrakesh?",
+      "options": [
+        "Italy",
+        "Mexico",
+        "Norway",
+        "Spain",
+        "United States",
+        "Canada"
+      ],
+      "answer": [
+        "Morocco"
+      ]
+    },
+    {
+      "text": "Which country is Barcelona located in?",
+      "options": [
+        "France",
+        "Germany",
+        "Hungary",
+        "Japan",
+        "Australia"
+      ],
+      "answer": [
+        "Spain"
+      ]
+    },
+    {
+      "text": "Which country is Aalborg located in?",
+      "options": [
+        "United Kingdom",
+        "United States",
+        "Australia",
+        "Poland"
+      ],
+      "answer": [
+        "Denmark"
+      ]
+    },
+    {
+      "text": "Lisbon is a city in which country?",
+      "options": [
+        "Poland",
+        "United States",
+        "Japan",
+        "Brazil",
+        "Canada"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Guadalajara?",
+      "options": [
+        "Australia",
+        "Turkey",
+        "Sweden",
+        "Argentina",
+        "Brazil"
+      ],
+      "answer": [
+        "Mexico"
+      ]
+    },
+    {
+      "text": "To which country does the city of Cancun belong?",
+      "options": [
+        "Japan",
+        "India",
+        "Belgium",
+        "France"
+      ],
+      "answer": [
+        "Mexico"
+      ]
+    },
+    {
+      "text": "Which country is the city of Fez in?",
+      "options": [
+        "Australia",
+        "Egypt",
+        "Switzerland",
+        "Denmark"
+      ],
+      "answer": [
+        "Morocco"
+      ]
+    },
+    {
+      "text": "In which country is Berlin located?",
+      "options": [
+        "United Kingdom",
+        "Austria",
+        "Norway",
+        "Finland",
+        "Denmark"
+      ],
+      "answer": [
+        "Germany"
+      ]
+    },
+    {
+      "text": "Which country is the city of Turku in?",
+      "options": [
+        "Portugal",
+        "Australia",
+        "Belgium",
+        "Spain",
+        "Italy"
+      ],
+      "answer": [
+        "Finland"
+      ]
+    },
+    {
+      "text": "Which country is the city of Manchester in?",
+      "options": [
+        "Netherlands",
+        "Morocco",
+        "Poland",
+        "Canada",
+        "Turkey"
+      ],
+      "answer": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "text": "In which country would you find the city of Galway?",
+      "options": [
+        "Hungary",
+        "Poland",
+        "United Kingdom",
+        "Denmark",
+        "Netherlands",
+        "Greece"
+      ],
+      "answer": [
+        "Ireland"
+      ]
+    },
+    {
+      "text": "Liverpool is a city in which country?",
+      "options": [
+        "Denmark",
+        "South Korea",
+        "Portugal",
+        "Hungary",
+        "Norway",
+        "Canada"
+      ],
+      "answer": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "text": "Luxor is a city in which country?",
+      "options": [
+        "Finland",
+        "Portugal",
+        "South Korea",
+        "Japan",
+        "Spain",
+        "Ireland"
+      ],
+      "answer": [
+        "Egypt"
+      ]
+    },
+    {
+      "text": "Which country is Antalya located in?",
+      "options": [
+        "Canada",
+        "United Kingdom",
+        "Italy",
+        "Ireland"
+      ],
+      "answer": [
+        "Turkey"
+      ]
+    },
+    {
+      "text": "In which country is Warsaw located?",
+      "options": [
+        "Australia",
+        "South Korea",
+        "Austria",
+        "France",
+        "Ireland"
+      ],
+      "answer": [
+        "Poland"
+      ]
+    },
+    {
+      "text": "Which country is the city of Limerick in?",
+      "options": [
+        "India",
+        "Brazil",
+        "Austria",
+        "Morocco"
+      ],
+      "answer": [
+        "Ireland"
+      ]
+    },
+    {
+      "text": "Seoul is a city in which country?",
+      "options": [
+        "Japan",
+        "United Kingdom",
+        "United States",
+        "Spain",
+        "Mexico"
+      ],
+      "answer": [
+        "South Korea"
+      ]
+    },
+    {
+      "text": "Which country is Faro located in?",
+      "options": [
+        "Egypt",
+        "Ireland",
+        "Argentina",
+        "India"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "In which country is Dublin located?",
+      "options": [
+        "Denmark",
+        "Greece",
+        "India",
+        "Canada",
+        "Netherlands"
+      ],
+      "answer": [
+        "Ireland"
+      ]
+    },
+    {
+      "text": "Sao Paulo is a city in which country?",
+      "options": [
+        "India",
+        "Turkey",
+        "Japan",
+        "Ireland",
+        "Greece"
+      ],
+      "answer": [
+        "Brazil"
+      ]
+    },
+    {
+      "text": "Which country is Pilsen located in?",
+      "options": [
+        "Australia",
+        "Netherlands",
+        "Brazil",
+        "United States"
+      ],
+      "answer": [
+        "Czechia"
+      ]
+    }
+  ]
+}

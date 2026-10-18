@@ -1,0 +1,63 @@
+// « Grandes nombres » — 39 personajes (escritores, compositores, pintores, gobernantes, cineastas),
+// 3 obras / hechos cada uno. keyQuestions: 0 → solo preguntas « item -> personaje ».
+export default {
+  lang: 'es',
+  theme: 'Grandes nombres',
+  seed: 71005,
+  keyQuestions: 0,
+  templates: {
+    item: [
+      '¿Con qué personaje se relaciona «{v}»?',
+      '¿A qué personaje se asocia «{v}»?',
+      '¿Con qué gran nombre se relaciona «{v}»?',
+      '¿A quién se asocia «{v}»?',
+      '¿Qué personaje está relacionado con «{v}»?',
+    ],
+  },
+  groups: [
+    // escritores
+    ['Miguel de Cervantes', 'Don Quijote de la Mancha', 'La Galatea', 'Novelas ejemplares'],
+    ['Federico García Lorca', 'Bodas de sangre', 'La casa de Bernarda Alba', 'Romancero gitano'],
+    ['Jorge Luis Borges', 'El Aleph', 'Ficciones', 'Historia universal de la infamia'],
+    ['Gabriel García Márquez', 'Cien años de soledad', 'El amor en los tiempos del cólera', 'Crónica de una muerte anunciada'],
+    ['Pablo Neruda', 'Veinte poemas de amor y una canción desesperada', 'Canto general', 'Odas elementales'],
+    ['Julio Cortázar', 'Rayuela', 'Bestiario', 'Las armas secretas'],
+    ['Miguel de Unamuno', 'Niebla', 'San Manuel Bueno, mártir', 'Del sentimiento trágico de la vida'],
+    ['Gustavo Adolfo Bécquer', 'Rimas y leyendas', 'Cartas desde mi celda', 'El monte de las ánimas'],
+    ['Antonio Machado', 'Soledades, galerías y otros poemas', 'Campos de Castilla', 'Juan de Mairena'],
+    ['Rubén Darío', 'Azul...', 'Prosas profanas', 'Cantos de vida y esperanza'],
+    ['Juan Rulfo', 'Pedro Páramo', 'El llano en llamas', 'el pueblo de Comala'],
+    ['Mario Vargas Llosa', 'La ciudad y los perros', 'La casa verde', 'Conversación en La Catedral'],
+    // compositores
+    ['Manuel de Falla', 'El amor brujo', 'El sombrero de tres picos', 'Noches en los jardines de España'],
+    ['Isaac Albéniz', 'Iberia', 'Asturias', 'Suite española'],
+    ['Enrique Granados', 'Danzas españolas', 'Valses poéticos', 'Escenas románticas'],
+    ['Fernando Sor', 'los estudios para guitarra', 'las variaciones sobre un tema de Mozart', 'el ballet La Cenicienta'],
+    ['Joaquín Turina', 'Danzas fantásticas', 'Sinfonía sevillana', 'La oración del torero'],
+    ['Joaquín Rodrigo', 'Concierto de Aranjuez', 'Fantasía para un gentilhombre', 'el Concierto andaluz'],
+    // pintores
+    ['Diego Velázquez', 'Las meninas', 'Las hilanderas', 'La rendición de Breda'],
+    ['Francisco de Goya', 'La maja desnuda', 'los fusilamientos del tres de mayo', 'Saturno devorando a su hijo'],
+    ['Pablo Picasso', 'Guernica', 'Las señoritas de Aviñón', 'El viejo guitarrista'],
+    ['Salvador Dalí', 'La persistencia de la memoria', 'Los elefantes', 'La Madonna de Port Lligat'],
+    ['Joan Miró', 'El carnaval de Arlequín', 'La masía', 'El segador'],
+    ['Bartolomé Esteban Murillo', 'La Inmaculada Concepción', 'Los niños comiendo melón', 'La sagrada familia del pajarito'],
+    ['El Greco', 'El entierro del conde de Orgaz', 'El caballero de la mano en el pecho', 'La Trinidad'],
+    ['Joaquín Sorolla', 'Paseo a orillas del mar', 'Los niños en la playa', 'La vuelta de la pesca'],
+    ['Frida Kahlo', 'Autorretrato con collar de espinas', 'La columna rota', 'Viva la Vida'],
+    // gobernantes
+    ['Simón Bolívar', 'la independencia de Venezuela', 'la Gran Colombia', 'el Congreso de Angostura'],
+    ['José de San Martín', 'el Cruce de los Andes', 'la independencia de Argentina', 'la liberación de Chile y Perú'],
+    ['Isabel la Católica', 'la conquista de Granada', 'la unión de Castilla y Aragón', 'la financiación del viaje de Colón'],
+    ['Felipe II', 'la batalla de Lepanto', 'la Armada Invencible', 'la construcción del Escorial'],
+    ['Carlos V', 'la batalla de Pavía', 'el saqueo de Roma', 'la Dieta de Worms'],
+    ['Benito Juárez', 'las Leyes de Reforma', 'la victoria del cinco de mayo', 'la defensa de la República ante Maximiliano'],
+    ['Emiliano Zapata', 'el Plan de Ayala', 'el lema tierra y libertad', 'la lucha agraria en Morelos'],
+    // cine
+    ['Luis Buñuel', 'El perro andaluz', 'Viridiana', 'Los olvidados'],
+    ['Pedro Almodóvar', 'Mujeres al borde de un ataque de nervios', 'Todo sobre mi madre', 'Volver'],
+    ['Guillermo del Toro', 'El laberinto del fauno', 'La forma del agua', 'Cronos'],
+    ['Alejandro Amenábar', 'Los otros', 'Mar adentro', 'Tesis'],
+    ['Carlos Saura', 'Cría cuervos', 'Carmen', 'Deprisa, deprisa'],
+  ],
+};

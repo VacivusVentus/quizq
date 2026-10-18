@@ -1,0 +1,1625 @@
+{
+  "theme": "Cocinas del mundo",
+  "questions": [
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «ajiaco»?",
+      "options": [
+        "la cocina gallega",
+        "la cocina griega",
+        "la cocina canaria",
+        "la cocina japonesa",
+        "la cocina vasca"
+      ],
+      "answer": [
+        "la cocina colombiana"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «yuca con mojo»?",
+      "options": [
+        "la cocina libanesa",
+        "la cocina cántabra",
+        "la cocina gallega",
+        "la cocina china",
+        "la cocina murciana",
+        "la cocina balear"
+      ],
+      "answer": [
+        "la cocina cubana"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «escudella»?",
+      "options": [
+        "la cocina argentina",
+        "la cocina coreana",
+        "la cocina colombiana",
+        "la cocina castellana",
+        "la cocina italiana"
+      ],
+      "answer": [
+        "la cocina catalana"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «lasaña»?",
+      "options": [
+        "la cocina francesa",
+        "la cocina coreana",
+        "la cocina japonesa",
+        "la cocina asturiana",
+        "la cocina gallega"
+      ],
+      "answer": [
+        "la cocina italiana"
+      ]
+    },
+    {
+      "text": "¿Qué dos platos de esta lista vienen de la cocina vietnamita?",
+      "options": [
+        "tumbet",
+        "porrusalda",
+        "bretzel",
+        "kimchi",
+        "hummus"
+      ],
+      "answer": [
+        "nem",
+        "pho"
+      ]
+    },
+    {
+      "text": "¿El plato «lacón con grelos» es típico de qué cocina?",
+      "options": [
+        "la cocina tailandesa",
+        "la cocina madrileña",
+        "la cocina peruana",
+        "la cocina andaluza",
+        "la cocina asturiana",
+        "la cocina balear"
+      ],
+      "answer": [
+        "la cocina gallega"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «tarta de la Selva Negra»?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina brasileña",
+        "la cocina marroquí",
+        "la cocina argentina",
+        "la cocina china"
+      ],
+      "answer": [
+        "la cocina alemana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «brigadeiro»?",
+      "options": [
+        "la cocina india",
+        "la cocina manchega",
+        "la cocina marroquí",
+        "la cocina catalana",
+        "la cocina cubana"
+      ],
+      "answer": [
+        "la cocina brasileña"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «tzatziki»?",
+      "options": [
+        "la cocina coreana",
+        "la cocina andaluza",
+        "la cocina canaria",
+        "la cocina madrileña"
+      ],
+      "answer": [
+        "la cocina griega"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «suquet de peix»?",
+      "options": [
+        "la cocina valenciana",
+        "la cocina gallega",
+        "la cocina navarra",
+        "la cocina brasileña",
+        "la cocina china",
+        "la cocina japonesa"
+      ],
+      "answer": [
+        "la cocina catalana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «pizza»?",
+      "options": [
+        "la cocina vietnamita",
+        "la cocina griega",
+        "la cocina peruana",
+        "la cocina turca"
+      ],
+      "answer": [
+        "la cocina italiana"
+      ]
+    },
+    {
+      "text": "¿Qué plato pertenece a la cocina tailandesa?",
+      "options": [
+        "nem",
+        "chiles en nogada",
+        "bacalao al pil-pil",
+        "tzatziki"
+      ],
+      "answer": [
+        "tom yam"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «pan con tomate»?",
+      "options": [
+        "la cocina navarra",
+        "la cocina andaluza",
+        "la cocina castellana",
+        "la cocina coreana"
+      ],
+      "answer": [
+        "la cocina catalana"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «chimichurri»?",
+      "options": [
+        "la cocina madrileña",
+        "la cocina cántabra",
+        "la cocina balear",
+        "la cocina navarra",
+        "la cocina asturiana"
+      ],
+      "answer": [
+        "la cocina argentina"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «kimchi»?",
+      "options": [
+        "la cocina tailandesa",
+        "la cocina italiana",
+        "la cocina madrileña",
+        "la cocina gallega"
+      ],
+      "answer": [
+        "la cocina coreana"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «tabulé»?",
+      "options": [
+        "la cocina italiana",
+        "la cocina vietnamita",
+        "la cocina cántabra",
+        "la cocina vasca",
+        "la cocina manchega"
+      ],
+      "answer": [
+        "la cocina libanesa"
+      ]
+    },
+    {
+      "text": "¿El plato «pimientos del piquillo» es típico de qué cocina?",
+      "options": [
+        "la cocina libanesa",
+        "la cocina manchega",
+        "la cocina asturiana",
+        "la cocina india",
+        "la cocina valenciana",
+        "la cocina gallega"
+      ],
+      "answer": [
+        "la cocina navarra"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «biryani»?",
+      "options": [
+        "la cocina manchega",
+        "la cocina italiana",
+        "la cocina catalana",
+        "la cocina canaria"
+      ],
+      "answer": [
+        "la cocina india"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «empanadas»?",
+      "options": [
+        "la cocina vietnamita",
+        "la cocina balear",
+        "la cocina cántabra",
+        "la cocina canaria",
+        "la cocina italiana"
+      ],
+      "answer": [
+        "la cocina argentina"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos platos son típicos de la cocina cubana?",
+      "options": [
+        "arepas",
+        "souvlaki",
+        "bacalao al pil-pil",
+        "tarta de Santiago",
+        "tacos"
+      ],
+      "answer": [
+        "yuca con mojo",
+        "congrí"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos platos es típico de la cocina catalana?",
+      "options": [
+        "bocadillo de calamares",
+        "cachopo",
+        "tarta de la Selva Negra",
+        "lomo saltado",
+        "paella"
+      ],
+      "answer": [
+        "escudella"
+      ]
+    },
+    {
+      "text": "¿Qué plato pertenece a la cocina griega?",
+      "options": [
+        "ceviche",
+        "tacos",
+        "escudella",
+        "ramen"
+      ],
+      "answer": [
+        "souvlaki"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «pão de queijo»?",
+      "options": [
+        "la cocina italiana",
+        "la cocina india",
+        "la cocina cántabra",
+        "la cocina manchega",
+        "la cocina alemana",
+        "la cocina turca"
+      ],
+      "answer": [
+        "la cocina brasileña"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «bretzel»?",
+      "options": [
+        "la cocina tailandesa",
+        "la cocina gallega",
+        "la cocina asturiana",
+        "la cocina navarra",
+        "la cocina manchega",
+        "la cocina canaria"
+      ],
+      "answer": [
+        "la cocina alemana"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «congrí»?",
+      "options": [
+        "la cocina balear",
+        "la cocina brasileña",
+        "la cocina canaria",
+        "la cocina madrileña",
+        "la cocina cántabra"
+      ],
+      "answer": [
+        "la cocina cubana"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «paella»?",
+      "options": [
+        "la cocina japonesa",
+        "la cocina murciana",
+        "la cocina navarra",
+        "la cocina griega"
+      ],
+      "answer": [
+        "la cocina valenciana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «takoyaki»?",
+      "options": [
+        "la cocina brasileña",
+        "la cocina mexicana",
+        "la cocina valenciana",
+        "la cocina cántabra",
+        "la cocina catalana"
+      ],
+      "answer": [
+        "la cocina japonesa"
+      ]
+    },
+    {
+      "text": "¿El plato «duelos y quebrantos» es típico de qué cocina?",
+      "options": [
+        "la cocina india",
+        "la cocina italiana",
+        "la cocina cántabra",
+        "la cocina alemana",
+        "la cocina griega"
+      ],
+      "answer": [
+        "la cocina manchega"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «gofio escaldado»?",
+      "options": [
+        "la cocina italiana",
+        "la cocina griega",
+        "la cocina francesa",
+        "la cocina turca",
+        "la cocina gallega",
+        "la cocina japonesa"
+      ],
+      "answer": [
+        "la cocina canaria"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «callos»?",
+      "options": [
+        "la cocina balear",
+        "la cocina colombiana",
+        "la cocina cántabra",
+        "la cocina peruana",
+        "la cocina argentina"
+      ],
+      "answer": [
+        "la cocina madrileña"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos platos son típicos de la cocina china?",
+      "options": [
+        "pescaíto frito",
+        "pimientos del piquillo",
+        "arepas",
+        "duelos y quebrantos",
+        "currywurst"
+      ],
+      "answer": [
+        "pato laqueado",
+        "dim sum"
+      ]
+    },
+    {
+      "text": "¿Qué plato de esta lista es tradicional en la cocina italiana?",
+      "options": [
+        "ceviche",
+        "pão de queijo",
+        "tom yam",
+        "paella",
+        "ají de gallina"
+      ],
+      "answer": [
+        "lasaña"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «chiles en nogada»?",
+      "options": [
+        "la cocina catalana",
+        "la cocina alemana",
+        "la cocina cubana",
+        "la cocina madrileña",
+        "la cocina tailandesa",
+        "la cocina andaluza"
+      ],
+      "answer": [
+        "la cocina mexicana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «cachopo»?",
+      "options": [
+        "la cocina andaluza",
+        "la cocina catalana",
+        "la cocina cántabra",
+        "la cocina canaria"
+      ],
+      "answer": [
+        "la cocina asturiana"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas especialidades es propia de la cocina valenciana?",
+      "options": [
+        "tarta de la Selva Negra",
+        "cuscús",
+        "tiramisú",
+        "queso de Cabrales",
+        "naan",
+        "lomo saltado"
+      ],
+      "answer": [
+        "horchata de chufa"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «currywurst»?",
+      "options": [
+        "la cocina catalana",
+        "la cocina japonesa",
+        "la cocina cántabra",
+        "la cocina madrileña"
+      ],
+      "answer": [
+        "la cocina alemana"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «pastela»?",
+      "options": [
+        "la cocina mexicana",
+        "la cocina alemana",
+        "la cocina vietnamita",
+        "la cocina peruana"
+      ],
+      "answer": [
+        "la cocina marroquí"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «rosquillas de San Isidro»?",
+      "options": [
+        "la cocina colombiana",
+        "la cocina vasca",
+        "la cocina cubana",
+        "la cocina italiana",
+        "la cocina andaluza",
+        "la cocina cántabra"
+      ],
+      "answer": [
+        "la cocina madrileña"
+      ]
+    },
+    {
+      "text": "¿El plato «souvlaki» es típico de qué cocina?",
+      "options": [
+        "la cocina alemana",
+        "la cocina argentina",
+        "la cocina navarra",
+        "la cocina vietnamita",
+        "la cocina valenciana",
+        "la cocina colombiana"
+      ],
+      "answer": [
+        "la cocina griega"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas especialidades es propia de la cocina coreana?",
+      "options": [
+        "pato laqueado",
+        "pad thai",
+        "lacón con grelos",
+        "tabulé",
+        "pho",
+        "atascaburras"
+      ],
+      "answer": [
+        "kimchi"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «moussaka»?",
+      "options": [
+        "la cocina valenciana",
+        "la cocina manchega",
+        "la cocina vietnamita",
+        "la cocina japonesa",
+        "la cocina china"
+      ],
+      "answer": [
+        "la cocina griega"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «sushi»?",
+      "options": [
+        "la cocina china",
+        "la cocina francesa",
+        "la cocina cántabra",
+        "la cocina valenciana"
+      ],
+      "answer": [
+        "la cocina japonesa"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «pato laqueado»?",
+      "options": [
+        "la cocina tailandesa",
+        "la cocina brasileña",
+        "la cocina manchega",
+        "la cocina cubana",
+        "la cocina colombiana",
+        "la cocina india"
+      ],
+      "answer": [
+        "la cocina china"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «pulpo á feira»?",
+      "options": [
+        "la cocina libanesa",
+        "la cocina vasca",
+        "la cocina peruana",
+        "la cocina alemana",
+        "la cocina argentina"
+      ],
+      "answer": [
+        "la cocina gallega"
+      ]
+    },
+    {
+      "text": "¿El plato «tiramisú» es típico de qué cocina?",
+      "options": [
+        "la cocina vasca",
+        "la cocina vietnamita",
+        "la cocina asturiana",
+        "la cocina japonesa",
+        "la cocina catalana",
+        "la cocina manchega"
+      ],
+      "answer": [
+        "la cocina italiana"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «pisto»?",
+      "options": [
+        "la cocina valenciana",
+        "la cocina italiana",
+        "la cocina canaria",
+        "la cocina asturiana"
+      ],
+      "answer": [
+        "la cocina manchega"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «cochinillo asado»?",
+      "options": [
+        "la cocina colombiana",
+        "la cocina coreana",
+        "la cocina cubana",
+        "la cocina manchega",
+        "la cocina asturiana"
+      ],
+      "answer": [
+        "la cocina castellana"
+      ]
+    },
+    {
+      "text": "¿El plato «morcilla de Burgos» es típico de qué cocina?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina brasileña",
+        "la cocina balear",
+        "la cocina manchega",
+        "la cocina colombiana",
+        "la cocina italiana"
+      ],
+      "answer": [
+        "la cocina castellana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «asado»?",
+      "options": [
+        "la cocina india",
+        "la cocina turca",
+        "la cocina andaluza",
+        "la cocina italiana"
+      ],
+      "answer": [
+        "la cocina argentina"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «fabada»?",
+      "options": [
+        "la cocina marroquí",
+        "la cocina china",
+        "la cocina alemana",
+        "la cocina canaria",
+        "la cocina madrileña",
+        "la cocina manchega"
+      ],
+      "answer": [
+        "la cocina asturiana"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas especialidades es propia de la cocina castellana?",
+      "options": [
+        "nem",
+        "bandeja paisa",
+        "cocido montañés",
+        "pato laqueado",
+        "tabulé",
+        "ratatouille"
+      ],
+      "answer": [
+        "morcilla de Burgos"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «sobaos pasiegos»?",
+      "options": [
+        "la cocina vietnamita",
+        "la cocina mexicana",
+        "la cocina libanesa",
+        "la cocina canaria"
+      ],
+      "answer": [
+        "la cocina cántabra"
+      ]
+    },
+    {
+      "text": "¿Qué platos pertenecen a la cocina asturiana?",
+      "options": [
+        "gazpacho",
+        "ensaimada",
+        "ratatouille",
+        "dim sum"
+      ],
+      "answer": [
+        "queso de Cabrales",
+        "fabada"
+      ]
+    },
+    {
+      "text": "¿Qué platos de esta lista se preparan en la cocina balear?",
+      "options": [
+        "papas arrugadas",
+        "chimichurri",
+        "gazpacho",
+        "moussaka",
+        "tajín",
+        "tabulé"
+      ],
+      "answer": [
+        "ensaimada",
+        "arroz brut"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «pescaíto frito»?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina navarra",
+        "la cocina india",
+        "la cocina murciana"
+      ],
+      "answer": [
+        "la cocina andaluza"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos platos es típico de la cocina brasileña?",
+      "options": [
+        "risotto",
+        "michirones",
+        "morcilla de Burgos",
+        "yuca con mojo",
+        "papas arrugadas"
+      ],
+      "answer": [
+        "feijoada"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «pide»?",
+      "options": [
+        "la cocina canaria",
+        "la cocina valenciana",
+        "la cocina andaluza",
+        "la cocina china",
+        "la cocina murciana"
+      ],
+      "answer": [
+        "la cocina turca"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «cuscús»?",
+      "options": [
+        "la cocina tailandesa",
+        "la cocina peruana",
+        "la cocina mexicana",
+        "la cocina india",
+        "la cocina coreana",
+        "la cocina valenciana"
+      ],
+      "answer": [
+        "la cocina marroquí"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «bandeja paisa»?",
+      "options": [
+        "la cocina turca",
+        "la cocina canaria",
+        "la cocina china",
+        "la cocina madrileña"
+      ],
+      "answer": [
+        "la cocina colombiana"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «risotto»?",
+      "options": [
+        "la cocina coreana",
+        "la cocina catalana",
+        "la cocina colombiana",
+        "la cocina manchega",
+        "la cocina francesa"
+      ],
+      "answer": [
+        "la cocina italiana"
+      ]
+    },
+    {
+      "text": "¿El plato «croissant» es típico de qué cocina?",
+      "options": [
+        "la cocina balear",
+        "la cocina argentina",
+        "la cocina gallega",
+        "la cocina cubana",
+        "la cocina japonesa",
+        "la cocina vietnamita"
+      ],
+      "answer": [
+        "la cocina francesa"
+      ]
+    },
+    {
+      "text": "¿Qué plato pertenece a la cocina alemana?",
+      "options": [
+        "paella",
+        "tzatziki",
+        "pide",
+        "rosquillas de San Isidro"
+      ],
+      "answer": [
+        "tarta de la Selva Negra"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «mojo picón»?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina andaluza",
+        "la cocina balear",
+        "la cocina coreana",
+        "la cocina catalana"
+      ],
+      "answer": [
+        "la cocina canaria"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «ramen»?",
+      "options": [
+        "la cocina brasileña",
+        "la cocina vasca",
+        "la cocina india",
+        "la cocina asturiana",
+        "la cocina madrileña"
+      ],
+      "answer": [
+        "la cocina japonesa"
+      ]
+    },
+    {
+      "text": "¿Qué dos platos de esta lista vienen de la cocina mexicana?",
+      "options": [
+        "butifarra con judías",
+        "souvlaki",
+        "tumbet",
+        "ceviche",
+        "brigadeiro"
+      ],
+      "answer": [
+        "guacamole",
+        "mole poblano"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «papas arrugadas»?",
+      "options": [
+        "la cocina india",
+        "la cocina castellana",
+        "la cocina italiana",
+        "la cocina vietnamita",
+        "la cocina argentina"
+      ],
+      "answer": [
+        "la cocina canaria"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «salmorejo»?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina mexicana",
+        "la cocina libanesa",
+        "la cocina asturiana",
+        "la cocina francesa"
+      ],
+      "answer": [
+        "la cocina andaluza"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «pad thai»?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina mexicana",
+        "la cocina marroquí",
+        "la cocina italiana",
+        "la cocina colombiana"
+      ],
+      "answer": [
+        "la cocina tailandesa"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «bacalao al pil-pil»?",
+      "options": [
+        "la cocina cubana",
+        "la cocina brasileña",
+        "la cocina gallega",
+        "la cocina china",
+        "la cocina francesa"
+      ],
+      "answer": [
+        "la cocina vasca"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «lomo saltado»?",
+      "options": [
+        "la cocina vasca",
+        "la cocina madrileña",
+        "la cocina andaluza",
+        "la cocina canaria"
+      ],
+      "answer": [
+        "la cocina peruana"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «bulgogi»?",
+      "options": [
+        "la cocina valenciana",
+        "la cocina cántabra",
+        "la cocina alemana",
+        "la cocina francesa",
+        "la cocina india"
+      ],
+      "answer": [
+        "la cocina coreana"
+      ]
+    },
+    {
+      "text": "¿El plato «nem» es típico de qué cocina?",
+      "options": [
+        "la cocina marroquí",
+        "la cocina italiana",
+        "la cocina mexicana",
+        "la cocina navarra",
+        "la cocina peruana",
+        "la cocina tailandesa"
+      ],
+      "answer": [
+        "la cocina vietnamita"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «caldero»?",
+      "options": [
+        "la cocina peruana",
+        "la cocina vietnamita",
+        "la cocina castellana",
+        "la cocina griega",
+        "la cocina india"
+      ],
+      "answer": [
+        "la cocina murciana"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «tacos»?",
+      "options": [
+        "la cocina turca",
+        "la cocina marroquí",
+        "la cocina india",
+        "la cocina valenciana"
+      ],
+      "answer": [
+        "la cocina mexicana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «lahmacun»?",
+      "options": [
+        "la cocina valenciana",
+        "la cocina castellana",
+        "la cocina catalana",
+        "la cocina cántabra"
+      ],
+      "answer": [
+        "la cocina turca"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas especialidades es propia de la cocina libanesa?",
+      "options": [
+        "queso de Cabrales",
+        "risotto",
+        "tumbet",
+        "tallarines salteados",
+        "moussaka",
+        "chimichurri"
+      ],
+      "answer": [
+        "mutabbal"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos platos es típico de la cocina india?",
+      "options": [
+        "rosquillas de San Isidro",
+        "paparajotes",
+        "kimchi",
+        "pescaíto frito",
+        "ratatouille"
+      ],
+      "answer": [
+        "naan"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «mutabbal»?",
+      "options": [
+        "la cocina colombiana",
+        "la cocina turca",
+        "la cocina andaluza",
+        "la cocina catalana",
+        "la cocina argentina",
+        "la cocina valenciana"
+      ],
+      "answer": [
+        "la cocina libanesa"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «tom yam»?",
+      "options": [
+        "la cocina turca",
+        "la cocina japonesa",
+        "la cocina francesa",
+        "la cocina libanesa",
+        "la cocina catalana"
+      ],
+      "answer": [
+        "la cocina tailandesa"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «fideuá»?",
+      "options": [
+        "la cocina italiana",
+        "la cocina marroquí",
+        "la cocina turca",
+        "la cocina cántabra",
+        "la cocina libanesa"
+      ],
+      "answer": [
+        "la cocina valenciana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «bocadillo de calamares»?",
+      "options": [
+        "la cocina griega",
+        "la cocina catalana",
+        "la cocina mexicana",
+        "la cocina murciana",
+        "la cocina balear"
+      ],
+      "answer": [
+        "la cocina madrileña"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «atascaburras»?",
+      "options": [
+        "la cocina mexicana",
+        "la cocina india",
+        "la cocina gallega",
+        "la cocina cubana",
+        "la cocina brasileña"
+      ],
+      "answer": [
+        "la cocina manchega"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «foie gras»?",
+      "options": [
+        "la cocina manchega",
+        "la cocina vietnamita",
+        "la cocina cubana",
+        "la cocina brasileña",
+        "la cocina china"
+      ],
+      "answer": [
+        "la cocina francesa"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «pollo tandoori»?",
+      "options": [
+        "la cocina brasileña",
+        "la cocina canaria",
+        "la cocina coreana",
+        "la cocina manchega",
+        "la cocina japonesa"
+      ],
+      "answer": [
+        "la cocina india"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «guacamole»?",
+      "options": [
+        "la cocina marroquí",
+        "la cocina china",
+        "la cocina asturiana",
+        "la cocina francesa",
+        "la cocina colombiana"
+      ],
+      "answer": [
+        "la cocina mexicana"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «naan»?",
+      "options": [
+        "la cocina brasileña",
+        "la cocina japonesa",
+        "la cocina valenciana",
+        "la cocina andaluza",
+        "la cocina catalana",
+        "la cocina murciana"
+      ],
+      "answer": [
+        "la cocina india"
+      ]
+    },
+    {
+      "text": "¿El plato «mole poblano» es típico de qué cocina?",
+      "options": [
+        "la cocina francesa",
+        "la cocina vasca",
+        "la cocina argentina",
+        "la cocina coreana",
+        "la cocina japonesa"
+      ],
+      "answer": [
+        "la cocina mexicana"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «arroz brut»?",
+      "options": [
+        "la cocina peruana",
+        "la cocina madrileña",
+        "la cocina india",
+        "la cocina catalana",
+        "la cocina mexicana"
+      ],
+      "answer": [
+        "la cocina balear"
+      ]
+    },
+    {
+      "text": "¿Qué plato pertenece a la cocina marroquí?",
+      "options": [
+        "bacalao al pil-pil",
+        "foie gras",
+        "pescaíto frito",
+        "caldero"
+      ],
+      "answer": [
+        "tajín"
+      ]
+    },
+    {
+      "text": "¿El plato «bibimbap» es típico de qué cocina?",
+      "options": [
+        "la cocina peruana",
+        "la cocina brasileña",
+        "la cocina castellana",
+        "la cocina cubana",
+        "la cocina canaria"
+      ],
+      "answer": [
+        "la cocina coreana"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «gazpacho»?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina tailandesa",
+        "la cocina cubana",
+        "la cocina navarra",
+        "la cocina coreana",
+        "la cocina madrileña"
+      ],
+      "answer": [
+        "la cocina andaluza"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «lechazo asado»?",
+      "options": [
+        "la cocina china",
+        "la cocina colombiana",
+        "la cocina madrileña",
+        "la cocina india"
+      ],
+      "answer": [
+        "la cocina castellana"
+      ]
+    },
+    {
+      "text": "¿El plato «porrusalda» es típico de qué cocina?",
+      "options": [
+        "la cocina valenciana",
+        "la cocina balear",
+        "la cocina madrileña",
+        "la cocina cubana",
+        "la cocina colombiana",
+        "la cocina china"
+      ],
+      "answer": [
+        "la cocina vasca"
+      ]
+    },
+    {
+      "text": "¿El plato «tallarines salteados» es típico de qué cocina?",
+      "options": [
+        "la cocina manchega",
+        "la cocina andaluza",
+        "la cocina canaria",
+        "la cocina griega",
+        "la cocina coreana"
+      ],
+      "answer": [
+        "la cocina china"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «marmitako»?",
+      "options": [
+        "la cocina tailandesa",
+        "la cocina manchega",
+        "la cocina mexicana",
+        "la cocina navarra",
+        "la cocina vietnamita"
+      ],
+      "answer": [
+        "la cocina vasca"
+      ]
+    },
+    {
+      "text": "¿El plato «tumbet» es típico de qué cocina?",
+      "options": [
+        "la cocina francesa",
+        "la cocina manchega",
+        "la cocina navarra",
+        "la cocina coreana",
+        "la cocina canaria"
+      ],
+      "answer": [
+        "la cocina balear"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «ajoarriero»?",
+      "options": [
+        "la cocina india",
+        "la cocina cántabra",
+        "la cocina argentina",
+        "la cocina marroquí"
+      ],
+      "answer": [
+        "la cocina navarra"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «dim sum»?",
+      "options": [
+        "la cocina argentina",
+        "la cocina balear",
+        "la cocina vietnamita",
+        "la cocina mexicana"
+      ],
+      "answer": [
+        "la cocina china"
+      ]
+    },
+    {
+      "text": "¿El plato «hummus» es típico de qué cocina?",
+      "options": [
+        "la cocina canaria",
+        "la cocina vietnamita",
+        "la cocina china",
+        "la cocina peruana",
+        "la cocina andaluza"
+      ],
+      "answer": [
+        "la cocina libanesa"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «paparajotes»?",
+      "options": [
+        "la cocina argentina",
+        "la cocina tailandesa",
+        "la cocina japonesa",
+        "la cocina manchega",
+        "la cocina cántabra",
+        "la cocina cubana"
+      ],
+      "answer": [
+        "la cocina murciana"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «feijoada»?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina madrileña",
+        "la cocina balear",
+        "la cocina colombiana",
+        "la cocina manchega"
+      ],
+      "answer": [
+        "la cocina brasileña"
+      ]
+    },
+    {
+      "text": "¿Qué platos de esta lista se preparan en la cocina canaria?",
+      "options": [
+        "paella",
+        "ajoarriero",
+        "suquet de peix",
+        "ramen",
+        "queso de Cabrales",
+        "caldero"
+      ],
+      "answer": [
+        "gofio escaldado",
+        "papas arrugadas"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «anchoas de Santoña»?",
+      "options": [
+        "la cocina vasca",
+        "la cocina madrileña",
+        "la cocina marroquí",
+        "la cocina valenciana",
+        "la cocina balear"
+      ],
+      "answer": [
+        "la cocina cántabra"
+      ]
+    },
+    {
+      "text": "¿El plato «ceviche» es típico de qué cocina?",
+      "options": [
+        "la cocina navarra",
+        "la cocina andaluza",
+        "la cocina balear",
+        "la cocina vasca",
+        "la cocina marroquí",
+        "la cocina madrileña"
+      ],
+      "answer": [
+        "la cocina peruana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «michirones»?",
+      "options": [
+        "la cocina madrileña",
+        "la cocina libanesa",
+        "la cocina peruana",
+        "la cocina tailandesa",
+        "la cocina andaluza"
+      ],
+      "answer": [
+        "la cocina murciana"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «ensaimada»?",
+      "options": [
+        "la cocina madrileña",
+        "la cocina francesa",
+        "la cocina alemana",
+        "la cocina japonesa"
+      ],
+      "answer": [
+        "la cocina balear"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «queso de Cabrales»?",
+      "options": [
+        "la cocina madrileña",
+        "la cocina cántabra",
+        "la cocina manchega",
+        "la cocina navarra",
+        "la cocina china"
+      ],
+      "answer": [
+        "la cocina asturiana"
+      ]
+    },
+    {
+      "text": "¿Qué plato de esta lista es tradicional en la cocina andaluza?",
+      "options": [
+        "chistorra",
+        "lomo saltado",
+        "bibimbap",
+        "congrí",
+        "cochinillo asado"
+      ],
+      "answer": [
+        "salmorejo"
+      ]
+    },
+    {
+      "text": "¿De qué cocina viene el plato «arepas»?",
+      "options": [
+        "la cocina china",
+        "la cocina cubana",
+        "la cocina madrileña",
+        "la cocina balear",
+        "la cocina murciana",
+        "la cocina alemana"
+      ],
+      "answer": [
+        "la cocina colombiana"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «ratatouille»?",
+      "options": [
+        "la cocina india",
+        "la cocina libanesa",
+        "la cocina gallega",
+        "la cocina murciana"
+      ],
+      "answer": [
+        "la cocina francesa"
+      ]
+    },
+    {
+      "text": "¿Qué cocina tiene entre sus platos «tarta de Santiago»?",
+      "options": [
+        "la cocina alemana",
+        "la cocina castellana",
+        "la cocina madrileña",
+        "la cocina valenciana"
+      ],
+      "answer": [
+        "la cocina gallega"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «butifarra con judías»?",
+      "options": [
+        "la cocina andaluza",
+        "la cocina manchega",
+        "la cocina japonesa",
+        "la cocina argentina",
+        "la cocina marroquí"
+      ],
+      "answer": [
+        "la cocina catalana"
+      ]
+    },
+    {
+      "text": "¿Qué plato de esta lista es tradicional en la cocina colombiana?",
+      "options": [
+        "lahmacun",
+        "pho",
+        "pide",
+        "tabulé",
+        "pastela"
+      ],
+      "answer": [
+        "arepas"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «ají de gallina»?",
+      "options": [
+        "la cocina cántabra",
+        "la cocina mexicana",
+        "la cocina valenciana",
+        "la cocina cubana",
+        "la cocina china"
+      ],
+      "answer": [
+        "la cocina peruana"
+      ]
+    },
+    {
+      "text": "¿En qué cocina se prepara tradicionalmente «tajín»?",
+      "options": [
+        "la cocina valenciana",
+        "la cocina catalana",
+        "la cocina coreana",
+        "la cocina francesa",
+        "la cocina japonesa"
+      ],
+      "answer": [
+        "la cocina marroquí"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «chistorra»?",
+      "options": [
+        "la cocina vietnamita",
+        "la cocina china",
+        "la cocina madrileña",
+        "la cocina libanesa",
+        "la cocina coreana"
+      ],
+      "answer": [
+        "la cocina navarra"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos platos es típico de la cocina murciana?",
+      "options": [
+        "hummus",
+        "tallarines salteados",
+        "pisto",
+        "pide",
+        "tom yam"
+      ],
+      "answer": [
+        "caldero"
+      ]
+    },
+    {
+      "text": "¿A qué cocina pertenece «pho»?",
+      "options": [
+        "la cocina brasileña",
+        "la cocina tailandesa",
+        "la cocina griega",
+        "la cocina madrileña",
+        "la cocina alemana"
+      ],
+      "answer": [
+        "la cocina vietnamita"
+      ]
+    },
+    {
+      "text": "¿Qué plato pertenece a la cocina vasca?",
+      "options": [
+        "lacón con grelos",
+        "lasaña",
+        "ajoarriero",
+        "risotto"
+      ],
+      "answer": [
+        "bacalao al pil-pil"
+      ]
+    },
+    {
+      "text": "¿De qué cocina es tradicional el plato «cocido montañés»?",
+      "options": [
+        "la cocina murciana",
+        "la cocina canaria",
+        "la cocina vasca",
+        "la cocina colombiana",
+        "la cocina vietnamita",
+        "la cocina japonesa"
+      ],
+      "answer": [
+        "la cocina cántabra"
+      ]
+    },
+    {
+      "text": "¿Qué plato de esta lista es tradicional en la cocina gallega?",
+      "options": [
+        "pollo tandoori",
+        "queso de Cabrales",
+        "bandeja paisa",
+        "morcilla de Burgos",
+        "moussaka"
+      ],
+      "answer": [
+        "lacón con grelos"
+      ]
+    },
+    {
+      "text": "¿El plato «horchata de chufa» es típico de qué cocina?",
+      "options": [
+        "la cocina castellana",
+        "la cocina catalana",
+        "la cocina manchega",
+        "la cocina navarra",
+        "la cocina mexicana"
+      ],
+      "answer": [
+        "la cocina valenciana"
+      ]
+    },
+    {
+      "text": "¿El plato «ropa vieja» es típico de qué cocina?",
+      "options": [
+        "la cocina navarra",
+        "la cocina andaluza",
+        "la cocina italiana",
+        "la cocina balear",
+        "la cocina madrileña"
+      ],
+      "answer": [
+        "la cocina cubana"
+      ]
+    },
+    {
+      "text": "¿Qué platos pertenecen a la cocina japonesa?",
+      "options": [
+        "pan con tomate",
+        "foie gras",
+        "paparajotes",
+        "ají de gallina"
+      ],
+      "answer": [
+        "ramen",
+        "sushi"
+      ]
+    }
+  ]
+}

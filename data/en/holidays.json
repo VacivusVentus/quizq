@@ -1,0 +1,1599 @@
+{
+  "theme": "Holidays and Their Traditions",
+  "questions": [
+    {
+      "text": "Which holiday does Santa Claus belong to?",
+      "options": [
+        "Veterans Day",
+        "Canada Day",
+        "Labor Day",
+        "Earth Day",
+        "Valentine's Day"
+      ],
+      "answer": [
+        "Christmas"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with the day after Christmas?",
+      "options": [
+        "New Year's Eve",
+        "Mother's Day",
+        "Labor Day",
+        "St Patrick's Day",
+        "Thanksgiving"
+      ],
+      "answer": [
+        "Boxing Day"
+      ]
+    },
+    {
+      "text": "red envelopes — which holiday does it belong to?",
+      "options": [
+        "Kwanzaa",
+        "Veterans Day",
+        "St Patrick's Day",
+        "Boxing Day",
+        "Canada Day",
+        "Diwali"
+      ],
+      "answer": [
+        "Lunar New Year"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with decorated evergreen tree?",
+      "options": [
+        "Hanukkah",
+        "Lunar New Year",
+        "Father's Day",
+        "Mother's Day",
+        "Juneteenth"
+      ],
+      "answer": [
+        "Christmas"
+      ]
+    },
+    {
+      "text": "Name the holiday that features the twenty-second of April.",
+      "options": [
+        "Eid al-Fitr",
+        "Halloween",
+        "Australia Day",
+        "St Patrick's Day",
+        "Bastille Day"
+      ],
+      "answer": [
+        "Earth Day"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with sweet pastries?",
+      "options": [
+        "Hanukkah",
+        "April Fools' Day",
+        "Father's Day",
+        "Independence Day",
+        "Guy Fawkes Night"
+      ],
+      "answer": [
+        "Eid al-Fitr"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with the menorah?",
+      "options": [
+        "Juneteenth",
+        "Guy Fawkes Night",
+        "Earth Day",
+        "Thanksgiving"
+      ],
+      "answer": [
+        "Hanukkah"
+      ]
+    },
+    {
+      "text": "Which holiday is known for a shadow predicting spring?",
+      "options": [
+        "Bastille Day",
+        "Ramadan",
+        "St Patrick's Day",
+        "Independence Day",
+        "Thanksgiving"
+      ],
+      "answer": [
+        "Groundhog Day"
+      ]
+    },
+    {
+      "text": "Name the holiday that features countdown to midnight.",
+      "options": [
+        "Christmas",
+        "Hanukkah",
+        "Cinco de Mayo",
+        "Memorial Day",
+        "Diwali"
+      ],
+      "answer": [
+        "New Year's Eve"
+      ]
+    },
+    {
+      "text": "Which of these is a custom of Day of the Dead?",
+      "options": [
+        "rangoli patterns",
+        "backyard barbecues",
+        "the kinara",
+        "hunts and sporting events",
+        "carnations"
+      ],
+      "answer": [
+        "sugar skulls"
+      ]
+    },
+    {
+      "text": "Which holiday is known for lion dances?",
+      "options": [
+        "Independence Day",
+        "Boxing Day",
+        "Canada Day",
+        "Ramadan"
+      ],
+      "answer": [
+        "Lunar New Year"
+      ]
+    },
+    {
+      "text": "trick or treat — which holiday does it belong to?",
+      "options": [
+        "Father's Day",
+        "Valentine's Day",
+        "Oktoberfest",
+        "Hanukkah",
+        "Groundhog Day"
+      ],
+      "answer": [
+        "Halloween"
+      ]
+    },
+    {
+      "text": "stockings by the fireplace — which holiday does it belong to?",
+      "options": [
+        "Valentine's Day",
+        "April Fools' Day",
+        "Ramadan",
+        "Australia Day",
+        "Juneteenth",
+        "New Year's Eve"
+      ],
+      "answer": [
+        "Christmas"
+      ]
+    },
+    {
+      "text": "Which holiday does hunts and sporting events belong to?",
+      "options": [
+        "Thanksgiving",
+        "Ramadan",
+        "Father's Day",
+        "Oktoberfest"
+      ],
+      "answer": [
+        "Boxing Day"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with gifts in boxes for the poor?",
+      "options": [
+        "Easter",
+        "Earth Day",
+        "Mardi Gras",
+        "Hanukkah",
+        "Mother's Day",
+        "Diwali"
+      ],
+      "answer": [
+        "Boxing Day"
+      ]
+    },
+    {
+      "text": "Name the holiday that features exchange of sweets.",
+      "options": [
+        "Eid al-Fitr",
+        "St Patrick's Day",
+        "Valentine's Day",
+        "April Fools' Day",
+        "Cinco de Mayo"
+      ],
+      "answer": [
+        "Diwali"
+      ]
+    },
+    {
+      "text": "Name the holiday that features marigold flowers.",
+      "options": [
+        "Labor Day",
+        "Hanukkah",
+        "Mardi Gras",
+        "Cinco de Mayo",
+        "Kwanzaa",
+        "Halloween"
+      ],
+      "answer": [
+        "Day of the Dead"
+      ]
+    },
+    {
+      "text": "Select two things associated with Canada Day.",
+      "options": [
+        "the last Monday of May",
+        "planting trees",
+        "altars for the dead",
+        "oil lamps",
+        "king cake"
+      ],
+      "answer": [
+        "celebrations in Ottawa",
+        "maple leaf flags"
+      ]
+    },
+    {
+      "text": "Which holiday does dreidel belong to?",
+      "options": [
+        "Juneteenth",
+        "Lunar New Year",
+        "Halloween",
+        "Day of the Dead",
+        "Labor Day"
+      ],
+      "answer": [
+        "Hanukkah"
+      ]
+    },
+    {
+      "text": "Choose two customs of Lunar New Year.",
+      "options": [
+        "backyard barbecues",
+        "masks",
+        "the end of slavery",
+        "a military parade on the Champs Elysees"
+      ],
+      "answer": [
+        "lion dances",
+        "tangerines and oranges"
+      ]
+    },
+    {
+      "text": "the first of July — which holiday does it belong to?",
+      "options": [
+        "Australia Day",
+        "Eid al-Fitr",
+        "Veterans Day",
+        "New Year's Eve",
+        "Memorial Day",
+        "Easter"
+      ],
+      "answer": [
+        "Canada Day"
+      ]
+    },
+    {
+      "text": "Which of these belongs to New Year's Eve?",
+      "options": [
+        "a military parade on the Champs Elysees",
+        "honoring all military veterans",
+        "Punxsutawney Phil",
+        "handmade cards for mothers"
+      ],
+      "answer": [
+        "champagne toast"
+      ]
+    },
+    {
+      "text": "Which holiday does the Australian of the Year awards belong to?",
+      "options": [
+        "New Year's Eve",
+        "Father's Day",
+        "Valentine's Day",
+        "Halloween"
+      ],
+      "answer": [
+        "Australia Day"
+      ]
+    },
+    {
+      "text": "the nineteenth of June — which holiday does it belong to?",
+      "options": [
+        "Guy Fawkes Night",
+        "Groundhog Day",
+        "Memorial Day",
+        "Halloween",
+        "Labor Day"
+      ],
+      "answer": [
+        "Juneteenth"
+      ]
+    },
+    {
+      "text": "fasting from dawn to sunset — which holiday does it belong to?",
+      "options": [
+        "Groundhog Day",
+        "Bastille Day",
+        "Veterans Day",
+        "Valentine's Day",
+        "Day of the Dead"
+      ],
+      "answer": [
+        "Ramadan"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with Auld Lang Syne?",
+      "options": [
+        "Thanksgiving",
+        "Hanukkah",
+        "Kwanzaa",
+        "Boxing Day",
+        "Independence Day",
+        "Diwali"
+      ],
+      "answer": [
+        "New Year's Eve"
+      ]
+    },
+    {
+      "text": "Which holiday does cornucopia belong to?",
+      "options": [
+        "April Fools' Day",
+        "Guy Fawkes Night",
+        "Lunar New Year",
+        "Father's Day",
+        "Diwali"
+      ],
+      "answer": [
+        "Thanksgiving"
+      ]
+    },
+    {
+      "text": "Choose two customs of Groundhog Day.",
+      "options": [
+        "tangerines and oranges",
+        "countdown to midnight",
+        "newspaper hoaxes",
+        "handmade cards for mothers"
+      ],
+      "answer": [
+        "Punxsutawney Phil",
+        "a shadow predicting spring"
+      ]
+    },
+    {
+      "text": "Which of these is a custom of Christmas?",
+      "options": [
+        "bonfires",
+        "the end of slavery",
+        "handmade cards for mothers",
+        "the nineteenth of June"
+      ],
+      "answer": [
+        "nativity scene"
+      ]
+    },
+    {
+      "text": "Name the holiday that features tangerines and oranges.",
+      "options": [
+        "New Year's Eve",
+        "Easter",
+        "Boxing Day",
+        "Mardi Gras",
+        "Valentine's Day"
+      ],
+      "answer": [
+        "Lunar New Year"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with tools as gifts?",
+      "options": [
+        "Boxing Day",
+        "Earth Day",
+        "Eid al-Fitr",
+        "Lunar New Year",
+        "Hanukkah"
+      ],
+      "answer": [
+        "Father's Day"
+      ]
+    },
+    {
+      "text": "Which holiday does new clothes belong to?",
+      "options": [
+        "Memorial Day",
+        "Labor Day",
+        "Boxing Day",
+        "Canada Day",
+        "Father's Day"
+      ],
+      "answer": [
+        "Eid al-Fitr"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with roast turkey?",
+      "options": [
+        "Bastille Day",
+        "Father's Day",
+        "Guy Fawkes Night",
+        "Ramadan"
+      ],
+      "answer": [
+        "Thanksgiving"
+      ]
+    },
+    {
+      "text": "Which holiday is known for altars for the dead?",
+      "options": [
+        "Cinco de Mayo",
+        "Valentine's Day",
+        "Oktoberfest",
+        "Labor Day",
+        "New Year's Eve"
+      ],
+      "answer": [
+        "Day of the Dead"
+      ]
+    },
+    {
+      "text": "What is associated with Diwali?",
+      "options": [
+        "eight nights",
+        "shamrocks",
+        "the twenty-second of April",
+        "pretzels",
+        "king cake",
+        "beer tents"
+      ],
+      "answer": [
+        "oil lamps"
+      ]
+    },
+    {
+      "text": "Which of these belongs to Thanksgiving?",
+      "options": [
+        "hunts and sporting events",
+        "Auld Lang Syne",
+        "dreidel",
+        "altars for the dead",
+        "nightly prayers",
+        "flags on graves"
+      ],
+      "answer": [
+        "pumpkin pie"
+      ]
+    },
+    {
+      "text": "Which of these traditions is part of Guy Fawkes Night?",
+      "options": [
+        "Auld Lang Syne",
+        "roast turkey",
+        "trick or treat",
+        "decorated evergreen tree",
+        "the battle of Puebla"
+      ],
+      "answer": [
+        "effigies of Guy Fawkes"
+      ]
+    },
+    {
+      "text": "planting trees — which holiday does it belong to?",
+      "options": [
+        "Ramadan",
+        "Canada Day",
+        "Australia Day",
+        "Juneteenth",
+        "Oktoberfest",
+        "Guy Fawkes Night"
+      ],
+      "answer": [
+        "Earth Day"
+      ]
+    },
+    {
+      "text": "What is associated with St Patrick's Day?",
+      "options": [
+        "a military parade on the Champs Elysees",
+        "the kinara",
+        "roast turkey",
+        "carnations",
+        "king cake"
+      ],
+      "answer": [
+        "leprechauns"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with the twenty-sixth of January?",
+      "options": [
+        "Cinco de Mayo",
+        "Mother's Day",
+        "Easter",
+        "Labor Day",
+        "Boxing Day"
+      ],
+      "answer": [
+        "Australia Day"
+      ]
+    },
+    {
+      "text": "What is associated with Independence Day?",
+      "options": [
+        "hunts and sporting events",
+        "the second of February",
+        "cleaning up litter",
+        "king cake"
+      ],
+      "answer": [
+        "backyard barbecues"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with fireworks?",
+      "options": [
+        "Memorial Day",
+        "Guy Fawkes Night",
+        "Labor Day",
+        "Juneteenth"
+      ],
+      "answer": [
+        "Independence Day"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with the eleventh of November?",
+      "options": [
+        "Earth Day",
+        "Ramadan",
+        "New Year's Eve",
+        "St Patrick's Day",
+        "Independence Day",
+        "Canada Day"
+      ],
+      "answer": [
+        "Veterans Day"
+      ]
+    },
+    {
+      "text": "Which holiday does grilling equipment belong to?",
+      "options": [
+        "New Year's Eve",
+        "Bastille Day",
+        "Boxing Day",
+        "Oktoberfest",
+        "April Fools' Day"
+      ],
+      "answer": [
+        "Father's Day"
+      ]
+    },
+    {
+      "text": "Name the holiday that features egg hunt.",
+      "options": [
+        "Bastille Day",
+        "Groundhog Day",
+        "Guy Fawkes Night",
+        "Juneteenth",
+        "April Fools' Day"
+      ],
+      "answer": [
+        "Easter"
+      ]
+    },
+    {
+      "text": "Name the holiday that features red velvet cake.",
+      "options": [
+        "Father's Day",
+        "Cinco de Mayo",
+        "Diwali",
+        "Independence Day",
+        "Eid al-Fitr",
+        "Australia Day"
+      ],
+      "answer": [
+        "Juneteenth"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with pumpkin pie?",
+      "options": [
+        "Canada Day",
+        "Eid al-Fitr",
+        "Diwali",
+        "Valentine's Day",
+        "Veterans Day"
+      ],
+      "answer": [
+        "Thanksgiving"
+      ]
+    },
+    {
+      "text": "flags on graves — which holiday does it belong to?",
+      "options": [
+        "Groundhog Day",
+        "Labor Day",
+        "Thanksgiving",
+        "Ramadan",
+        "Earth Day",
+        "Mardi Gras"
+      ],
+      "answer": [
+        "Memorial Day"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with neckties?",
+      "options": [
+        "Halloween",
+        "Kwanzaa",
+        "New Year's Eve",
+        "Independence Day"
+      ],
+      "answer": [
+        "Father's Day"
+      ]
+    },
+    {
+      "text": "Which of these belongs to Easter?",
+      "options": [
+        "nativity scene",
+        "backyard barbecues",
+        "marigold flowers",
+        "the end of slavery",
+        "planting trees",
+        "Auld Lang Syne"
+      ],
+      "answer": [
+        "egg hunt"
+      ]
+    },
+    {
+      "text": "Which holiday does newspaper hoaxes belong to?",
+      "options": [
+        "Bastille Day",
+        "Easter",
+        "Boxing Day",
+        "New Year's Eve",
+        "Cinco de Mayo"
+      ],
+      "answer": [
+        "April Fools' Day"
+      ]
+    },
+    {
+      "text": "Which of these traditions is part of Labor Day?",
+      "options": [
+        "mole poblano",
+        "Auld Lang Syne",
+        "the first fruits harvest",
+        "newspaper hoaxes",
+        "champagne toast"
+      ],
+      "answer": [
+        "a rest day for workers"
+      ]
+    },
+    {
+      "text": "Name the holiday that features nightly prayers.",
+      "options": [
+        "Labor Day",
+        "Independence Day",
+        "Memorial Day",
+        "St Patrick's Day",
+        "Father's Day",
+        "Guy Fawkes Night"
+      ],
+      "answer": [
+        "Ramadan"
+      ]
+    },
+    {
+      "text": "Which holiday is known for wearing green?",
+      "options": [
+        "Mardi Gras",
+        "Labor Day",
+        "Juneteenth",
+        "Guy Fawkes Night",
+        "Father's Day"
+      ],
+      "answer": [
+        "St Patrick's Day"
+      ]
+    },
+    {
+      "text": "Name the holiday that features leprechauns.",
+      "options": [
+        "Ramadan",
+        "Oktoberfest",
+        "Labor Day",
+        "Groundhog Day",
+        "Lunar New Year",
+        "New Year's Eve"
+      ],
+      "answer": [
+        "St Patrick's Day"
+      ]
+    },
+    {
+      "text": "dyed eggs — which holiday does it belong to?",
+      "options": [
+        "Bastille Day",
+        "Hanukkah",
+        "New Year's Eve",
+        "Juneteenth",
+        "Veterans Day",
+        "Kwanzaa"
+      ],
+      "answer": [
+        "Easter"
+      ]
+    },
+    {
+      "text": "Name the holiday that features a national moment of remembrance.",
+      "options": [
+        "Hanukkah",
+        "Kwanzaa",
+        "Juneteenth",
+        "Oktoberfest",
+        "Mother's Day"
+      ],
+      "answer": [
+        "Memorial Day"
+      ]
+    },
+    {
+      "text": "Which holiday is known for costume parties?",
+      "options": [
+        "Bastille Day",
+        "Eid al-Fitr",
+        "Thanksgiving",
+        "Lunar New Year",
+        "Kwanzaa"
+      ],
+      "answer": [
+        "Halloween"
+      ]
+    },
+    {
+      "text": "Which holiday does the armistice of the first world war belong to?",
+      "options": [
+        "Diwali",
+        "Eid al-Fitr",
+        "Halloween",
+        "St Patrick's Day"
+      ],
+      "answer": [
+        "Veterans Day"
+      ]
+    },
+    {
+      "text": "Which holiday does pretzels belong to?",
+      "options": [
+        "Juneteenth",
+        "Memorial Day",
+        "Christmas",
+        "Father's Day"
+      ],
+      "answer": [
+        "Oktoberfest"
+      ]
+    },
+    {
+      "text": "Which holiday is known for cleaning up litter?",
+      "options": [
+        "Mardi Gras",
+        "Hanukkah",
+        "Thanksgiving",
+        "Kwanzaa"
+      ],
+      "answer": [
+        "Earth Day"
+      ]
+    },
+    {
+      "text": "Name the holiday that features effigies of Guy Fawkes.",
+      "options": [
+        "Memorial Day",
+        "Bastille Day",
+        "Thanksgiving",
+        "Day of the Dead",
+        "Mother's Day"
+      ],
+      "answer": [
+        "Guy Fawkes Night"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with honoring all military veterans?",
+      "options": [
+        "Oktoberfest",
+        "Lunar New Year",
+        "Eid al-Fitr",
+        "April Fools' Day",
+        "Easter"
+      ],
+      "answer": [
+        "Veterans Day"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with masks?",
+      "options": [
+        "Earth Day",
+        "Groundhog Day",
+        "Boxing Day",
+        "April Fools' Day",
+        "Easter",
+        "Independence Day"
+      ],
+      "answer": [
+        "Mardi Gras"
+      ]
+    },
+    {
+      "text": "Which of these traditions is part of Cinco de Mayo?",
+      "options": [
+        "celebrations in Ottawa",
+        "red roses",
+        "a rest day for workers",
+        "the end of summer",
+        "the second of February"
+      ],
+      "answer": [
+        "mole poblano"
+      ]
+    },
+    {
+      "text": "Which holiday is known for breakfast in bed?",
+      "options": [
+        "Lunar New Year",
+        "Guy Fawkes Night",
+        "Canada Day",
+        "Father's Day",
+        "Eid al-Fitr"
+      ],
+      "answer": [
+        "Mother's Day"
+      ]
+    },
+    {
+      "text": "Which holiday does king cake belong to?",
+      "options": [
+        "New Year's Eve",
+        "Father's Day",
+        "Veterans Day",
+        "Thanksgiving"
+      ],
+      "answer": [
+        "Mardi Gras"
+      ]
+    },
+    {
+      "text": "Which two of these belong to Memorial Day?",
+      "options": [
+        "gifts in boxes for the poor",
+        "sweet pastries",
+        "the first Monday of September",
+        "the first of July",
+        "grilling equipment",
+        "dreidel"
+      ],
+      "answer": [
+        "flags on graves",
+        "a national moment of remembrance"
+      ]
+    },
+    {
+      "text": "carnations — which holiday does it belong to?",
+      "options": [
+        "Lunar New Year",
+        "Canada Day",
+        "Veterans Day",
+        "Labor Day",
+        "Diwali"
+      ],
+      "answer": [
+        "Mother's Day"
+      ]
+    },
+    {
+      "text": "Name a custom of Mardi Gras.",
+      "options": [
+        "Auld Lang Syne",
+        "the nineteenth of June",
+        "decorated evergreen tree",
+        "the gunpowder plot",
+        "Punxsutawney Phil"
+      ],
+      "answer": [
+        "king cake"
+      ]
+    },
+    {
+      "text": "Which holiday is known for the pre-dawn meal?",
+      "options": [
+        "Cinco de Mayo",
+        "Guy Fawkes Night",
+        "Labor Day",
+        "Halloween",
+        "New Year's Eve"
+      ],
+      "answer": [
+        "Ramadan"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with seven principles?",
+      "options": [
+        "Cinco de Mayo",
+        "Guy Fawkes Night",
+        "Boxing Day",
+        "Eid al-Fitr",
+        "Oktoberfest"
+      ],
+      "answer": [
+        "Kwanzaa"
+      ]
+    },
+    {
+      "text": "Name the holiday that features the second of February.",
+      "options": [
+        "April Fools' Day",
+        "Guy Fawkes Night",
+        "Ramadan",
+        "Boxing Day",
+        "Day of the Dead",
+        "Diwali"
+      ],
+      "answer": [
+        "Groundhog Day"
+      ]
+    },
+    {
+      "text": "Which two of these belong to Juneteenth?",
+      "options": [
+        "grilling equipment",
+        "a shadow predicting spring",
+        "the first day of Shawwal",
+        "nativity scene",
+        "the end of summer",
+        "sweet pastries"
+      ],
+      "answer": [
+        "the end of slavery",
+        "red velvet cake"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with the first Monday of September?",
+      "options": [
+        "Boxing Day",
+        "Veterans Day",
+        "Guy Fawkes Night",
+        "Hanukkah",
+        "Valentine's Day"
+      ],
+      "answer": [
+        "Labor Day"
+      ]
+    },
+    {
+      "text": "bonfires — which holiday does it belong to?",
+      "options": [
+        "Father's Day",
+        "Oktoberfest",
+        "April Fools' Day",
+        "Valentine's Day",
+        "Canada Day",
+        "New Year's Eve"
+      ],
+      "answer": [
+        "Guy Fawkes Night"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with the storming of the Bastille?",
+      "options": [
+        "Veterans Day",
+        "Hanukkah",
+        "Memorial Day",
+        "Lunar New Year"
+      ],
+      "answer": [
+        "Bastille Day"
+      ]
+    },
+    {
+      "text": "Which holiday does the fourth of July belong to?",
+      "options": [
+        "Australia Day",
+        "Christmas",
+        "Mother's Day",
+        "New Year's Eve",
+        "Veterans Day"
+      ],
+      "answer": [
+        "Independence Day"
+      ]
+    },
+    {
+      "text": "Which holiday is known for chocolate bunnies?",
+      "options": [
+        "Ramadan",
+        "Cinco de Mayo",
+        "Independence Day",
+        "Christmas"
+      ],
+      "answer": [
+        "Easter"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with beer tents?",
+      "options": [
+        "Independence Day",
+        "Valentine's Day",
+        "St Patrick's Day",
+        "Bastille Day",
+        "Easter"
+      ],
+      "answer": [
+        "Oktoberfest"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with the first of April?",
+      "options": [
+        "Labor Day",
+        "Bastille Day",
+        "Kwanzaa",
+        "Juneteenth",
+        "Ramadan"
+      ],
+      "answer": [
+        "April Fools' Day"
+      ]
+    },
+    {
+      "text": "Which holiday is known for mariachi music?",
+      "options": [
+        "New Year's Eve",
+        "Juneteenth",
+        "Hanukkah",
+        "Groundhog Day",
+        "Day of the Dead"
+      ],
+      "answer": [
+        "Cinco de Mayo"
+      ]
+    },
+    {
+      "text": "Which of these belongs to Eid al-Fitr?",
+      "options": [
+        "a rest day for workers",
+        "a military parade on the Champs Elysees",
+        "cleaning up litter",
+        "beads",
+        "the twenty-second of April"
+      ],
+      "answer": [
+        "the first day of Shawwal"
+      ]
+    },
+    {
+      "text": "Which holiday is known for the last Monday of May?",
+      "options": [
+        "Veterans Day",
+        "Christmas",
+        "Father's Day",
+        "Easter"
+      ],
+      "answer": [
+        "Memorial Day"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with beads?",
+      "options": [
+        "Boxing Day",
+        "Kwanzaa",
+        "Memorial Day",
+        "Day of the Dead",
+        "Cinco de Mayo"
+      ],
+      "answer": [
+        "Mardi Gras"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with chocolate hearts?",
+      "options": [
+        "Ramadan",
+        "Australia Day",
+        "Groundhog Day",
+        "April Fools' Day",
+        "Independence Day"
+      ],
+      "answer": [
+        "Valentine's Day"
+      ]
+    },
+    {
+      "text": "Name the holiday that features handmade cards for mothers.",
+      "options": [
+        "Valentine's Day",
+        "Diwali",
+        "April Fools' Day",
+        "Ramadan",
+        "Earth Day",
+        "Eid al-Fitr"
+      ],
+      "answer": [
+        "Mother's Day"
+      ]
+    },
+    {
+      "text": "Which holiday is known for rangoli patterns?",
+      "options": [
+        "Kwanzaa",
+        "Oktoberfest",
+        "Father's Day",
+        "Lunar New Year"
+      ],
+      "answer": [
+        "Diwali"
+      ]
+    },
+    {
+      "text": "Which two traditions are part of Oktoberfest?",
+      "options": [
+        "champagne toast",
+        "a rest day for workers",
+        "bobbing for apples",
+        "the day after Christmas",
+        "altars for the dead"
+      ],
+      "answer": [
+        "beer tents",
+        "pretzels"
+      ]
+    },
+    {
+      "text": "Which holiday is known for the end of slavery?",
+      "options": [
+        "Easter",
+        "St Patrick's Day",
+        "Halloween",
+        "Guy Fawkes Night",
+        "Mother's Day"
+      ],
+      "answer": [
+        "Juneteenth"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with the end of summer?",
+      "options": [
+        "Groundhog Day",
+        "Valentine's Day",
+        "Christmas",
+        "Earth Day",
+        "Lunar New Year",
+        "Memorial Day"
+      ],
+      "answer": [
+        "Labor Day"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with backyard barbecues?",
+      "options": [
+        "Oktoberfest",
+        "Mardi Gras",
+        "Labor Day",
+        "Father's Day",
+        "Groundhog Day"
+      ],
+      "answer": [
+        "Independence Day"
+      ]
+    },
+    {
+      "text": "shamrocks — which holiday does it belong to?",
+      "options": [
+        "Labor Day",
+        "Father's Day",
+        "Mother's Day",
+        "Halloween",
+        "Earth Day"
+      ],
+      "answer": [
+        "St Patrick's Day"
+      ]
+    },
+    {
+      "text": "Which holiday is known for nativity scene?",
+      "options": [
+        "April Fools' Day",
+        "Ramadan",
+        "St Patrick's Day",
+        "Halloween"
+      ],
+      "answer": [
+        "Christmas"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with the first day of Shawwal?",
+      "options": [
+        "Thanksgiving",
+        "Oktoberfest",
+        "Cinco de Mayo",
+        "Memorial Day"
+      ],
+      "answer": [
+        "Eid al-Fitr"
+      ]
+    },
+    {
+      "text": "Which holiday does a military parade on the Champs Elysees belong to?",
+      "options": [
+        "Veterans Day",
+        "Australia Day",
+        "Thanksgiving",
+        "Halloween",
+        "Boxing Day"
+      ],
+      "answer": [
+        "Bastille Day"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with the fourteenth of July?",
+      "options": [
+        "Ramadan",
+        "Memorial Day",
+        "Hanukkah",
+        "New Year's Eve",
+        "Mardi Gras"
+      ],
+      "answer": [
+        "Bastille Day"
+      ]
+    },
+    {
+      "text": "Which holiday is known for the gunpowder plot?",
+      "options": [
+        "St Patrick's Day",
+        "Bastille Day",
+        "April Fools' Day",
+        "Mother's Day"
+      ],
+      "answer": [
+        "Guy Fawkes Night"
+      ]
+    },
+    {
+      "text": "oil lamps — which holiday does it belong to?",
+      "options": [
+        "Canada Day",
+        "Eid al-Fitr",
+        "Day of the Dead",
+        "St Patrick's Day",
+        "Halloween",
+        "Bastille Day"
+      ],
+      "answer": [
+        "Diwali"
+      ]
+    },
+    {
+      "text": "Punxsutawney Phil — which holiday does it belong to?",
+      "options": [
+        "Diwali",
+        "Day of the Dead",
+        "April Fools' Day",
+        "Bastille Day",
+        "Christmas"
+      ],
+      "answer": [
+        "Groundhog Day"
+      ]
+    },
+    {
+      "text": "Which of these traditions is part of Boxing Day?",
+      "options": [
+        "mariachi music",
+        "beads",
+        "fireworks",
+        "the first of April",
+        "fasting from dawn to sunset",
+        "the menorah"
+      ],
+      "answer": [
+        "gifts in boxes for the poor"
+      ]
+    },
+    {
+      "text": "sugar skulls — which holiday does it belong to?",
+      "options": [
+        "Earth Day",
+        "Christmas",
+        "Thanksgiving",
+        "Groundhog Day",
+        "Mardi Gras"
+      ],
+      "answer": [
+        "Day of the Dead"
+      ]
+    },
+    {
+      "text": "Name the holiday that features celebrations in Ottawa.",
+      "options": [
+        "Hanukkah",
+        "Groundhog Day",
+        "Juneteenth",
+        "Earth Day",
+        "Labor Day"
+      ],
+      "answer": [
+        "Canada Day"
+      ]
+    },
+    {
+      "text": "Name the holiday that features mole poblano.",
+      "options": [
+        "Canada Day",
+        "St Patrick's Day",
+        "New Year's Eve",
+        "Labor Day",
+        "Veterans Day",
+        "Day of the Dead"
+      ],
+      "answer": [
+        "Cinco de Mayo"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with the kinara?",
+      "options": [
+        "Lunar New Year",
+        "Hanukkah",
+        "Halloween",
+        "Mardi Gras"
+      ],
+      "answer": [
+        "Kwanzaa"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with lederhosen?",
+      "options": [
+        "Memorial Day",
+        "Mardi Gras",
+        "Father's Day",
+        "St Patrick's Day",
+        "Valentine's Day",
+        "New Year's Eve"
+      ],
+      "answer": [
+        "Oktoberfest"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with eight nights?",
+      "options": [
+        "Easter",
+        "Father's Day",
+        "Oktoberfest",
+        "Mother's Day",
+        "Veterans Day"
+      ],
+      "answer": [
+        "Hanukkah"
+      ]
+    },
+    {
+      "text": "Which holiday does red roses belong to?",
+      "options": [
+        "Easter",
+        "Boxing Day",
+        "Bastille Day",
+        "Oktoberfest"
+      ],
+      "answer": [
+        "Valentine's Day"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with champagne toast?",
+      "options": [
+        "Valentine's Day",
+        "Thanksgiving",
+        "Kwanzaa",
+        "Day of the Dead",
+        "Oktoberfest"
+      ],
+      "answer": [
+        "New Year's Eve"
+      ]
+    },
+    {
+      "text": "Which two traditions are part of Bastille Day?",
+      "options": [
+        "the last Monday of May",
+        "sweet pastries",
+        "red roses",
+        "maple leaf flags",
+        "king cake"
+      ],
+      "answer": [
+        "the fourteenth of July",
+        "a military parade on the Champs Elysees"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with love letters?",
+      "options": [
+        "Kwanzaa",
+        "Canada Day",
+        "Father's Day",
+        "Diwali",
+        "St Patrick's Day",
+        "Bastille Day"
+      ],
+      "answer": [
+        "Valentine's Day"
+      ]
+    },
+    {
+      "text": "Select two things associated with Halloween.",
+      "options": [
+        "the end of summer",
+        "a shadow predicting spring",
+        "egg hunt",
+        "a national moment of remembrance",
+        "planting trees"
+      ],
+      "answer": [
+        "bobbing for apples",
+        "costume parties"
+      ]
+    },
+    {
+      "text": "Name a custom of Mother's Day.",
+      "options": [
+        "the twenty-second of April",
+        "the fourteenth of July",
+        "chocolate bunnies",
+        "cornucopia"
+      ],
+      "answer": [
+        "breakfast in bed"
+      ]
+    },
+    {
+      "text": "Which holiday is known for maple leaf flags?",
+      "options": [
+        "New Year's Eve",
+        "Eid al-Fitr",
+        "Valentine's Day",
+        "Christmas"
+      ],
+      "answer": [
+        "Canada Day"
+      ]
+    },
+    {
+      "text": "Which holiday is connected with practical jokes?",
+      "options": [
+        "Mother's Day",
+        "Christmas",
+        "Guy Fawkes Night",
+        "Mardi Gras"
+      ],
+      "answer": [
+        "April Fools' Day"
+      ]
+    },
+    {
+      "text": "Which holiday is associated with citizenship ceremonies?",
+      "options": [
+        "Christmas",
+        "Halloween",
+        "Earth Day",
+        "Mardi Gras",
+        "Memorial Day",
+        "Labor Day"
+      ],
+      "answer": [
+        "Australia Day"
+      ]
+    },
+    {
+      "text": "Which of these is a custom of Hanukkah?",
+      "options": [
+        "flags on graves",
+        "the eleventh of November",
+        "lederhosen",
+        "sugar skulls",
+        "tangerines and oranges"
+      ],
+      "answer": [
+        "the menorah"
+      ]
+    },
+    {
+      "text": "Which holiday does the first fruits harvest belong to?",
+      "options": [
+        "Canada Day",
+        "Guy Fawkes Night",
+        "Thanksgiving",
+        "Veterans Day",
+        "Halloween"
+      ],
+      "answer": [
+        "Kwanzaa"
+      ]
+    },
+    {
+      "text": "Which holiday does a rest day for workers belong to?",
+      "options": [
+        "Halloween",
+        "Guy Fawkes Night",
+        "Memorial Day",
+        "Kwanzaa"
+      ],
+      "answer": [
+        "Labor Day"
+      ]
+    },
+    {
+      "text": "Which holiday does jack-o-lantern belong to?",
+      "options": [
+        "Hanukkah",
+        "Diwali",
+        "Cinco de Mayo",
+        "Lunar New Year"
+      ],
+      "answer": [
+        "Halloween"
+      ]
+    },
+    {
+      "text": "Name the holiday that features bobbing for apples.",
+      "options": [
+        "Kwanzaa",
+        "Easter",
+        "Hanukkah",
+        "Lunar New Year",
+        "Juneteenth",
+        "Christmas"
+      ],
+      "answer": [
+        "Halloween"
+      ]
+    },
+    {
+      "text": "the battle of Puebla — which holiday does it belong to?",
+      "options": [
+        "Day of the Dead",
+        "Memorial Day",
+        "Eid al-Fitr",
+        "Guy Fawkes Night",
+        "Earth Day"
+      ],
+      "answer": [
+        "Cinco de Mayo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2023 @@
+{
+  "theme": "Obras y sus autores",
+  "questions": [
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a David Alfaro Siqueiros?",
+      "options": [
+        "Conversación en La Catedral",
+        "San Hugo en el refectorio",
+        "Ismaelillo",
+        "La familia de Pascual Duarte",
+        "Tierra de promisión"
+      ],
+      "answer": [
+        "La marcha de la humanidad",
+        "Eco del grito"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Fernando Trueba?",
+      "options": [
+        "Cien años de soledad",
+        "Niebla",
+        "Aires gitanos",
+        "La casa de Bernarda Alba",
+        "Sobre los ángeles"
+      ],
+      "answer": [
+        "Belle Époque"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Isabel Allende?",
+      "options": [
+        "Eco del grito",
+        "Las Meninas",
+        "Novelas ejemplares",
+        "El sueño de los héroes"
+      ],
+      "answer": [
+        "Eva Luna",
+        "La casa de los espíritus"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Benito Pérez Galdós?",
+      "options": [
+        "Canaima",
+        "Sensemayá",
+        "Prosas profanas",
+        "Primera memoria",
+        "Romancero gitano"
+      ],
+      "answer": [
+        "Doña Perfecta"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Bartolomé Esteban Murillo?",
+      "options": [
+        "El cuarto de atrás",
+        "El ángel exterminador",
+        "Leyendas",
+        "Canto general"
+      ],
+      "answer": [
+        "La Inmaculada"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Francisco de Zurbarán?",
+      "options": [
+        "Fuenteovejuna",
+        "Janitzio",
+        "También la lluvia",
+        "Soledades",
+        "Mujeres al borde de un ataque de nervios"
+      ],
+      "answer": [
+        "Bodegón con cacharros"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Gustavo Adolfo Bécquer?",
+      "options": [
+        "El perro del hortelano",
+        "Cinco horas con Mario",
+        "Todo sobre mi madre",
+        "El caballero de la mano en el pecho",
+        "Crónica de una muerte anunciada"
+      ],
+      "answer": [
+        "Leyendas"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Vicente Aleixandre.",
+      "options": [
+        "El carnaval del arlequín",
+        "Primera memoria",
+        "Bienvenido Mister Marshall",
+        "San Manuel Bueno mártir",
+        "Cantares gallegos"
+      ],
+      "answer": [
+        "Sombra del paraíso",
+        "La destrucción o el amor"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Luis García Berlanga?",
+      "options": [
+        "La muerte de Artemio Cruz",
+        "San Hugo en el refectorio",
+        "Canaima",
+        "Conversación en La Catedral"
+      ],
+      "answer": [
+        "El verdugo",
+        "Bienvenido Mister Marshall"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Vicente Aleixandre?",
+      "options": [
+        "La sagrada familia",
+        "Sobre héroes y tumbas",
+        "La maja desnuda",
+        "Fuenteovejuna",
+        "La vorágine"
+      ],
+      "answer": [
+        "Sombra del paraíso"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Octavio Paz?",
+      "options": [
+        "El patizambo",
+        "Barrio",
+        "Primera memoria",
+        "Doña Perfecta",
+        "La vorágine"
+      ],
+      "answer": [
+        "El laberinto de la soledad"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Diego Rivera?",
+      "options": [
+        "La destrucción o el amor",
+        "Yerma",
+        "La Celestina",
+        "Romancero gitano"
+      ],
+      "answer": [
+        "El hombre en el cruce",
+        "Sueño de una tarde dominical en la Alameda Central"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Mario Vargas Llosa?",
+      "options": [
+        "El verdugo",
+        "Roma",
+        "Volver",
+        "Don Quijote de la Mancha",
+        "La invención de Morel"
+      ],
+      "answer": [
+        "La casa verde",
+        "La ciudad y los perros"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Frida Kahlo?",
+      "options": [
+        "El artista y la modelo",
+        "Entre visillos",
+        "Chôros",
+        "Sueño de una tarde dominical en la Alameda Central",
+        "Mar adentro",
+        "La colmena"
+      ],
+      "answer": [
+        "Autorretrato con monos",
+        "La columna rota"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Ernesto Sábato?",
+      "options": [
+        "Goyescas",
+        "Cien años de soledad",
+        "Versos sencillos",
+        "El llano en llamas",
+        "Primera memoria",
+        "La maja desnuda"
+      ],
+      "answer": [
+        "El túnel",
+        "Sobre héroes y tumbas"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Francisco Tárrega?",
+      "options": [
+        "Leyendas",
+        "El perro del hortelano",
+        "Libertango",
+        "El artista y la modelo"
+      ],
+      "answer": [
+        "Capricho árabe"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Icíar Bollaín?",
+      "options": [
+        "Roma",
+        "El amor en los tiempos del cólera",
+        "Primera memoria",
+        "Y tu mamá también"
+      ],
+      "answer": [
+        "También la lluvia"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Isaac Albéniz?",
+      "options": [
+        "Amores perros",
+        "Platero y yo",
+        "Estancia",
+        "El gran masturbador"
+      ],
+      "answer": [
+        "Iberia",
+        "Suite española"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Jorge Isaacs?",
+      "options": [
+        "Guernica",
+        "Noches en los jardines de España",
+        "La Inmaculada",
+        "Janitzio"
+      ],
+      "answer": [
+        "María"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Ana María Matute?",
+      "options": [
+        "El sombrero de tres picos",
+        "Roma",
+        "Noches en los jardines de España",
+        "Sobre los ángeles"
+      ],
+      "answer": [
+        "Los hijos muertos"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Carmen Martín Gaite?",
+      "options": [
+        "La comunidad",
+        "También la lluvia",
+        "El hombre en el cruce",
+        "Cantares gallegos",
+        "Marinero en tierra",
+        "Campos de Castilla"
+      ],
+      "answer": [
+        "Entre visillos"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Isabel Allende?",
+      "options": [
+        "El artista y la modelo",
+        "Conversación en La Catedral",
+        "El amor en los tiempos del cólera",
+        "El Buscón",
+        "Calle mayor"
+      ],
+      "answer": [
+        "La casa de los espíritus"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Francisco de Quevedo?",
+      "options": [
+        "Recuerdos de la Alhambra",
+        "Don Gil de las calzas verdes",
+        "San Hugo en el refectorio",
+        "La muerte del ángel",
+        "Goyescas"
+      ],
+      "answer": [
+        "El Buscón"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a José Martí?",
+      "options": [
+        "Niebla",
+        "Fuenteovejuna",
+        "Volver a empezar",
+        "Sombra del paraíso",
+        "Eco del grito"
+      ],
+      "answer": [
+        "Ismaelillo",
+        "Versos sencillos"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Pablo Picasso?",
+      "options": [
+        "El orfanato",
+        "El tres de mayo",
+        "La casa de Bernarda Alba",
+        "Rimas",
+        "Su único hijo"
+      ],
+      "answer": [
+        "Guernica"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Heitor Villa-Lobos.",
+      "options": [
+        "El laberinto del fauno",
+        "La Regenta",
+        "Volver",
+        "Diario de un poeta recién casado",
+        "Saturno devorando a su hijo"
+      ],
+      "answer": [
+        "Bachianas brasileiras",
+        "Chôros"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Juan Antonio Bayona?",
+      "options": [
+        "Ismaelillo",
+        "El espíritu de la colmena",
+        "Bestiario",
+        "Goyescas",
+        "El camino",
+        "Doña Bárbara"
+      ],
+      "answer": [
+        "Lo imposible"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Bigas Luna?",
+      "options": [
+        "Mar adentro",
+        "La familia de Pascual Duarte",
+        "Eco del grito",
+        "La casa de Bernarda Alba",
+        "La crucifixión"
+      ],
+      "answer": [
+        "Jamón jamón"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Jorge Luis Borges?",
+      "options": [
+        "Cantares gallegos",
+        "Marinero en tierra",
+        "Soledades",
+        "Niebla",
+        "Estrellita",
+        "Su único hijo"
+      ],
+      "answer": [
+        "El Aleph"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Isaac Albéniz?",
+      "options": [
+        "Sobre los ángeles",
+        "La forma del agua",
+        "Chicos en la playa",
+        "Canto general",
+        "El llano en llamas",
+        "La comunidad"
+      ],
+      "answer": [
+        "Suite española"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Juan Ramón Jiménez?",
+      "options": [
+        "El sur",
+        "Un perro andaluz",
+        "Autorretrato con monos",
+        "El entierro del Señor de Orgaz",
+        "Conversación en La Catedral"
+      ],
+      "answer": [
+        "Diario de un poeta recién casado"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Adolfo Bioy Casares?",
+      "options": [
+        "Todo sobre mi madre",
+        "Sombra del paraíso",
+        "Suite española",
+        "Danzas españolas",
+        "La caza"
+      ],
+      "answer": [
+        "La invención de Morel"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Juan Antonio Bardem?",
+      "options": [
+        "Canaima",
+        "El sombrero de tres picos",
+        "Cantares gallegos",
+        "La comunidad",
+        "La caza",
+        "También la lluvia"
+      ],
+      "answer": [
+        "Calle mayor"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó José Eustasio Rivera?",
+      "options": [
+        "Te doy mis ojos",
+        "El llano en llamas",
+        "Los otros",
+        "El Buscón",
+        "Janitzio"
+      ],
+      "answer": [
+        "La vorágine"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Silvestre Revueltas?",
+      "options": [
+        "Calle mayor",
+        "Suite española",
+        "Muerte de un ciclista",
+        "Piedra de sol",
+        "Veinte poemas de amor y una canción desesperada",
+        "Cien años de soledad"
+      ],
+      "answer": [
+        "Janitzio"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Ernesto Sábato?",
+      "options": [
+        "Fantasía para guitarra",
+        "La vorágine",
+        "Volver",
+        "Barrio"
+      ],
+      "answer": [
+        "El túnel"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Manuel Ponce?",
+      "options": [
+        "Aura",
+        "Recuerdos de la Alhambra",
+        "Eva Luna",
+        "Crónica de una muerte anunciada",
+        "La comunidad",
+        "La paloma"
+      ],
+      "answer": [
+        "Estrellita",
+        "Concierto del sur"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Alejandro Amenábar?",
+      "options": [
+        "Eva Luna",
+        "Barrio",
+        "Un perro andaluz",
+        "El ángel exterminador",
+        "Guernica"
+      ],
+      "answer": [
+        "Mar adentro",
+        "Los otros"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Pedro Almodóvar?",
+      "options": [
+        "Doña Bárbara",
+        "Rimas",
+        "Cuentos de la selva",
+        "La colmena",
+        "Fantasía para un gentilhombre",
+        "El perro del hortelano"
+      ],
+      "answer": [
+        "Todo sobre mi madre"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Joaquín Sorolla?",
+      "options": [
+        "La sagrada familia",
+        "Don Gil de las calzas verdes",
+        "El amor en los tiempos del cólera",
+        "El cuarto de atrás",
+        "La Regenta",
+        "Canción de cuna"
+      ],
+      "answer": [
+        "Paseo a orillas del mar",
+        "Chicos en la playa"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Astor Piazzolla?",
+      "options": [
+        "La vida es sueño",
+        "La comunidad",
+        "El tres de mayo",
+        "Y tu mamá también",
+        "Siboney"
+      ],
+      "answer": [
+        "Adiós Nonino"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Enrique Granados?",
+      "options": [
+        "La vida es sueño",
+        "San Hugo en el refectorio",
+        "La vorágine",
+        "Estancia"
+      ],
+      "answer": [
+        "Danzas españolas"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Miguel de Cervantes?",
+      "options": [
+        "Te doy mis ojos",
+        "El laberinto del fauno",
+        "La casa verde",
+        "Follas novas",
+        "El artista y la modelo",
+        "Sueño de una tarde dominical en la Alameda Central"
+      ],
+      "answer": [
+        "Novelas ejemplares"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Fernando León de Aranoa.",
+      "options": [
+        "El ángel exterminador",
+        "El Buscón",
+        "Los santos inocentes",
+        "El espíritu de la colmena",
+        "Sobre los ángeles"
+      ],
+      "answer": [
+        "Barrio",
+        "Los lunes al sol"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a José Martí?",
+      "options": [
+        "Danzas argentinas",
+        "Sobre los ángeles",
+        "Piedra de sol",
+        "También la lluvia",
+        "Prosas profanas",
+        "Cien años de soledad"
+      ],
+      "answer": [
+        "Versos sencillos"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Juan Rulfo?",
+      "options": [
+        "El caballero de la mano en el pecho",
+        "El camino",
+        "El espíritu de la colmena",
+        "El amor en los tiempos del cólera",
+        "También la lluvia",
+        "El burlador de Sevilla"
+      ],
+      "answer": [
+        "Pedro Páramo",
+        "El llano en llamas"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Miguel de Cervantes?",
+      "options": [
+        "La comunidad",
+        "El patizambo",
+        "Los lunes al sol",
+        "La columna rota",
+        "El túnel",
+        "El llano en llamas"
+      ],
+      "answer": [
+        "Don Quijote de la Mancha",
+        "Novelas ejemplares"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Lope de Vega?",
+      "options": [
+        "Don Quijote de la Mancha",
+        "Eco del grito",
+        "Los santos inocentes",
+        "Canción de cuna",
+        "La columna rota"
+      ],
+      "answer": [
+        "Fuenteovejuna",
+        "El perro del hortelano"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Julio Cortázar?",
+      "options": [
+        "La persistencia de la memoria",
+        "Cuentos de amor de locura y de muerte",
+        "El orfanato",
+        "Follas novas"
+      ],
+      "answer": [
+        "Bestiario"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Miguel Delibes?",
+      "options": [
+        "La forma del agua",
+        "Canción de cuna",
+        "Eco del grito",
+        "La Celestina",
+        "Campos de Castilla"
+      ],
+      "answer": [
+        "Cinco horas con Mario"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Luis García Berlanga?",
+      "options": [
+        "La familia de Pascual Duarte",
+        "Follas novas",
+        "Rimas",
+        "Bestiario",
+        "Aires gitanos"
+      ],
+      "answer": [
+        "El verdugo"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Miguel Delibes?",
+      "options": [
+        "Diario de un poeta recién casado",
+        "La colmena",
+        "Eco del grito",
+        "Volver a empezar",
+        "Follas novas"
+      ],
+      "answer": [
+        "Los santos inocentes",
+        "Cinco horas con Mario"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Fernando Trueba?",
+      "options": [
+        "Adiós Nonino",
+        "Viridiana",
+        "Malagueña",
+        "Concierto de Aranjuez",
+        "El orfanato",
+        "La muerte del ángel"
+      ],
+      "answer": [
+        "Belle Époque",
+        "El artista y la modelo"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Miguel de Unamuno?",
+      "options": [
+        "Versos sencillos",
+        "El patizambo",
+        "Romancero gitano",
+        "El ángel exterminador",
+        "La invención de Morel",
+        "El espíritu de la colmena"
+      ],
+      "answer": [
+        "Niebla"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Bartolomé Esteban Murillo?",
+      "options": [
+        "Aura",
+        "La casa de los espíritus",
+        "Lo imposible",
+        "Un perro andaluz"
+      ],
+      "answer": [
+        "La Inmaculada",
+        "Niños comiendo uvas"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Enrique Granados?",
+      "options": [
+        "Novelas ejemplares",
+        "El espíritu de la colmena",
+        "Lo imposible",
+        "Tierra de promisión",
+        "La colmena",
+        "Campos de Castilla"
+      ],
+      "answer": [
+        "Goyescas",
+        "Danzas españolas"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Alfonso Cuarón?",
+      "options": [
+        "Cría cuervos",
+        "Saturno devorando a su hijo",
+        "Sobre héroes y tumbas",
+        "Danzas argentinas"
+      ],
+      "answer": [
+        "Roma",
+        "Y tu mamá también"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Guillermo del Toro?",
+      "options": [
+        "Capricho árabe",
+        "El verdugo",
+        "El artista y la modelo",
+        "El orfanato",
+        "Entre visillos"
+      ],
+      "answer": [
+        "El laberinto del fauno"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Fernando León de Aranoa?",
+      "options": [
+        "Fortunata y Jacinta",
+        "Janitzio",
+        "El sombrero de tres picos",
+        "Tierra de promisión",
+        "Sueños"
+      ],
+      "answer": [
+        "Barrio"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Alejandro González Iñárritu?",
+      "options": [
+        "Los otros",
+        "Libertango",
+        "Primera memoria",
+        "La persistencia de la memoria",
+        "Concierto de Aranjuez",
+        "Veinte poemas de amor y una canción desesperada"
+      ],
+      "answer": [
+        "Amores perros",
+        "Babel"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Horacio Quiroga.",
+      "options": [
+        "Aires gitanos",
+        "La colmena",
+        "El día de la bestia",
+        "Doña Bárbara",
+        "Don Quijote de la Mancha"
+      ],
+      "answer": [
+        "Cuentos de amor de locura y de muerte",
+        "Cuentos de la selva"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Tirso de Molina?",
+      "options": [
+        "La muerte del ángel",
+        "Estancia",
+        "Las Meninas",
+        "Aura",
+        "El artista y la modelo",
+        "El alcalde de Zalamea"
+      ],
+      "answer": [
+        "Don Gil de las calzas verdes"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Antonio Machado?",
+      "options": [
+        "Aires gitanos",
+        "Cría cuervos",
+        "Adiós Nonino",
+        "Bachianas brasileiras",
+        "Pedro Páramo"
+      ],
+      "answer": [
+        "Soledades"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Rubén Darío?",
+      "options": [
+        "San Hugo en el refectorio",
+        "Recuerdos de la Alhambra",
+        "Marinero en tierra",
+        "Bienvenido Mister Marshall",
+        "Amores perros",
+        "Y tu mamá también"
+      ],
+      "answer": [
+        "Azul"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Salvador Dalí?",
+      "options": [
+        "Sombra del paraíso",
+        "Capricho árabe",
+        "Estrellita",
+        "Amores perros"
+      ],
+      "answer": [
+        "La persistencia de la memoria"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Pablo de Sarasate?",
+      "options": [
+        "Fantasía para guitarra",
+        "La persistencia de la memoria",
+        "El perro del hortelano",
+        "Pedro Páramo"
+      ],
+      "answer": [
+        "Aires gitanos",
+        "Fantasía sobre Carmen"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Leopoldo Alas Clarín?",
+      "options": [
+        "El carnaval del arlequín",
+        "El patizambo",
+        "La granja",
+        "La muerte del ángel",
+        "El perro del hortelano"
+      ],
+      "answer": [
+        "Su único hijo"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Carlos Fuentes?",
+      "options": [
+        "Lo imposible",
+        "Volver a empezar",
+        "Cien años de soledad",
+        "Estudios para guitarra",
+        "Bestiario"
+      ],
+      "answer": [
+        "La muerte de Artemio Cruz"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Diego Velázquez?",
+      "options": [
+        "Leyendas",
+        "La muerte del ángel",
+        "Soledades",
+        "Todo sobre mi madre"
+      ],
+      "answer": [
+        "Las Meninas",
+        "Las hilanderas"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Francisco de Goya?",
+      "options": [
+        "El gran masturbador",
+        "Fortunata y Jacinta",
+        "Pedro Páramo",
+        "Concierto del sur",
+        "Adiós Nonino"
+      ],
+      "answer": [
+        "El tres de mayo"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a José de Ribera?",
+      "options": [
+        "Viridiana",
+        "Danzas españolas",
+        "Niños comiendo uvas",
+        "Aires gitanos",
+        "El Buscón",
+        "La columna rota"
+      ],
+      "answer": [
+        "La sagrada familia"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Luis Buñuel?",
+      "options": [
+        "La invención de Morel",
+        "Rimas",
+        "El entierro del Señor de Orgaz",
+        "La vorágine",
+        "La forma del agua"
+      ],
+      "answer": [
+        "Un perro andaluz"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Alejandro Amenábar?",
+      "options": [
+        "Mujeres al borde de un ataque de nervios",
+        "Aires gitanos",
+        "Leyendas",
+        "Sensemayá",
+        "La familia de Pascual Duarte"
+      ],
+      "answer": [
+        "Los otros"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Rosalía de Castro?",
+      "options": [
+        "Su único hijo",
+        "La forma del agua",
+        "La Celestina",
+        "Capricho árabe"
+      ],
+      "answer": [
+        "Follas novas"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Alejandro González Iñárritu?",
+      "options": [
+        "Soledades",
+        "La forma del agua",
+        "El túnel",
+        "El Buscón",
+        "Don Quijote de la Mancha"
+      ],
+      "answer": [
+        "Babel"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Rómulo Gallegos?",
+      "options": [
+        "La sagrada familia",
+        "El amor en los tiempos del cólera",
+        "La marcha de la humanidad",
+        "Canto general",
+        "La destrucción o el amor"
+      ],
+      "answer": [
+        "Doña Bárbara"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Joaquín Sorolla?",
+      "options": [
+        "Recuerdos de la Alhambra",
+        "Campos de Castilla",
+        "La casa de Bernarda Alba",
+        "Don Quijote de la Mancha",
+        "Estrellita"
+      ],
+      "answer": [
+        "Chicos en la playa"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Julio Cortázar.",
+      "options": [
+        "Mujeres al borde de un ataque de nervios",
+        "Azul",
+        "Aires gitanos",
+        "El túnel",
+        "Pedro Páramo"
+      ],
+      "answer": [
+        "Rayuela",
+        "Bestiario"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por José Luis Garci?",
+      "options": [
+        "Mar adentro",
+        "Estrellita",
+        "Fortunata y Jacinta",
+        "Cuentos de amor de locura y de muerte",
+        "Goyescas"
+      ],
+      "answer": [
+        "Canción de cuna"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Salvador Dalí?",
+      "options": [
+        "El verdugo",
+        "El tres de mayo",
+        "Su único hijo",
+        "La crucifixión",
+        "Viridiana"
+      ],
+      "answer": [
+        "La persistencia de la memoria",
+        "El gran masturbador"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Rafael Alberti?",
+      "options": [
+        "Prosas profanas",
+        "El ángel exterminador",
+        "Noches en los jardines de España",
+        "El laberinto de la soledad",
+        "El espíritu de la colmena"
+      ],
+      "answer": [
+        "Marinero en tierra",
+        "Sobre los ángeles"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Gabriel García Márquez?",
+      "options": [
+        "Ficciones",
+        "Novelas ejemplares",
+        "Barrio",
+        "Doña Perfecta",
+        "Cuentos de amor de locura y de muerte"
+      ],
+      "answer": [
+        "Crónica de una muerte anunciada"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Carlos Saura?",
+      "options": [
+        "Azul",
+        "La columna rota",
+        "Don Gil de las calzas verdes",
+        "La teta y la luna",
+        "Sobre héroes y tumbas"
+      ],
+      "answer": [
+        "Cría cuervos"
+      ]
+    },
+    {
+      "text": "Elige dos obras de José Eustasio Rivera.",
+      "options": [
+        "Don Quijote de la Mancha",
+        "El alcalde de Zalamea",
+        "Sueños",
+        "Sensemayá",
+        "El perro del hortelano"
+      ],
+      "answer": [
+        "La vorágine",
+        "Tierra de promisión"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Gabriel García Márquez?",
+      "options": [
+        "Te doy mis ojos",
+        "Platero y yo",
+        "Estancia",
+        "Fantasía para guitarra"
+      ],
+      "answer": [
+        "Cien años de soledad",
+        "Crónica de una muerte anunciada"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Rubén Darío.",
+      "options": [
+        "Bienvenido Mister Marshall",
+        "Danzas españolas",
+        "Cuentos de la selva",
+        "El túnel",
+        "El tres de mayo"
+      ],
+      "answer": [
+        "Azul",
+        "Prosas profanas"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Ernesto Lecuona?",
+      "options": [
+        "Doña Perfecta",
+        "Volver",
+        "Bachianas brasileiras",
+        "El sueño de los héroes"
+      ],
+      "answer": [
+        "Siboney"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Antonio Saura?",
+      "options": [
+        "El espíritu de la colmena",
+        "Cantares gallegos",
+        "Volver",
+        "Estancia",
+        "Conversación en La Catedral",
+        "Noches en los jardines de España"
+      ],
+      "answer": [
+        "La crucifixión"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Manuel de Falla.",
+      "options": [
+        "La paloma",
+        "El llano en llamas",
+        "El burlador de Sevilla",
+        "Los santos inocentes",
+        "La forma del agua"
+      ],
+      "answer": [
+        "El sombrero de tres picos",
+        "Noches en los jardines de España"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Francisco de Quevedo.",
+      "options": [
+        "La marcha de la humanidad",
+        "Amores perros",
+        "Fantasía para un gentilhombre",
+        "Calle mayor",
+        "Fuenteovejuna"
+      ],
+      "answer": [
+        "Sueños",
+        "El Buscón"
+      ]
+    },
+    {
+      "text": "Elige dos obras de José Luis Garci.",
+      "options": [
+        "Las hilanderas",
+        "Campos de Castilla",
+        "La granja",
+        "La familia de Pascual Duarte",
+        "Romancero gitano"
+      ],
+      "answer": [
+        "Volver a empezar",
+        "Canción de cuna"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Pablo Neruda?",
+      "options": [
+        "Entre visillos",
+        "El amor en los tiempos del cólera",
+        "El verdugo",
+        "Concierto de Aranjuez",
+        "Aura"
+      ],
+      "answer": [
+        "Veinte poemas de amor y una canción desesperada",
+        "Canto general"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Fernando Sor?",
+      "options": [
+        "La destrucción o el amor",
+        "Chôros",
+        "La colmena",
+        "Campos de Castilla",
+        "Concierto del sur",
+        "El caballero de la mano en el pecho"
+      ],
+      "answer": [
+        "Fantasía para guitarra",
+        "Estudios para guitarra"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Antonio Machado?",
+      "options": [
+        "Babel",
+        "La Inmaculada",
+        "El Aleph",
+        "El sur",
+        "El hombre en el cruce"
+      ],
+      "answer": [
+        "Campos de Castilla",
+        "Soledades"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Heitor Villa-Lobos?",
+      "options": [
+        "Sueños",
+        "Un perro andaluz",
+        "Novelas ejemplares",
+        "El patizambo"
+      ],
+      "answer": [
+        "Bachianas brasileiras"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Adolfo Bioy Casares?",
+      "options": [
+        "La marcha de la humanidad",
+        "Diario de un poeta recién casado",
+        "Platero y yo",
+        "El laberinto del fauno"
+      ],
+      "answer": [
+        "El sueño de los héroes",
+        "La invención de Morel"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Francisco de Goya?",
+      "options": [
+        "Fantasía para guitarra",
+        "Suite española",
+        "El verdugo",
+        "Eco del grito"
+      ],
+      "answer": [
+        "La maja desnuda",
+        "El tres de mayo"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Camilo José Cela?",
+      "options": [
+        "Siboney",
+        "Cantares gallegos",
+        "Rayuela",
+        "El carnaval del arlequín"
+      ],
+      "answer": [
+        "La colmena"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Francisco de Zurbarán?",
+      "options": [
+        "La comunidad",
+        "El Aleph",
+        "Doña Perfecta",
+        "Eva Luna"
+      ],
+      "answer": [
+        "San Hugo en el refectorio",
+        "Bodegón con cacharros"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Víctor Erice?",
+      "options": [
+        "Sombra del paraíso",
+        "Su único hijo",
+        "Las señoritas de Aviñón",
+        "Platero y yo",
+        "Noches en los jardines de España",
+        "Autorretrato con monos"
+      ],
+      "answer": [
+        "El sur"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Carlos Saura?",
+      "options": [
+        "La ciudad y los perros",
+        "Lo imposible",
+        "Danzas argentinas",
+        "El gran masturbador",
+        "Iberia",
+        "Libertango"
+      ],
+      "answer": [
+        "Cría cuervos",
+        "La caza"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Diego Velázquez?",
+      "options": [
+        "La Regenta",
+        "La casa verde",
+        "Los santos inocentes",
+        "Chicos en la playa",
+        "Su único hijo",
+        "Cuentos de amor de locura y de muerte"
+      ],
+      "answer": [
+        "Las hilanderas"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Rosalía de Castro?",
+      "options": [
+        "La sagrada familia",
+        "Lo imposible",
+        "Versos sencillos",
+        "Sobre héroes y tumbas"
+      ],
+      "answer": [
+        "Cantares gallegos",
+        "Follas novas"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Sebastián Iradier?",
+      "options": [
+        "Babel",
+        "San Manuel Bueno mártir",
+        "Bachianas brasileiras",
+        "El verdugo"
+      ],
+      "answer": [
+        "La paloma"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Álex de la Iglesia?",
+      "options": [
+        "Volver a empezar",
+        "Sobre los ángeles",
+        "Cuentos de la selva",
+        "Babel",
+        "El laberinto de la soledad",
+        "La invención de Morel"
+      ],
+      "answer": [
+        "El día de la bestia",
+        "La comunidad"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Astor Piazzolla?",
+      "options": [
+        "Rayuela",
+        "El amor en los tiempos del cólera",
+        "Cinco horas con Mario",
+        "Los hijos muertos",
+        "Fantasía para un gentilhombre"
+      ],
+      "answer": [
+        "La muerte del ángel",
+        "Adiós Nonino"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Rafael Alberti?",
+      "options": [
+        "Adiós Nonino",
+        "Muerte de un ciclista",
+        "Viridiana",
+        "La vorágine",
+        "Cantares gallegos"
+      ],
+      "answer": [
+        "Sobre los ángeles"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Federico García Lorca?",
+      "options": [
+        "Siboney",
+        "La comunidad",
+        "Concierto del sur",
+        "Rimas",
+        "Campos de Castilla"
+      ],
+      "answer": [
+        "La casa de Bernarda Alba"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Juan Rulfo?",
+      "options": [
+        "La vida es sueño",
+        "Cuentos de la selva",
+        "Follas novas",
+        "El sueño de los héroes",
+        "Roma"
+      ],
+      "answer": [
+        "El llano en llamas"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Mario Vargas Llosa?",
+      "options": [
+        "Sobre los ángeles",
+        "Capricho árabe",
+        "La teta y la luna",
+        "Muerte de un ciclista",
+        "Entre visillos"
+      ],
+      "answer": [
+        "Conversación en La Catedral"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Frida Kahlo?",
+      "options": [
+        "María",
+        "Bodegón con cacharros",
+        "Yerma",
+        "Novelas ejemplares",
+        "También la lluvia",
+        "Saturno devorando a su hijo"
+      ],
+      "answer": [
+        "Autorretrato con monos"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Manuel de Falla?",
+      "options": [
+        "Autorretrato con monos",
+        "El ángel exterminador",
+        "El sur",
+        "San Manuel Bueno mártir"
+      ],
+      "answer": [
+        "El sombrero de tres picos"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Gustavo Adolfo Bécquer?",
+      "options": [
+        "Mar adentro",
+        "Niebla",
+        "La familia de Pascual Duarte",
+        "Eco del grito",
+        "Prosas profanas",
+        "Sombra del paraíso"
+      ],
+      "answer": [
+        "Leyendas",
+        "Rimas"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Francisco Tárrega?",
+      "options": [
+        "Adiós Nonino",
+        "Novelas ejemplares",
+        "Lo imposible",
+        "El Aleph",
+        "Las hilanderas",
+        "Cuentos de amor de locura y de muerte"
+      ],
+      "answer": [
+        "Capricho árabe",
+        "Recuerdos de la Alhambra"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Luis Buñuel.",
+      "options": [
+        "Su único hijo",
+        "El hombre en el cruce",
+        "El Buscón",
+        "Soledades",
+        "Belle Époque"
+      ],
+      "answer": [
+        "Un perro andaluz",
+        "El ángel exterminador"
+      ]
+    },
+    {
+      "text": "Elige dos obras de José de Ribera.",
+      "options": [
+        "La familia de Pascual Duarte",
+        "Sombra del paraíso",
+        "Libertango",
+        "Prosas profanas",
+        "Janitzio"
+      ],
+      "answer": [
+        "El patizambo",
+        "La sagrada familia"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Fernando Sor?",
+      "options": [
+        "Cría cuervos",
+        "Las señoritas de Aviñón",
+        "Danzas españolas",
+        "Ismaelillo",
+        "Saturno devorando a su hijo",
+        "Suite española"
+      ],
+      "answer": [
+        "Fantasía para guitarra"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Juan Antonio Bayona?",
+      "options": [
+        "Primera memoria",
+        "La casa verde",
+        "El verdugo",
+        "El burlador de Sevilla",
+        "Las hilanderas"
+      ],
+      "answer": [
+        "Lo imposible",
+        "El orfanato"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Bigas Luna?",
+      "options": [
+        "Cuentos de la selva",
+        "Recuerdos de la Alhambra",
+        "Bachianas brasileiras",
+        "Follas novas",
+        "Marinero en tierra"
+      ],
+      "answer": [
+        "Jamón jamón",
+        "La teta y la luna"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Benito Pérez Galdós?",
+      "options": [
+        "Sueño de una tarde dominical en la Alameda Central",
+        "Chicos en la playa",
+        "Don Gil de las calzas verdes",
+        "La paloma",
+        "Conversación en La Catedral"
+      ],
+      "answer": [
+        "Doña Perfecta",
+        "Fortunata y Jacinta"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Miguel de Unamuno?",
+      "options": [
+        "Cinco horas con Mario",
+        "La vida es sueño",
+        "Siboney",
+        "Los santos inocentes",
+        "La maja desnuda"
+      ],
+      "answer": [
+        "San Manuel Bueno mártir",
+        "Niebla"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Alberto Ginastera?",
+      "options": [
+        "El laberinto del fauno",
+        "La Celestina",
+        "Chôros",
+        "Conversación en La Catedral"
+      ],
+      "answer": [
+        "Estancia"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Diego Rivera?",
+      "options": [
+        "Concierto de Aranjuez",
+        "La teta y la luna",
+        "Veinte poemas de amor y una canción desesperada",
+        "Bachianas brasileiras",
+        "La Celestina",
+        "La caza"
+      ],
+      "answer": [
+        "El hombre en el cruce"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Rómulo Gallegos?",
+      "options": [
+        "Mar adentro",
+        "Sensemayá",
+        "Los hijos muertos",
+        "La vorágine",
+        "Yerma",
+        "El entierro del Señor de Orgaz"
+      ],
+      "answer": [
+        "Doña Bárbara",
+        "Canaima"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Tirso de Molina.",
+      "options": [
+        "Crónica de una muerte anunciada",
+        "Niebla",
+        "Niños comiendo uvas",
+        "La casa de los espíritus",
+        "La muerte de Artemio Cruz"
+      ],
+      "answer": [
+        "El burlador de Sevilla",
+        "Don Gil de las calzas verdes"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Joan Miró?",
+      "options": [
+        "Azul",
+        "El gran masturbador",
+        "La marcha de la humanidad",
+        "Volver",
+        "La casa de los espíritus"
+      ],
+      "answer": [
+        "La granja"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de Pedro Calderón de la Barca?",
+      "options": [
+        "Noches en los jardines de España",
+        "Saturno devorando a su hijo",
+        "Goyescas",
+        "Canto general",
+        "Marinero en tierra",
+        "Iberia"
+      ],
+      "answer": [
+        "La vida es sueño",
+        "El alcalde de Zalamea"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Carlos Fuentes?",
+      "options": [
+        "Fantasía sobre Carmen",
+        "Doña Perfecta",
+        "Platero y yo",
+        "La vida es sueño",
+        "Los santos inocentes"
+      ],
+      "answer": [
+        "Aura",
+        "La muerte de Artemio Cruz"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Juan Antonio Bardem?",
+      "options": [
+        "María",
+        "Guernica",
+        "Diario de un poeta recién casado",
+        "Eva Luna"
+      ],
+      "answer": [
+        "Muerte de un ciclista",
+        "Calle mayor"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estos títulos son obra de El Greco?",
+      "options": [
+        "Lo imposible",
+        "Te doy mis ojos",
+        "El perro del hortelano",
+        "La teta y la luna",
+        "Fuenteovejuna",
+        "Y tu mamá también"
+      ],
+      "answer": [
+        "El caballero de la mano en el pecho",
+        "El entierro del Señor de Orgaz"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Pedro Calderón de la Barca?",
+      "options": [
+        "La muerte del ángel",
+        "Chôros",
+        "Bodegón con cacharros",
+        "El perro del hortelano"
+      ],
+      "answer": [
+        "La vida es sueño"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Pedro Almodóvar.",
+      "options": [
+        "Bienvenido Mister Marshall",
+        "Doña Bárbara",
+        "Siboney",
+        "Aura",
+        "Barrio"
+      ],
+      "answer": [
+        "Volver",
+        "Todo sobre mi madre"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Leopoldo Alas Clarín.",
+      "options": [
+        "El amor en los tiempos del cólera",
+        "Noches en los jardines de España",
+        "Romancero gitano",
+        "Y tu mamá también",
+        "Estudios para guitarra"
+      ],
+      "answer": [
+        "Su único hijo",
+        "La Regenta"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Icíar Bollaín?",
+      "options": [
+        "San Manuel Bueno mártir",
+        "El túnel",
+        "Libertango",
+        "Rayuela"
+      ],
+      "answer": [
+        "Te doy mis ojos",
+        "También la lluvia"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Ernesto Lecuona.",
+      "options": [
+        "Niños comiendo uvas",
+        "Fuenteovejuna",
+        "El día de la bestia",
+        "El Aleph",
+        "El cuarto de atrás"
+      ],
+      "answer": [
+        "Siboney",
+        "Malagueña"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Manuel Ponce?",
+      "options": [
+        "Fantasía para un gentilhombre",
+        "Volver",
+        "Guernica",
+        "Aura",
+        "Primera memoria"
+      ],
+      "answer": [
+        "Concierto del sur"
+      ]
+    },
+    {
+      "text": "Elige dos obras de Alberto Ginastera.",
+      "options": [
+        "Belle Époque",
+        "Siboney",
+        "Piedra de sol",
+        "Sueños",
+        "Ficciones"
+      ],
+      "answer": [
+        "Danzas argentinas",
+        "Estancia"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Álex de la Iglesia?",
+      "options": [
+        "Niños comiendo uvas",
+        "Concierto del sur",
+        "Eco del grito",
+        "El patizambo"
+      ],
+      "answer": [
+        "El día de la bestia"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó Pablo Neruda?",
+      "options": [
+        "El Buscón",
+        "Marinero en tierra",
+        "El sombrero de tres picos",
+        "Autorretrato con monos",
+        "La ciudad y los perros"
+      ],
+      "answer": [
+        "Canto general"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a El Greco?",
+      "options": [
+        "El alcalde de Zalamea",
+        "Cantares gallegos",
+        "Ficciones",
+        "Roma",
+        "El burlador de Sevilla"
+      ],
+      "answer": [
+        "El caballero de la mano en el pecho"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Ana María Matute?",
+      "options": [
+        "La paloma",
+        "La Celestina",
+        "La invención de Morel",
+        "La colmena"
+      ],
+      "answer": [
+        "Primera memoria",
+        "Los hijos muertos"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Joaquín Rodrigo?",
+      "options": [
+        "Autorretrato con monos",
+        "Cien años de soledad",
+        "Sensemayá",
+        "El amor en los tiempos del cólera",
+        "Jamón jamón"
+      ],
+      "answer": [
+        "Concierto de Aranjuez"
+      ]
+    },
+    {
+      "text": "¿Qué título de esta lista se debe a Pablo de Sarasate?",
+      "options": [
+        "Rimas",
+        "El camino",
+        "Sueño de una tarde dominical en la Alameda Central",
+        "El Aleph",
+        "El patizambo"
+      ],
+      "answer": [
+        "Aires gitanos"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras fue creada por Alfonso Cuarón?",
+      "options": [
+        "Chicos en la playa",
+        "El gran masturbador",
+        "Eva Luna",
+        "El ángel exterminador"
+      ],
+      "answer": [
+        "Roma"
+      ]
+    },
+    {
+      "text": "¿Cuál de estos títulos es obra de Lope de Vega?",
+      "options": [
+        "Cinco horas con Mario",
+        "Canción de cuna",
+        "El tres de mayo",
+        "Yerma",
+        "Un perro andaluz"
+      ],
+      "answer": [
+        "El perro del hortelano"
+      ]
+    },
+    {
+      "text": "¿Qué dos títulos de esta lista pertenecen a Federico García Lorca?",
+      "options": [
+        "La granja",
+        "Fantasía para guitarra",
+        "Follas novas",
+        "Fantasía sobre Carmen",
+        "Calle mayor"
+      ],
+      "answer": [
+        "Yerma",
+        "Romancero gitano"
+      ]
+    },
+    {
+      "text": "¿Qué obra de esta lista creó David Alfaro Siqueiros?",
+      "options": [
+        "Danzas argentinas",
+        "La colmena",
+        "El entierro del Señor de Orgaz",
+        "El carnaval del arlequín",
+        "Don Quijote de la Mancha"
+      ],
+      "answer": [
+        "Eco del grito"
+      ]
+    },
+    {
+      "text": "¿Cuáles dos de estas obras fueron creadas por Joan Miró?",
+      "options": [
+        "El caballero de la mano en el pecho",
+        "Las hilanderas",
+        "Cien años de soledad",
+        "Mujeres al borde de un ataque de nervios"
+      ],
+      "answer": [
+        "El carnaval del arlequín",
+        "La granja"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Fernando de Rojas?",
+      "options": [
+        "Eco del grito",
+        "Amores perros",
+        "La colmena",
+        "La forma del agua",
+        "Prosas profanas",
+        "Todo sobre mi madre"
+      ],
+      "answer": [
+        "La Celestina"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas obras pertenece a Horacio Quiroga?",
+      "options": [
+        "La Celestina",
+        "Azul",
+        "Volver",
+        "Danzas argentinas"
+      ],
+      "answer": [
+        "Cuentos de amor de locura y de muerte"
+      ]
+    }
+  ]
+}

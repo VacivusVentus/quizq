@@ -1,0 +1,1314 @@
+{
+  "theme": "Inventors and Their Inventions",
+  "questions": [
+    {
+      "text": "Whose invention is the pneumatic bicycle tire?",
+      "options": [
+        "Chester Carlson",
+        "Alexander Graham Bell",
+        "Rudolf Diesel",
+        "Charles Goodyear",
+        "Guglielmo Marconi"
+      ],
+      "answer": [
+        "John Boyd Dunlop"
+      ]
+    },
+    {
+      "text": "Who is credited with creating xerography?",
+      "options": [
+        "Guglielmo Marconi",
+        "Robert Fulton",
+        "Alfred Nobel",
+        "Steve Wozniak"
+      ],
+      "answer": [
+        "Chester Carlson"
+      ]
+    },
+    {
+      "text": "Who invented the Audion amplifier?",
+      "options": [
+        "James Watt",
+        "Douglas Engelbart",
+        "George Stephenson",
+        "Louis Daguerre",
+        "Nikola Tesla",
+        "Igor Sikorsky"
+      ],
+      "answer": [
+        "Lee de Forest"
+      ]
+    },
+    {
+      "text": "Who invented the first practical photographic process?",
+      "options": [
+        "John Boyd Dunlop",
+        "Lee de Forest",
+        "Robert Fulton",
+        "Johannes Gutenberg",
+        "the Wright brothers",
+        "Jack Kilby"
+      ],
+      "answer": [
+        "Louis Daguerre"
+      ]
+    },
+    {
+      "text": "Who was the inventor of oil-based printing ink?",
+      "options": [
+        "Ferdinand von Zeppelin",
+        "Elias Howe",
+        "Jack Kilby",
+        "Steve Wozniak",
+        "Samuel Morse"
+      ],
+      "answer": [
+        "Johannes Gutenberg"
+      ]
+    },
+    {
+      "text": "What did Elisha Otis create?",
+      "options": [
+        "the converter vessel for steelmaking",
+        "the three-wheeled motor car",
+        "the pneumatic tire",
+        "vulcanized rubber",
+        "the Apple I computer"
+      ],
+      "answer": [
+        "the safety elevator"
+      ]
+    },
+    {
+      "text": "Which of these did Samuel Morse invent?",
+      "options": [
+        "the alternating current power distribution system",
+        "the steam-powered warship",
+        "the AC induction motor",
+        "wireless telegraphy"
+      ],
+      "answer": [
+        "the electric telegraph"
+      ]
+    },
+    {
+      "text": "Whose invention is the Kodak camera?",
+      "options": [
+        "Henry Ford",
+        "Samuel Morse",
+        "John Logie Baird",
+        "Guglielmo Marconi",
+        "John Boyd Dunlop",
+        "James Watt"
+      ],
+      "answer": [
+        "George Eastman"
+      ]
+    },
+    {
+      "text": "Whose invention is the first computer mouse prototype?",
+      "options": [
+        "Karl Benz",
+        "Edwin Land",
+        "Eli Whitney",
+        "John Boyd Dunlop",
+        "Elias Howe"
+      ],
+      "answer": [
+        "Douglas Engelbart"
+      ]
+    },
+    {
+      "text": "Which of these inventions is credited to Robert Fulton?",
+      "options": [
+        "the compression-ignition engine",
+        "the aircraft test wind tunnel",
+        "the Kodak camera",
+        "the safety elevator",
+        "interchangeable parts for firearms"
+      ],
+      "answer": [
+        "the steamboat"
+      ]
+    },
+    {
+      "text": "Which inventor created the moving assembly line?",
+      "options": [
+        "Samuel Morse",
+        "Lee de Forest",
+        "Samuel Colt",
+        "Nikola Tesla",
+        "Ferdinand von Zeppelin"
+      ],
+      "answer": [
+        "Henry Ford"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the Model T automobile?",
+      "options": [
+        "Samuel Colt",
+        "Chester Carlson",
+        "Elias Howe",
+        "James Watt",
+        "Alfred Nobel"
+      ],
+      "answer": [
+        "Henry Ford"
+      ]
+    },
+    {
+      "text": "Whose invention is the converter vessel for steelmaking?",
+      "options": [
+        "Ferdinand von Zeppelin",
+        "Henry Ford",
+        "Elias Howe",
+        "Alexander Graham Bell",
+        "Igor Sikorsky"
+      ],
+      "answer": [
+        "Henry Bessemer"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the aircraft test wind tunnel?",
+      "options": [
+        "Samuel Morse",
+        "Chester Carlson",
+        "Alfred Nobel",
+        "Robert Fulton"
+      ],
+      "answer": [
+        "the Wright brothers"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the first web browser?",
+      "options": [
+        "Chester Carlson",
+        "Alexander Graham Bell",
+        "Johannes Gutenberg",
+        "Thomas Edison",
+        "Ferdinand von Zeppelin"
+      ],
+      "answer": [
+        "Tim Berners-Lee"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the pneumatic tire?",
+      "options": [
+        "Douglas Engelbart",
+        "the Wright brothers",
+        "Henry Bessemer",
+        "Jack Kilby"
+      ],
+      "answer": [
+        "John Boyd Dunlop"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the miner's safety lamp?",
+      "options": [
+        "Alexander Graham Bell",
+        "Chester Carlson",
+        "Karl Benz",
+        "Alfred Nobel"
+      ],
+      "answer": [
+        "George Stephenson"
+      ]
+    },
+    {
+      "text": "Which of these are the work of Thomas Edison?",
+      "options": [
+        "the converter vessel for steelmaking",
+        "the handheld calculator",
+        "the three-axis flight control system",
+        "the World Wide Web",
+        "the railway steam locomotive"
+      ],
+      "answer": [
+        "the practical incandescent light bulb",
+        "the phonograph"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the kinetoscope?",
+      "options": [
+        "Samuel Morse",
+        "Henry Bessemer",
+        "Alfred Nobel",
+        "Guglielmo Marconi",
+        "Charles Goodyear"
+      ],
+      "answer": [
+        "Thomas Edison"
+      ]
+    },
+    {
+      "text": "Which two of these did Douglas Engelbart invent?",
+      "options": [
+        "the Model T automobile",
+        "the automobile",
+        "the Apple I computer",
+        "the eye-pointed needle for sewing machines",
+        "the cotton gin",
+        "the pneumatic tire"
+      ],
+      "answer": [
+        "the computer mouse",
+        "the first computer mouse prototype"
+      ]
+    },
+    {
+      "text": "Which of these inventions are credited to Guglielmo Marconi?",
+      "options": [
+        "mechanical television",
+        "the elevator safety brake",
+        "the Apple I computer",
+        "the alternating current power distribution system"
+      ],
+      "answer": [
+        "the radio telegraph",
+        "wireless telegraphy"
+      ]
+    },
+    {
+      "text": "Whose invention is the separate condenser for steam engines?",
+      "options": [
+        "Chester Carlson",
+        "Samuel Morse",
+        "Lee de Forest",
+        "Elisha Otis",
+        "George Eastman",
+        "Douglas Engelbart"
+      ],
+      "answer": [
+        "James Watt"
+      ]
+    },
+    {
+      "text": "Who invented the handheld calculator?",
+      "options": [
+        "Chester Carlson",
+        "Alexander Graham Bell",
+        "George Eastman",
+        "Guglielmo Marconi",
+        "John Boyd Dunlop",
+        "Charles Goodyear"
+      ],
+      "answer": [
+        "Jack Kilby"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the computer mouse?",
+      "options": [
+        "Johannes Gutenberg",
+        "John Logie Baird",
+        "James Watt",
+        "Eli Whitney"
+      ],
+      "answer": [
+        "Douglas Engelbart"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the Apple I computer?",
+      "options": [
+        "Alexander Graham Bell",
+        "James Watt",
+        "Rudolf Diesel",
+        "Samuel Morse"
+      ],
+      "answer": [
+        "Steve Wozniak"
+      ]
+    },
+    {
+      "text": "Whose invention is the cotton gin?",
+      "options": [
+        "Nikola Tesla",
+        "Samuel Colt",
+        "George Stephenson",
+        "Louis Daguerre",
+        "Samuel Morse",
+        "Thomas Edison"
+      ],
+      "answer": [
+        "Eli Whitney"
+      ]
+    },
+    {
+      "text": "Which of these did Chester Carlson invent?",
+      "options": [
+        "the daguerreotype",
+        "the safety elevator",
+        "the triode vacuum tube",
+        "the blasting cap detonator",
+        "the World Wide Web"
+      ],
+      "answer": [
+        "the first plain-paper copier"
+      ]
+    },
+    {
+      "text": "Whose invention is the alternating current power distribution system?",
+      "options": [
+        "Louis Daguerre",
+        "John Boyd Dunlop",
+        "Ferdinand von Zeppelin",
+        "Jack Kilby",
+        "Elisha Otis"
+      ],
+      "answer": [
+        "Nikola Tesla"
+      ]
+    },
+    {
+      "text": "What did Ferdinand von Zeppelin create?",
+      "options": [
+        "the pneumatic tire",
+        "the amphibian flying boat",
+        "the separate condenser for steam engines",
+        "the electromechanical television system",
+        "the revolving-cylinder firearm",
+        "the first practical photographic process"
+      ],
+      "answer": [
+        "the rigid airship"
+      ]
+    },
+    {
+      "text": "Who invented the electric telegraph?",
+      "options": [
+        "Samuel Colt",
+        "Henry Ford",
+        "Alfred Nobel",
+        "Tim Berners-Lee",
+        "Guglielmo Marconi"
+      ],
+      "answer": [
+        "Samuel Morse"
+      ]
+    },
+    {
+      "text": "Whose invention is the three-wheeled motor car?",
+      "options": [
+        "Guglielmo Marconi",
+        "Nikola Tesla",
+        "Douglas Engelbart",
+        "Samuel Morse",
+        "Eli Whitney",
+        "Thomas Edison"
+      ],
+      "answer": [
+        "Karl Benz"
+      ]
+    },
+    {
+      "text": "Which invention was the work of Nikola Tesla?",
+      "options": [
+        "the telephone",
+        "the rigid airship",
+        "the amphibian flying boat",
+        "mechanical television",
+        "the Apple II computer",
+        "vulcanized rubber"
+      ],
+      "answer": [
+        "the Tesla coil"
+      ]
+    },
+    {
+      "text": "Who was the inventor of roll film?",
+      "options": [
+        "Lee de Forest",
+        "Guglielmo Marconi",
+        "Rudolf Diesel",
+        "Henry Ford",
+        "Tim Berners-Lee"
+      ],
+      "answer": [
+        "George Eastman"
+      ]
+    },
+    {
+      "text": "Which of these are the work of Henry Ford?",
+      "options": [
+        "the single-action revolver",
+        "wireless telegraphy",
+        "interchangeable parts for firearms",
+        "the helicopter",
+        "the Apple I computer"
+      ],
+      "answer": [
+        "the moving assembly line",
+        "the Model T automobile"
+      ]
+    },
+    {
+      "text": "Which inventor created the railway steam locomotive?",
+      "options": [
+        "Elias Howe",
+        "Nikola Tesla",
+        "Karl Benz",
+        "John Logie Baird",
+        "the Wright brothers",
+        "Lee de Forest"
+      ],
+      "answer": [
+        "George Stephenson"
+      ]
+    },
+    {
+      "text": "Which of these inventions is credited to Samuel Colt?",
+      "options": [
+        "the first web browser",
+        "the steamboat",
+        "the steam-powered warship",
+        "the movable-type printing press",
+        "the Audion amplifier"
+      ],
+      "answer": [
+        "the revolving-cylinder firearm"
+      ]
+    },
+    {
+      "text": "Who is credited with creating dynamite?",
+      "options": [
+        "Johannes Gutenberg",
+        "Thomas Edison",
+        "Ferdinand von Zeppelin",
+        "Henry Ford",
+        "John Logie Baird"
+      ],
+      "answer": [
+        "Alfred Nobel"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the Bessemer steelmaking process?",
+      "options": [
+        "Alfred Nobel",
+        "John Boyd Dunlop",
+        "Johannes Gutenberg",
+        "Douglas Engelbart"
+      ],
+      "answer": [
+        "Henry Bessemer"
+      ]
+    },
+    {
+      "text": "Which invention was the work of Rudolf Diesel?",
+      "options": [
+        "the practical incandescent light bulb",
+        "the eye-pointed needle for sewing machines",
+        "the first computer mouse prototype",
+        "the aircraft test wind tunnel",
+        "the computer mouse"
+      ],
+      "answer": [
+        "the compression-ignition engine"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the integrated circuit?",
+      "options": [
+        "Rudolf Diesel",
+        "Elisha Otis",
+        "George Stephenson",
+        "Nikola Tesla",
+        "Eli Whitney"
+      ],
+      "answer": [
+        "Jack Kilby"
+      ]
+    },
+    {
+      "text": "Which of these inventions are credited to Johannes Gutenberg?",
+      "options": [
+        "the kinetoscope",
+        "the photophone",
+        "the electric telegraph",
+        "roll film"
+      ],
+      "answer": [
+        "the movable-type printing press",
+        "oil-based printing ink"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the eye-pointed needle for sewing machines?",
+      "options": [
+        "Alfred Nobel",
+        "Henry Ford",
+        "Louis Daguerre",
+        "Tim Berners-Lee",
+        "John Logie Baird"
+      ],
+      "answer": [
+        "Elias Howe"
+      ]
+    },
+    {
+      "text": "Which of these did George Stephenson invent?",
+      "options": [
+        "the first plain-paper copier",
+        "the Audion amplifier",
+        "the radio telegraph",
+        "the first web browser",
+        "the kinetoscope",
+        "the HTTP protocol"
+      ],
+      "answer": [
+        "the miner's safety lamp"
+      ]
+    },
+    {
+      "text": "Who invented the phonograph?",
+      "options": [
+        "Samuel Morse",
+        "Guglielmo Marconi",
+        "Douglas Engelbart",
+        "Lee de Forest",
+        "Samuel Colt"
+      ],
+      "answer": [
+        "Thomas Edison"
+      ]
+    },
+    {
+      "text": "Who invented the compression-ignition engine?",
+      "options": [
+        "Louis Daguerre",
+        "John Logie Baird",
+        "Eli Whitney",
+        "Samuel Colt",
+        "Charles Goodyear"
+      ],
+      "answer": [
+        "Rudolf Diesel"
+      ]
+    },
+    {
+      "text": "Which inventor created the practical incandescent light bulb?",
+      "options": [
+        "Steve Wozniak",
+        "Edwin Land",
+        "Charles Goodyear",
+        "Johannes Gutenberg",
+        "Tim Berners-Lee",
+        "Samuel Morse"
+      ],
+      "answer": [
+        "Thomas Edison"
+      ]
+    },
+    {
+      "text": "Whose invention is instant photography?",
+      "options": [
+        "Rudolf Diesel",
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Elisha Otis",
+        "John Logie Baird",
+        "Tim Berners-Lee"
+      ],
+      "answer": [
+        "Edwin Land"
+      ]
+    },
+    {
+      "text": "Which inventor created the mechanical printing press?",
+      "options": [
+        "Guglielmo Marconi",
+        "Tim Berners-Lee",
+        "John Logie Baird",
+        "Douglas Engelbart",
+        "Louis Daguerre"
+      ],
+      "answer": [
+        "Johannes Gutenberg"
+      ]
+    },
+    {
+      "text": "Who invented the World Wide Web?",
+      "options": [
+        "Alexander Graham Bell",
+        "Igor Sikorsky",
+        "Charles Goodyear",
+        "Samuel Morse",
+        "Eli Whitney"
+      ],
+      "answer": [
+        "Tim Berners-Lee"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the electromechanical television system?",
+      "options": [
+        "Ferdinand von Zeppelin",
+        "Thomas Edison",
+        "Lee de Forest",
+        "Alexander Graham Bell"
+      ],
+      "answer": [
+        "John Logie Baird"
+      ]
+    },
+    {
+      "text": "Whose invention is the steamboat?",
+      "options": [
+        "Igor Sikorsky",
+        "Guglielmo Marconi",
+        "Lee de Forest",
+        "Nikola Tesla",
+        "John Logie Baird"
+      ],
+      "answer": [
+        "Robert Fulton"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the double-acting steam engine?",
+      "options": [
+        "Ferdinand von Zeppelin",
+        "the Wright brothers",
+        "Alfred Nobel",
+        "Louis Daguerre"
+      ],
+      "answer": [
+        "James Watt"
+      ]
+    },
+    {
+      "text": "Who invented the single-rotor helicopter?",
+      "options": [
+        "Thomas Edison",
+        "Guglielmo Marconi",
+        "Elias Howe",
+        "John Logie Baird",
+        "John Boyd Dunlop"
+      ],
+      "answer": [
+        "Igor Sikorsky"
+      ]
+    },
+    {
+      "text": "Who invented the three-axis flight control system?",
+      "options": [
+        "Samuel Colt",
+        "Henry Bessemer",
+        "Samuel Morse",
+        "Rudolf Diesel",
+        "Louis Daguerre",
+        "George Eastman"
+      ],
+      "answer": [
+        "the Wright brothers"
+      ]
+    },
+    {
+      "text": "Which inventor created the first plain-paper copier?",
+      "options": [
+        "Johannes Gutenberg",
+        "Alexander Graham Bell",
+        "Tim Berners-Lee",
+        "Samuel Morse",
+        "John Logie Baird"
+      ],
+      "answer": [
+        "Chester Carlson"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the daguerreotype?",
+      "options": [
+        "Alfred Nobel",
+        "Douglas Engelbart",
+        "Igor Sikorsky",
+        "Samuel Morse",
+        "John Logie Baird"
+      ],
+      "answer": [
+        "Louis Daguerre"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the automobile?",
+      "options": [
+        "Tim Berners-Lee",
+        "Henry Ford",
+        "Chester Carlson",
+        "John Boyd Dunlop",
+        "Samuel Colt"
+      ],
+      "answer": [
+        "Karl Benz"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the movable-type printing press?",
+      "options": [
+        "Samuel Morse",
+        "Tim Berners-Lee",
+        "John Logie Baird",
+        "Ferdinand von Zeppelin"
+      ],
+      "answer": [
+        "Johannes Gutenberg"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the rigid airship?",
+      "options": [
+        "Johannes Gutenberg",
+        "Samuel Morse",
+        "John Boyd Dunlop",
+        "Igor Sikorsky",
+        "Alfred Nobel"
+      ],
+      "answer": [
+        "Ferdinand von Zeppelin"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for interchangeable parts for firearms?",
+      "options": [
+        "Samuel Colt",
+        "Tim Berners-Lee",
+        "Douglas Engelbart",
+        "Louis Daguerre"
+      ],
+      "answer": [
+        "Eli Whitney"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the diesel engine?",
+      "options": [
+        "Igor Sikorsky",
+        "Douglas Engelbart",
+        "Ferdinand von Zeppelin",
+        "John Logie Baird"
+      ],
+      "answer": [
+        "Rudolf Diesel"
+      ]
+    },
+    {
+      "text": "John Boyd Dunlop is known for which of these inventions?",
+      "options": [
+        "the converter vessel for steelmaking",
+        "the Rocket locomotive",
+        "the HTTP protocol",
+        "the elevator safety brake",
+        "the steam-powered warship"
+      ],
+      "answer": [
+        "the pneumatic tire"
+      ]
+    },
+    {
+      "text": "Which of these did Karl Benz invent?",
+      "options": [
+        "wireless telegraphy",
+        "oil-based printing ink",
+        "roll film",
+        "the first practical photographic process",
+        "the revolving-cylinder firearm",
+        "the cotton gin"
+      ],
+      "answer": [
+        "the automobile"
+      ]
+    },
+    {
+      "text": "Whose invention is mechanical television?",
+      "options": [
+        "George Eastman",
+        "Karl Benz",
+        "Henry Bessemer",
+        "Igor Sikorsky",
+        "James Watt",
+        "Nikola Tesla"
+      ],
+      "answer": [
+        "John Logie Baird"
+      ]
+    },
+    {
+      "text": "Who invented the single-action revolver?",
+      "options": [
+        "Thomas Edison",
+        "Jack Kilby",
+        "Henry Ford",
+        "Samuel Morse",
+        "Guglielmo Marconi",
+        "Ferdinand von Zeppelin"
+      ],
+      "answer": [
+        "Samuel Colt"
+      ]
+    },
+    {
+      "text": "What did Alfred Nobel create?",
+      "options": [
+        "the automobile",
+        "the three-axis flight control system",
+        "the practical incandescent light bulb",
+        "the Tesla coil"
+      ],
+      "answer": [
+        "the blasting cap detonator"
+      ]
+    },
+    {
+      "text": "Which two of the following did Alexander Graham Bell create?",
+      "options": [
+        "Morse code",
+        "the World Wide Web",
+        "the handheld calculator",
+        "the railway steam locomotive",
+        "vulcanized rubber"
+      ],
+      "answer": [
+        "the photophone",
+        "the telephone"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the Tesla coil?",
+      "options": [
+        "Elisha Otis",
+        "Chester Carlson",
+        "Lee de Forest",
+        "Johannes Gutenberg"
+      ],
+      "answer": [
+        "Nikola Tesla"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the airplane?",
+      "options": [
+        "Rudolf Diesel",
+        "Samuel Morse",
+        "Tim Berners-Lee",
+        "Johannes Gutenberg",
+        "James Watt"
+      ],
+      "answer": [
+        "the Wright brothers"
+      ]
+    },
+    {
+      "text": "George Eastman is known for which of these inventions?",
+      "options": [
+        "the three-wheeled motor car",
+        "the phonograph",
+        "the miner's safety lamp",
+        "the aircraft test wind tunnel"
+      ],
+      "answer": [
+        "the Kodak camera"
+      ]
+    },
+    {
+      "text": "Which inventor created the Apple II computer?",
+      "options": [
+        "Ferdinand von Zeppelin",
+        "James Watt",
+        "the Wright brothers",
+        "Thomas Edison",
+        "Chester Carlson"
+      ],
+      "answer": [
+        "Steve Wozniak"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the triode vacuum tube?",
+      "options": [
+        "Alfred Nobel",
+        "Louis Daguerre",
+        "Charles Goodyear",
+        "Jack Kilby",
+        "Chester Carlson"
+      ],
+      "answer": [
+        "Lee de Forest"
+      ]
+    },
+    {
+      "text": "Which invention was the work of Jack Kilby?",
+      "options": [
+        "the moving assembly line",
+        "instant photography",
+        "the double-acting steam engine",
+        "the Tesla coil",
+        "the Apple I computer"
+      ],
+      "answer": [
+        "the handheld calculator"
+      ]
+    },
+    {
+      "text": "Which inventor created the AC induction motor?",
+      "options": [
+        "Elisha Otis",
+        "the Wright brothers",
+        "Samuel Morse",
+        "Rudolf Diesel",
+        "Ferdinand von Zeppelin",
+        "Henry Bessemer"
+      ],
+      "answer": [
+        "Nikola Tesla"
+      ]
+    },
+    {
+      "text": "Who is credited with creating vulcanized rubber?",
+      "options": [
+        "Johannes Gutenberg",
+        "Steve Wozniak",
+        "Elisha Otis",
+        "Alfred Nobel"
+      ],
+      "answer": [
+        "Charles Goodyear"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the amphibian flying boat?",
+      "options": [
+        "Nikola Tesla",
+        "Jack Kilby",
+        "Lee de Forest",
+        "Douglas Engelbart",
+        "Chester Carlson"
+      ],
+      "answer": [
+        "Igor Sikorsky"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the safety elevator?",
+      "options": [
+        "Douglas Engelbart",
+        "Edwin Land",
+        "Nikola Tesla",
+        "Alfred Nobel"
+      ],
+      "answer": [
+        "Elisha Otis"
+      ]
+    },
+    {
+      "text": "Who is credited with creating Morse code?",
+      "options": [
+        "the Wright brothers",
+        "Eli Whitney",
+        "Igor Sikorsky",
+        "Lee de Forest",
+        "Johannes Gutenberg"
+      ],
+      "answer": [
+        "Samuel Morse"
+      ]
+    },
+    {
+      "text": "Which inventor created the blasting cap detonator?",
+      "options": [
+        "Tim Berners-Lee",
+        "Lee de Forest",
+        "Robert Fulton",
+        "James Watt",
+        "Elias Howe",
+        "Edwin Land"
+      ],
+      "answer": [
+        "Alfred Nobel"
+      ]
+    },
+    {
+      "text": "Who invented the radio telegraph?",
+      "options": [
+        "Tim Berners-Lee",
+        "Jack Kilby",
+        "Karl Benz",
+        "Johannes Gutenberg",
+        "John Logie Baird",
+        "Alexander Graham Bell"
+      ],
+      "answer": [
+        "Guglielmo Marconi"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the Polaroid camera?",
+      "options": [
+        "Douglas Engelbart",
+        "Jack Kilby",
+        "Eli Whitney",
+        "Chester Carlson",
+        "Elisha Otis"
+      ],
+      "answer": [
+        "Edwin Land"
+      ]
+    },
+    {
+      "text": "Who invented the centrifugal governor for steam engines?",
+      "options": [
+        "Henry Ford",
+        "Jack Kilby",
+        "Edwin Land",
+        "Johannes Gutenberg",
+        "John Boyd Dunlop"
+      ],
+      "answer": [
+        "James Watt"
+      ]
+    },
+    {
+      "text": "Which two of the following did Henry Bessemer create?",
+      "options": [
+        "the HTTP protocol",
+        "the handheld calculator",
+        "the Audion amplifier",
+        "the rigid airship",
+        "xerography"
+      ],
+      "answer": [
+        "the converter vessel for steelmaking",
+        "the Bessemer steelmaking process"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the helicopter?",
+      "options": [
+        "James Watt",
+        "Lee de Forest",
+        "Rudolf Diesel",
+        "Douglas Engelbart"
+      ],
+      "answer": [
+        "Igor Sikorsky"
+      ]
+    },
+    {
+      "text": "Which inventor created the aluminium-framed dirigible?",
+      "options": [
+        "Henry Bessemer",
+        "Guglielmo Marconi",
+        "Tim Berners-Lee",
+        "Lee de Forest",
+        "George Eastman",
+        "Karl Benz"
+      ],
+      "answer": [
+        "Ferdinand von Zeppelin"
+      ]
+    },
+    {
+      "text": "Which inventor created the lockstitch sewing machine?",
+      "options": [
+        "John Logie Baird",
+        "Chester Carlson",
+        "Thomas Edison",
+        "Rudolf Diesel",
+        "John Boyd Dunlop"
+      ],
+      "answer": [
+        "Elias Howe"
+      ]
+    },
+    {
+      "text": "Who invented the elevator safety brake?",
+      "options": [
+        "Johannes Gutenberg",
+        "Henry Bessemer",
+        "Louis Daguerre",
+        "Lee de Forest",
+        "Edwin Land"
+      ],
+      "answer": [
+        "Elisha Otis"
+      ]
+    },
+    {
+      "text": "Which invention was the work of Steve Wozniak?",
+      "options": [
+        "the first practical photographic process",
+        "the separate condenser for steam engines",
+        "the pneumatic tire",
+        "the Audion amplifier",
+        "the aluminium-framed dirigible"
+      ],
+      "answer": [
+        "the Apple I computer"
+      ]
+    },
+    {
+      "text": "Which two of these did the Wright brothers invent?",
+      "options": [
+        "the first web browser",
+        "the World Wide Web",
+        "the Apple I computer",
+        "the AC induction motor",
+        "the diesel engine",
+        "the amphibian flying boat"
+      ],
+      "answer": [
+        "the airplane",
+        "the aircraft test wind tunnel"
+      ]
+    },
+    {
+      "text": "Which inventor created the HTTP protocol?",
+      "options": [
+        "Karl Benz",
+        "Rudolf Diesel",
+        "Igor Sikorsky",
+        "Eli Whitney",
+        "Charles Goodyear",
+        "Henry Bessemer"
+      ],
+      "answer": [
+        "Tim Berners-Lee"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for wireless telegraphy?",
+      "options": [
+        "Robert Fulton",
+        "Edwin Land",
+        "the Wright brothers",
+        "Karl Benz",
+        "George Stephenson"
+      ],
+      "answer": [
+        "Guglielmo Marconi"
+      ]
+    },
+    {
+      "text": "Which inventor is responsible for the steam-powered warship?",
+      "options": [
+        "Nikola Tesla",
+        "John Boyd Dunlop",
+        "Henry Bessemer",
+        "Lee de Forest",
+        "Charles Goodyear"
+      ],
+      "answer": [
+        "Robert Fulton"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the revolving-cylinder firearm?",
+      "options": [
+        "Rudolf Diesel",
+        "Alfred Nobel",
+        "Elias Howe",
+        "Louis Daguerre"
+      ],
+      "answer": [
+        "Samuel Colt"
+      ]
+    },
+    {
+      "text": "Which inventor created the vulcanization process for rubber?",
+      "options": [
+        "James Watt",
+        "Johannes Gutenberg",
+        "Elisha Otis",
+        "Douglas Engelbart",
+        "Louis Daguerre"
+      ],
+      "answer": [
+        "Charles Goodyear"
+      ]
+    },
+    {
+      "text": "Whose invention is the photophone?",
+      "options": [
+        "Samuel Morse",
+        "George Eastman",
+        "Douglas Engelbart",
+        "Chester Carlson",
+        "Jack Kilby"
+      ],
+      "answer": [
+        "Alexander Graham Bell"
+      ]
+    },
+    {
+      "text": "Which of these inventions is credited to Lee de Forest?",
+      "options": [
+        "the revolving-cylinder firearm",
+        "the electromechanical television system",
+        "the three-wheeled motor car",
+        "the telephone"
+      ],
+      "answer": [
+        "the triode vacuum tube"
+      ]
+    },
+    {
+      "text": "Who was the inventor of the telephone?",
+      "options": [
+        "Chester Carlson",
+        "Douglas Engelbart",
+        "Samuel Morse",
+        "Edwin Land"
+      ],
+      "answer": [
+        "Alexander Graham Bell"
+      ]
+    },
+    {
+      "text": "Igor Sikorsky is known for which of these inventions?",
+      "options": [
+        "the computer mouse",
+        "the kinetoscope",
+        "the radio telegraph",
+        "the single-action revolver",
+        "the handheld calculator",
+        "the Polaroid camera"
+      ],
+      "answer": [
+        "the amphibian flying boat"
+      ]
+    },
+    {
+      "text": "Who is credited with creating the Rocket locomotive?",
+      "options": [
+        "Henry Bessemer",
+        "Rudolf Diesel",
+        "Karl Benz",
+        "Douglas Engelbart",
+        "Eli Whitney"
+      ],
+      "answer": [
+        "George Stephenson"
+      ]
+    },
+    {
+      "text": "Which of these inventions are credited to Charles Goodyear?",
+      "options": [
+        "the telephone",
+        "the centrifugal governor for steam engines",
+        "dynamite",
+        "the rigid airship"
+      ],
+      "answer": [
+        "vulcanized rubber",
+        "the vulcanization process for rubber"
+      ]
+    }
+  ]
+}

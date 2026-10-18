@@ -1,0 +1,1378 @@
+{
+  "theme": "Inventeurs et inventions",
+  "questions": [
+    {
+      "text": "Qui est l'inventeur de « ballon gonflé à l'air chaud » ?",
+      "options": [
+        "Charles Tellier",
+        "Denis Papin",
+        "Joseph-Marie Jacquard",
+        "Étienne-Jules Marey",
+        "Nicolas Appert"
+      ],
+      "answer": [
+        "Joseph et Étienne Montgolfier"
+      ]
+    },
+    {
+      "text": "Qui a conçu « stéthoscope » ?",
+      "options": [
+        "Louis Blériot",
+        "Philippe Lebon",
+        "Joseph et Étienne Montgolfier",
+        "Joseph Monier",
+        "Gustave Eiffel"
+      ],
+      "answer": [
+        "René Laennec"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « lentille annulaire à échelons » ?",
+      "options": [
+        "Eugène Freyssinet",
+        "Henri Giffard",
+        "Louis Blériot",
+        "Auguste et Louis Lumière"
+      ],
+      "answer": [
+        "Augustin Fresnel"
+      ]
+    },
+    {
+      "text": "Qui a conçu « projection publique de films sur grand écran » ?",
+      "options": [
+        "Clément Ader",
+        "Léon Foucault",
+        "Joseph Cugnot",
+        "Joseph Monier",
+        "Claude Chappe"
+      ],
+      "answer": [
+        "Auguste et Louis Lumière"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « avion à moteur à vapeur » ?",
+      "options": [
+        "Hippolyte Pixii",
+        "Augustin Fresnel",
+        "Paul Cornu",
+        "Eugène Freyssinet",
+        "Louis Braille"
+      ],
+      "answer": [
+        "Clément Ader"
+      ]
+    },
+    {
+      "text": "À qui doit-on « machine magnétoélectrique » ?",
+      "options": [
+        "Nicéphore Niépce",
+        "Joseph Cugnot",
+        "Eugène Freyssinet",
+        "Henri Giffard",
+        "Philippe Lebon",
+        "René Laennec"
+      ],
+      "answer": [
+        "Hippolyte Pixii"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « transport maritime de viande réfrigérée » ?",
+      "options": [
+        "Joseph-Marie Jacquard",
+        "René Laennec",
+        "Nicolas Appert",
+        "Joseph et Étienne Montgolfier",
+        "Édouard-Léon Scott de Martinville"
+      ],
+      "answer": [
+        "Charles Tellier"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « graphiques du mouvement enregistrés sur papier » ?",
+      "options": [
+        "Léon Foucault",
+        "Hippolyte Pixii",
+        "Auguste et Louis Lumière",
+        "André-Marie Ampère"
+      ],
+      "answer": [
+        "Étienne-Jules Marey"
+      ]
+    },
+    {
+      "text": "Lesquelles de ces inventions sont dues à Joseph Monier ?",
+      "options": [
+        "projection publique de films sur grand écran",
+        "fardier à vapeur",
+        "première image photographique fixée",
+        "chronophotographie",
+        "pont à arches de fer",
+        "vaccin contre le charbon des animaux"
+      ],
+      "answer": [
+        "tuyaux en ciment armé",
+        "béton armé"
+      ]
+    },
+    {
+      "text": "Quel objet technique doit-on à Clément Ader ?",
+      "options": [
+        "phonautographe",
+        "auscultation médiate",
+        "aéroplane monoplan à moteur",
+        "métier à tisser à cartes perforées",
+        "marmite à pression"
+      ],
+      "answer": [
+        "avion à moteur à vapeur"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « autocuiseur à soupape de sûreté » ?",
+      "options": [
+        "Paul Cornu",
+        "Jacques de Vaucanson",
+        "Léon Foucault",
+        "Gustave Eiffel"
+      ],
+      "answer": [
+        "Denis Papin"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « hélicoptère à deux rotors » ?",
+      "options": [
+        "Claude Chappe",
+        "Louis Blériot",
+        "Clément Ader",
+        "Joseph Cugnot"
+      ],
+      "answer": [
+        "Paul Cornu"
+      ]
+    },
+    {
+      "text": "Qui a conçu « machine à coudre » ?",
+      "options": [
+        "Eugène Freyssinet",
+        "Léon Foucault",
+        "Georges Claude",
+        "Joseph et Étienne Montgolfier",
+        "Nicéphore Niépce",
+        "Philippe Lebon"
+      ],
+      "answer": [
+        "Barthélemy Thimonnier"
+      ]
+    },
+    {
+      "text": "Qui a inventé « tube lumineux au néon » ?",
+      "options": [
+        "Louis Pasteur",
+        "René Laennec",
+        "Paul Cornu",
+        "Henri Giffard",
+        "Hippolyte Pixii",
+        "Étienne-Jules Marey"
+      ],
+      "answer": [
+        "Georges Claude"
+      ]
+    },
+    {
+      "text": "Quelles inventions parmi celles-ci sont attribuées à Barthélemy Thimonnier ?",
+      "options": [
+        "examen des poumons à l'oreille",
+        "métier à tisser à cartes perforées",
+        "projection publique de films sur grand écran",
+        "Éole",
+        "sémaphore à bras articulés"
+      ],
+      "answer": [
+        "machine à coudre",
+        "point de chaînette pour la couture"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « gaz d'éclairage » ?",
+      "options": [
+        "Louis Pasteur",
+        "René Laennec",
+        "Édouard-Léon Scott de Martinville",
+        "Joseph Monier",
+        "André-Marie Ampère"
+      ],
+      "answer": [
+        "Philippe Lebon"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « héliographie » ?",
+      "options": [
+        "Léon Foucault",
+        "Philippe Lebon",
+        "Denis Papin",
+        "Auguste et Louis Lumière"
+      ],
+      "answer": [
+        "Nicéphore Niépce"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « vaccin contre le charbon des animaux » ?",
+      "options": [
+        "Louis Braille",
+        "Barthélemy Thimonnier",
+        "Louis Blériot",
+        "Clément Ader",
+        "Gustave Eiffel"
+      ],
+      "answer": [
+        "Louis Pasteur"
+      ]
+    },
+    {
+      "text": "À qui doit-on « pont à arches de fer » ?",
+      "options": [
+        "Claude Chappe",
+        "Léon Foucault",
+        "Blaise Pascal",
+        "Joseph et Étienne Montgolfier",
+        "Clément Ader"
+      ],
+      "answer": [
+        "Gustave Eiffel"
+      ]
+    },
+    {
+      "text": "Qui a conçu « télégraphe optique » ?",
+      "options": [
+        "Gustave Eiffel",
+        "Paul Cornu",
+        "Clément Ader",
+        "Hippolyte Pixii",
+        "René Laennec"
+      ],
+      "answer": [
+        "Claude Chappe"
+      ]
+    },
+    {
+      "text": "Qui a inventé « machine à calculer » ?",
+      "options": [
+        "Nicolas Appert",
+        "Édouard-Léon Scott de Martinville",
+        "André-Marie Ampère",
+        "Augustin Fresnel",
+        "Auguste et Louis Lumière",
+        "Louis Blériot"
+      ],
+      "answer": [
+        "Blaise Pascal"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « charpente métallique » ?",
+      "options": [
+        "Augustin Fresnel",
+        "Hippolyte Pixii",
+        "Georges Claude",
+        "Denis Papin"
+      ],
+      "answer": [
+        "Gustave Eiffel"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « auscultation médiate » ?",
+      "options": [
+        "Clément Ader",
+        "Claude Chappe",
+        "Gustave Eiffel",
+        "Georges Claude",
+        "Nicolas Appert"
+      ],
+      "answer": [
+        "René Laennec"
+      ]
+    },
+    {
+      "text": "Quel objet technique doit-on à Philippe Lebon ?",
+      "options": [
+        "projecteur d'automobile",
+        "écriture en relief lisible au doigt",
+        "machine à calculer",
+        "transport maritime de viande réfrigérée",
+        "vaccin contre la rage",
+        "injecteur d'eau pour chaudière"
+      ],
+      "answer": [
+        "gaz d'éclairage"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « presse hydraulique » ?",
+      "options": [
+        "Philippe Lebon",
+        "Paul Cornu",
+        "Joseph-Marie Jacquard",
+        "Joseph Cugnot"
+      ],
+      "answer": [
+        "Blaise Pascal"
+      ]
+    },
+    {
+      "text": "Laquelle de ces inventions est due à Hippolyte Pixii ?",
+      "options": [
+        "système de points saillants pour la lecture",
+        "galvanomètre à aiguille astatique",
+        "véhicule à trois roues mû par la vapeur",
+        "verre de signalisation pour les phares",
+        "pot de fleurs en ciment armé"
+      ],
+      "answer": [
+        "machine magnétoélectrique"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « mécanisme de sélection des fils » ?",
+      "options": [
+        "Paul Cornu",
+        "Claude Chappe",
+        "Étienne-Jules Marey",
+        "Joseph Cugnot",
+        "Denis Papin"
+      ],
+      "answer": [
+        "Joseph-Marie Jacquard"
+      ]
+    },
+    {
+      "text": "Quels objets techniques ont été conçus par Étienne-Jules Marey ?",
+      "options": [
+        "héliographie",
+        "automate joueur de tambourin",
+        "béton armé",
+        "dynamo à aimant tournant",
+        "autocuiseur à soupape de sûreté"
+      ],
+      "answer": [
+        "graphiques du mouvement enregistrés sur papier",
+        "fusil photographique"
+      ]
+    },
+    {
+      "text": "Qui a inventé « ligne de signaux aériens » ?",
+      "options": [
+        "Léon Foucault",
+        "Jacques de Vaucanson",
+        "Denis Papin",
+        "Joseph Cugnot",
+        "André-Marie Ampère",
+        "Hippolyte Pixii"
+      ],
+      "answer": [
+        "Claude Chappe"
+      ]
+    },
+    {
+      "text": "À qui doit-on « optique de phare marin » ?",
+      "options": [
+        "Denis Papin",
+        "Georges Claude",
+        "Joseph et Étienne Montgolfier",
+        "Eugène Freyssinet",
+        "Auguste et Louis Lumière"
+      ],
+      "answer": [
+        "Augustin Fresnel"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « canard automate digérant » ?",
+      "options": [
+        "René Laennec",
+        "Henri Giffard",
+        "Joseph-Marie Jacquard",
+        "Léon Foucault"
+      ],
+      "answer": [
+        "Jacques de Vaucanson"
+      ]
+    },
+    {
+      "text": "Quelle invention est associée à Joseph et Étienne Montgolfier ?",
+      "options": [
+        "conservation des aliments en bocaux",
+        "pont à arches de fer",
+        "automate joueur de flûte",
+        "autocuiseur à soupape de sûreté",
+        "tissage mécanique des étoffes façonnées"
+      ],
+      "answer": [
+        "ballon gonflé à l'air chaud"
+      ]
+    },
+    {
+      "text": "À qui doit-on « thermolampe » ?",
+      "options": [
+        "Eugène Freyssinet",
+        "Claude Chappe",
+        "Louis Braille",
+        "Louis Blériot",
+        "André-Marie Ampère",
+        "Georges Claude"
+      ],
+      "answer": [
+        "Philippe Lebon"
+      ]
+    },
+    {
+      "text": "Qui a inventé « point de chaînette pour la couture » ?",
+      "options": [
+        "Eugène Freyssinet",
+        "Joseph Monier",
+        "Léon Foucault",
+        "Denis Papin",
+        "Nicéphore Niépce"
+      ],
+      "answer": [
+        "Barthélemy Thimonnier"
+      ]
+    },
+    {
+      "text": "Quelle réalisation technique revient à Eugène Freyssinet ?",
+      "options": [
+        "béton armé",
+        "enseigne au néon",
+        "machine frigorifique à compression",
+        "hélicoptère à deux rotors",
+        "gyroscope"
+      ],
+      "answer": [
+        "béton précontraint"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « automate joueur de tambourin » ?",
+      "options": [
+        "René Laennec",
+        "Philippe Lebon",
+        "Denis Papin",
+        "Louis Braille",
+        "Joseph Monier"
+      ],
+      "answer": [
+        "Jacques de Vaucanson"
+      ]
+    },
+    {
+      "text": "Quelle réalisation technique revient à Louis Blériot ?",
+      "options": [
+        "enveloppe de toile doublée de papier",
+        "première image photographique fixée",
+        "automate joueur de tambourin",
+        "canard automate digérant"
+      ],
+      "answer": [
+        "traversée de la Manche en avion"
+      ]
+    },
+    {
+      "text": "Qui a inventé « système de points saillants pour la lecture » ?",
+      "options": [
+        "Charles Tellier",
+        "Louis Pasteur",
+        "Léon Foucault",
+        "Édouard-Léon Scott de Martinville",
+        "Louis Blériot",
+        "Clément Ader"
+      ],
+      "answer": [
+        "Louis Braille"
+      ]
+    },
+    {
+      "text": "Laquelle de ces inventions est due à Nicolas Appert ?",
+      "options": [
+        "vaccin contre la rage",
+        "optique de phare marin",
+        "pont à arches de fer",
+        "métier à tisser à cartes perforées",
+        "cinématographe",
+        "couture mécanique"
+      ],
+      "answer": [
+        "conservation des aliments en bocaux"
+      ]
+    },
+    {
+      "text": "Quelle invention est associée à Paul Cornu ?",
+      "options": [
+        "vaccin contre la rage",
+        "béton armé",
+        "point de vue du Gras",
+        "examen des poumons à l'oreille",
+        "Éole"
+      ],
+      "answer": [
+        "hélicoptère à deux rotors"
+      ]
+    },
+    {
+      "text": "Qui a inventé « machine à vapeur à piston » ?",
+      "options": [
+        "Jacques de Vaucanson",
+        "Philippe Lebon",
+        "Léon Foucault",
+        "Augustin Fresnel",
+        "Charles Tellier"
+      ],
+      "answer": [
+        "Denis Papin"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « écriture en relief lisible au doigt » ?",
+      "options": [
+        "Hippolyte Pixii",
+        "Denis Papin",
+        "Joseph-Marie Jacquard",
+        "René Laennec",
+        "Nicolas Appert"
+      ],
+      "answer": [
+        "Louis Braille"
+      ]
+    },
+    {
+      "text": "Qui a conçu « chronophotographie » ?",
+      "options": [
+        "Louis Blériot",
+        "Charles Tellier",
+        "Joseph et Étienne Montgolfier",
+        "Philippe Lebon",
+        "Denis Papin",
+        "Nicolas Appert"
+      ],
+      "answer": [
+        "Étienne-Jules Marey"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « enregistrement graphique du son » ?",
+      "options": [
+        "Joseph Cugnot",
+        "Joseph Monier",
+        "Blaise Pascal",
+        "Jacques de Vaucanson"
+      ],
+      "answer": [
+        "Édouard-Léon Scott de Martinville"
+      ]
+    },
+    {
+      "text": "À qui doit-on « liquéfaction industrielle de l'air » ?",
+      "options": [
+        "Joseph-Marie Jacquard",
+        "André-Marie Ampère",
+        "Édouard-Léon Scott de Martinville",
+        "Hippolyte Pixii",
+        "René Laennec"
+      ],
+      "answer": [
+        "Georges Claude"
+      ]
+    },
+    {
+      "text": "Qui a conçu « machine frigorifique à compression » ?",
+      "options": [
+        "Clément Ader",
+        "Jacques de Vaucanson",
+        "Louis Braille",
+        "Léon Foucault",
+        "Paul Cornu"
+      ],
+      "answer": [
+        "Charles Tellier"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « plaque photographique en couleurs autochrome » ?",
+      "options": [
+        "Louis Blériot",
+        "Clément Ader",
+        "René Laennec",
+        "Gustave Eiffel"
+      ],
+      "answer": [
+        "Auguste et Louis Lumière"
+      ]
+    },
+    {
+      "text": "Qui a inventé « stérilisation des aliments par la chaleur » ?",
+      "options": [
+        "Jacques de Vaucanson",
+        "Paul Cornu",
+        "Augustin Fresnel",
+        "Charles Tellier",
+        "Barthélemy Thimonnier",
+        "Clément Ader"
+      ],
+      "answer": [
+        "Nicolas Appert"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « couture mécanique » ?",
+      "options": [
+        "Henri Giffard",
+        "Georges Claude",
+        "André-Marie Ampère",
+        "Denis Papin"
+      ],
+      "answer": [
+        "Barthélemy Thimonnier"
+      ]
+    },
+    {
+      "text": "Qui a inventé « hélice propulsive pour aéroplane » ?",
+      "options": [
+        "René Laennec",
+        "Paul Cornu",
+        "Joseph et Étienne Montgolfier",
+        "Eugène Freyssinet",
+        "Nicéphore Niépce",
+        "Henri Giffard"
+      ],
+      "answer": [
+        "Clément Ader"
+      ]
+    },
+    {
+      "text": "Qui a inventé « examen des poumons à l'oreille » ?",
+      "options": [
+        "Gustave Eiffel",
+        "Blaise Pascal",
+        "Paul Cornu",
+        "André-Marie Ampère",
+        "Louis Blériot",
+        "Henri Giffard"
+      ],
+      "answer": [
+        "René Laennec"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « sémaphore à bras articulés » ?",
+      "options": [
+        "Louis Braille",
+        "Étienne-Jules Marey",
+        "Joseph et Étienne Montgolfier",
+        "Paul Cornu",
+        "Louis Pasteur"
+      ],
+      "answer": [
+        "Claude Chappe"
+      ]
+    },
+    {
+      "text": "Qui a conçu « marmite à pression » ?",
+      "options": [
+        "Louis Pasteur",
+        "Georges Claude",
+        "Édouard-Léon Scott de Martinville",
+        "André-Marie Ampère",
+        "Charles Tellier",
+        "Henri Giffard"
+      ],
+      "answer": [
+        "Denis Papin"
+      ]
+    },
+    {
+      "text": "Quelle invention est associée à Joseph-Marie Jacquard ?",
+      "options": [
+        "conservation des aliments en bocaux",
+        "sémaphore à bras articulés",
+        "automate joueur de tambourin",
+        "chambre froide à ammoniaque"
+      ],
+      "answer": [
+        "métier à tisser à cartes perforées"
+      ]
+    },
+    {
+      "text": "Quel objet technique doit-on à Henri Giffard ?",
+      "options": [
+        "plaque photographique en couleurs autochrome",
+        "machine à coudre",
+        "conservation des aliments en bocaux",
+        "éclairage public au gaz",
+        "galvanomètre à aiguille astatique"
+      ],
+      "answer": [
+        "injecteur d'eau pour chaudière"
+      ]
+    },
+    {
+      "text": "Qui a conçu « pot de fleurs en ciment armé » ?",
+      "options": [
+        "Barthélemy Thimonnier",
+        "Eugène Freyssinet",
+        "Augustin Fresnel",
+        "Hippolyte Pixii",
+        "Joseph-Marie Jacquard"
+      ],
+      "answer": [
+        "Joseph Monier"
+      ]
+    },
+    {
+      "text": "À qui doit-on « première image photographique fixée » ?",
+      "options": [
+        "Léon Foucault",
+        "Augustin Fresnel",
+        "Philippe Lebon",
+        "Étienne-Jules Marey",
+        "Eugène Freyssinet"
+      ],
+      "answer": [
+        "Nicéphore Niépce"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « injecteur d'eau pour chaudière » ?",
+      "options": [
+        "André-Marie Ampère",
+        "Joseph Cugnot",
+        "Georges Claude",
+        "Eugène Freyssinet"
+      ],
+      "answer": [
+        "Henri Giffard"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « galvanomètre à aiguille astatique » ?",
+      "options": [
+        "Nicolas Appert",
+        "Léon Foucault",
+        "Joseph-Marie Jacquard",
+        "Paul Cornu"
+      ],
+      "answer": [
+        "André-Marie Ampère"
+      ]
+    },
+    {
+      "text": "Qui a inventé « premier véhicule automobile » ?",
+      "options": [
+        "Denis Papin",
+        "Louis Blériot",
+        "Clément Ader",
+        "André-Marie Ampère",
+        "Georges Claude"
+      ],
+      "answer": [
+        "Joseph Cugnot"
+      ]
+    },
+    {
+      "text": "À qui doit-on « métier à tisser à cartes perforées » ?",
+      "options": [
+        "Joseph Cugnot",
+        "Léon Foucault",
+        "Nicolas Appert",
+        "Louis Blériot",
+        "Georges Claude"
+      ],
+      "answer": [
+        "Joseph-Marie Jacquard"
+      ]
+    },
+    {
+      "text": "Qui a conçu « dirigeable propulsé par la vapeur » ?",
+      "options": [
+        "Louis Blériot",
+        "Léon Foucault",
+        "André-Marie Ampère",
+        "Joseph-Marie Jacquard",
+        "Denis Papin",
+        "Étienne-Jules Marey"
+      ],
+      "answer": [
+        "Henri Giffard"
+      ]
+    },
+    {
+      "text": "À qui doit-on « miroir tournant pour mesurer la vitesse de la lumière » ?",
+      "options": [
+        "Paul Cornu",
+        "Claude Chappe",
+        "Georges Claude",
+        "Joseph-Marie Jacquard",
+        "Joseph Cugnot",
+        "Philippe Lebon"
+      ],
+      "answer": [
+        "Léon Foucault"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « traversée de la Manche en avion » ?",
+      "options": [
+        "Philippe Lebon",
+        "Barthélemy Thimonnier",
+        "Auguste et Louis Lumière",
+        "Louis Braille"
+      ],
+      "answer": [
+        "Louis Blériot"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « rotors contrarotatifs » ?",
+      "options": [
+        "Denis Papin",
+        "Louis Pasteur",
+        "Léon Foucault",
+        "André-Marie Ampère",
+        "Édouard-Léon Scott de Martinville"
+      ],
+      "answer": [
+        "Paul Cornu"
+      ]
+    },
+    {
+      "text": "À qui doit-on « phonautographe » ?",
+      "options": [
+        "Joseph Cugnot",
+        "Denis Papin",
+        "Charles Tellier",
+        "Joseph Monier",
+        "Auguste et Louis Lumière",
+        "Blaise Pascal"
+      ],
+      "answer": [
+        "Édouard-Léon Scott de Martinville"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « fusil photographique » ?",
+      "options": [
+        "Georges Claude",
+        "Léon Foucault",
+        "Eugène Freyssinet",
+        "Philippe Lebon",
+        "Gustave Eiffel"
+      ],
+      "answer": [
+        "Étienne-Jules Marey"
+      ]
+    },
+    {
+      "text": "Quelle invention est associée à Nicéphore Niépce ?",
+      "options": [
+        "écriture en relief lisible au doigt",
+        "lentille annulaire à échelons",
+        "enregistrement graphique du son",
+        "gaz d'éclairage"
+      ],
+      "answer": [
+        "première image photographique fixée"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « chambre froide à ammoniaque » ?",
+      "options": [
+        "Denis Papin",
+        "Georges Claude",
+        "Paul Cornu",
+        "Claude Chappe"
+      ],
+      "answer": [
+        "Charles Tellier"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « voussoirs préfabriqués en béton » ?",
+      "options": [
+        "Léon Foucault",
+        "Louis Pasteur",
+        "Henri Giffard",
+        "Auguste et Louis Lumière",
+        "Jacques de Vaucanson"
+      ],
+      "answer": [
+        "Eugène Freyssinet"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « conservation des aliments en bocaux » ?",
+      "options": [
+        "André-Marie Ampère",
+        "Auguste et Louis Lumière",
+        "Joseph Cugnot",
+        "Louis Braille",
+        "Georges Claude"
+      ],
+      "answer": [
+        "Nicolas Appert"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « pendule tournant » ?",
+      "options": [
+        "Paul Cornu",
+        "André-Marie Ampère",
+        "Georges Claude",
+        "Henri Giffard",
+        "Philippe Lebon"
+      ],
+      "answer": [
+        "Léon Foucault"
+      ]
+    },
+    {
+      "text": "À qui doit-on « arche mince en béton précontraint » ?",
+      "options": [
+        "Édouard-Léon Scott de Martinville",
+        "Nicéphore Niépce",
+        "Joseph-Marie Jacquard",
+        "Léon Foucault",
+        "Auguste et Louis Lumière",
+        "Gustave Eiffel"
+      ],
+      "answer": [
+        "Eugène Freyssinet"
+      ]
+    },
+    {
+      "text": "À qui doit-on « premier vol libre d'un hélicoptère » ?",
+      "options": [
+        "Joseph-Marie Jacquard",
+        "Clément Ader",
+        "Nicolas Appert",
+        "Louis Braille",
+        "Joseph Monier"
+      ],
+      "answer": [
+        "Paul Cornu"
+      ]
+    },
+    {
+      "text": "À qui doit-on « enveloppe de toile doublée de papier » ?",
+      "options": [
+        "Denis Papin",
+        "André-Marie Ampère",
+        "Édouard-Léon Scott de Martinville",
+        "Joseph-Marie Jacquard",
+        "Charles Tellier",
+        "Blaise Pascal"
+      ],
+      "answer": [
+        "Joseph et Étienne Montgolfier"
+      ]
+    },
+    {
+      "text": "Quelles deux inventions doit-on à René Laennec ?",
+      "options": [
+        "machine frigorifique à compression",
+        "gyroscope",
+        "vaccin contre le charbon des animaux",
+        "tissage mécanique des étoffes façonnées"
+      ],
+      "answer": [
+        "auscultation médiate",
+        "stéthoscope"
+      ]
+    },
+    {
+      "text": "Qui a conçu « transcription des vibrations sur une feuille noircie » ?",
+      "options": [
+        "Philippe Lebon",
+        "Blaise Pascal",
+        "René Laennec",
+        "Nicéphore Niépce",
+        "Denis Papin"
+      ],
+      "answer": [
+        "Édouard-Léon Scott de Martinville"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « éclairage public au gaz » ?",
+      "options": [
+        "Nicolas Appert",
+        "Augustin Fresnel",
+        "Claude Chappe",
+        "Paul Cornu"
+      ],
+      "answer": [
+        "Philippe Lebon"
+      ]
+    },
+    {
+      "text": "Quelles inventions parmi celles-ci sont attribuées à Louis Braille ?",
+      "options": [
+        "véhicule à trois roues mû par la vapeur",
+        "couture mécanique",
+        "aéroplane monoplan à moteur",
+        "autocuiseur à soupape de sûreté",
+        "automate joueur de flûte"
+      ],
+      "answer": [
+        "système de points saillants pour la lecture",
+        "écriture en relief lisible au doigt"
+      ]
+    },
+    {
+      "text": "À qui doit-on « aéroplane monoplan à moteur » ?",
+      "options": [
+        "Nicéphore Niépce",
+        "Charles Tellier",
+        "Étienne-Jules Marey",
+        "Louis Braille",
+        "Eugène Freyssinet"
+      ],
+      "answer": [
+        "Louis Blériot"
+      ]
+    },
+    {
+      "text": "Qui a inventé « béton précontraint » ?",
+      "options": [
+        "Augustin Fresnel",
+        "Paul Cornu",
+        "Louis Blériot",
+        "Joseph-Marie Jacquard",
+        "Nicolas Appert"
+      ],
+      "answer": [
+        "Eugène Freyssinet"
+      ]
+    },
+    {
+      "text": "Qui a conçu « fardier à vapeur » ?",
+      "options": [
+        "Louis Braille",
+        "Gustave Eiffel",
+        "Joseph et Étienne Montgolfier",
+        "Auguste et Louis Lumière",
+        "Denis Papin",
+        "Édouard-Léon Scott de Martinville"
+      ],
+      "answer": [
+        "Joseph Cugnot"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « ossature interne de la statue de la Liberté » ?",
+      "options": [
+        "Nicolas Appert",
+        "Joseph-Marie Jacquard",
+        "Louis Braille",
+        "Jacques de Vaucanson",
+        "Auguste et Louis Lumière"
+      ],
+      "answer": [
+        "Gustave Eiffel"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « point de vue du Gras » ?",
+      "options": [
+        "Louis Pasteur",
+        "Barthélemy Thimonnier",
+        "Joseph Cugnot",
+        "Eugène Freyssinet",
+        "Jacques de Vaucanson"
+      ],
+      "answer": [
+        "Nicéphore Niépce"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « tuyaux en ciment armé » ?",
+      "options": [
+        "Hippolyte Pixii",
+        "Blaise Pascal",
+        "Louis Braille",
+        "Joseph Cugnot",
+        "René Laennec"
+      ],
+      "answer": [
+        "Joseph Monier"
+      ]
+    },
+    {
+      "text": "Laquelle de ces inventions est due à Édouard-Léon Scott de Martinville ?",
+      "options": [
+        "optique de phare marin",
+        "miroir tournant pour mesurer la vitesse de la lumière",
+        "métier à tisser à cartes perforées",
+        "lentille annulaire à échelons",
+        "automate joueur de flûte"
+      ],
+      "answer": [
+        "transcription des vibrations sur une feuille noircie"
+      ]
+    },
+    {
+      "text": "À qui doit-on « cinématographe » ?",
+      "options": [
+        "Édouard-Léon Scott de Martinville",
+        "Philippe Lebon",
+        "Blaise Pascal",
+        "Jacques de Vaucanson",
+        "Claude Chappe",
+        "Hippolyte Pixii"
+      ],
+      "answer": [
+        "Auguste et Louis Lumière"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « projecteur d'automobile » ?",
+      "options": [
+        "Henri Giffard",
+        "Louis Braille",
+        "Georges Claude",
+        "Joseph Monier",
+        "Paul Cornu"
+      ],
+      "answer": [
+        "Louis Blériot"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « enseigne au néon » ?",
+      "options": [
+        "Denis Papin",
+        "Paul Cornu",
+        "Édouard-Léon Scott de Martinville",
+        "Hippolyte Pixii"
+      ],
+      "answer": [
+        "Georges Claude"
+      ]
+    },
+    {
+      "text": "Qui a conçu « tissage mécanique des étoffes façonnées » ?",
+      "options": [
+        "Barthélemy Thimonnier",
+        "Joseph Monier",
+        "Nicolas Appert",
+        "Henri Giffard",
+        "André-Marie Ampère",
+        "Joseph et Étienne Montgolfier"
+      ],
+      "answer": [
+        "Joseph-Marie Jacquard"
+      ]
+    },
+    {
+      "text": "Qui a conçu « Éole » ?",
+      "options": [
+        "Louis Blériot",
+        "Blaise Pascal",
+        "Charles Tellier",
+        "Nicéphore Niépce",
+        "Philippe Lebon"
+      ],
+      "answer": [
+        "Clément Ader"
+      ]
+    },
+    {
+      "text": "Qui est l'inventeur de « générateur à manivelle » ?",
+      "options": [
+        "Joseph et Étienne Montgolfier",
+        "Nicolas Appert",
+        "Joseph-Marie Jacquard",
+        "André-Marie Ampère",
+        "Barthélemy Thimonnier"
+      ],
+      "answer": [
+        "Hippolyte Pixii"
+      ]
+    },
+    {
+      "text": "Qui est à l'origine de « véhicule à trois roues mû par la vapeur » ?",
+      "options": [
+        "Blaise Pascal",
+        "Gustave Eiffel",
+        "Louis Blériot",
+        "Charles Tellier"
+      ],
+      "answer": [
+        "Joseph Cugnot"
+      ]
+    },
+    {
+      "text": "Lesquelles de ces inventions sont dues à Gustave Eiffel ?",
+      "options": [
+        "premier véhicule automobile",
+        "sémaphore à bras articulés",
+        "verre de signalisation pour les phares",
+        "béton armé",
+        "lentille annulaire à échelons",
+        "tuyaux en ciment armé"
+      ],
+      "answer": [
+        "ossature interne de la statue de la Liberté",
+        "charpente métallique"
+      ]
+    },
+    {
+      "text": "Qui a inventé « vaccin contre la rage » ?",
+      "options": [
+        "Louis Braille",
+        "René Laennec",
+        "Augustin Fresnel",
+        "Denis Papin",
+        "Barthélemy Thimonnier"
+      ],
+      "answer": [
+        "Louis Pasteur"
+      ]
+    },
+    {
+      "text": "Quel objet technique doit-on à Auguste et Louis Lumière ?",
+      "options": [
+        "arche mince en béton précontraint",
+        "machine à calculer",
+        "tube lumineux au néon",
+        "métier à tisser à cartes perforées",
+        "ossature interne de la statue de la Liberté",
+        "mécanisme de sélection des fils"
+      ],
+      "answer": [
+        "projection publique de films sur grand écran"
+      ]
+    },
+    {
+      "text": "Laquelle de ces inventions est due à Léon Foucault ?",
+      "options": [
+        "lentille annulaire à échelons",
+        "thermolampe",
+        "télégraphe optique",
+        "fusil photographique",
+        "machine frigorifique à compression",
+        "écriture en relief lisible au doigt"
+      ],
+      "answer": [
+        "pendule tournant"
+      ]
+    },
+    {
+      "text": "Quels objets techniques ont été conçus par Charles Tellier ?",
+      "options": [
+        "machine à calculer",
+        "première image photographique fixée",
+        "tube lumineux au néon",
+        "ligne de signaux aériens",
+        "éclairage public au gaz"
+      ],
+      "answer": [
+        "machine frigorifique à compression",
+        "chambre froide à ammoniaque"
+      ]
+    },
+    {
+      "text": "Qui a inventé « gyroscope » ?",
+      "options": [
+        "Joseph-Marie Jacquard",
+        "Louis Blériot",
+        "Philippe Lebon",
+        "Hippolyte Pixii",
+        "Joseph Monier"
+      ],
+      "answer": [
+        "Léon Foucault"
+      ]
+    },
+    {
+      "text": "Quelles deux inventions doit-on à Denis Papin ?",
+      "options": [
+        "chronophotographie",
+        "machine magnétoélectrique",
+        "sémaphore à bras articulés",
+        "ossature interne de la statue de la Liberté"
+      ],
+      "answer": [
+        "autocuiseur à soupape de sûreté",
+        "marmite à pression"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « béton armé » ?",
+      "options": [
+        "Joseph et Étienne Montgolfier",
+        "Nicolas Appert",
+        "Louis Pasteur",
+        "Paul Cornu"
+      ],
+      "answer": [
+        "Joseph Monier"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « verre de signalisation pour les phares » ?",
+      "options": [
+        "Joseph et Étienne Montgolfier",
+        "Charles Tellier",
+        "Jacques de Vaucanson",
+        "Louis Braille",
+        "Denis Papin"
+      ],
+      "answer": [
+        "Augustin Fresnel"
+      ]
+    },
+    {
+      "text": "Qui a inventé « automate joueur de flûte » ?",
+      "options": [
+        "Augustin Fresnel",
+        "André-Marie Ampère",
+        "Nicolas Appert",
+        "Denis Papin",
+        "Gustave Eiffel"
+      ],
+      "answer": [
+        "Jacques de Vaucanson"
+      ]
+    },
+    {
+      "text": "Quelle réalisation technique revient à Louis Pasteur ?",
+      "options": [
+        "enseigne au néon",
+        "cinématographe",
+        "machine magnétoélectrique",
+        "ballon gonflé à l'air chaud"
+      ],
+      "answer": [
+        "vaccin contre le charbon des animaux"
+      ]
+    },
+    {
+      "text": "Quel savant a mis au point « dynamo à aimant tournant » ?",
+      "options": [
+        "Nicolas Appert",
+        "Georges Claude",
+        "Eugène Freyssinet",
+        "Clément Ader"
+      ],
+      "answer": [
+        "Hippolyte Pixii"
+      ]
+    }
+  ]
+}

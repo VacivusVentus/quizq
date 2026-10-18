@@ -1,0 +1,1786 @@
+{
+  "theme": "Famous Names",
+  "questions": [
+    {
+      "text": "Whose name stands behind “Reservoir Dogs”?",
+      "options": [
+        "Joseph Conrad",
+        "Leonardo da Vinci",
+        "Herman Melville",
+        "Steven Spielberg"
+      ],
+      "answer": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “the New Deal”?",
+      "options": [
+        "Abraham Lincoln",
+        "George Orwell",
+        "Leonardo da Vinci",
+        "George Washington",
+        "David Lynch"
+      ],
+      "answer": [
+        "Franklin D. Roosevelt"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “La Traviata”?",
+      "options": [
+        "Steven Spielberg",
+        "George Orwell",
+        "George Washington",
+        "Jane Austen",
+        "Franklin D. Roosevelt"
+      ],
+      "answer": [
+        "Giuseppe Verdi"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “La Mer”?",
+      "options": [
+        "Frida Kahlo",
+        "Martin Scorsese",
+        "Michelangelo",
+        "Johann Sebastian Bach"
+      ],
+      "answer": [
+        "Claude Debussy"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “The Picture of Dorian Gray”?",
+      "options": [
+        "Martin Scorsese",
+        "Abraham Lincoln",
+        "Giuseppe Verdi",
+        "Napoleon Bonaparte",
+        "Ludwig van Beethoven",
+        "Ernest Hemingway"
+      ],
+      "answer": [
+        "Oscar Wilde"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “The Godfather”?",
+      "options": [
+        "George Washington",
+        "Martin Scorsese",
+        "Johann Sebastian Bach",
+        "Thomas Jefferson"
+      ],
+      "answer": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “the first US presidency”?",
+      "options": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Edgar Allan Poe",
+        "Winston Churchill",
+        "Charlie Chaplin"
+      ],
+      "answer": [
+        "George Washington"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Emma”?",
+      "options": [
+        "Rembrandt",
+        "Stanley Kubrick",
+        "George Orwell",
+        "Herman Melville",
+        "Christopher Nolan"
+      ],
+      "answer": [
+        "Jane Austen"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “the Continental Army”?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Napoleon Bonaparte",
+        "Winston Churchill",
+        "Charlie Chaplin",
+        "Oscar Wilde"
+      ],
+      "answer": [
+        "George Washington"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “The Persistence of Memory”?",
+      "options": [
+        "Mahatma Gandhi",
+        "Francis Ford Coppola",
+        "Oscar Wilde",
+        "Ernest Hemingway",
+        "Claude Debussy",
+        "Jane Austen"
+      ],
+      "answer": [
+        "Salvador Dalí"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Robben Island”?",
+      "options": [
+        "Ludwig van Beethoven",
+        "George Gershwin",
+        "Steven Spielberg",
+        "David Fincher",
+        "Alfred Hitchcock"
+      ],
+      "answer": [
+        "Nelson Mandela"
+      ]
+    },
+    {
+      "text": "Who is associated with “Goodfellas”?",
+      "options": [
+        "Napoleon Bonaparte",
+        "George Washington",
+        "Edgar Allan Poe",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "answer": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “the Iron Curtain speech”?",
+      "options": [
+        "Quentin Tarantino",
+        "George Orwell",
+        "Frida Kahlo",
+        "George Gershwin"
+      ],
+      "answer": [
+        "Winston Churchill"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Billy Budd”?",
+      "options": [
+        "George Washington",
+        "Giuseppe Verdi",
+        "Abraham Lincoln",
+        "David Lynch",
+        "Ludwig van Beethoven",
+        "Charles Dickens"
+      ],
+      "answer": [
+        "Herman Melville"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Great Expectations”?",
+      "options": [
+        "William Shakespeare",
+        "Rembrandt",
+        "Jane Austen",
+        "Stanley Kubrick",
+        "Alfred Hitchcock"
+      ],
+      "answer": [
+        "Charles Dickens"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “For Whom the Bell Tolls”?",
+      "options": [
+        "David Fincher",
+        "Charles Dickens",
+        "Rembrandt",
+        "Martin Scorsese"
+      ],
+      "answer": [
+        "Ernest Hemingway"
+      ]
+    },
+    {
+      "text": "Who is associated with “Pulp Fiction”?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Claude Debussy",
+        "Thomas Jefferson",
+        "David Lynch",
+        "Martin Scorsese",
+        "Steven Spielberg"
+      ],
+      "answer": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Eraserhead”?",
+      "options": [
+        "George Orwell",
+        "Wolfgang Amadeus Mozart",
+        "Salvador Dalí",
+        "Quentin Tarantino",
+        "George Washington",
+        "Richard Wagner"
+      ],
+      "answer": [
+        "David Lynch"
+      ]
+    },
+    {
+      "text": "Who is associated with “the Brandenburg Concertos”?",
+      "options": [
+        "Christopher Nolan",
+        "Abraham Lincoln",
+        "David Fincher",
+        "Mahatma Gandhi",
+        "George Washington",
+        "Martin Scorsese"
+      ],
+      "answer": [
+        "Johann Sebastian Bach"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Inception”?",
+      "options": [
+        "Francis Ford Coppola",
+        "Frédéric Chopin",
+        "Claude Debussy",
+        "Steven Spielberg",
+        "Herman Melville"
+      ],
+      "answer": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Raging Bull”?",
+      "options": [
+        "Joseph Conrad",
+        "David Fincher",
+        "Michelangelo",
+        "Frédéric Chopin",
+        "Herman Melville",
+        "Charlie Chaplin"
+      ],
+      "answer": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “the Sistine Chapel ceiling”?",
+      "options": [
+        "Giuseppe Verdi",
+        "Mark Twain",
+        "Claude Monet",
+        "David Lynch"
+      ],
+      "answer": [
+        "Michelangelo"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Lady Windermere's Fan”?",
+      "options": [
+        "Winston Churchill",
+        "Johann Sebastian Bach",
+        "Steven Spielberg",
+        "Stanley Kubrick",
+        "Ernest Hemingway"
+      ],
+      "answer": [
+        "Oscar Wilde"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Monticello”?",
+      "options": [
+        "Vincent van Gogh",
+        "Quentin Tarantino",
+        "Mark Twain",
+        "George Orwell"
+      ],
+      "answer": [
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "text": "Who is associated with “Vitruvian Man”?",
+      "options": [
+        "Alfred Hitchcock",
+        "Franklin D. Roosevelt",
+        "Ernest Hemingway",
+        "Nelson Mandela",
+        "Oscar Wilde",
+        "Richard Wagner"
+      ],
+      "answer": [
+        "Leonardo da Vinci"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Porgy and Bess”?",
+      "options": [
+        "Oscar Wilde",
+        "Claude Debussy",
+        "Abraham Lincoln",
+        "Jane Austen"
+      ],
+      "answer": [
+        "George Gershwin"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “the Funeral March”?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Franklin D. Roosevelt",
+        "Napoleon Bonaparte",
+        "Johann Sebastian Bach",
+        "Alfred Hitchcock",
+        "Oscar Wilde"
+      ],
+      "answer": [
+        "Frédéric Chopin"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “E.T. the Extra-Terrestrial”?",
+      "options": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "Mahatma Gandhi",
+        "George Orwell",
+        "Ludwig van Beethoven",
+        "Rembrandt"
+      ],
+      "answer": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “The Adventures of Tom Sawyer”?",
+      "options": [
+        "David Fincher",
+        "Vincent van Gogh",
+        "Frida Kahlo",
+        "Oscar Wilde",
+        "Michelangelo"
+      ],
+      "answer": [
+        "Mark Twain"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Schindler's List”?",
+      "options": [
+        "Richard Wagner",
+        "Pablo Picasso",
+        "Quentin Tarantino",
+        "David Lynch"
+      ],
+      "answer": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “The Anatomy Lesson of Dr Nicolaes Tulp”?",
+      "options": [
+        "Mark Twain",
+        "Wolfgang Amadeus Mozart",
+        "George Orwell",
+        "Giuseppe Verdi",
+        "Michelangelo"
+      ],
+      "answer": [
+        "Rembrandt"
+      ]
+    },
+    {
+      "text": "Who is associated with “Ebenezer Scrooge”?",
+      "options": [
+        "Salvador Dalí",
+        "Frida Kahlo",
+        "Claude Debussy",
+        "Claude Monet"
+      ],
+      "answer": [
+        "Charles Dickens"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “the end of apartheid”?",
+      "options": [
+        "Steven Spielberg",
+        "George Gershwin",
+        "Christopher Nolan",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "answer": [
+        "Nelson Mandela"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Clair de Lune”?",
+      "options": [
+        "Leonardo da Vinci",
+        "Mahatma Gandhi",
+        "David Fincher",
+        "Giuseppe Verdi",
+        "Martin Scorsese",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Claude Debussy"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “City Lights”?",
+      "options": [
+        "Charles Dickens",
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Steven Spielberg"
+      ],
+      "answer": [
+        "Charlie Chaplin"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Vertigo”?",
+      "options": [
+        "George Washington",
+        "David Fincher",
+        "David Lynch",
+        "Joseph Conrad",
+        "Ernest Hemingway"
+      ],
+      "answer": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Lohengrin”?",
+      "options": [
+        "Steven Spielberg",
+        "William Shakespeare",
+        "Abraham Lincoln",
+        "Napoleon Bonaparte",
+        "Herman Melville",
+        "Joseph Conrad"
+      ],
+      "answer": [
+        "Richard Wagner"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “The Old Guitarist”?",
+      "options": [
+        "Stanley Kubrick",
+        "Vincent van Gogh",
+        "Rembrandt",
+        "George Orwell",
+        "Johann Sebastian Bach",
+        "Ernest Hemingway"
+      ],
+      "answer": [
+        "Pablo Picasso"
+      ]
+    },
+    {
+      "text": "Who is associated with “the wartime alliance”?",
+      "options": [
+        "Joseph Conrad",
+        "Michelangelo",
+        "Pablo Picasso",
+        "Oscar Wilde"
+      ],
+      "answer": [
+        "Franklin D. Roosevelt"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “The Night Watch”?",
+      "options": [
+        "Pablo Picasso",
+        "Mark Twain",
+        "William Shakespeare",
+        "Joseph Conrad"
+      ],
+      "answer": [
+        "Rembrandt"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “The Well-Tempered Clavier”?",
+      "options": [
+        "Francis Ford Coppola",
+        "Frida Kahlo",
+        "William Shakespeare",
+        "David Lynch"
+      ],
+      "answer": [
+        "Johann Sebastian Bach"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “The Bedroom”?",
+      "options": [
+        "Frédéric Chopin",
+        "Mark Twain",
+        "Oscar Wilde",
+        "George Washington",
+        "Giuseppe Verdi"
+      ],
+      "answer": [
+        "Vincent van Gogh"
+      ]
+    },
+    {
+      "text": "Who is associated with “The Dark Knight”?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Francis Ford Coppola",
+        "Steven Spielberg",
+        "Vincent van Gogh"
+      ],
+      "answer": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “The Kid”?",
+      "options": [
+        "Winston Churchill",
+        "Claude Debussy",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "George Orwell",
+        "Herman Melville"
+      ],
+      "answer": [
+        "Charlie Chaplin"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Romeo”?",
+      "options": [
+        "Thomas Jefferson",
+        "Rembrandt",
+        "Charlie Chaplin",
+        "Herman Melville"
+      ],
+      "answer": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "text": "Who is associated with “Se7en”?",
+      "options": [
+        "Mark Twain",
+        "Salvador Dalí",
+        "Quentin Tarantino",
+        "George Washington",
+        "Claude Monet"
+      ],
+      "answer": [
+        "David Fincher"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Oliver Twist”?",
+      "options": [
+        "Salvador Dalí",
+        "Joseph Conrad",
+        "George Gershwin",
+        "Rembrandt",
+        "Jane Austen"
+      ],
+      "answer": [
+        "Charles Dickens"
+      ]
+    },
+    {
+      "text": "Who is associated with “the Continental System”?",
+      "options": [
+        "Charles Dickens",
+        "Mark Twain",
+        "Christopher Nolan",
+        "Thomas Jefferson",
+        "Franklin D. Roosevelt"
+      ],
+      "answer": [
+        "Napoleon Bonaparte"
+      ]
+    },
+    {
+      "text": "Who is associated with “the Minute Waltz”?",
+      "options": [
+        "Claude Monet",
+        "David Fincher",
+        "Wolfgang Amadeus Mozart",
+        "Michelangelo"
+      ],
+      "answer": [
+        "Frédéric Chopin"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Fight Club”?",
+      "options": [
+        "Michelangelo",
+        "Ernest Hemingway",
+        "Jane Austen",
+        "Nelson Mandela"
+      ],
+      "answer": [
+        "David Fincher"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “The Social Network”?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Herman Melville",
+        "Pablo Picasso",
+        "Frida Kahlo",
+        "George Washington"
+      ],
+      "answer": [
+        "David Fincher"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Mulholland Drive”?",
+      "options": [
+        "Mahatma Gandhi",
+        "Christopher Nolan",
+        "Jane Austen",
+        "Thomas Jefferson",
+        "Rembrandt"
+      ],
+      "answer": [
+        "David Lynch"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Jaws”?",
+      "options": [
+        "Herman Melville",
+        "Frida Kahlo",
+        "William Shakespeare",
+        "Oscar Wilde",
+        "Thomas Jefferson"
+      ],
+      "answer": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "text": "Who is associated with “Self-Portrait with Thorn Necklace”?",
+      "options": [
+        "Francis Ford Coppola",
+        "Christopher Nolan",
+        "George Gershwin",
+        "Steven Spielberg",
+        "Joseph Conrad",
+        "Oscar Wilde"
+      ],
+      "answer": [
+        "Frida Kahlo"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “David”?",
+      "options": [
+        "Thomas Jefferson",
+        "William Shakespeare",
+        "George Washington",
+        "Napoleon Bonaparte",
+        "Abraham Lincoln"
+      ],
+      "answer": [
+        "Michelangelo"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Impression Sunrise”?",
+      "options": [
+        "Thomas Jefferson",
+        "Michelangelo",
+        "Christopher Nolan",
+        "Francis Ford Coppola",
+        "Claude Debussy",
+        "Giuseppe Verdi"
+      ],
+      "answer": [
+        "Claude Monet"
+      ]
+    },
+    {
+      "text": "Who is associated with “Sunflowers”?",
+      "options": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "William Shakespeare",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "answer": [
+        "Vincent van Gogh"
+      ]
+    },
+    {
+      "text": "Who is associated with “Rigoletto”?",
+      "options": [
+        "Stanley Kubrick",
+        "Mahatma Gandhi",
+        "George Orwell",
+        "Salvador Dalí",
+        "Francis Ford Coppola"
+      ],
+      "answer": [
+        "Giuseppe Verdi"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Les Demoiselles d'Avignon”?",
+      "options": [
+        "Herman Melville",
+        "Claude Debussy",
+        "Edgar Allan Poe",
+        "Rembrandt",
+        "Francis Ford Coppola"
+      ],
+      "answer": [
+        "Pablo Picasso"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “the Revolutionary Étude”?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Frida Kahlo",
+        "Leonardo da Vinci",
+        "Joseph Conrad",
+        "Oscar Wilde"
+      ],
+      "answer": [
+        "Frédéric Chopin"
+      ]
+    },
+    {
+      "text": "Who is associated with “The Importance of Being Earnest”?",
+      "options": [
+        "Claude Monet",
+        "George Gershwin",
+        "Franklin D. Roosevelt",
+        "Francis Ford Coppola"
+      ],
+      "answer": [
+        "Oscar Wilde"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Modern Times”?",
+      "options": [
+        "David Lynch",
+        "William Shakespeare",
+        "Rembrandt",
+        "David Fincher",
+        "Thomas Jefferson"
+      ],
+      "answer": [
+        "Charlie Chaplin"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “The Prince and the Pauper”?",
+      "options": [
+        "Leonardo da Vinci",
+        "Thomas Jefferson",
+        "Winston Churchill",
+        "Abraham Lincoln",
+        "George Washington",
+        "Claude Monet"
+      ],
+      "answer": [
+        "Mark Twain"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Mount Vernon”?",
+      "options": [
+        "Charlie Chaplin",
+        "Michelangelo",
+        "Ernest Hemingway",
+        "Winston Churchill",
+        "Rembrandt",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "George Washington"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “A Clockwork Orange”?",
+      "options": [
+        "Ernest Hemingway",
+        "Winston Churchill",
+        "Christopher Nolan",
+        "Claude Monet"
+      ],
+      "answer": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “The Elephants”?",
+      "options": [
+        "Quentin Tarantino",
+        "Pablo Picasso",
+        "Ernest Hemingway",
+        "Winston Churchill"
+      ],
+      "answer": [
+        "Salvador Dalí"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Macbeth”?",
+      "options": [
+        "Leonardo da Vinci",
+        "George Gershwin",
+        "Abraham Lincoln",
+        "Franklin D. Roosevelt",
+        "Napoleon Bonaparte"
+      ],
+      "answer": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Heart of Darkness”?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Wolfgang Amadeus Mozart",
+        "Michelangelo",
+        "George Gershwin",
+        "Leonardo da Vinci"
+      ],
+      "answer": [
+        "Joseph Conrad"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “the Gettysburg Address”?",
+      "options": [
+        "Leonardo da Vinci",
+        "Christopher Nolan",
+        "Jane Austen",
+        "George Gershwin",
+        "Alfred Hitchcock"
+      ],
+      "answer": [
+        "Abraham Lincoln"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “An American in Paris”?",
+      "options": [
+        "Alfred Hitchcock",
+        "Napoleon Bonaparte",
+        "Christopher Nolan",
+        "Jane Austen",
+        "Michelangelo",
+        "Edgar Allan Poe"
+      ],
+      "answer": [
+        "George Gershwin"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Kill Bill”?",
+      "options": [
+        "William Shakespeare",
+        "Abraham Lincoln",
+        "Oscar Wilde",
+        "Giuseppe Verdi",
+        "Claude Debussy"
+      ],
+      "answer": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “The Conversation”?",
+      "options": [
+        "George Washington",
+        "Winston Churchill",
+        "Vincent van Gogh",
+        "Ernest Hemingway",
+        "Michelangelo"
+      ],
+      "answer": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Psycho”?",
+      "options": [
+        "Joseph Conrad",
+        "William Shakespeare",
+        "Wolfgang Amadeus Mozart",
+        "Rembrandt",
+        "Napoleon Bonaparte"
+      ],
+      "answer": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “the Prelude to the Afternoon of a Faun”?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Ludwig van Beethoven",
+        "Herman Melville",
+        "Nelson Mandela",
+        "Abraham Lincoln"
+      ],
+      "answer": [
+        "Claude Debussy"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Animal Farm”?",
+      "options": [
+        "Salvador Dalí",
+        "Martin Scorsese",
+        "Ernest Hemingway",
+        "William Shakespeare",
+        "Abraham Lincoln"
+      ],
+      "answer": [
+        "George Orwell"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “The Old Man and the Sea”?",
+      "options": [
+        "Jane Austen",
+        "David Lynch",
+        "Oscar Wilde",
+        "Pablo Picasso",
+        "George Gershwin"
+      ],
+      "answer": [
+        "Ernest Hemingway"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Adventures of Huckleberry Finn”?",
+      "options": [
+        "Abraham Lincoln",
+        "Vincent van Gogh",
+        "Alfred Hitchcock",
+        "Francis Ford Coppola",
+        "Oscar Wilde"
+      ],
+      "answer": [
+        "Mark Twain"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Tom Sawyer”?",
+      "options": [
+        "Pablo Picasso",
+        "Ernest Hemingway",
+        "Joseph Conrad",
+        "Steven Spielberg"
+      ],
+      "answer": [
+        "Mark Twain"
+      ]
+    },
+    {
+      "text": "Who is associated with “Guernica”?",
+      "options": [
+        "Richard Wagner",
+        "Frédéric Chopin",
+        "Charlie Chaplin",
+        "Steven Spielberg",
+        "Johann Sebastian Bach"
+      ],
+      "answer": [
+        "Pablo Picasso"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Interstellar”?",
+      "options": [
+        "Rembrandt",
+        "Oscar Wilde",
+        "Vincent van Gogh",
+        "Francis Ford Coppola",
+        "Mark Twain",
+        "George Washington"
+      ],
+      "answer": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Pride and Prejudice”?",
+      "options": [
+        "Winston Churchill",
+        "Leonardo da Vinci",
+        "Francis Ford Coppola",
+        "Mark Twain"
+      ],
+      "answer": [
+        "Jane Austen"
+      ]
+    },
+    {
+      "text": "Who is associated with “Nineteen Eighty-Four”?",
+      "options": [
+        "Herman Melville",
+        "William Shakespeare",
+        "Stanley Kubrick",
+        "Frida Kahlo",
+        "Abraham Lincoln"
+      ],
+      "answer": [
+        "George Orwell"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Tristan and Isolde”?",
+      "options": [
+        "Mark Twain",
+        "Wolfgang Amadeus Mozart",
+        "Steven Spielberg",
+        "Vincent van Gogh",
+        "Quentin Tarantino"
+      ],
+      "answer": [
+        "Richard Wagner"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “The Starry Night”?",
+      "options": [
+        "Steven Spielberg",
+        "Rembrandt",
+        "Nelson Mandela",
+        "David Fincher",
+        "Wolfgang Amadeus Mozart",
+        "George Orwell"
+      ],
+      "answer": [
+        "Vincent van Gogh"
+      ]
+    },
+    {
+      "text": "Who is associated with “the Salt March”?",
+      "options": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "Joseph Conrad",
+        "Giuseppe Verdi",
+        "Oscar Wilde",
+        "Stanley Kubrick"
+      ],
+      "answer": [
+        "Mahatma Gandhi"
+      ]
+    },
+    {
+      "text": "Who is associated with “Othello”?",
+      "options": [
+        "Claude Monet",
+        "Thomas Jefferson",
+        "Alfred Hitchcock",
+        "Wolfgang Amadeus Mozart",
+        "Charles Dickens",
+        "Mark Twain"
+      ],
+      "answer": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “The Last Supper”?",
+      "options": [
+        "Pablo Picasso",
+        "Charles Dickens",
+        "Claude Debussy",
+        "Christopher Nolan",
+        "Giuseppe Verdi"
+      ],
+      "answer": [
+        "Leonardo da Vinci"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “David Copperfield”?",
+      "options": [
+        "Rembrandt",
+        "Joseph Conrad",
+        "Franklin D. Roosevelt",
+        "Jane Austen",
+        "Frédéric Chopin",
+        "Johann Sebastian Bach"
+      ],
+      "answer": [
+        "Charles Dickens"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Burmese Days”?",
+      "options": [
+        "David Fincher",
+        "Joseph Conrad",
+        "Alfred Hitchcock",
+        "Napoleon Bonaparte",
+        "Stanley Kubrick",
+        "Martin Scorsese"
+      ],
+      "answer": [
+        "George Orwell"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Lord Jim”?",
+      "options": [
+        "Mahatma Gandhi",
+        "Napoleon Bonaparte",
+        "Martin Scorsese",
+        "Nelson Mandela",
+        "Charlie Chaplin",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "answer": [
+        "Joseph Conrad"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Mona Lisa”?",
+      "options": [
+        "George Orwell",
+        "Frédéric Chopin",
+        "Christopher Nolan",
+        "Alfred Hitchcock",
+        "Mark Twain"
+      ],
+      "answer": [
+        "Leonardo da Vinci"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “The Creation of Adam”?",
+      "options": [
+        "Charlie Chaplin",
+        "Jane Austen",
+        "Ernest Hemingway",
+        "Thomas Jefferson",
+        "Winston Churchill"
+      ],
+      "answer": [
+        "Michelangelo"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “The Fall of the House of Usher”?",
+      "options": [
+        "Steven Spielberg",
+        "Frida Kahlo",
+        "George Gershwin",
+        "Vincent van Gogh",
+        "Giuseppe Verdi"
+      ],
+      "answer": [
+        "Edgar Allan Poe"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Typee”?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "Claude Debussy",
+        "Francis Ford Coppola",
+        "Napoleon Bonaparte"
+      ],
+      "answer": [
+        "Herman Melville"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Moby-Dick”?",
+      "options": [
+        "Edgar Allan Poe",
+        "Nelson Mandela",
+        "Claude Debussy",
+        "William Shakespeare",
+        "Charles Dickens"
+      ],
+      "answer": [
+        "Herman Melville"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Rear Window”?",
+      "options": [
+        "David Lynch",
+        "Mark Twain",
+        "Francis Ford Coppola",
+        "Mahatma Gandhi",
+        "George Washington",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "text": "Who is associated with “2001: A Space Odyssey”?",
+      "options": [
+        "Thomas Jefferson",
+        "Vincent van Gogh",
+        "Jane Austen",
+        "Winston Churchill",
+        "Claude Debussy"
+      ],
+      "answer": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Nostromo”?",
+      "options": [
+        "Charles Dickens",
+        "Herman Melville",
+        "Jane Austen",
+        "Frédéric Chopin"
+      ],
+      "answer": [
+        "Joseph Conrad"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Fidelio”?",
+      "options": [
+        "Christopher Nolan",
+        "Charlie Chaplin",
+        "Oscar Wilde",
+        "Martin Scorsese",
+        "Edgar Allan Poe"
+      ],
+      "answer": [
+        "Ludwig van Beethoven"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “the American Civil War”?",
+      "options": [
+        "Salvador Dalí",
+        "Francis Ford Coppola",
+        "Jane Austen",
+        "Nelson Mandela",
+        "Alfred Hitchcock"
+      ],
+      "answer": [
+        "Abraham Lincoln"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “The Magic Flute”?",
+      "options": [
+        "Frédéric Chopin",
+        "Ernest Hemingway",
+        "Jane Austen",
+        "Herman Melville",
+        "Claude Monet"
+      ],
+      "answer": [
+        "Wolfgang Amadeus Mozart"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “The Sacrament of the Last Supper”?",
+      "options": [
+        "Mark Twain",
+        "Nelson Mandela",
+        "Abraham Lincoln",
+        "Leonardo da Vinci",
+        "Ernest Hemingway"
+      ],
+      "answer": [
+        "Salvador Dalí"
+      ]
+    },
+    {
+      "text": "Who is associated with “Huckleberry Finn”?",
+      "options": [
+        "Ludwig van Beethoven",
+        "Claude Monet",
+        "Mahatma Gandhi",
+        "Quentin Tarantino",
+        "Joseph Conrad"
+      ],
+      "answer": [
+        "Mark Twain"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “A Farewell to Arms”?",
+      "options": [
+        "Frédéric Chopin",
+        "Jane Austen",
+        "Francis Ford Coppola",
+        "Michelangelo",
+        "Stanley Kubrick",
+        "Herman Melville"
+      ],
+      "answer": [
+        "Ernest Hemingway"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “The Tell-Tale Heart”?",
+      "options": [
+        "Rembrandt",
+        "Claude Monet",
+        "Abraham Lincoln",
+        "Christopher Nolan",
+        "Napoleon Bonaparte"
+      ],
+      "answer": [
+        "Edgar Allan Poe"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Eine kleine Nachtmusik”?",
+      "options": [
+        "Francis Ford Coppola",
+        "Christopher Nolan",
+        "David Lynch",
+        "Nelson Mandela",
+        "Thomas Jefferson",
+        "Michelangelo"
+      ],
+      "answer": [
+        "Wolfgang Amadeus Mozart"
+      ]
+    },
+    {
+      "text": "Who is associated with “Rhapsody in Blue”?",
+      "options": [
+        "William Shakespeare",
+        "Richard Wagner",
+        "Thomas Jefferson",
+        "Winston Churchill",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "answer": [
+        "George Gershwin"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “The Broken Column”?",
+      "options": [
+        "Jane Austen",
+        "Quentin Tarantino",
+        "Nelson Mandela",
+        "Joseph Conrad",
+        "Claude Debussy"
+      ],
+      "answer": [
+        "Frida Kahlo"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “the St Matthew Passion”?",
+      "options": [
+        "Ernest Hemingway",
+        "David Fincher",
+        "Pablo Picasso",
+        "Edgar Allan Poe",
+        "Abraham Lincoln"
+      ],
+      "answer": [
+        "Johann Sebastian Bach"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Sense and Sensibility”?",
+      "options": [
+        "Francis Ford Coppola",
+        "Franklin D. Roosevelt",
+        "Rembrandt",
+        "Martin Scorsese",
+        "David Lynch"
+      ],
+      "answer": [
+        "Jane Austen"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “the Moonlight Sonata”?",
+      "options": [
+        "Mark Twain",
+        "Ernest Hemingway",
+        "Salvador Dalí",
+        "Johann Sebastian Bach",
+        "Joseph Conrad"
+      ],
+      "answer": [
+        "Ludwig van Beethoven"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “non-violent resistance”?",
+      "options": [
+        "Salvador Dalí",
+        "Winston Churchill",
+        "Abraham Lincoln",
+        "George Washington"
+      ],
+      "answer": [
+        "Mahatma Gandhi"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “Water Lilies”?",
+      "options": [
+        "Stanley Kubrick",
+        "David Fincher",
+        "Pablo Picasso",
+        "Alfred Hitchcock",
+        "Salvador Dalí"
+      ],
+      "answer": [
+        "Claude Monet"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “the Indian independence movement”?",
+      "options": [
+        "Wolfgang Amadeus Mozart",
+        "George Gershwin",
+        "Nelson Mandela",
+        "David Fincher",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Mahatma Gandhi"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Apocalypse Now”?",
+      "options": [
+        "Quentin Tarantino",
+        "Franklin D. Roosevelt",
+        "Jane Austen",
+        "Alfred Hitchcock",
+        "David Lynch"
+      ],
+      "answer": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Woman with a Parasol”?",
+      "options": [
+        "Mark Twain",
+        "Alfred Hitchcock",
+        "Johann Sebastian Bach",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Claude Monet"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “the Declaration of Independence”?",
+      "options": [
+        "Michelangelo",
+        "Edgar Allan Poe",
+        "George Washington",
+        "Giuseppe Verdi",
+        "Salvador Dalí"
+      ],
+      "answer": [
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "text": "Who is associated with “Self-Portrait with Two Circles”?",
+      "options": [
+        "Edgar Allan Poe",
+        "Napoleon Bonaparte",
+        "Franklin D. Roosevelt",
+        "Francis Ford Coppola",
+        "Christopher Nolan"
+      ],
+      "answer": [
+        "Rembrandt"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “The Raven”?",
+      "options": [
+        "Charles Dickens",
+        "Thomas Jefferson",
+        "Claude Debussy",
+        "Franklin D. Roosevelt"
+      ],
+      "answer": [
+        "Edgar Allan Poe"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Roots”?",
+      "options": [
+        "Christopher Nolan",
+        "David Lynch",
+        "George Orwell",
+        "Winston Churchill"
+      ],
+      "answer": [
+        "Frida Kahlo"
+      ]
+    },
+    {
+      "text": "Who is associated with “Elizabeth Bennet”?",
+      "options": [
+        "Claude Monet",
+        "Wolfgang Amadeus Mozart",
+        "Franklin D. Roosevelt",
+        "Leonardo da Vinci",
+        "Mahatma Gandhi",
+        "Mark Twain"
+      ],
+      "answer": [
+        "Jane Austen"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Taxi Driver”?",
+      "options": [
+        "Salvador Dalí",
+        "Franklin D. Roosevelt",
+        "Charles Dickens",
+        "Pablo Picasso",
+        "Abraham Lincoln"
+      ],
+      "answer": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "text": "Who is associated with “a national unity government”?",
+      "options": [
+        "Claude Monet",
+        "Nelson Mandela",
+        "Abraham Lincoln",
+        "Mark Twain",
+        "David Lynch"
+      ],
+      "answer": [
+        "Winston Churchill"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “the Ninth Symphony”?",
+      "options": [
+        "Joseph Conrad",
+        "Frédéric Chopin",
+        "William Shakespeare",
+        "Franklin D. Roosevelt"
+      ],
+      "answer": [
+        "Ludwig van Beethoven"
+      ]
+    },
+    {
+      "text": "Which of these people is famous for “the Louisiana Purchase”?",
+      "options": [
+        "Jane Austen",
+        "Quentin Tarantino",
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Winston Churchill",
+        "Frédéric Chopin"
+      ],
+      "answer": [
+        "Thomas Jefferson"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “Hamlet”?",
+      "options": [
+        "Stanley Kubrick",
+        "Napoleon Bonaparte",
+        "George Orwell",
+        "Mark Twain",
+        "Claude Monet"
+      ],
+      "answer": [
+        "William Shakespeare"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “the Battle of Austerlitz”?",
+      "options": [
+        "David Lynch",
+        "Giuseppe Verdi",
+        "Michelangelo",
+        "George Washington",
+        "Abraham Lincoln"
+      ],
+      "answer": [
+        "Napoleon Bonaparte"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “the Egyptian campaign”?",
+      "options": [
+        "Joseph Conrad",
+        "Stanley Kubrick",
+        "Ludwig van Beethoven",
+        "Mark Twain",
+        "George Gershwin",
+        "Mahatma Gandhi"
+      ],
+      "answer": [
+        "Napoleon Bonaparte"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “Blue Velvet”?",
+      "options": [
+        "Thomas Jefferson",
+        "Rembrandt",
+        "Edgar Allan Poe",
+        "Alfred Hitchcock",
+        "George Gershwin"
+      ],
+      "answer": [
+        "David Lynch"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “Aida”?",
+      "options": [
+        "Claude Monet",
+        "Charles Dickens",
+        "Nelson Mandela",
+        "Oscar Wilde"
+      ],
+      "answer": [
+        "Giuseppe Verdi"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “the Truth and Reconciliation Commission”?",
+      "options": [
+        "Francis Ford Coppola",
+        "Salvador Dalí",
+        "George Washington",
+        "Martin Scorsese",
+        "Winston Churchill"
+      ],
+      "answer": [
+        "Nelson Mandela"
+      ]
+    },
+    {
+      "text": "Who is associated with “Don Giovanni”?",
+      "options": [
+        "Charlie Chaplin",
+        "Frida Kahlo",
+        "Alfred Hitchcock",
+        "Salvador Dalí",
+        "Vincent van Gogh"
+      ],
+      "answer": [
+        "Wolfgang Amadeus Mozart"
+      ]
+    },
+    {
+      "text": "Whose name is linked to “the Battle of Britain”?",
+      "options": [
+        "George Gershwin",
+        "Mahatma Gandhi",
+        "Abraham Lincoln",
+        "Richard Wagner",
+        "Charlie Chaplin",
+        "Vincent van Gogh"
+      ],
+      "answer": [
+        "Winston Churchill"
+      ]
+    },
+    {
+      "text": "Whose name stands behind “The Ring of the Nibelung”?",
+      "options": [
+        "Charles Dickens",
+        "Oscar Wilde",
+        "Mark Twain",
+        "Quentin Tarantino",
+        "Frida Kahlo"
+      ],
+      "answer": [
+        "Richard Wagner"
+      ]
+    },
+    {
+      "text": "Who is associated with “the Emancipation Proclamation”?",
+      "options": [
+        "Christopher Nolan",
+        "Jane Austen",
+        "George Orwell",
+        "David Lynch"
+      ],
+      "answer": [
+        "Abraham Lincoln"
+      ]
+    },
+    {
+      "text": "Which of these people is connected with “the Four Freedoms”?",
+      "options": [
+        "Mark Twain",
+        "Alfred Hitchcock",
+        "Francis Ford Coppola",
+        "Claude Debussy",
+        "Joseph Conrad",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Franklin D. Roosevelt"
+      ]
+    },
+    {
+      "text": "Who is associated with “Captain Ahab”?",
+      "options": [
+        "Charlie Chaplin",
+        "Ernest Hemingway",
+        "Ludwig van Beethoven",
+        "Winston Churchill",
+        "Pablo Picasso"
+      ],
+      "answer": [
+        "Herman Melville"
+      ]
+    }
+  ]
+}

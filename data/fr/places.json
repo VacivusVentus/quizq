@@ -1,0 +1,1669 @@
+{
+  "theme": "Pays et villes",
+  "questions": [
+    {
+      "text": "De quel pays Naples est-elle une ville ?",
+      "options": [
+        "Belgique",
+        "Tchéquie",
+        "Autriche",
+        "Chine",
+        "Pologne",
+        "Inde"
+      ],
+      "answer": [
+        "Italie"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Marrakech ?",
+      "options": [
+        "Australie",
+        "Irlande",
+        "Allemagne",
+        "Danemark",
+        "Pologne",
+        "Grèce"
+      ],
+      "answer": [
+        "Maroc"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Genève ?",
+      "options": [
+        "Tchéquie",
+        "Danemark",
+        "Maroc",
+        "Mexique",
+        "États-Unis"
+      ],
+      "answer": [
+        "Suisse"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Rosario ?",
+      "options": [
+        "Portugal",
+        "Grèce",
+        "Irlande",
+        "Turquie",
+        "Pays-Bas"
+      ],
+      "answer": [
+        "Argentine"
+      ]
+    },
+    {
+      "text": "Quel pays compte Assouan parmi ses villes ?",
+      "options": [
+        "Pologne",
+        "Royaume-Uni",
+        "États-Unis",
+        "Hongrie"
+      ],
+      "answer": [
+        "Égypte"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Brisbane ?",
+      "options": [
+        "Mexique",
+        "Argentine",
+        "Danemark",
+        "Égypte",
+        "Canada",
+        "Hongrie"
+      ],
+      "answer": [
+        "Australie"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Munich ?",
+      "options": [
+        "Argentine",
+        "Danemark",
+        "Hongrie",
+        "Australie",
+        "Royaume-Uni"
+      ],
+      "answer": [
+        "Allemagne"
+      ]
+    },
+    {
+      "text": "Göteborg — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Italie",
+        "Chine",
+        "France",
+        "Hongrie",
+        "Turquie"
+      ],
+      "answer": [
+        "Suède"
+      ]
+    },
+    {
+      "text": "Quel pays compte Aarhus parmi ses villes ?",
+      "options": [
+        "Tchéquie",
+        "Norvège",
+        "France",
+        "Argentine",
+        "Égypte"
+      ],
+      "answer": [
+        "Danemark"
+      ]
+    },
+    {
+      "text": "Fès — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Mexique",
+        "États-Unis",
+        "Grèce",
+        "Portugal"
+      ],
+      "answer": [
+        "Maroc"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Mendoza ?",
+      "options": [
+        "Irlande",
+        "Japon",
+        "Norvège",
+        "Suède",
+        "Espagne",
+        "Maroc"
+      ],
+      "answer": [
+        "Argentine"
+      ]
+    },
+    {
+      "text": "Quel pays compte Édimbourg parmi ses villes ?",
+      "options": [
+        "Belgique",
+        "Japon",
+        "Italie",
+        "France"
+      ],
+      "answer": [
+        "Royaume-Uni"
+      ]
+    },
+    {
+      "text": "De quel pays Malmö est-elle une ville ?",
+      "options": [
+        "Italie",
+        "Japon",
+        "Corée du Sud",
+        "Grèce",
+        "Égypte",
+        "Canada"
+      ],
+      "answer": [
+        "Suède"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Cork ?",
+      "options": [
+        "Inde",
+        "Japon",
+        "Argentine",
+        "Égypte",
+        "Brésil"
+      ],
+      "answer": [
+        "Irlande"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Toronto ?",
+      "options": [
+        "Royaume-Uni",
+        "Égypte",
+        "Pologne",
+        "Portugal",
+        "Irlande"
+      ],
+      "answer": [
+        "Canada"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Pékin ?",
+      "options": [
+        "Irlande",
+        "Brésil",
+        "Autriche",
+        "Espagne",
+        "France"
+      ],
+      "answer": [
+        "Chine"
+      ]
+    },
+    {
+      "text": "Quel pays compte Boston parmi ses villes ?",
+      "options": [
+        "Brésil",
+        "Égypte",
+        "Turquie",
+        "Argentine"
+      ],
+      "answer": [
+        "États-Unis"
+      ]
+    },
+    {
+      "text": "De quel pays Vienne est-elle une ville ?",
+      "options": [
+        "Maroc",
+        "Finlande",
+        "Turquie",
+        "Corée du Sud",
+        "Inde"
+      ],
+      "answer": [
+        "Autriche"
+      ]
+    },
+    {
+      "text": "De quel pays Liverpool est-elle une ville ?",
+      "options": [
+        "Grèce",
+        "Portugal",
+        "Finlande",
+        "Égypte",
+        "Chine",
+        "Allemagne"
+      ],
+      "answer": [
+        "Royaume-Uni"
+      ]
+    },
+    {
+      "text": "Quel pays compte Bruges parmi ses villes ?",
+      "options": [
+        "Brésil",
+        "Maroc",
+        "Égypte",
+        "Norvège"
+      ],
+      "answer": [
+        "Belgique"
+      ]
+    },
+    {
+      "text": "Quel pays compte Salzbourg parmi ses villes ?",
+      "options": [
+        "Japon",
+        "Turquie",
+        "Hongrie",
+        "Argentine",
+        "Australie"
+      ],
+      "answer": [
+        "Autriche"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Ostrava ?",
+      "options": [
+        "Chine",
+        "Suisse",
+        "Turquie",
+        "Norvège",
+        "Danemark",
+        "Australie"
+      ],
+      "answer": [
+        "Tchéquie"
+      ]
+    },
+    {
+      "text": "De quel pays Sydney est-elle une ville ?",
+      "options": [
+        "Suède",
+        "États-Unis",
+        "Inde",
+        "Espagne",
+        "Suisse"
+      ],
+      "answer": [
+        "Australie"
+      ]
+    },
+    {
+      "text": "De quel pays Ankara est-elle une ville ?",
+      "options": [
+        "Irlande",
+        "Autriche",
+        "Tchéquie",
+        "Pays-Bas",
+        "Espagne"
+      ],
+      "answer": [
+        "Turquie"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Daegu ?",
+      "options": [
+        "Italie",
+        "Turquie",
+        "Brésil",
+        "Danemark"
+      ],
+      "answer": [
+        "Corée du Sud"
+      ]
+    },
+    {
+      "text": "Quel pays compte Espoo parmi ses villes ?",
+      "options": [
+        "Égypte",
+        "Inde",
+        "Allemagne",
+        "Danemark"
+      ],
+      "answer": [
+        "Finlande"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Adélaïde ?",
+      "options": [
+        "Irlande",
+        "Pologne",
+        "États-Unis",
+        "Suède"
+      ],
+      "answer": [
+        "Australie"
+      ]
+    },
+    {
+      "text": "Quel pays compte Osaka parmi ses villes ?",
+      "options": [
+        "États-Unis",
+        "Brésil",
+        "Italie",
+        "Canada",
+        "Maroc"
+      ],
+      "answer": [
+        "Japon"
+      ]
+    },
+    {
+      "text": "Quel pays compte Lyon parmi ses villes ?",
+      "options": [
+        "Italie",
+        "Espagne",
+        "Maroc",
+        "Suède",
+        "Grèce"
+      ],
+      "answer": [
+        "France"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Izmir ?",
+      "options": [
+        "États-Unis",
+        "Finlande",
+        "Égypte",
+        "Suède",
+        "Chine",
+        "Norvège"
+      ],
+      "answer": [
+        "Turquie"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Trondheim ?",
+      "options": [
+        "Finlande",
+        "Autriche",
+        "Inde",
+        "Corée du Sud",
+        "France",
+        "Irlande"
+      ],
+      "answer": [
+        "Norvège"
+      ]
+    },
+    {
+      "text": "Quel pays compte Uppsala parmi ses villes ?",
+      "options": [
+        "Maroc",
+        "États-Unis",
+        "Japon",
+        "Irlande"
+      ],
+      "answer": [
+        "Suède"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Calcutta ?",
+      "options": [
+        "Grèce",
+        "Danemark",
+        "Turquie",
+        "Pologne",
+        "Allemagne",
+        "Chine"
+      ],
+      "answer": [
+        "Inde"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Oaxaca ?",
+      "options": [
+        "Tchéquie",
+        "Irlande",
+        "Australie",
+        "Pologne",
+        "Brésil"
+      ],
+      "answer": [
+        "Mexique"
+      ]
+    },
+    {
+      "text": "Anvers — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Chine",
+        "Japon",
+        "Espagne",
+        "Pologne",
+        "Portugal"
+      ],
+      "answer": [
+        "Belgique"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Plzeň ?",
+      "options": [
+        "Maroc",
+        "Danemark",
+        "Suisse",
+        "Japon"
+      ],
+      "answer": [
+        "Tchéquie"
+      ]
+    },
+    {
+      "text": "Cologne — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Royaume-Uni",
+        "Japon",
+        "Égypte",
+        "Chine"
+      ],
+      "answer": [
+        "Allemagne"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Faro ?",
+      "options": [
+        "Corée du Sud",
+        "Turquie",
+        "Mexique",
+        "Canada"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Bruxelles ?",
+      "options": [
+        "Mexique",
+        "Pologne",
+        "Danemark",
+        "Tchéquie",
+        "Hongrie"
+      ],
+      "answer": [
+        "Belgique"
+      ]
+    },
+    {
+      "text": "De quel pays Lisbonne est-elle une ville ?",
+      "options": [
+        "Égypte",
+        "Pologne",
+        "Australie",
+        "Turquie",
+        "Suède"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "De quel pays Copenhague est-elle une ville ?",
+      "options": [
+        "France",
+        "Pays-Bas",
+        "Grèce",
+        "Inde",
+        "Belgique"
+      ],
+      "answer": [
+        "Danemark"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Dublin ?",
+      "options": [
+        "Hongrie",
+        "Japon",
+        "Égypte",
+        "Turquie",
+        "France"
+      ],
+      "answer": [
+        "Irlande"
+      ]
+    },
+    {
+      "text": "Alexandrie — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Inde",
+        "Autriche",
+        "Pologne",
+        "Corée du Sud",
+        "Portugal"
+      ],
+      "answer": [
+        "Égypte"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Varsovie ?",
+      "options": [
+        "Suède",
+        "Allemagne",
+        "Norvège",
+        "France",
+        "Grèce"
+      ],
+      "answer": [
+        "Pologne"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Oslo ?",
+      "options": [
+        "Tchéquie",
+        "Inde",
+        "Hongrie",
+        "Brésil",
+        "Pays-Bas"
+      ],
+      "answer": [
+        "Norvège"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Berne ?",
+      "options": [
+        "Portugal",
+        "Norvège",
+        "Danemark",
+        "Grèce",
+        "Australie",
+        "Canada"
+      ],
+      "answer": [
+        "Suisse"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Incheon ?",
+      "options": [
+        "Hongrie",
+        "Suède",
+        "Japon",
+        "Grèce",
+        "France",
+        "Pologne"
+      ],
+      "answer": [
+        "Corée du Sud"
+      ]
+    },
+    {
+      "text": "Limerick — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Italie",
+        "Corée du Sud",
+        "Finlande",
+        "Brésil"
+      ],
+      "answer": [
+        "Irlande"
+      ]
+    },
+    {
+      "text": "Quel pays compte Busan parmi ses villes ?",
+      "options": [
+        "Finlande",
+        "Portugal",
+        "Brésil",
+        "Allemagne",
+        "Espagne"
+      ],
+      "answer": [
+        "Corée du Sud"
+      ]
+    },
+    {
+      "text": "De quel pays Prague est-elle une ville ?",
+      "options": [
+        "Suisse",
+        "Égypte",
+        "Irlande",
+        "Espagne",
+        "Argentine"
+      ],
+      "answer": [
+        "Tchéquie"
+      ]
+    },
+    {
+      "text": "Quel pays compte Pécs parmi ses villes ?",
+      "options": [
+        "Inde",
+        "Pologne",
+        "Irlande",
+        "Suisse"
+      ],
+      "answer": [
+        "Hongrie"
+      ]
+    },
+    {
+      "text": "Shanghai — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Australie",
+        "Corée du Sud",
+        "Égypte",
+        "Japon",
+        "Irlande"
+      ],
+      "answer": [
+        "Chine"
+      ]
+    },
+    {
+      "text": "De quel pays Louxor est-elle une ville ?",
+      "options": [
+        "Autriche",
+        "États-Unis",
+        "Finlande",
+        "Portugal",
+        "Espagne",
+        "Maroc"
+      ],
+      "answer": [
+        "Égypte"
+      ]
+    },
+    {
+      "text": "Bâle — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Chine",
+        "Finlande",
+        "Espagne",
+        "Japon"
+      ],
+      "answer": [
+        "Suisse"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Utrecht ?",
+      "options": [
+        "Japon",
+        "Mexique",
+        "Irlande",
+        "Royaume-Uni"
+      ],
+      "answer": [
+        "Pays-Bas"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Kyoto ?",
+      "options": [
+        "Irlande",
+        "Maroc",
+        "Autriche",
+        "Inde",
+        "Chine",
+        "Suède"
+      ],
+      "answer": [
+        "Japon"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Madrid ?",
+      "options": [
+        "Royaume-Uni",
+        "États-Unis",
+        "Irlande",
+        "France",
+        "Norvège"
+      ],
+      "answer": [
+        "Espagne"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Bombay ?",
+      "options": [
+        "Autriche",
+        "Tchéquie",
+        "Norvège",
+        "Espagne",
+        "Grèce"
+      ],
+      "answer": [
+        "Inde"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Gdańsk ?",
+      "options": [
+        "Grèce",
+        "Autriche",
+        "Irlande",
+        "Canada",
+        "Allemagne",
+        "Portugal"
+      ],
+      "answer": [
+        "Pologne"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Rome ?",
+      "options": [
+        "Maroc",
+        "Égypte",
+        "Irlande",
+        "Belgique",
+        "Norvège"
+      ],
+      "answer": [
+        "Italie"
+      ]
+    },
+    {
+      "text": "Quel pays compte Cancún parmi ses villes ?",
+      "options": [
+        "Japon",
+        "Maroc",
+        "Égypte",
+        "Portugal"
+      ],
+      "answer": [
+        "Mexique"
+      ]
+    },
+    {
+      "text": "De quel pays Amsterdam est-elle une ville ?",
+      "options": [
+        "Japon",
+        "Suède",
+        "Finlande",
+        "États-Unis",
+        "Royaume-Uni"
+      ],
+      "answer": [
+        "Pays-Bas"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Buenos Aires ?",
+      "options": [
+        "Maroc",
+        "Grèce",
+        "Pologne",
+        "Hongrie",
+        "Turquie"
+      ],
+      "answer": [
+        "Argentine"
+      ]
+    },
+    {
+      "text": "Wrocław — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Maroc",
+        "Corée du Sud",
+        "Brésil",
+        "Turquie"
+      ],
+      "answer": [
+        "Pologne"
+      ]
+    },
+    {
+      "text": "Madras — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Espagne",
+        "Danemark",
+        "Finlande",
+        "Australie"
+      ],
+      "answer": [
+        "Inde"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Nice ?",
+      "options": [
+        "Pologne",
+        "Suisse",
+        "Norvège",
+        "États-Unis"
+      ],
+      "answer": [
+        "France"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Berlin ?",
+      "options": [
+        "Irlande",
+        "Maroc",
+        "Corée du Sud",
+        "Portugal",
+        "Chine"
+      ],
+      "answer": [
+        "Allemagne"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Recife ?",
+      "options": [
+        "Égypte",
+        "Tchéquie",
+        "États-Unis",
+        "Canada"
+      ],
+      "answer": [
+        "Brésil"
+      ]
+    },
+    {
+      "text": "Quel pays compte Rotterdam parmi ses villes ?",
+      "options": [
+        "Hongrie",
+        "Corée du Sud",
+        "Danemark",
+        "Chine",
+        "Inde"
+      ],
+      "answer": [
+        "Pays-Bas"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Hambourg ?",
+      "options": [
+        "Finlande",
+        "Royaume-Uni",
+        "Autriche",
+        "Brésil",
+        "Suisse",
+        "Inde"
+      ],
+      "answer": [
+        "Allemagne"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Helsinki ?",
+      "options": [
+        "Japon",
+        "Inde",
+        "Suisse",
+        "Autriche",
+        "Belgique"
+      ],
+      "answer": [
+        "Finlande"
+      ]
+    },
+    {
+      "text": "Quel pays compte Rio de Janeiro parmi ses villes ?",
+      "options": [
+        "Japon",
+        "Autriche",
+        "Chine",
+        "Turquie",
+        "Tchéquie"
+      ],
+      "answer": [
+        "Brésil"
+      ]
+    },
+    {
+      "text": "Manchester — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Mexique",
+        "Brésil",
+        "Turquie",
+        "Canada",
+        "Pologne"
+      ],
+      "answer": [
+        "Royaume-Uni"
+      ]
+    },
+    {
+      "text": "De quel pays Tokyo est-elle une ville ?",
+      "options": [
+        "Belgique",
+        "Tchéquie",
+        "Norvège",
+        "Espagne",
+        "Autriche"
+      ],
+      "answer": [
+        "Japon"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Marseille ?",
+      "options": [
+        "Norvège",
+        "Brésil",
+        "Tchéquie",
+        "Suède",
+        "Chine",
+        "Pays-Bas"
+      ],
+      "answer": [
+        "France"
+      ]
+    },
+    {
+      "text": "De quel pays Los Angeles est-elle une ville ?",
+      "options": [
+        "Australie",
+        "Maroc",
+        "France",
+        "Belgique",
+        "Suisse",
+        "Portugal"
+      ],
+      "answer": [
+        "États-Unis"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Graz ?",
+      "options": [
+        "Suisse",
+        "Mexique",
+        "Japon",
+        "Corée du Sud"
+      ],
+      "answer": [
+        "Autriche"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve La Haye ?",
+      "options": [
+        "Norvège",
+        "Danemark",
+        "Tchéquie",
+        "Allemagne",
+        "Argentine",
+        "Canada"
+      ],
+      "answer": [
+        "Pays-Bas"
+      ]
+    },
+    {
+      "text": "Quel pays compte Brno parmi ses villes ?",
+      "options": [
+        "Inde",
+        "Corée du Sud",
+        "Irlande",
+        "Brésil",
+        "Maroc"
+      ],
+      "answer": [
+        "Tchéquie"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Séville ?",
+      "options": [
+        "Grèce",
+        "Belgique",
+        "Corée du Sud",
+        "États-Unis",
+        "Hongrie",
+        "Maroc"
+      ],
+      "answer": [
+        "Espagne"
+      ]
+    },
+    {
+      "text": "Héraklion — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Hongrie",
+        "France",
+        "Allemagne",
+        "Danemark"
+      ],
+      "answer": [
+        "Grèce"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Aalborg ?",
+      "options": [
+        "Australie",
+        "Tchéquie",
+        "Brésil",
+        "Finlande"
+      ],
+      "answer": [
+        "Danemark"
+      ]
+    },
+    {
+      "text": "Quel pays compte Melbourne parmi ses villes ?",
+      "options": [
+        "Irlande",
+        "Turquie",
+        "Pologne",
+        "Japon",
+        "Égypte"
+      ],
+      "answer": [
+        "Australie"
+      ]
+    },
+    {
+      "text": "Stavanger — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Danemark",
+        "Brésil",
+        "Mexique",
+        "Irlande"
+      ],
+      "answer": [
+        "Norvège"
+      ]
+    },
+    {
+      "text": "De quel pays Puebla est-elle une ville ?",
+      "options": [
+        "Royaume-Uni",
+        "Brésil",
+        "Maroc",
+        "Espagne",
+        "Turquie",
+        "Belgique"
+      ],
+      "answer": [
+        "Mexique"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Patras ?",
+      "options": [
+        "Australie",
+        "Égypte",
+        "Autriche",
+        "Inde",
+        "Suisse",
+        "France"
+      ],
+      "answer": [
+        "Grèce"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Montréal ?",
+      "options": [
+        "Norvège",
+        "Argentine",
+        "Suède",
+        "Italie",
+        "Inde"
+      ],
+      "answer": [
+        "Canada"
+      ]
+    },
+    {
+      "text": "Debrecen — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Tchéquie",
+        "Italie",
+        "Maroc",
+        "Australie",
+        "États-Unis"
+      ],
+      "answer": [
+        "Hongrie"
+      ]
+    },
+    {
+      "text": "Chicago — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Mexique",
+        "Maroc",
+        "Inde",
+        "Pologne",
+        "Espagne"
+      ],
+      "answer": [
+        "États-Unis"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Cracovie ?",
+      "options": [
+        "Australie",
+        "États-Unis",
+        "Grèce",
+        "Japon",
+        "Royaume-Uni"
+      ],
+      "answer": [
+        "Pologne"
+      ]
+    },
+    {
+      "text": "Milan — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Grèce",
+        "Suède",
+        "Inde",
+        "Irlande",
+        "Turquie"
+      ],
+      "answer": [
+        "Italie"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Athènes ?",
+      "options": [
+        "France",
+        "Turquie",
+        "Tchéquie",
+        "Suisse",
+        "États-Unis"
+      ],
+      "answer": [
+        "Grèce"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Odense ?",
+      "options": [
+        "Japon",
+        "Belgique",
+        "Autriche",
+        "Suisse",
+        "Turquie",
+        "Pays-Bas"
+      ],
+      "answer": [
+        "Danemark"
+      ]
+    },
+    {
+      "text": "De quel pays São Paulo est-elle une ville ?",
+      "options": [
+        "France",
+        "Suisse",
+        "Chine",
+        "Danemark",
+        "Irlande"
+      ],
+      "answer": [
+        "Brésil"
+      ]
+    },
+    {
+      "text": "Quel pays compte Chengdu parmi ses villes ?",
+      "options": [
+        "Royaume-Uni",
+        "États-Unis",
+        "Mexique",
+        "Hongrie"
+      ],
+      "answer": [
+        "Chine"
+      ]
+    },
+    {
+      "text": "Calgary — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Espagne",
+        "Danemark",
+        "Irlande",
+        "Autriche"
+      ],
+      "answer": [
+        "Canada"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Rabat ?",
+      "options": [
+        "Japon",
+        "Irlande",
+        "États-Unis",
+        "Australie",
+        "Turquie"
+      ],
+      "answer": [
+        "Maroc"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on New York ?",
+      "options": [
+        "France",
+        "Suisse",
+        "Turquie",
+        "Portugal",
+        "Finlande"
+      ],
+      "answer": [
+        "États-Unis"
+      ]
+    },
+    {
+      "text": "De quel pays Tampere est-elle une ville ?",
+      "options": [
+        "Italie",
+        "Brésil",
+        "Pologne",
+        "Japon",
+        "Tchéquie",
+        "Royaume-Uni"
+      ],
+      "answer": [
+        "Finlande"
+      ]
+    },
+    {
+      "text": "Quel pays compte Turin parmi ses villes ?",
+      "options": [
+        "Turquie",
+        "Norvège",
+        "Brésil",
+        "France"
+      ],
+      "answer": [
+        "Italie"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Zurich ?",
+      "options": [
+        "Hongrie",
+        "Tchéquie",
+        "Belgique",
+        "Italie",
+        "Brésil"
+      ],
+      "answer": [
+        "Suisse"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Braga ?",
+      "options": [
+        "États-Unis",
+        "Espagne",
+        "Grèce",
+        "Tchéquie",
+        "Brésil",
+        "Maroc"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Delhi ?",
+      "options": [
+        "Hongrie",
+        "Italie",
+        "Autriche",
+        "Corée du Sud",
+        "Finlande"
+      ],
+      "answer": [
+        "Inde"
+      ]
+    },
+    {
+      "text": "Quel pays compte Istanbul parmi ses villes ?",
+      "options": [
+        "Italie",
+        "Tchéquie",
+        "France",
+        "Finlande",
+        "Brésil"
+      ],
+      "answer": [
+        "Turquie"
+      ]
+    },
+    {
+      "text": "Turku — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Japon",
+        "Portugal",
+        "Autriche",
+        "États-Unis",
+        "Suisse"
+      ],
+      "answer": [
+        "Finlande"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Londres ?",
+      "options": [
+        "Canada",
+        "Mexique",
+        "Japon",
+        "Espagne",
+        "Brésil"
+      ],
+      "answer": [
+        "Royaume-Uni"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Antalya ?",
+      "options": [
+        "États-Unis",
+        "Suède",
+        "Brésil",
+        "Italie"
+      ],
+      "answer": [
+        "Turquie"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Vancouver ?",
+      "options": [
+        "Hongrie",
+        "Tchéquie",
+        "Grèce",
+        "États-Unis",
+        "Turquie",
+        "Maroc"
+      ],
+      "answer": [
+        "Canada"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Thessalonique ?",
+      "options": [
+        "Irlande",
+        "Brésil",
+        "Suisse",
+        "Argentine",
+        "Italie"
+      ],
+      "answer": [
+        "Grèce"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Nagoya ?",
+      "options": [
+        "Turquie",
+        "Italie",
+        "Pays-Bas",
+        "Allemagne"
+      ],
+      "answer": [
+        "Japon"
+      ]
+    },
+    {
+      "text": "De quel pays Séoul est-elle une ville ?",
+      "options": [
+        "Inde",
+        "États-Unis",
+        "Égypte",
+        "Finlande",
+        "Japon"
+      ],
+      "answer": [
+        "Corée du Sud"
+      ]
+    },
+    {
+      "text": "Quel pays compte Coimbra parmi ses villes ?",
+      "options": [
+        "États-Unis",
+        "Royaume-Uni",
+        "Brésil",
+        "Danemark",
+        "Belgique"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Budapest ?",
+      "options": [
+        "Australie",
+        "Tchéquie",
+        "Danemark",
+        "France",
+        "Irlande"
+      ],
+      "answer": [
+        "Hongrie"
+      ]
+    },
+    {
+      "text": "De quel pays Paris est-elle une ville ?",
+      "options": [
+        "Allemagne",
+        "Égypte",
+        "Suède",
+        "Japon",
+        "Irlande"
+      ],
+      "answer": [
+        "France"
+      ]
+    },
+    {
+      "text": "Monterrey — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Pologne",
+        "Grèce",
+        "Inde",
+        "Argentine",
+        "Espagne"
+      ],
+      "answer": [
+        "Mexique"
+      ]
+    },
+    {
+      "text": "La Plata — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Japon",
+        "Tchéquie",
+        "Inde",
+        "Norvège"
+      ],
+      "answer": [
+        "Argentine"
+      ]
+    },
+    {
+      "text": "Bilbao — dans quel pays se trouve cette ville ?",
+      "options": [
+        "Canada",
+        "Grèce",
+        "Belgique",
+        "Égypte"
+      ],
+      "answer": [
+        "Espagne"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Galway ?",
+      "options": [
+        "Canada",
+        "Pays-Bas",
+        "Chine",
+        "Grèce",
+        "États-Unis",
+        "Belgique"
+      ],
+      "answer": [
+        "Irlande"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Casablanca ?",
+      "options": [
+        "Chine",
+        "France",
+        "Irlande",
+        "Pays-Bas",
+        "Canada"
+      ],
+      "answer": [
+        "Maroc"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Barcelone ?",
+      "options": [
+        "Turquie",
+        "Australie",
+        "Danemark",
+        "Allemagne",
+        "Corée du Sud"
+      ],
+      "answer": [
+        "Espagne"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Stockholm ?",
+      "options": [
+        "Chine",
+        "Pologne",
+        "Grèce",
+        "Japon",
+        "Suisse"
+      ],
+      "answer": [
+        "Suède"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Fortaleza ?",
+      "options": [
+        "France",
+        "Tchéquie",
+        "Égypte",
+        "Mexique",
+        "Danemark",
+        "Suède"
+      ],
+      "answer": [
+        "Brésil"
+      ]
+    },
+    {
+      "text": "Dans quel pays se situe Bergen ?",
+      "options": [
+        "Irlande",
+        "Argentine",
+        "Royaume-Uni",
+        "Égypte",
+        "Inde"
+      ],
+      "answer": [
+        "Norvège"
+      ]
+    },
+    {
+      "text": "De quel pays Gand est-elle une ville ?",
+      "options": [
+        "Suisse",
+        "Brésil",
+        "Espagne",
+        "Portugal",
+        "Pays-Bas",
+        "Italie"
+      ],
+      "answer": [
+        "Belgique"
+      ]
+    },
+    {
+      "text": "Dans quel pays se trouve Innsbruck ?",
+      "options": [
+        "France",
+        "Corée du Sud",
+        "Portugal",
+        "Australie",
+        "États-Unis",
+        "Chine"
+      ],
+      "answer": [
+        "Autriche"
+      ]
+    },
+    {
+      "text": "De quel pays Szeged est-elle une ville ?",
+      "options": [
+        "Allemagne",
+        "Italie",
+        "Pologne",
+        "Royaume-Uni",
+        "Grèce",
+        "France"
+      ],
+      "answer": [
+        "Hongrie"
+      ]
+    },
+    {
+      "text": "De quel pays Canton est-elle une ville ?",
+      "options": [
+        "Canada",
+        "France",
+        "Italie",
+        "Hongrie",
+        "Royaume-Uni",
+        "Allemagne"
+      ],
+      "answer": [
+        "Chine"
+      ]
+    },
+    {
+      "text": "À quel pays rattache-t-on Le Caire ?",
+      "options": [
+        "Pologne",
+        "Danemark",
+        "Belgique",
+        "Japon",
+        "Tchéquie"
+      ],
+      "answer": [
+        "Égypte"
+      ]
+    }
+  ]
+}

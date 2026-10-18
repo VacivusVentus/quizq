@@ -1,0 +1,1482 @@
+{
+  "theme": "Mythologie et légendes",
+  "questions": [
+    {
+      "text": "À quelle figure mythologique appartient « l'île d'Aiaié » ?",
+      "options": [
+        "Atlas",
+        "Poséidon",
+        "Ulysse",
+        "Hermès",
+        "Perséphone"
+      ],
+      "answer": [
+        "Circé"
+      ]
+    },
+    {
+      "text": "À quoi Ulysse est-il associé parmi ces choix ?",
+      "options": [
+        "le vin",
+        "la magicienne Médée",
+        "le blé mûr",
+        "la force surhumaine",
+        "Méduse"
+      ],
+      "answer": [
+        "le cheval de Troie"
+      ]
+    },
+    {
+      "text": "« les cris annonçant la mort des sires » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Héphaïstos",
+        "Hestia",
+        "Pandore",
+        "Artémis"
+      ],
+      "answer": [
+        "Mélusine"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « le Minotaure » ?",
+      "options": [
+        "Perséphone",
+        "Hadès",
+        "Apollon",
+        "Mélusine",
+        "Poséidon"
+      ],
+      "answer": [
+        "Thésée"
+      ]
+    },
+    {
+      "text": "« le labyrinthe de Crète » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Orphée",
+        "Poséidon",
+        "Hestia",
+        "Persée",
+        "Aphrodite",
+        "Atlas"
+      ],
+      "answer": [
+        "Thésée"
+      ]
+    },
+    {
+      "text": "Quel élément est associé à Orphée ?",
+      "options": [
+        "les Enfers",
+        "la création des hommes",
+        "le mariage",
+        "la curiosité",
+        "la mer",
+        "la grenade"
+      ],
+      "answer": [
+        "Eurydice"
+      ]
+    },
+    {
+      "text": "« les mystères d'Éleusis » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Apollon",
+        "Achille",
+        "Mélusine",
+        "Héra"
+      ],
+      "answer": [
+        "Déméter"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le retour du printemps » est-elle un attribut ?",
+      "options": [
+        "Dionysos",
+        "Héra",
+        "Orphée",
+        "Aphrodite",
+        "Achille",
+        "Gargantua"
+      ],
+      "answer": [
+        "Perséphone"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le monstre marin Cétus » est-elle un attribut ?",
+      "options": [
+        "Arès",
+        "Jason",
+        "Héra",
+        "Mélusine",
+        "Atlas",
+        "Hestia"
+      ],
+      "answer": [
+        "Persée"
+      ]
+    },
+    {
+      "text": "Que sait-on sur Hadès parmi ces propositions ?",
+      "options": [
+        "le labyrinthe de Crète",
+        "les douze travaux",
+        "le châtiment du foie rongé",
+        "le laurier",
+        "la première femme façonnée"
+      ],
+      "answer": [
+        "le chien Cerbère"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le plus grand guerrier grec » est-elle un attribut ?",
+      "options": [
+        "Hermès",
+        "Circé",
+        "Aphrodite",
+        "Prométhée",
+        "La Tarasque",
+        "Héra"
+      ],
+      "answer": [
+        "Achille"
+      ]
+    },
+    {
+      "text": "« l'oracle de Delphes » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Héra",
+        "Achille",
+        "Hadès",
+        "Héraclès",
+        "Ulysse"
+      ],
+      "answer": [
+        "Apollon"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « la jarre des maux » ?",
+      "options": [
+        "Achille",
+        "Hestia",
+        "Héphaïstos",
+        "Héra"
+      ],
+      "answer": [
+        "Pandore"
+      ]
+    },
+    {
+      "text": "« les marins changés en pourceaux » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Hadès",
+        "Zeus",
+        "Achille",
+        "Mélusine",
+        "Jason",
+        "Prométhée"
+      ],
+      "answer": [
+        "Circé"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « le talon vulnérable » ?",
+      "options": [
+        "Prométhée",
+        "Icare",
+        "Héphaïstos",
+        "Ulysse",
+        "Zeus"
+      ],
+      "answer": [
+        "Achille"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « les colonnes du ciel » ?",
+      "options": [
+        "Hestia",
+        "Perséphone",
+        "Thésée",
+        "Déméter"
+      ],
+      "answer": [
+        "Atlas"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « le châtiment du foie rongé » ?",
+      "options": [
+        "Pandore",
+        "Hadès",
+        "Dionysos",
+        "Arès",
+        "Mélusine"
+      ],
+      "answer": [
+        "Prométhée"
+      ]
+    },
+    {
+      "text": "À quoi Pandore est-il associé parmi ces choix ?",
+      "options": [
+        "la colère devant Troie",
+        "le sauvetage d'Andromède",
+        "le chien Cerbère",
+        "la foudre"
+      ],
+      "answer": [
+        "la première femme façonnée"
+      ]
+    },
+    {
+      "text": "« l'écume de la mer » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Dionysos",
+        "Circé",
+        "Héraclès",
+        "Pandore",
+        "Hermès",
+        "Mélusine"
+      ],
+      "answer": [
+        "Aphrodite"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « le foyer » ?",
+      "options": [
+        "Artémis",
+        "Prométhée",
+        "Ulysse",
+        "Hermès"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « la colombe » ?",
+      "options": [
+        "Héraclès",
+        "Perséphone",
+        "Hestia",
+        "Héra",
+        "Héphaïstos"
+      ],
+      "answer": [
+        "Aphrodite"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le laurier » est-elle un attribut ?",
+      "options": [
+        "La Tarasque",
+        "Héphaïstos",
+        "Arès",
+        "Prométhée",
+        "Atlas"
+      ],
+      "answer": [
+        "Apollon"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « la lune » ?",
+      "options": [
+        "Gargantua",
+        "Arès",
+        "Héphaïstos",
+        "La Tarasque"
+      ],
+      "answer": [
+        "Artémis"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « le caducée » ?",
+      "options": [
+        "Hestia",
+        "La Tarasque",
+        "Déméter",
+        "Pandore"
+      ],
+      "answer": [
+        "Hermès"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « le théâtre » ?",
+      "options": [
+        "Athéna",
+        "Héraclès",
+        "Arès",
+        "Prométhée",
+        "Atlas"
+      ],
+      "answer": [
+        "Dionysos"
+      ]
+    },
+    {
+      "text": "« la magicienne Médée » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Circé",
+        "Héraclès",
+        "Apollon",
+        "Héra",
+        "Mélusine"
+      ],
+      "answer": [
+        "Jason"
+      ]
+    },
+    {
+      "text": "« les chevaux » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Prométhée",
+        "Persée",
+        "Perséphone",
+        "Jason",
+        "Hermès"
+      ],
+      "answer": [
+        "Poséidon"
+      ]
+    },
+    {
+      "text": "Quels domaines, symboles ou exploits appartiennent à Persée ?",
+      "options": [
+        "la voûte céleste",
+        "un appétit insatiable",
+        "la sagesse",
+        "les Enfers"
+      ],
+      "answer": [
+        "le sauvetage d'Andromède",
+        "le monstre marin Cétus"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « la foudre » ?",
+      "options": [
+        "Orphée",
+        "Hermès",
+        "Pandore",
+        "Prométhée",
+        "Athéna"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "« la première femme façonnée » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Déméter",
+        "Prométhée",
+        "La Tarasque",
+        "Héraclès",
+        "Héphaïstos"
+      ],
+      "answer": [
+        "Pandore"
+      ]
+    },
+    {
+      "text": "« le vol trop près du soleil » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Persée",
+        "Héra",
+        "Dionysos",
+        "Hadès",
+        "Déméter"
+      ],
+      "answer": [
+        "Icare"
+      ]
+    },
+    {
+      "text": "À quoi Achille est-il associé parmi ces choix ?",
+      "options": [
+        "l'aigle",
+        "la lyre",
+        "le vautour",
+        "le fil d'Ariane"
+      ],
+      "answer": [
+        "la colère devant Troie"
+      ]
+    },
+    {
+      "text": "Laquelle de ces caractéristiques se rattache à Poséidon ?",
+      "options": [
+        "la sagesse",
+        "les marins changés en pourceaux",
+        "le feu dérobé aux dieux",
+        "les sandales ailées"
+      ],
+      "answer": [
+        "le trident"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « le feu dérobé aux dieux » ?",
+      "options": [
+        "Héraclès",
+        "Apollon",
+        "Gargantua",
+        "Icare",
+        "Athéna"
+      ],
+      "answer": [
+        "Prométhée"
+      ]
+    },
+    {
+      "text": "Quels éléments définissent Mélusine ?",
+      "options": [
+        "la brutalité des batailles",
+        "le chant qui charmait les bêtes",
+        "l'olivier",
+        "le ciel",
+        "la sagesse"
+      ],
+      "answer": [
+        "la fondation de Lusignan",
+        "les cris annonçant la mort des sires"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le chien Cerbère » est-elle un attribut ?",
+      "options": [
+        "Apollon",
+        "Prométhée",
+        "Aphrodite",
+        "Artémis",
+        "Zeus",
+        "Dionysos"
+      ],
+      "answer": [
+        "Hadès"
+      ]
+    },
+    {
+      "text": "« la biche » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Achille",
+        "Prométhée",
+        "Hestia",
+        "Héra",
+        "Hermès"
+      ],
+      "answer": [
+        "Artémis"
+      ]
+    },
+    {
+      "text": "Quel élément est associé à Héphaïstos ?",
+      "options": [
+        "le châtiment du foie rongé",
+        "la jarre des maux",
+        "la Toison d'or",
+        "le dragon de Tarascon",
+        "les montagnes portées dans sa hotte",
+        "le talon vulnérable"
+      ],
+      "answer": [
+        "les armes des dieux"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « l'aigle » ?",
+      "options": [
+        "Ulysse",
+        "Poséidon",
+        "Persée",
+        "Atlas",
+        "Héphaïstos"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "« la création des hommes » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Mélusine",
+        "Pandore",
+        "Ulysse",
+        "Hermès",
+        "Persée",
+        "Apollon"
+      ],
+      "answer": [
+        "Prométhée"
+      ]
+    },
+    {
+      "text": "Quels domaines, symboles ou exploits appartiennent à Héraclès ?",
+      "options": [
+        "le filet d'or",
+        "Eurydice",
+        "la queue de serpent",
+        "le laurier"
+      ],
+      "answer": [
+        "le lion de Némée",
+        "la force surhumaine"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « le vin » ?",
+      "options": [
+        "Héraclès",
+        "Perséphone",
+        "Atlas",
+        "Gargantua",
+        "Zeus"
+      ],
+      "answer": [
+        "Dionysos"
+      ]
+    },
+    {
+      "text": "Lesquelles de ces caractéristiques se rattachent à Artémis ?",
+      "options": [
+        "la chouette",
+        "les mystères d'Éleusis",
+        "le Cyclope Polyphème",
+        "le lion de Némée",
+        "la procession de la fête"
+      ],
+      "answer": [
+        "la lune",
+        "la chasse"
+      ]
+    },
+    {
+      "text": "Que sait-on sur Héra parmi ces propositions ?",
+      "options": [
+        "le talon vulnérable",
+        "la chute dans la mer Égée",
+        "l'écume de la mer",
+        "la lune",
+        "la fondation de Lusignan",
+        "la gueule enflammée"
+      ],
+      "answer": [
+        "le mariage"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le feu domestique » est-elle un attribut ?",
+      "options": [
+        "Héra",
+        "Perséphone",
+        "Poséidon",
+        "Aphrodite",
+        "Achille"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « les ailes fixées avec de la cire » ?",
+      "options": [
+        "Aphrodite",
+        "Atlas",
+        "Athéna",
+        "Dionysos"
+      ],
+      "answer": [
+        "Icare"
+      ]
+    },
+    {
+      "text": "Lesquelles de ces caractéristiques se rattachent à Déméter ?",
+      "options": [
+        "le casque d'invisibilité",
+        "le sauvetage d'Andromède",
+        "le monstre marin Cétus",
+        "la foudre",
+        "le vin"
+      ],
+      "answer": [
+        "le blé mûr",
+        "les moissons"
+      ]
+    },
+    {
+      "text": "« le long retour vers Ithaque » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Persée",
+        "Prométhée",
+        "Atlas",
+        "Zeus",
+        "La Tarasque"
+      ],
+      "answer": [
+        "Ulysse"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « Méduse » ?",
+      "options": [
+        "Artémis",
+        "Zeus",
+        "Atlas",
+        "Héra",
+        "Athéna"
+      ],
+      "answer": [
+        "Persée"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « la mer » ?",
+      "options": [
+        "Achille",
+        "Orphée",
+        "Prométhée",
+        "Thésée",
+        "Gargantua",
+        "La Tarasque"
+      ],
+      "answer": [
+        "Poséidon"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « le mariage » ?",
+      "options": [
+        "Athéna",
+        "Achille",
+        "Apollon",
+        "Perséphone"
+      ],
+      "answer": [
+        "Héra"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « la voûte céleste » ?",
+      "options": [
+        "Déméter",
+        "Perséphone",
+        "Hadès",
+        "Aphrodite",
+        "Hestia",
+        "Arès"
+      ],
+      "answer": [
+        "Atlas"
+      ]
+    },
+    {
+      "text": "Lesquels de ces éléments sont associés à Perséphone ?",
+      "options": [
+        "les montagnes portées dans sa hotte",
+        "les moissons",
+        "le fil d'Ariane",
+        "le caducée",
+        "la lyre",
+        "le navire Argo"
+      ],
+      "answer": [
+        "le titre de reine des morts",
+        "le retour du printemps"
+      ]
+    },
+    {
+      "text": "« la reine des dieux » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Dionysos",
+        "Ulysse",
+        "Zeus",
+        "Icare",
+        "Thésée"
+      ],
+      "answer": [
+        "Héra"
+      ]
+    },
+    {
+      "text": "« la première offrande des banquets » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Déméter",
+        "Zeus",
+        "Hermès",
+        "Héphaïstos",
+        "Persée"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    },
+    {
+      "text": "« le ciel » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Hermès",
+        "Hadès",
+        "Perséphone",
+        "Hestia",
+        "Déméter",
+        "Héraclès"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le filet d'or » est-elle un attribut ?",
+      "options": [
+        "Ulysse",
+        "Prométhée",
+        "Mélusine",
+        "Déméter",
+        "Arès"
+      ],
+      "answer": [
+        "Héphaïstos"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « le lion de Némée » ?",
+      "options": [
+        "Hermès",
+        "Icare",
+        "Achille",
+        "La Tarasque"
+      ],
+      "answer": [
+        "Héraclès"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « la chasse » ?",
+      "options": [
+        "Poséidon",
+        "Pandore",
+        "La Tarasque",
+        "Circé",
+        "Hestia",
+        "Athéna"
+      ],
+      "answer": [
+        "Artémis"
+      ]
+    },
+    {
+      "text": "Lesquels de ces éléments sont associés à Atlas ?",
+      "options": [
+        "le dragon de Tarascon",
+        "le plus grand guerrier grec",
+        "la reine des dieux",
+        "le casque d'invisibilité",
+        "la biche",
+        "le paon"
+      ],
+      "answer": [
+        "la métamorphose en montagne",
+        "la voûte céleste"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « la fondation de Lusignan » est-elle un attribut ?",
+      "options": [
+        "Circé",
+        "Atlas",
+        "Prométhée",
+        "La Tarasque",
+        "Héraclès",
+        "Ulysse"
+      ],
+      "answer": [
+        "Mélusine"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « Eurydice » ?",
+      "options": [
+        "Athéna",
+        "Aphrodite",
+        "Achille",
+        "Gargantua"
+      ],
+      "answer": [
+        "Orphée"
+      ]
+    },
+    {
+      "text": "Quel élément est associé à Apollon ?",
+      "options": [
+        "le vol trop près du soleil",
+        "la première femme façonnée",
+        "les armes des dieux",
+        "le feu dérobé aux dieux",
+        "les cris annonçant la mort des sires"
+      ],
+      "answer": [
+        "le soleil"
+      ]
+    },
+    {
+      "text": "« la procession de la fête » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Orphée",
+        "Héraclès",
+        "Perséphone",
+        "Achille",
+        "Zeus",
+        "Hadès"
+      ],
+      "answer": [
+        "La Tarasque"
+      ]
+    },
+    {
+      "text": "« le messager des dieux » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "La Tarasque",
+        "Orphée",
+        "Persée",
+        "Achille",
+        "Déméter"
+      ],
+      "answer": [
+        "Hermès"
+      ]
+    },
+    {
+      "text": "Que sait-on sur Prométhée parmi ces propositions ?",
+      "options": [
+        "le plus grand guerrier grec",
+        "la forge",
+        "le chien Cerbère",
+        "la magicienne Médée",
+        "la force surhumaine",
+        "la procession de la fête"
+      ],
+      "answer": [
+        "le châtiment du foie rongé"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « le cheval de Troie » ?",
+      "options": [
+        "Hestia",
+        "Gargantua",
+        "Pandore",
+        "Dionysos"
+      ],
+      "answer": [
+        "Ulysse"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « les moissons » ?",
+      "options": [
+        "Dionysos",
+        "Zeus",
+        "Icare",
+        "Thésée",
+        "Athéna"
+      ],
+      "answer": [
+        "Déméter"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « la Toison d'or » ?",
+      "options": [
+        "Thésée",
+        "Circé",
+        "Hermès",
+        "Artémis",
+        "Hadès",
+        "Héra"
+      ],
+      "answer": [
+        "Jason"
+      ]
+    },
+    {
+      "text": "Quels éléments définissent Icare ?",
+      "options": [
+        "la chouette",
+        "les cris annonçant la mort des sires",
+        "le monstre marin Cétus",
+        "la queue de serpent",
+        "l'olivier"
+      ],
+      "answer": [
+        "la chute dans la mer Égée",
+        "les ailes fixées avec de la cire"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « la sagesse » ?",
+      "options": [
+        "Jason",
+        "Achille",
+        "Héra",
+        "Déméter",
+        "Apollon"
+      ],
+      "answer": [
+        "Athéna"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « la curiosité » est-elle un attribut ?",
+      "options": [
+        "Atlas",
+        "Hadès",
+        "Thésée",
+        "Héphaïstos",
+        "Orphée"
+      ],
+      "answer": [
+        "Pandore"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « le dragon de Tarascon » ?",
+      "options": [
+        "Ulysse",
+        "Persée",
+        "Pandore",
+        "Circé",
+        "Zeus"
+      ],
+      "answer": [
+        "La Tarasque"
+      ]
+    },
+    {
+      "text": "Laquelle de ces caractéristiques se rattache à Circé ?",
+      "options": [
+        "le caducée",
+        "Méduse",
+        "la sagesse",
+        "le mariage",
+        "le navire Argo"
+      ],
+      "answer": [
+        "l'île d'Aiaié"
+      ]
+    },
+    {
+      "text": "Laquelle de ces caractéristiques se rattache à Zeus ?",
+      "options": [
+        "la lune",
+        "les ailes fixées avec de la cire",
+        "le casque d'invisibilité",
+        "la vigne"
+      ],
+      "answer": [
+        "l'aigle"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « les Enfers » ?",
+      "options": [
+        "Déméter",
+        "Héraclès",
+        "La Tarasque",
+        "Achille",
+        "Arès"
+      ],
+      "answer": [
+        "Hadès"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « un appétit insatiable » ?",
+      "options": [
+        "Hadès",
+        "Dionysos",
+        "Perséphone",
+        "Aphrodite"
+      ],
+      "answer": [
+        "Gargantua"
+      ]
+    },
+    {
+      "text": "Laquelle de ces caractéristiques se rattache à Hestia ?",
+      "options": [
+        "la chasse",
+        "le Minotaure",
+        "la biche",
+        "la force surhumaine",
+        "la guerre"
+      ],
+      "answer": [
+        "le feu domestique"
+      ]
+    },
+    {
+      "text": "« la colère devant Troie » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Arès",
+        "Héra",
+        "Jason",
+        "Hadès"
+      ],
+      "answer": [
+        "Achille"
+      ]
+    },
+    {
+      "text": "« le chant qui charmait les bêtes » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Perséphone",
+        "Hermès",
+        "Héra",
+        "Prométhée",
+        "Hestia"
+      ],
+      "answer": [
+        "Orphée"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « la gueule enflammée » ?",
+      "options": [
+        "Circé",
+        "Mélusine",
+        "Zeus",
+        "Orphée",
+        "Ulysse"
+      ],
+      "answer": [
+        "La Tarasque"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « les herbes enchantées » ?",
+      "options": [
+        "Pandore",
+        "Icare",
+        "La Tarasque",
+        "Jason",
+        "Mélusine"
+      ],
+      "answer": [
+        "Circé"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « le fil d'Ariane » ?",
+      "options": [
+        "Héra",
+        "Achille",
+        "Prométhée",
+        "Mélusine",
+        "Aphrodite"
+      ],
+      "answer": [
+        "Thésée"
+      ]
+    },
+    {
+      "text": "« le titre de reine des morts » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Héraclès",
+        "Achille",
+        "Ulysse",
+        "Zeus"
+      ],
+      "answer": [
+        "Perséphone"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « la grenade » ?",
+      "options": [
+        "Persée",
+        "Zeus",
+        "Prométhée",
+        "Dionysos",
+        "Gargantua"
+      ],
+      "answer": [
+        "Perséphone"
+      ]
+    },
+    {
+      "text": "« la vigne » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Déméter",
+        "Atlas",
+        "Icare",
+        "Gargantua",
+        "Hermès",
+        "Apollon"
+      ],
+      "answer": [
+        "Dionysos"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « la guerre » ?",
+      "options": [
+        "Artémis",
+        "Prométhée",
+        "Zeus",
+        "Héraclès",
+        "Hadès"
+      ],
+      "answer": [
+        "Arès"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le blé mûr » est-elle un attribut ?",
+      "options": [
+        "Dionysos",
+        "Orphée",
+        "Héraclès",
+        "Jason",
+        "Perséphone",
+        "Hermès"
+      ],
+      "answer": [
+        "Déméter"
+      ]
+    },
+    {
+      "text": "« la métamorphose en montagne » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Déméter",
+        "Prométhée",
+        "Jason",
+        "Hadès",
+        "Poséidon"
+      ],
+      "answer": [
+        "Atlas"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « l'amour » ?",
+      "options": [
+        "Gargantua",
+        "Achille",
+        "Apollon",
+        "Déméter",
+        "Perséphone"
+      ],
+      "answer": [
+        "Aphrodite"
+      ]
+    },
+    {
+      "text": "« l'olivier » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Thésée",
+        "Hermès",
+        "Persée",
+        "Héphaïstos",
+        "Prométhée",
+        "Atlas"
+      ],
+      "answer": [
+        "Athéna"
+      ]
+    },
+    {
+      "text": "Quel élément est associé à Gargantua ?",
+      "options": [
+        "le laurier",
+        "les marins changés en pourceaux",
+        "l'île d'Aiaié",
+        "le labyrinthe de Crète",
+        "la chasse"
+      ],
+      "answer": [
+        "sa jument qui noie une armée"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « la chouette » ?",
+      "options": [
+        "Thésée",
+        "Circé",
+        "Héphaïstos",
+        "Atlas",
+        "Orphée"
+      ],
+      "answer": [
+        "Athéna"
+      ]
+    },
+    {
+      "text": "« le vautour » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Dionysos",
+        "Ulysse",
+        "La Tarasque",
+        "Poséidon"
+      ],
+      "answer": [
+        "Arès"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le Cyclope Polyphème » est-elle un attribut ?",
+      "options": [
+        "Icare",
+        "Hadès",
+        "La Tarasque",
+        "Déméter",
+        "Circé"
+      ],
+      "answer": [
+        "Ulysse"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « la forge » ?",
+      "options": [
+        "Achille",
+        "Mélusine",
+        "Thésée",
+        "Persée"
+      ],
+      "answer": [
+        "Héphaïstos"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « le trident » ?",
+      "options": [
+        "Icare",
+        "Pandore",
+        "Prométhée",
+        "Thésée"
+      ],
+      "answer": [
+        "Poséidon"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « les douze travaux » ?",
+      "options": [
+        "Persée",
+        "Hadès",
+        "Poséidon",
+        "Gargantua",
+        "Thésée",
+        "Hestia"
+      ],
+      "answer": [
+        "Héraclès"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « le paon » est-elle un attribut ?",
+      "options": [
+        "Persée",
+        "Aphrodite",
+        "Achille",
+        "Gargantua",
+        "Hestia"
+      ],
+      "answer": [
+        "Héra"
+      ]
+    },
+    {
+      "text": "Qui, dans la mythologie, est lié à « le navire Argo » ?",
+      "options": [
+        "Persée",
+        "Héraclès",
+        "Gargantua",
+        "Hermès"
+      ],
+      "answer": [
+        "Jason"
+      ]
+    },
+    {
+      "text": "« le casque d'invisibilité » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Hermès",
+        "Athéna",
+        "Dionysos",
+        "Arès"
+      ],
+      "answer": [
+        "Hadès"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « la chute dans la mer Égée » est-elle un attribut ?",
+      "options": [
+        "Achille",
+        "Aphrodite",
+        "Mélusine",
+        "Héphaïstos",
+        "La Tarasque"
+      ],
+      "answer": [
+        "Icare"
+      ]
+    },
+    {
+      "text": "« les armes des dieux » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Aphrodite",
+        "Zeus",
+        "Ulysse",
+        "Prométhée",
+        "Gargantua"
+      ],
+      "answer": [
+        "Héphaïstos"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « la brutalité des batailles » est-elle un attribut ?",
+      "options": [
+        "Artémis",
+        "Mélusine",
+        "Hestia",
+        "Héraclès",
+        "Dionysos",
+        "La Tarasque"
+      ],
+      "answer": [
+        "Arès"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « le soleil » ?",
+      "options": [
+        "Hestia",
+        "Perséphone",
+        "Arès",
+        "Jason"
+      ],
+      "answer": [
+        "Apollon"
+      ]
+    },
+    {
+      "text": "« la force surhumaine » — à quel personnage de la mythologie cela renvoie-t-il ?",
+      "options": [
+        "Ulysse",
+        "Perséphone",
+        "Circé",
+        "Hermès",
+        "Héra"
+      ],
+      "answer": [
+        "Héraclès"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « la lyre » ?",
+      "options": [
+        "Zeus",
+        "Hestia",
+        "Héphaïstos",
+        "Hadès",
+        "Ulysse",
+        "Aphrodite"
+      ],
+      "answer": [
+        "Orphée"
+      ]
+    },
+    {
+      "text": "« le sauvetage d'Andromède » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Ulysse",
+        "Mélusine",
+        "Atlas",
+        "Circé"
+      ],
+      "answer": [
+        "Persée"
+      ]
+    },
+    {
+      "text": "Quelle divinité ou quel héros possède « la queue de serpent » ?",
+      "options": [
+        "La Tarasque",
+        "Perséphone",
+        "Poséidon",
+        "Artémis",
+        "Hadès"
+      ],
+      "answer": [
+        "Mélusine"
+      ]
+    },
+    {
+      "text": "À quelle figure mythologique appartient « les sandales ailées » ?",
+      "options": [
+        "Arès",
+        "La Tarasque",
+        "Atlas",
+        "Apollon",
+        "Dionysos",
+        "Hadès"
+      ],
+      "answer": [
+        "Hermès"
+      ]
+    },
+    {
+      "text": "« les montagnes portées dans sa hotte » appartient à quelle divinité ou quel héros ?",
+      "options": [
+        "Poséidon",
+        "Perséphone",
+        "Ulysse",
+        "Dionysos",
+        "Athéna"
+      ],
+      "answer": [
+        "Gargantua"
+      ]
+    },
+    {
+      "text": "De quelle figure mythologique « sa jument qui noie une armée » est-elle un attribut ?",
+      "options": [
+        "Héphaïstos",
+        "Mélusine",
+        "Persée",
+        "Artémis",
+        "Arès"
+      ],
+      "answer": [
+        "Gargantua"
+      ]
+    },
+    {
+      "text": "Que sait-on sur Jason parmi ces propositions ?",
+      "options": [
+        "l'île d'Aiaié",
+        "la sagesse",
+        "la vigne",
+        "le vin",
+        "le laurier"
+      ],
+      "answer": [
+        "la magicienne Médée"
+      ]
+    }
+  ]
+}

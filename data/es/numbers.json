@@ -1,0 +1,1370 @@
+{
+  "theme": "Números y datos",
+  "questions": [
+    {
+      "text": "¿Qué cifra resulta del recuento de patas de un escorpión?",
+      "options": [
+        "cincuenta y dos",
+        "veinte",
+        "cinco",
+        "cien"
+      ],
+      "answer": [
+        "ocho"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar días de diciembre?",
+      "options": [
+        "dos",
+        "nueve",
+        "ciento ochenta",
+        "ocho",
+        "veinte",
+        "cuatro"
+      ],
+      "answer": [
+        "treinta y uno"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de litros de un hectolitro?",
+      "options": [
+        "dos",
+        "doce",
+        "nueve",
+        "treinta y dos"
+      ],
+      "answer": [
+        "cien"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar dedos de los dos pies?",
+      "options": [
+        "nueve",
+        "cinco",
+        "mil",
+        "siete",
+        "ocho"
+      ],
+      "answer": [
+        "diez"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de dedos de una mano?",
+      "options": [
+        "veinte",
+        "cincuenta y dos",
+        "nueve",
+        "treinta",
+        "mil"
+      ],
+      "answer": [
+        "cinco"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de notas de una octava?",
+      "options": [
+        "cien",
+        "cuatro",
+        "treinta",
+        "veinticuatro"
+      ],
+      "answer": [
+        "siete"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar colores de la bandera de Rusia?",
+      "options": [
+        "seis",
+        "treinta y uno",
+        "quince",
+        "siete",
+        "ciento ochenta"
+      ],
+      "answer": [
+        "tres"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de sonatas para piano de Beethoven?",
+      "options": [
+        "treinta y uno",
+        "treinta",
+        "veinticuatro",
+        "ocho",
+        "nueve"
+      ],
+      "answer": [
+        "treinta y dos"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de anillos de la bandera olímpica?",
+      "options": [
+        "dos",
+        "nueve",
+        "cien",
+        "ocho"
+      ],
+      "answer": [
+        "cinco"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de meses de un año?",
+      "options": [
+        "cincuenta y dos",
+        "veinte",
+        "treinta",
+        "cuarenta",
+        "quince"
+      ],
+      "answer": [
+        "doce"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de milímetros de un centímetro?",
+      "options": [
+        "cinco",
+        "cien",
+        "nueve",
+        "cuatro"
+      ],
+      "answer": [
+        "diez"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de pulmones en un ser humano?",
+      "options": [
+        "treinta",
+        "cuarenta",
+        "seis",
+        "cinco",
+        "doce"
+      ],
+      "answer": [
+        "dos"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de dedos de un pie?",
+      "options": [
+        "cincuenta y dos",
+        "doce",
+        "dos",
+        "nueve",
+        "mil",
+        "ocho"
+      ],
+      "answer": [
+        "cinco"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de brazos de una estrella de mar?",
+      "options": [
+        "cuarenta",
+        "diez",
+        "treinta y dos",
+        "siete",
+        "mil"
+      ],
+      "answer": [
+        "cinco"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar rodillas en un ser humano?",
+      "options": [
+        "cuarenta",
+        "mil",
+        "veinticuatro",
+        "siete"
+      ],
+      "answer": [
+        "dos"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de repúblicas de la Unión Soviética?",
+      "options": [
+        "cuatro",
+        "cinco",
+        "treinta y dos",
+        "doce",
+        "cincuenta y dos"
+      ],
+      "answer": [
+        "quince"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de puntos cardinales de una brújula?",
+      "options": [
+        "ocho",
+        "cien",
+        "veinte",
+        "cuarenta",
+        "veinticuatro"
+      ],
+      "answer": [
+        "cuatro"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar patas de un gato?",
+      "options": [
+        "dos",
+        "mil",
+        "veinticuatro",
+        "siete",
+        "ciento ochenta"
+      ],
+      "answer": [
+        "cuatro"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de polos de un imán?",
+      "options": [
+        "nueve",
+        "treinta y uno",
+        "treinta y dos",
+        "ocho"
+      ],
+      "answer": [
+        "dos"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de ruedas de una bicicleta?",
+      "options": [
+        "cuatro",
+        "ocho",
+        "treinta y uno",
+        "ciento ochenta",
+        "cien"
+      ],
+      "answer": [
+        "dos"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de maravillas del mundo antiguo?",
+      "options": [
+        "cuatro",
+        "nueve",
+        "treinta",
+        "doce",
+        "mil"
+      ],
+      "answer": [
+        "siete"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de patas de una araña?",
+      "options": [
+        "cuarenta",
+        "dos",
+        "siete",
+        "veinte",
+        "quince",
+        "cuatro"
+      ],
+      "answer": [
+        "ocho"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar cadenas de una molécula de ADN?",
+      "options": [
+        "mil",
+        "cuarenta",
+        "treinta y dos",
+        "diez",
+        "seis",
+        "cinco"
+      ],
+      "answer": [
+        "dos"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar enanos del cuento de Blancanieves?",
+      "options": [
+        "cuarenta",
+        "ocho",
+        "cien",
+        "treinta y dos",
+        "veinticuatro"
+      ],
+      "answer": [
+        "siete"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de días de lluvia durante el Diluvio?",
+      "options": [
+        "dos",
+        "nueve",
+        "mil",
+        "veinticuatro",
+        "cien"
+      ],
+      "answer": [
+        "cuarenta"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de cuerdas de un ukelele?",
+      "options": [
+        "tres",
+        "cuarenta",
+        "veinticuatro",
+        "treinta y dos",
+        "dos"
+      ],
+      "answer": [
+        "cuatro"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de tiempos de un partido de fútbol?",
+      "options": [
+        "cien",
+        "veinte",
+        "treinta y uno",
+        "nueve",
+        "cuatro"
+      ],
+      "answer": [
+        "dos"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar cuerdas de una guitarra clásica?",
+      "options": [
+        "ocho",
+        "siete",
+        "cinco",
+        "treinta y dos"
+      ],
+      "answer": [
+        "seis"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de minutos de un cuarto de hora?",
+      "options": [
+        "mil",
+        "ciento ochenta",
+        "seis",
+        "nueve",
+        "cuatro"
+      ],
+      "answer": [
+        "quince"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de pulgadas de un pie?",
+      "options": [
+        "quince",
+        "cuarenta",
+        "nueve",
+        "treinta"
+      ],
+      "answer": [
+        "doce"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar horas marcadas en un reloj de agujas?",
+      "options": [
+        "siete",
+        "seis",
+        "treinta",
+        "cien",
+        "treinta y dos"
+      ],
+      "answer": [
+        "doce"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar teclas blancas de un piano?",
+      "options": [
+        "mil",
+        "ocho",
+        "tres",
+        "treinta y uno",
+        "seis"
+      ],
+      "answer": [
+        "cincuenta y dos"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de cartas de una baraja estándar?",
+      "options": [
+        "treinta y dos",
+        "tres",
+        "treinta y uno",
+        "mil",
+        "ciento ochenta",
+        "siete"
+      ],
+      "answer": [
+        "cincuenta y dos"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de grados de la suma de los ángulos de un triángulo?",
+      "options": [
+        "cuatro",
+        "veinticuatro",
+        "mil",
+        "treinta"
+      ],
+      "answer": [
+        "ciento ochenta"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de minutos de un tercio de hora?",
+      "options": [
+        "tres",
+        "siete",
+        "cien",
+        "treinta y dos",
+        "cuarenta"
+      ],
+      "answer": [
+        "veinte"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de minutos de tres horas?",
+      "options": [
+        "diez",
+        "cincuenta y dos",
+        "cuatro",
+        "cinco",
+        "veinte"
+      ],
+      "answer": [
+        "ciento ochenta"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de milímetros de un decímetro?",
+      "options": [
+        "quince",
+        "mil",
+        "dos",
+        "treinta y uno",
+        "treinta y dos"
+      ],
+      "answer": [
+        "cien"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de jinetes en el cuadro de Vasnetsov?",
+      "options": [
+        "ciento ochenta",
+        "cuatro",
+        "mil",
+        "siete",
+        "seis",
+        "dos"
+      ],
+      "answer": [
+        "tres"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de días de enero?",
+      "options": [
+        "quince",
+        "cincuenta y dos",
+        "ciento ochenta",
+        "cien",
+        "doce"
+      ],
+      "answer": [
+        "treinta y uno"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar días laborables de una semana?",
+      "options": [
+        "tres",
+        "siete",
+        "diez",
+        "doce",
+        "nueve",
+        "cuatro"
+      ],
+      "answer": [
+        "cinco"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de días de octubre?",
+      "options": [
+        "cuarenta",
+        "ciento ochenta",
+        "seis",
+        "treinta",
+        "cinco"
+      ],
+      "answer": [
+        "treinta y uno"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar casillas de una fila de un tablero de ajedrez?",
+      "options": [
+        "tres",
+        "veinte",
+        "veinticuatro",
+        "cien",
+        "cincuenta y dos",
+        "quince"
+      ],
+      "answer": [
+        "ocho"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de tentáculos de un pulpo?",
+      "options": [
+        "veinte",
+        "cien",
+        "cinco",
+        "cuarenta",
+        "tres"
+      ],
+      "answer": [
+        "ocho"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de semanas de un embarazo humano?",
+      "options": [
+        "dos",
+        "cuatro",
+        "treinta",
+        "treinta y dos",
+        "diez"
+      ],
+      "answer": [
+        "cuarenta"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de colores de un semáforo?",
+      "options": [
+        "dos",
+        "diez",
+        "ciento ochenta",
+        "mil",
+        "siete"
+      ],
+      "answer": [
+        "tres"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de musas del Parnaso?",
+      "options": [
+        "cincuenta y dos",
+        "cuarenta",
+        "dos",
+        "ciento ochenta",
+        "mil"
+      ],
+      "answer": [
+        "nueve"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de grados Fahrenheit a los que se congela el agua?",
+      "options": [
+        "cuarenta",
+        "mil",
+        "quince",
+        "treinta",
+        "diez",
+        "cinco"
+      ],
+      "answer": [
+        "treinta y dos"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de fotogramas por segundo en el cine?",
+      "options": [
+        "ocho",
+        "cincuenta y dos",
+        "dos",
+        "treinta y uno",
+        "veinte",
+        "tres"
+      ],
+      "answer": [
+        "veinticuatro"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de kilos de un quintal?",
+      "options": [
+        "cuatro",
+        "seis",
+        "ocho",
+        "treinta y dos",
+        "siete"
+      ],
+      "answer": [
+        "cien"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de ruedas de un coche?",
+      "options": [
+        "quince",
+        "doce",
+        "diez",
+        "veinticuatro"
+      ],
+      "answer": [
+        "cuatro"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de tribus de Israel?",
+      "options": [
+        "treinta y uno",
+        "seis",
+        "mil",
+        "ocho",
+        "tres",
+        "quince"
+      ],
+      "answer": [
+        "doce"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de días de abril?",
+      "options": [
+        "cien",
+        "ocho",
+        "cuarenta",
+        "doce"
+      ],
+      "answer": [
+        "treinta"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de días de septiembre?",
+      "options": [
+        "quince",
+        "nueve",
+        "cuatro",
+        "veinticuatro",
+        "diez"
+      ],
+      "answer": [
+        "treinta"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de gramos de un hectogramo?",
+      "options": [
+        "quince",
+        "dos",
+        "seis",
+        "tres",
+        "ocho",
+        "treinta y dos"
+      ],
+      "answer": [
+        "cien"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de torres del Kremlin de Moscú?",
+      "options": [
+        "ocho",
+        "ciento ochenta",
+        "tres",
+        "diez",
+        "mil"
+      ],
+      "answer": [
+        "veinte"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de letras del alfabeto griego?",
+      "options": [
+        "ocho",
+        "cincuenta y dos",
+        "diez",
+        "treinta y uno",
+        "cinco"
+      ],
+      "answer": [
+        "veinticuatro"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar metros de un kilómetro?",
+      "options": [
+        "treinta y uno",
+        "nueve",
+        "cuarenta",
+        "veinte",
+        "seis"
+      ],
+      "answer": [
+        "mil"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar días de marzo?",
+      "options": [
+        "ciento ochenta",
+        "tres",
+        "veinticuatro",
+        "treinta",
+        "siete"
+      ],
+      "answer": [
+        "treinta y uno"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar jugadores de un equipo de béisbol en el campo?",
+      "options": [
+        "treinta",
+        "treinta y uno",
+        "diez",
+        "dos"
+      ],
+      "answer": [
+        "nueve"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de coordenadas de un punto en el espacio?",
+      "options": [
+        "quince",
+        "nueve",
+        "ciento ochenta",
+        "siete",
+        "veinte"
+      ],
+      "answer": [
+        "tres"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de sinfonías de Beethoven?",
+      "options": [
+        "treinta y uno",
+        "cinco",
+        "veinticuatro",
+        "cuarenta",
+        "cuatro"
+      ],
+      "answer": [
+        "nueve"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de colores del arco iris?",
+      "options": [
+        "veinticuatro",
+        "treinta y dos",
+        "cincuenta y dos",
+        "treinta",
+        "cien",
+        "cuarenta"
+      ],
+      "answer": [
+        "siete"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de caras de un dado?",
+      "options": [
+        "tres",
+        "diez",
+        "cuarenta",
+        "doce",
+        "veinte",
+        "treinta y dos"
+      ],
+      "answer": [
+        "seis"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de patas de un insecto?",
+      "options": [
+        "cien",
+        "diez",
+        "mil",
+        "veinte",
+        "treinta y dos"
+      ],
+      "answer": [
+        "seis"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de meses del verano?",
+      "options": [
+        "siete",
+        "quince",
+        "seis",
+        "cien"
+      ],
+      "answer": [
+        "tres"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de caras de un cubo?",
+      "options": [
+        "mil",
+        "treinta y uno",
+        "ciento ochenta",
+        "tres",
+        "dos"
+      ],
+      "answer": [
+        "seis"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de semanas de un año?",
+      "options": [
+        "dos",
+        "veinte",
+        "doce",
+        "cuarenta"
+      ],
+      "answer": [
+        "cincuenta y dos"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de dientes de un adulto?",
+      "options": [
+        "cinco",
+        "veinticuatro",
+        "tres",
+        "dos"
+      ],
+      "answer": [
+        "treinta y dos"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de círculos del infierno de Dante?",
+      "options": [
+        "ocho",
+        "veinticuatro",
+        "ciento ochenta",
+        "treinta y uno",
+        "cuarenta",
+        "siete"
+      ],
+      "answer": [
+        "nueve"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de segundos de medio minuto?",
+      "options": [
+        "ciento ochenta",
+        "ocho",
+        "veinte",
+        "doce"
+      ],
+      "answer": [
+        "treinta"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de días de julio?",
+      "options": [
+        "diez",
+        "cuatro",
+        "treinta",
+        "mil"
+      ],
+      "answer": [
+        "treinta y uno"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de días de una semana?",
+      "options": [
+        "cinco",
+        "cuatro",
+        "treinta y dos",
+        "veinticuatro",
+        "cuarenta"
+      ],
+      "answer": [
+        "siete"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de gramos de un litro de agua?",
+      "options": [
+        "dos",
+        "nueve",
+        "tres",
+        "ocho",
+        "cincuenta y dos"
+      ],
+      "answer": [
+        "mil"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de jugadores de un equipo de baloncesto en la cancha?",
+      "options": [
+        "cuatro",
+        "tres",
+        "treinta y uno",
+        "siete",
+        "mil"
+      ],
+      "answer": [
+        "cinco"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de bolos del juego de bolos?",
+      "options": [
+        "nueve",
+        "cien",
+        "seis",
+        "treinta y dos",
+        "cincuenta y dos",
+        "cinco"
+      ],
+      "answer": [
+        "diez"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar patas de una hormiga?",
+      "options": [
+        "cinco",
+        "siete",
+        "ciento ochenta",
+        "ocho",
+        "treinta"
+      ],
+      "answer": [
+        "seis"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de gramos de un kilogramo?",
+      "options": [
+        "ciento ochenta",
+        "veinte",
+        "tres",
+        "treinta",
+        "veinticuatro",
+        "nueve"
+      ],
+      "answer": [
+        "mil"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de piernas en una persona?",
+      "options": [
+        "cien",
+        "doce",
+        "seis",
+        "nueve",
+        "ciento ochenta",
+        "diez"
+      ],
+      "answer": [
+        "dos"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de horas de un día?",
+      "options": [
+        "cuatro",
+        "quince",
+        "seis",
+        "siete",
+        "treinta"
+      ],
+      "answer": [
+        "veinticuatro"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar ladrones del cuento de Alí Babá?",
+      "options": [
+        "treinta y dos",
+        "treinta y uno",
+        "cuatro",
+        "quince"
+      ],
+      "answer": [
+        "cuarenta"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de mandamientos de la Biblia?",
+      "options": [
+        "ciento ochenta",
+        "treinta y uno",
+        "siete",
+        "treinta y dos",
+        "ocho"
+      ],
+      "answer": [
+        "diez"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar grados de un ángulo llano?",
+      "options": [
+        "dos",
+        "treinta y dos",
+        "cinco",
+        "doce",
+        "quince",
+        "nueve"
+      ],
+      "answer": [
+        "ciento ochenta"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de dedos de las dos manos?",
+      "options": [
+        "treinta",
+        "dos",
+        "quince",
+        "cien",
+        "nueve"
+      ],
+      "answer": [
+        "diez"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de días de noviembre?",
+      "options": [
+        "seis",
+        "dos",
+        "cincuenta y dos",
+        "ocho",
+        "cien",
+        "cuatro"
+      ],
+      "answer": [
+        "treinta"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de trabajos de Hércules?",
+      "options": [
+        "dos",
+        "treinta",
+        "cuarenta",
+        "treinta y uno",
+        "siete"
+      ],
+      "answer": [
+        "doce"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de caras de un icosaedro?",
+      "options": [
+        "cien",
+        "treinta y dos",
+        "tres",
+        "ciento ochenta",
+        "cuatro",
+        "treinta y uno"
+      ],
+      "answer": [
+        "veinte"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de litros de un metro cúbico?",
+      "options": [
+        "ciento ochenta",
+        "cuarenta",
+        "tres",
+        "cinco"
+      ],
+      "answer": [
+        "mil"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de signos del zodiaco?",
+      "options": [
+        "mil",
+        "tres",
+        "veinticuatro",
+        "diez",
+        "veinte",
+        "cinco"
+      ],
+      "answer": [
+        "doce"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar días de junio?",
+      "options": [
+        "doce",
+        "veinticuatro",
+        "ocho",
+        "diez",
+        "mil"
+      ],
+      "answer": [
+        "treinta"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de lados de un cuadrado?",
+      "options": [
+        "cien",
+        "mil",
+        "cuarenta",
+        "veinticuatro",
+        "cinco",
+        "cincuenta y dos"
+      ],
+      "answer": [
+        "cuatro"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de bits de un byte?",
+      "options": [
+        "seis",
+        "siete",
+        "veinticuatro",
+        "cuarenta",
+        "diez"
+      ],
+      "answer": [
+        "ocho"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de dedos de las manos y de los pies en una persona?",
+      "options": [
+        "tres",
+        "treinta y uno",
+        "veinticuatro",
+        "ocho"
+      ],
+      "answer": [
+        "veinte"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de piezas de un tablero de ajedrez al inicio de la partida?",
+      "options": [
+        "tres",
+        "mil",
+        "cinco",
+        "diez",
+        "veinticuatro"
+      ],
+      "answer": [
+        "treinta y dos"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de estaciones del año?",
+      "options": [
+        "treinta y dos",
+        "quince",
+        "siete",
+        "treinta y uno",
+        "diez",
+        "cinco"
+      ],
+      "answer": [
+        "cuatro"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de meses del calendario?",
+      "options": [
+        "dos",
+        "cinco",
+        "ocho",
+        "diez"
+      ],
+      "answer": [
+        "doce"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de jugadores de un equipo de voleibol?",
+      "options": [
+        "cincuenta y dos",
+        "treinta y dos",
+        "siete",
+        "dos"
+      ],
+      "answer": [
+        "seis"
+      ]
+    },
+    {
+      "text": "¿Qué cifra resulta del recuento de días de mayo?",
+      "options": [
+        "ocho",
+        "doce",
+        "treinta y dos",
+        "veinticuatro",
+        "nueve",
+        "diez"
+      ],
+      "answer": [
+        "treinta y uno"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de planetas del sistema solar?",
+      "options": [
+        "quince",
+        "doce",
+        "veinticuatro",
+        "ciento ochenta"
+      ],
+      "answer": [
+        "ocho"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de palos de una baraja de cartas?",
+      "options": [
+        "cinco",
+        "cuarenta",
+        "ocho",
+        "veinticuatro"
+      ],
+      "answer": [
+        "cuatro"
+      ]
+    },
+    {
+      "text": "¿Cuál es la cantidad de vatios de un kilovatio?",
+      "options": [
+        "cuatro",
+        "cincuenta y dos",
+        "doce",
+        "treinta y dos",
+        "veinticuatro"
+      ],
+      "answer": [
+        "mil"
+      ]
+    },
+    {
+      "text": "¿Qué número da el total de cuerdas de una balalaika?",
+      "options": [
+        "seis",
+        "cien",
+        "cinco",
+        "nueve",
+        "mil"
+      ],
+      "answer": [
+        "tres"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar bolas rojas del snooker?",
+      "options": [
+        "seis",
+        "cuarenta",
+        "dos",
+        "cuatro",
+        "ocho",
+        "cinco"
+      ],
+      "answer": [
+        "quince"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de días de agosto?",
+      "options": [
+        "cuatro",
+        "quince",
+        "ocho",
+        "cinco",
+        "cincuenta y dos"
+      ],
+      "answer": [
+        "treinta y uno"
+      ]
+    },
+    {
+      "text": "¿Qué número se obtiene al contar dientes de leche de un niño?",
+      "options": [
+        "ciento ochenta",
+        "siete",
+        "cien",
+        "doce"
+      ],
+      "answer": [
+        "veinte"
+      ]
+    },
+    {
+      "text": "¿Cuál es el número de manos en una persona?",
+      "options": [
+        "cien",
+        "tres",
+        "treinta y uno",
+        "ciento ochenta",
+        "cincuenta y dos"
+      ],
+      "answer": [
+        "dos"
+      ]
+    }
+  ]
+}

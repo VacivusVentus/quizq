@@ -1,0 +1,1474 @@
+{
+  "theme": "Dates et époques",
+  "questions": [
+    {
+      "text": "Au cours de quel siècle a eu lieu la création de Wikipédia ?",
+      "options": [
+        "le dix-septième siècle",
+        "le quinzième siècle",
+        "le dix-neuvième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la prise de la Bastille ?",
+      "options": [
+        "le seizième siècle",
+        "le quinzième siècle",
+        "le dix-neuvième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte l’exécution du roi Charles Premier d’Angleterre ?",
+      "options": [
+        "le douzième siècle",
+        "le treizième siècle",
+        "le quatorzième siècle",
+        "le dix-neuvième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu le début de la construction de la cathédrale Notre-Dame de Paris ?",
+      "options": [
+        "le quatorzième siècle",
+        "le quinzième siècle",
+        "le treizième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date l’invention du cinéma par les frères Lumière ?",
+      "options": [
+        "le seizième siècle",
+        "le treizième siècle",
+        "le vingt et unième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la bataille de Bannockburn ?",
+      "options": [
+        "le seizième siècle",
+        "le quinzième siècle",
+        "le dix-septième siècle",
+        "le douzième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu l’accident nucléaire de Fukushima ?",
+      "options": [
+        "le seizième siècle",
+        "le quinzième siècle",
+        "le douzième siècle",
+        "le quatorzième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la mise en service du Grand collisionneur de hadrons ?",
+      "options": [
+        "le quinzième siècle",
+        "le dix-neuvième siècle",
+        "le vingtième siècle",
+        "le douzième siècle",
+        "le dix-huitième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la catastrophe de la centrale de Tchernobyl ?",
+      "options": [
+        "le quinzième siècle",
+        "le douzième siècle",
+        "le dix-neuvième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la bataille de Marignan ?",
+      "options": [
+        "le dix-neuvième siècle",
+        "le dix-huitième siècle",
+        "le vingt et unième siècle",
+        "le quinzième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à le Grand Incendie de Londres ?",
+      "options": [
+        "le vingtième siècle",
+        "le seizième siècle",
+        "le dix-huitième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la découverte de l’Amérique par Christophe Colomb ?",
+      "options": [
+        "le vingtième siècle",
+        "le seizième siècle",
+        "le douzième siècle",
+        "le dix-neuvième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à le massacre de la Saint-Barthélemy ?",
+      "options": [
+        "le douzième siècle",
+        "le dix-septième siècle",
+        "le dix-neuvième siècle",
+        "le dix-huitième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient le premier tour du monde de Magellan ?",
+      "options": [
+        "le quinzième siècle",
+        "le treizième siècle",
+        "le douzième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la Grande Jacquerie en France ?",
+      "options": [
+        "le douzième siècle",
+        "le dix-neuvième siècle",
+        "le dix-huitième siècle",
+        "le quinzième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la prise de Grenade par les Rois Catholiques ?",
+      "options": [
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle",
+        "le dix-huitième siècle",
+        "le seizième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient le début de la construction du château de Versailles ?",
+      "options": [
+        "le quinzième siècle",
+        "le dix-neuvième siècle",
+        "le seizième siècle",
+        "le dix-huitième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu le début de la construction de la cathédrale de Cologne ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le douzième siècle",
+        "le quinzième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la capture du roi Jean le Bon à la bataille de Poitiers ?",
+      "options": [
+        "le treizième siècle",
+        "le dix-septième siècle",
+        "le douzième siècle",
+        "le quinzième siècle",
+        "le vingtième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la bataille de Crécy ?",
+      "options": [
+        "le quinzième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la publication de l’ouvrage de Copernic sur la rotation des sphères célestes ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le douzième siècle",
+        "le dix-neuvième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date le référendum sur la sortie du Royaume-Uni de l’Union européenne ?",
+      "options": [
+        "le douzième siècle",
+        "le vingtième siècle",
+        "le quinzième siècle",
+        "le treizième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la mort de Saladin à Damas ?",
+      "options": [
+        "le quinzième siècle",
+        "le seizième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le dix-huitième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la fondation de la dynastie Ming ?",
+      "options": [
+        "le douzième siècle",
+        "le treizième siècle",
+        "le vingtième siècle",
+        "le seizième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la bataille d’Azincourt ?",
+      "options": [
+        "le dix-septième siècle",
+        "le quatorzième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date l’édit de Nantes ?",
+      "options": [
+        "le quatorzième siècle",
+        "le treizième siècle",
+        "le vingt et unième siècle",
+        "le quinzième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la prise de Constantinople par les Ottomans ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le dix-huitième siècle",
+        "le seizième siècle",
+        "le treizième siècle",
+        "le douzième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la fondation de Québec par Samuel de Champlain ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le dix-huitième siècle",
+        "le douzième siècle",
+        "le vingtième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à le début de la construction de la tour de Pise ?",
+      "options": [
+        "le treizième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la naissance de l’université de Cambridge ?",
+      "options": [
+        "le dix-septième siècle",
+        "le seizième siècle",
+        "le vingtième siècle",
+        "le vingt et unième siècle",
+        "le douzième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date le sacre de Napoléon ?",
+      "options": [
+        "le quatorzième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le treizième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la première vaccination contre la variole par Edward Jenner ?",
+      "options": [
+        "le quinzième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient l’accord de Paris sur le climat ?",
+      "options": [
+        "le vingtième siècle",
+        "le douzième siècle",
+        "le dix-huitième siècle",
+        "le treizième siècle",
+        "le seizième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la chute de Saint-Jean-d’Acre ?",
+      "options": [
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle",
+        "le quatorzième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date l’avènement de Frédéric Barberousse à la tête du Saint-Empire ?",
+      "options": [
+        "le quatorzième siècle",
+        "le treizième siècle",
+        "le dix-huitième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient l’ouverture de la tour Eiffel ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le douzième siècle",
+        "le quatorzième siècle",
+        "le dix-septième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à l’affichage des thèses de Martin Luther à Wittenberg ?",
+      "options": [
+        "le dix-neuvième siècle",
+        "le vingtième siècle",
+        "le quinzième siècle",
+        "le dix-septième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la bataille de Grunwald ?",
+      "options": [
+        "le vingtième siècle",
+        "le quatorzième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle",
+        "le treizième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la défaite de l’Invincible Armada ?",
+      "options": [
+        "le quinzième siècle",
+        "le dix-neuvième siècle",
+        "le quatorzième siècle",
+        "le dix-septième siècle",
+        "le dix-huitième siècle",
+        "le vingtième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à le supplice de Jeanne d’Arc à Rouen ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le douzième siècle",
+        "le treizième siècle",
+        "le vingtième siècle",
+        "le dix-septième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la guerre des Deux-Roses en Angleterre ?",
+      "options": [
+        "le seizième siècle",
+        "le treizième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le douzième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la destruction des tours du World Trade Center ?",
+      "options": [
+        "le dix-neuvième siècle",
+        "le dix-huitième siècle",
+        "le quatorzième siècle",
+        "le vingtième siècle",
+        "le douzième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la grande famine en Europe ?",
+      "options": [
+        "le douzième siècle",
+        "le dix-neuvième siècle",
+        "le treizième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la révocation de l’édit de Nantes ?",
+      "options": [
+        "le vingtième siècle",
+        "le quatorzième siècle",
+        "le vingt et unième siècle",
+        "le treizième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu le début du Grand Schisme d’Occident ?",
+      "options": [
+        "le dix-septième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle",
+        "le seizième siècle",
+        "le vingtième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte le bombardement atomique d’Hiroshima ?",
+      "options": [
+        "le treizième siècle",
+        "le douzième siècle",
+        "le vingt et unième siècle",
+        "le dix-huitième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à le voyage de Marco Polo vers la Chine ?",
+      "options": [
+        "le douzième siècle",
+        "le dix-huitième siècle",
+        "le vingtième siècle",
+        "le quinzième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la croisade contre les albigeois ?",
+      "options": [
+        "le vingtième siècle",
+        "le seizième siècle",
+        "le dix-septième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la bataille d’Austerlitz ?",
+      "options": [
+        "le quatorzième siècle",
+        "le vingt et unième siècle",
+        "le douzième siècle",
+        "le quinzième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la fondation de l’Empire mongol par Gengis Khan ?",
+      "options": [
+        "le dix-septième siècle",
+        "le douzième siècle",
+        "le quatorzième siècle",
+        "le dix-huitième siècle",
+        "le quinzième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la prise de Jérusalem par Saladin ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le quatorzième siècle",
+        "le treizième siècle",
+        "le seizième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la publication du premier volume de l’Encyclopédie ?",
+      "options": [
+        "le quatorzième siècle",
+        "le quinzième siècle",
+        "le treizième siècle",
+        "le vingt et unième siècle",
+        "le douzième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la chute du mur de Berlin ?",
+      "options": [
+        "le quatorzième siècle",
+        "le dix-huitième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date l’assassinat de Thomas Becket dans sa cathédrale ?",
+      "options": [
+        "le dix-neuvième siècle",
+        "le dix-huitième siècle",
+        "le seizième siècle",
+        "le vingt et unième siècle",
+        "le dix-septième siècle",
+        "le quinzième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la déclaration d’indépendance des États-Unis ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le vingtième siècle",
+        "le quatorzième siècle",
+        "le treizième siècle",
+        "le dix-neuvième siècle",
+        "le quinzième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la mort de Gengis Khan ?",
+      "options": [
+        "le quatorzième siècle",
+        "le dix-neuvième siècle",
+        "le douzième siècle",
+        "le dix-huitième siècle",
+        "le vingt et unième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient l’invasion mongole de la Rus’ ?",
+      "options": [
+        "le dix-septième siècle",
+        "le dix-huitième siècle",
+        "le quinzième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient le voyage de Vasco de Gama vers l’Inde ?",
+      "options": [
+        "le douzième siècle",
+        "le seizième siècle",
+        "le dix-huitième siècle",
+        "le dix-neuvième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu l’invasion normande de l’Irlande ?",
+      "options": [
+        "le quatorzième siècle",
+        "le treizième siècle",
+        "le dix-huitième siècle",
+        "le dix-septième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient le début du règne de Philippe Auguste ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le vingtième siècle",
+        "le quatorzième siècle",
+        "le seizième siècle",
+        "le dix-neuvième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date le sac de Constantinople par les croisés ?",
+      "options": [
+        "le quinzième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le seizième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la révolution d’Octobre en Russie ?",
+      "options": [
+        "le quatorzième siècle",
+        "le vingt et unième siècle",
+        "le dix-septième siècle",
+        "le dix-huitième siècle",
+        "le douzième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient le congrès de Vienne ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le seizième siècle",
+        "le vingtième siècle",
+        "le treizième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date les Jeux olympiques d’été de Pékin ?",
+      "options": [
+        "le quinzième siècle",
+        "le dix-septième siècle",
+        "le seizième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date le premier vol d’un homme dans l’espace ?",
+      "options": [
+        "le quatorzième siècle",
+        "le dix-huitième siècle",
+        "le treizième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu le début du règne de Louis Onze ?",
+      "options": [
+        "le douzième siècle",
+        "le quatorzième siècle",
+        "le vingt et unième siècle",
+        "le treizième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la deuxième croisade ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le treizième siècle",
+        "le seizième siècle",
+        "le quatorzième siècle",
+        "le dix-neuvième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la signature de la paix de Westphalie ?",
+      "options": [
+        "le vingtième siècle",
+        "le quinzième siècle",
+        "le dix-neuvième siècle",
+        "le dix-huitième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte le concile de Trente ?",
+      "options": [
+        "le dix-septième siècle",
+        "le dix-neuvième siècle",
+        "le vingtième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la guerre de Crimée ?",
+      "options": [
+        "le dix-septième siècle",
+        "le douzième siècle",
+        "le treizième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la publication des Misérables de Victor Hugo ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le seizième siècle",
+        "le quinzième siècle",
+        "le dix-septième siècle",
+        "le douzième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la publication de Don Quichotte ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le dix-huitième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à le premier vol des frères Wright ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le quatorzième siècle",
+        "le quinzième siècle",
+        "le seizième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la mort de Léonard de Vinci ?",
+      "options": [
+        "le douzième siècle",
+        "le dix-huitième siècle",
+        "le quinzième siècle",
+        "le treizième siècle",
+        "le vingtième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la bataille de Bouvines ?",
+      "options": [
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le dix-septième siècle",
+        "le quinzième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la dislocation de l’Union soviétique ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le treizième siècle",
+        "le douzième siècle",
+        "le seizième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la fin de la guerre de Cent Ans ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le vingt et unième siècle",
+        "le quatorzième siècle",
+        "le dix-septième siècle",
+        "le douzième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient le débarquement allié en Normandie ?",
+      "options": [
+        "le dix-septième siècle",
+        "le quatorzième siècle",
+        "le quinzième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la conquête du Mexique par Cortés ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le vingt et unième siècle",
+        "le treizième siècle",
+        "le quatorzième siècle",
+        "le vingtième siècle",
+        "le quinzième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu les premiers pas de l’homme sur la Lune ?",
+      "options": [
+        "le treizième siècle",
+        "le seizième siècle",
+        "le dix-neuvième siècle",
+        "le quinzième siècle",
+        "le douzième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date l’exécution de Louis Seize ?",
+      "options": [
+        "le quinzième siècle",
+        "le treizième siècle",
+        "le quatorzième siècle",
+        "le dix-neuvième siècle",
+        "le douzième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient la grande peste en Europe ?",
+      "options": [
+        "le dix-neuvième siècle",
+        "le quinzième siècle",
+        "le seizième siècle",
+        "le douzième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la bataille de Waterloo ?",
+      "options": [
+        "le dix-septième siècle",
+        "le dix-huitième siècle",
+        "le vingtième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la première réunion des États généraux ?",
+      "options": [
+        "le douzième siècle",
+        "le quinzième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date le début de la guerre de Cent Ans ?",
+      "options": [
+        "le vingtième siècle",
+        "le douzième siècle",
+        "le quinzième siècle",
+        "le seizième siècle",
+        "le treizième siècle",
+        "le dix-neuvième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à l’incendie de la cathédrale Notre-Dame de Paris ?",
+      "options": [
+        "le seizième siècle",
+        "le douzième siècle",
+        "le treizième siècle",
+        "le quatorzième siècle",
+        "le vingtième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient l’invention de l’imprimerie par Gutenberg ?",
+      "options": [
+        "le seizième siècle",
+        "le dix-septième siècle",
+        "le dix-huitième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le quinzième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la mort de Louis Quatorze ?",
+      "options": [
+        "le dix-septième siècle",
+        "le quatorzième siècle",
+        "le dix-neuvième siècle",
+        "le vingtième siècle",
+        "le seizième siècle",
+        "le douzième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la guerre de Sept Ans ?",
+      "options": [
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le dix-septième siècle",
+        "le seizième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la troisième croisade ?",
+      "options": [
+        "le dix-septième siècle",
+        "le quinzième siècle",
+        "le treizième siècle",
+        "le seizième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu le procès de Galilée ?",
+      "options": [
+        "le vingtième siècle",
+        "le seizième siècle",
+        "le quinzième siècle",
+        "le douzième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date l’abolition de l’esclavage en France ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le quatorzième siècle",
+        "le douzième siècle",
+        "le vingtième siècle",
+        "le seizième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu le sacre d’Ivan le Terrible comme tsar ?",
+      "options": [
+        "le quatorzième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le treizième siècle"
+      ],
+      "answer": [
+        "le seizième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la guerre de Sécession aux États-Unis ?",
+      "options": [
+        "le quatorzième siècle",
+        "le seizième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle",
+        "le vingtième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date la création de l’Académie française ?",
+      "options": [
+        "le quinzième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle",
+        "le vingtième siècle",
+        "le quatorzième siècle",
+        "le treizième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu l’invention de la machine à vapeur par James Watt ?",
+      "options": [
+        "le treizième siècle",
+        "le vingtième siècle",
+        "le vingt et unième siècle",
+        "le quinzième siècle",
+        "le quatorzième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la fondation du royaume du Portugal ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le dix-septième siècle",
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle",
+        "le treizième siècle"
+      ],
+      "answer": [
+        "le douzième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la fondation de Saint-Pétersbourg ?",
+      "options": [
+        "le douzième siècle",
+        "le seizième siècle",
+        "le dix-neuvième siècle",
+        "le treizième siècle",
+        "le dix-septième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient le naufrage du Titanic ?",
+      "options": [
+        "le dix-septième siècle",
+        "le treizième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle",
+        "le douzième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "De quel siècle date le tremblement de terre de Lisbonne ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle",
+        "le quinzième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la signature de la Grande Charte par le roi Jean sans Terre ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle",
+        "le vingtième siècle"
+      ],
+      "answer": [
+        "le treizième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu la découverte de la pénicilline par Alexander Fleming ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle",
+        "le treizième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte l’avènement de Louis Quatorze ?",
+      "options": [
+        "le douzième siècle",
+        "le dix-neuvième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle",
+        "le vingtième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "Au cours de quel siècle a eu lieu l’affaire Dreyfus ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le vingtième siècle",
+        "le treizième siècle",
+        "le dix-septième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la découverte du radium par les époux Curie ?",
+      "options": [
+        "le vingt et unième siècle",
+        "le dix-huitième siècle",
+        "le quinzième siècle",
+        "le treizième siècle",
+        "le vingtième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le dix-neuvième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à la mise en circulation des pièces et des billets en euros ?",
+      "options": [
+        "le seizième siècle",
+        "le vingtième siècle",
+        "le dix-septième siècle",
+        "le quatorzième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient le début de la guerre de Trente Ans ?",
+      "options": [
+        "le vingtième siècle",
+        "le dix-huitième siècle",
+        "le quatorzième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le dix-septième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle appartient l’achèvement du séquençage du génome humain ?",
+      "options": [
+        "le douzième siècle",
+        "le quatorzième siècle",
+        "le quinzième siècle",
+        "le vingtième siècle",
+        "le dix-neuvième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte le début de la Première Guerre mondiale ?",
+      "options": [
+        "le quinzième siècle",
+        "le seizième siècle",
+        "le dix-neuvième siècle",
+        "le dix-septième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la bataille de Kosovo ?",
+      "options": [
+        "le dix-huitième siècle",
+        "le seizième siècle",
+        "le dix-neuvième siècle",
+        "le treizième siècle",
+        "le quinzième siècle",
+        "le vingt et unième siècle"
+      ],
+      "answer": [
+        "le quatorzième siècle"
+      ]
+    },
+    {
+      "text": "Quel siècle correspond à le début de la Seconde Guerre mondiale ?",
+      "options": [
+        "le quatorzième siècle",
+        "le vingt et unième siècle",
+        "le quinzième siècle",
+        "le douzième siècle",
+        "le treizième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le vingtième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la pandémie de coronavirus ?",
+      "options": [
+        "le seizième siècle",
+        "le dix-septième siècle",
+        "le vingtième siècle",
+        "le dix-huitième siècle"
+      ],
+      "answer": [
+        "le vingt et unième siècle"
+      ]
+    },
+    {
+      "text": "À quel siècle remonte la mort de Voltaire à Paris ?",
+      "options": [
+        "le dix-neuvième siècle",
+        "le vingt et unième siècle",
+        "le treizième siècle",
+        "le douzième siècle",
+        "le seizième siècle"
+      ],
+      "answer": [
+        "le dix-huitième siècle"
+      ]
+    }
+  ]
+}

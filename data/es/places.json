@@ -1,0 +1,1669 @@
+{
+  "theme": "Países y ciudades",
+  "questions": [
+    {
+      "text": "¿A qué país pertenece Breslavia?",
+      "options": [
+        "Austria",
+        "Argentina",
+        "India",
+        "Chequia"
+      ],
+      "answer": [
+        "Polonia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Varsovia?",
+      "options": [
+        "Corea del Sur",
+        "Portugal",
+        "Países Bajos",
+        "Argentina",
+        "Suecia"
+      ],
+      "answer": [
+        "Polonia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Brno?",
+      "options": [
+        "Finlandia",
+        "Corea del Sur",
+        "Grecia",
+        "Canadá",
+        "China"
+      ],
+      "answer": [
+        "Chequia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Nápoles?",
+      "options": [
+        "Austria",
+        "Australia",
+        "Marruecos",
+        "Corea del Sur",
+        "India",
+        "España"
+      ],
+      "answer": [
+        "Italia"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Odense?",
+      "options": [
+        "Canadá",
+        "Bélgica",
+        "Estados Unidos",
+        "Egipto",
+        "Turquía",
+        "Polonia"
+      ],
+      "answer": [
+        "Dinamarca"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Basilea?",
+      "options": [
+        "Canadá",
+        "Noruega",
+        "Irlanda",
+        "Portugal"
+      ],
+      "answer": [
+        "Suiza"
+      ]
+    },
+    {
+      "text": "La ciudad de Cancún, ¿a qué país pertenece?",
+      "options": [
+        "Suecia",
+        "Australia",
+        "Dinamarca",
+        "Irlanda"
+      ],
+      "answer": [
+        "México"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Delhi?",
+      "options": [
+        "Canadá",
+        "Corea del Sur",
+        "Francia",
+        "Hungría",
+        "México"
+      ],
+      "answer": [
+        "India"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Gante?",
+      "options": [
+        "Brasil",
+        "España",
+        "Grecia",
+        "Estados Unidos",
+        "Japón",
+        "Países Bajos"
+      ],
+      "answer": [
+        "Bélgica"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Cork?",
+      "options": [
+        "Turquía",
+        "China",
+        "Australia",
+        "Finlandia",
+        "Francia"
+      ],
+      "answer": [
+        "Irlanda"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Brujas?",
+      "options": [
+        "China",
+        "Francia",
+        "Egipto",
+        "Hungría"
+      ],
+      "answer": [
+        "Bélgica"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Nueva York?",
+      "options": [
+        "Bélgica",
+        "Turquía",
+        "Brasil",
+        "Francia",
+        "Polonia"
+      ],
+      "answer": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Edimburgo?",
+      "options": [
+        "Bélgica",
+        "Egipto",
+        "Italia",
+        "Turquía"
+      ],
+      "answer": [
+        "Reino Unido"
+      ]
+    },
+    {
+      "text": "La ciudad de Hamburgo, ¿a qué país pertenece?",
+      "options": [
+        "Irlanda",
+        "Polonia",
+        "Marruecos",
+        "India",
+        "Canadá",
+        "Italia"
+      ],
+      "answer": [
+        "Alemania"
+      ]
+    },
+    {
+      "text": "La ciudad de Bombay, ¿a qué país pertenece?",
+      "options": [
+        "Grecia",
+        "Estados Unidos",
+        "China",
+        "Australia",
+        "Austria"
+      ],
+      "answer": [
+        "India"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Rosario?",
+      "options": [
+        "Marruecos",
+        "Reino Unido",
+        "Corea del Sur",
+        "Brasil",
+        "Alemania"
+      ],
+      "answer": [
+        "Argentina"
+      ]
+    },
+    {
+      "text": "La ciudad de Madrid, ¿a qué país pertenece?",
+      "options": [
+        "Corea del Sur",
+        "Irlanda",
+        "Australia",
+        "Canadá",
+        "Finlandia"
+      ],
+      "answer": [
+        "España"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Espoo?",
+      "options": [
+        "Bélgica",
+        "Egipto",
+        "Irlanda",
+        "Brasil"
+      ],
+      "answer": [
+        "Finlandia"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Oslo?",
+      "options": [
+        "Bélgica",
+        "Grecia",
+        "Suecia",
+        "Turquía",
+        "Italia"
+      ],
+      "answer": [
+        "Noruega"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Monterrey?",
+      "options": [
+        "Dinamarca",
+        "Francia",
+        "Grecia",
+        "Alemania",
+        "Japón"
+      ],
+      "answer": [
+        "México"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Milán?",
+      "options": [
+        "China",
+        "Estados Unidos",
+        "Brasil",
+        "Grecia",
+        "Australia"
+      ],
+      "answer": [
+        "Italia"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Shanghái?",
+      "options": [
+        "Dinamarca",
+        "Suecia",
+        "Bélgica",
+        "Canadá",
+        "Alemania"
+      ],
+      "answer": [
+        "China"
+      ]
+    },
+    {
+      "text": "La ciudad de Bruselas, ¿a qué país pertenece?",
+      "options": [
+        "México",
+        "Turquía",
+        "Países Bajos",
+        "Egipto",
+        "Alemania"
+      ],
+      "answer": [
+        "Bélgica"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Asuán?",
+      "options": [
+        "India",
+        "Dinamarca",
+        "Portugal",
+        "Argentina"
+      ],
+      "answer": [
+        "Egipto"
+      ]
+    },
+    {
+      "text": "La ciudad de Gdańsk, ¿a qué país pertenece?",
+      "options": [
+        "Países Bajos",
+        "Hungría",
+        "Corea del Sur",
+        "Turquía",
+        "Suiza",
+        "Australia"
+      ],
+      "answer": [
+        "Polonia"
+      ]
+    },
+    {
+      "text": "La ciudad de Innsbruck, ¿a qué país pertenece?",
+      "options": [
+        "Dinamarca",
+        "Marruecos",
+        "Francia",
+        "Polonia",
+        "Corea del Sur",
+        "Estados Unidos"
+      ],
+      "answer": [
+        "Austria"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Adelaida?",
+      "options": [
+        "Japón",
+        "China",
+        "Suiza",
+        "Suecia"
+      ],
+      "answer": [
+        "Australia"
+      ]
+    },
+    {
+      "text": "La ciudad de Coímbra, ¿a qué país pertenece?",
+      "options": [
+        "Canadá",
+        "Suiza",
+        "Irlanda",
+        "Noruega",
+        "Argentina"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Brisbane?",
+      "options": [
+        "Alemania",
+        "Egipto",
+        "Francia",
+        "India",
+        "Portugal",
+        "Suecia"
+      ],
+      "answer": [
+        "Australia"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Marsella?",
+      "options": [
+        "Egipto",
+        "Finlandia",
+        "Turquía",
+        "Austria",
+        "China",
+        "Bélgica"
+      ],
+      "answer": [
+        "Francia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Casablanca?",
+      "options": [
+        "México",
+        "Austria",
+        "Alemania",
+        "Suecia",
+        "Turquía"
+      ],
+      "answer": [
+        "Marruecos"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Puebla?",
+      "options": [
+        "Estados Unidos",
+        "Canadá",
+        "Noruega",
+        "Corea del Sur",
+        "Alemania",
+        "Egipto"
+      ],
+      "answer": [
+        "México"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Heraclión?",
+      "options": [
+        "Dinamarca",
+        "Corea del Sur",
+        "China",
+        "Chequia"
+      ],
+      "answer": [
+        "Grecia"
+      ]
+    },
+    {
+      "text": "La ciudad de Pekín, ¿a qué país pertenece?",
+      "options": [
+        "Suiza",
+        "Austria",
+        "Noruega",
+        "Australia",
+        "Corea del Sur"
+      ],
+      "answer": [
+        "China"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Estocolmo?",
+      "options": [
+        "Bélgica",
+        "México",
+        "Canadá",
+        "Francia",
+        "España"
+      ],
+      "answer": [
+        "Suecia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Lyon?",
+      "options": [
+        "Canadá",
+        "Egipto",
+        "Chequia",
+        "Estados Unidos",
+        "Dinamarca"
+      ],
+      "answer": [
+        "Francia"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Patras?",
+      "options": [
+        "Egipto",
+        "Portugal",
+        "México",
+        "Reino Unido",
+        "Suecia",
+        "Japón"
+      ],
+      "answer": [
+        "Grecia"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Esmirna?",
+      "options": [
+        "Argentina",
+        "Australia",
+        "Grecia",
+        "Italia",
+        "Egipto",
+        "Marruecos"
+      ],
+      "answer": [
+        "Turquía"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Rabat?",
+      "options": [
+        "Portugal",
+        "Dinamarca",
+        "Austria",
+        "Irlanda",
+        "Grecia"
+      ],
+      "answer": [
+        "Marruecos"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Oaxaca?",
+      "options": [
+        "Dinamarca",
+        "Egipto",
+        "Alemania",
+        "India",
+        "Australia"
+      ],
+      "answer": [
+        "México"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Ostrava?",
+      "options": [
+        "España",
+        "Países Bajos",
+        "Reino Unido",
+        "Australia",
+        "Bélgica",
+        "Grecia"
+      ],
+      "answer": [
+        "Chequia"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Faro?",
+      "options": [
+        "Argentina",
+        "Países Bajos",
+        "Canadá",
+        "Australia"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Berna?",
+      "options": [
+        "Egipto",
+        "Portugal",
+        "Reino Unido",
+        "Chequia",
+        "Noruega",
+        "Hungría"
+      ],
+      "answer": [
+        "Suiza"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Múnich?",
+      "options": [
+        "Marruecos",
+        "Hungría",
+        "Suiza",
+        "Chequia",
+        "Argentina"
+      ],
+      "answer": [
+        "Alemania"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Galway?",
+      "options": [
+        "Finlandia",
+        "Austria",
+        "Australia",
+        "Marruecos",
+        "Alemania",
+        "Estados Unidos"
+      ],
+      "answer": [
+        "Irlanda"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Salónica?",
+      "options": [
+        "Hungría",
+        "Estados Unidos",
+        "España",
+        "Suiza",
+        "Polonia"
+      ],
+      "answer": [
+        "Grecia"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Incheon?",
+      "options": [
+        "Australia",
+        "España",
+        "Suecia",
+        "Egipto",
+        "Turquía",
+        "Irlanda"
+      ],
+      "answer": [
+        "Corea del Sur"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Los Ángeles?",
+      "options": [
+        "Japón",
+        "Países Bajos",
+        "Alemania",
+        "España",
+        "Dinamarca",
+        "Portugal"
+      ],
+      "answer": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Seúl?",
+      "options": [
+        "Polonia",
+        "Irlanda",
+        "Brasil",
+        "Suiza",
+        "Chequia"
+      ],
+      "answer": [
+        "Corea del Sur"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Roma?",
+      "options": [
+        "Bélgica",
+        "Austria",
+        "China",
+        "Alemania",
+        "Suecia"
+      ],
+      "answer": [
+        "Italia"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Ankara?",
+      "options": [
+        "España",
+        "Reino Unido",
+        "Irlanda",
+        "Noruega",
+        "Corea del Sur"
+      ],
+      "answer": [
+        "Turquía"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Stavanger?",
+      "options": [
+        "Reino Unido",
+        "Brasil",
+        "Estados Unidos",
+        "Corea del Sur"
+      ],
+      "answer": [
+        "Noruega"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Helsinki?",
+      "options": [
+        "Argentina",
+        "Países Bajos",
+        "Alemania",
+        "Francia",
+        "Brasil"
+      ],
+      "answer": [
+        "Finlandia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Viena?",
+      "options": [
+        "Hungría",
+        "Australia",
+        "Dinamarca",
+        "Brasil",
+        "India"
+      ],
+      "answer": [
+        "Austria"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Osaka?",
+      "options": [
+        "Marruecos",
+        "Portugal",
+        "Suiza",
+        "Turquía",
+        "Bélgica"
+      ],
+      "answer": [
+        "Japón"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Sevilla?",
+      "options": [
+        "Polonia",
+        "Francia",
+        "Turquía",
+        "Irlanda",
+        "Hungría",
+        "Suecia"
+      ],
+      "answer": [
+        "España"
+      ]
+    },
+    {
+      "text": "La ciudad de Fortaleza, ¿a qué país pertenece?",
+      "options": [
+        "Australia",
+        "Portugal",
+        "Francia",
+        "Argentina",
+        "Irlanda",
+        "India"
+      ],
+      "answer": [
+        "Brasil"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Róterdam?",
+      "options": [
+        "Marruecos",
+        "Australia",
+        "Japón",
+        "Dinamarca",
+        "Suiza"
+      ],
+      "answer": [
+        "Países Bajos"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Tokio?",
+      "options": [
+        "Austria",
+        "Estados Unidos",
+        "Irlanda",
+        "España",
+        "Canadá"
+      ],
+      "answer": [
+        "Japón"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Cantón?",
+      "options": [
+        "Corea del Sur",
+        "Egipto",
+        "Países Bajos",
+        "Italia",
+        "Portugal",
+        "Polonia"
+      ],
+      "answer": [
+        "China"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Ámsterdam?",
+      "options": [
+        "Egipto",
+        "Canadá",
+        "Italia",
+        "Portugal",
+        "Japón"
+      ],
+      "answer": [
+        "Países Bajos"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Graz?",
+      "options": [
+        "Egipto",
+        "Finlandia",
+        "Países Bajos",
+        "Brasil"
+      ],
+      "answer": [
+        "Austria"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Lisboa?",
+      "options": [
+        "Corea del Sur",
+        "Países Bajos",
+        "Irlanda",
+        "Canadá",
+        "Polonia"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Barcelona?",
+      "options": [
+        "México",
+        "Chequia",
+        "Brasil",
+        "Irlanda",
+        "Francia"
+      ],
+      "answer": [
+        "España"
+      ]
+    },
+    {
+      "text": "La ciudad de Liverpool, ¿a qué país pertenece?",
+      "options": [
+        "Dinamarca",
+        "Polonia",
+        "India",
+        "Japón",
+        "Estados Unidos",
+        "Australia"
+      ],
+      "answer": [
+        "Reino Unido"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Calgary?",
+      "options": [
+        "Japón",
+        "Dinamarca",
+        "Suiza",
+        "Alemania"
+      ],
+      "answer": [
+        "Canadá"
+      ]
+    },
+    {
+      "text": "La ciudad de Limerick, ¿a qué país pertenece?",
+      "options": [
+        "Bélgica",
+        "Polonia",
+        "Francia",
+        "Finlandia"
+      ],
+      "answer": [
+        "Irlanda"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Tampere?",
+      "options": [
+        "Irlanda",
+        "Noruega",
+        "Polonia",
+        "México",
+        "Argentina",
+        "Portugal"
+      ],
+      "answer": [
+        "Finlandia"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Melbourne?",
+      "options": [
+        "Argentina",
+        "Finlandia",
+        "Irlanda",
+        "Grecia",
+        "Suiza"
+      ],
+      "answer": [
+        "Australia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Londres?",
+      "options": [
+        "Finlandia",
+        "Dinamarca",
+        "Brasil",
+        "Turquía",
+        "Corea del Sur"
+      ],
+      "answer": [
+        "Reino Unido"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Nagoya?",
+      "options": [
+        "México",
+        "Corea del Sur",
+        "Alemania",
+        "España"
+      ],
+      "answer": [
+        "Japón"
+      ]
+    },
+    {
+      "text": "La ciudad de Upsala, ¿a qué país pertenece?",
+      "options": [
+        "Bélgica",
+        "Corea del Sur",
+        "Austria",
+        "Reino Unido"
+      ],
+      "answer": [
+        "Suecia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Chengdu?",
+      "options": [
+        "Canadá",
+        "Reino Unido",
+        "Australia",
+        "Dinamarca"
+      ],
+      "answer": [
+        "China"
+      ]
+    },
+    {
+      "text": "La ciudad de Turku, ¿a qué país pertenece?",
+      "options": [
+        "Italia",
+        "Australia",
+        "Suecia",
+        "Alemania",
+        "China"
+      ],
+      "answer": [
+        "Finlandia"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Bergen?",
+      "options": [
+        "Italia",
+        "Corea del Sur",
+        "Brasil",
+        "Alemania",
+        "Chequia"
+      ],
+      "answer": [
+        "Noruega"
+      ]
+    },
+    {
+      "text": "La ciudad de Pilsen, ¿a qué país pertenece?",
+      "options": [
+        "China",
+        "Portugal",
+        "Reino Unido",
+        "India"
+      ],
+      "answer": [
+        "Chequia"
+      ]
+    },
+    {
+      "text": "La ciudad de Daegu, ¿a qué país pertenece?",
+      "options": [
+        "Noruega",
+        "España",
+        "Japón",
+        "Suecia"
+      ],
+      "answer": [
+        "Corea del Sur"
+      ]
+    },
+    {
+      "text": "La ciudad de Ginebra, ¿a qué país pertenece?",
+      "options": [
+        "Portugal",
+        "Brasil",
+        "Chequia",
+        "India",
+        "Suecia"
+      ],
+      "answer": [
+        "Suiza"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Colonia?",
+      "options": [
+        "Italia",
+        "Países Bajos",
+        "Finlandia",
+        "Brasil"
+      ],
+      "answer": [
+        "Alemania"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra La Haya?",
+      "options": [
+        "México",
+        "Canadá",
+        "Irlanda",
+        "Reino Unido",
+        "Grecia",
+        "Bélgica"
+      ],
+      "answer": [
+        "Países Bajos"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Amberes?",
+      "options": [
+        "Estados Unidos",
+        "Reino Unido",
+        "Hungría",
+        "Marruecos",
+        "Austria"
+      ],
+      "answer": [
+        "Bélgica"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Budapest?",
+      "options": [
+        "Irlanda",
+        "Alemania",
+        "Turquía",
+        "España",
+        "Países Bajos"
+      ],
+      "answer": [
+        "Hungría"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Recife?",
+      "options": [
+        "Noruega",
+        "México",
+        "Finlandia",
+        "Portugal"
+      ],
+      "answer": [
+        "Brasil"
+      ]
+    },
+    {
+      "text": "La ciudad de Sídney, ¿a qué país pertenece?",
+      "options": [
+        "Portugal",
+        "Italia",
+        "Reino Unido",
+        "Japón",
+        "Alemania"
+      ],
+      "answer": [
+        "Australia"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Río de Janeiro?",
+      "options": [
+        "Hungría",
+        "Italia",
+        "Alemania",
+        "México",
+        "Suiza"
+      ],
+      "answer": [
+        "Brasil"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Pécs?",
+      "options": [
+        "Egipto",
+        "Austria",
+        "Turquía",
+        "Chequia"
+      ],
+      "answer": [
+        "Hungría"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra París?",
+      "options": [
+        "Corea del Sur",
+        "Italia",
+        "Reino Unido",
+        "Turquía",
+        "Dinamarca"
+      ],
+      "answer": [
+        "Francia"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Aarhus?",
+      "options": [
+        "Portugal",
+        "India",
+        "Finlandia",
+        "Australia",
+        "Japón"
+      ],
+      "answer": [
+        "Dinamarca"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Boston?",
+      "options": [
+        "Italia",
+        "Noruega",
+        "Países Bajos",
+        "Argentina"
+      ],
+      "answer": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Kioto?",
+      "options": [
+        "Estados Unidos",
+        "Italia",
+        "Brasil",
+        "Polonia",
+        "Chequia",
+        "Reino Unido"
+      ],
+      "answer": [
+        "Japón"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Utrecht?",
+      "options": [
+        "España",
+        "Bélgica",
+        "Japón",
+        "Alemania"
+      ],
+      "answer": [
+        "Países Bajos"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Gotemburgo?",
+      "options": [
+        "Polonia",
+        "Italia",
+        "Dinamarca",
+        "Austria",
+        "Noruega"
+      ],
+      "answer": [
+        "Suecia"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Dublín?",
+      "options": [
+        "Grecia",
+        "Austria",
+        "Portugal",
+        "España",
+        "Australia"
+      ],
+      "answer": [
+        "Irlanda"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Praga?",
+      "options": [
+        "Italia",
+        "Suecia",
+        "Polonia",
+        "Reino Unido",
+        "China"
+      ],
+      "answer": [
+        "Chequia"
+      ]
+    },
+    {
+      "text": "La ciudad de Niza, ¿a qué país pertenece?",
+      "options": [
+        "Chequia",
+        "Portugal",
+        "Argentina",
+        "Brasil"
+      ],
+      "answer": [
+        "Francia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Bilbao?",
+      "options": [
+        "Suiza",
+        "Argentina",
+        "Egipto",
+        "China"
+      ],
+      "answer": [
+        "España"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Toronto?",
+      "options": [
+        "Bélgica",
+        "Francia",
+        "Noruega",
+        "Chequia",
+        "Egipto"
+      ],
+      "answer": [
+        "Canadá"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra El Cairo?",
+      "options": [
+        "Polonia",
+        "Australia",
+        "Noruega",
+        "Austria",
+        "Brasil"
+      ],
+      "answer": [
+        "Egipto"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Braga?",
+      "options": [
+        "Polonia",
+        "Australia",
+        "Francia",
+        "Chequia",
+        "Finlandia",
+        "Irlanda"
+      ],
+      "answer": [
+        "Portugal"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Berlín?",
+      "options": [
+        "Turquía",
+        "Países Bajos",
+        "Canadá",
+        "Francia",
+        "México"
+      ],
+      "answer": [
+        "Alemania"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Szeged?",
+      "options": [
+        "Chequia",
+        "Suecia",
+        "Corea del Sur",
+        "Bélgica",
+        "Polonia",
+        "Egipto"
+      ],
+      "answer": [
+        "Hungría"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Aalborg?",
+      "options": [
+        "España",
+        "China",
+        "Reino Unido",
+        "Portugal"
+      ],
+      "answer": [
+        "Dinamarca"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Zúrich?",
+      "options": [
+        "India",
+        "Grecia",
+        "Portugal",
+        "Argentina",
+        "Italia"
+      ],
+      "answer": [
+        "Suiza"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Cracovia?",
+      "options": [
+        "Hungría",
+        "Bélgica",
+        "Suiza",
+        "Dinamarca",
+        "Austria"
+      ],
+      "answer": [
+        "Polonia"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece La Plata?",
+      "options": [
+        "India",
+        "Alemania",
+        "Corea del Sur",
+        "Bélgica"
+      ],
+      "answer": [
+        "Argentina"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Trondheim?",
+      "options": [
+        "Canadá",
+        "Alemania",
+        "Reino Unido",
+        "China",
+        "Dinamarca",
+        "México"
+      ],
+      "answer": [
+        "Noruega"
+      ]
+    },
+    {
+      "text": "La ciudad de Copenhague, ¿a qué país pertenece?",
+      "options": [
+        "Bélgica",
+        "Francia",
+        "China",
+        "Argentina",
+        "Hungría"
+      ],
+      "answer": [
+        "Dinamarca"
+      ]
+    },
+    {
+      "text": "La ciudad de Luxor, ¿a qué país pertenece?",
+      "options": [
+        "Alemania",
+        "Suecia",
+        "España",
+        "China",
+        "Bélgica",
+        "México"
+      ],
+      "answer": [
+        "Egipto"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Mánchester?",
+      "options": [
+        "Polonia",
+        "Corea del Sur",
+        "Australia",
+        "Hungría",
+        "Noruega"
+      ],
+      "answer": [
+        "Reino Unido"
+      ]
+    },
+    {
+      "text": "¿A qué país pertenece Calcuta?",
+      "options": [
+        "Hungría",
+        "Reino Unido",
+        "Noruega",
+        "Italia",
+        "Suiza",
+        "Grecia"
+      ],
+      "answer": [
+        "India"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Marrakech?",
+      "options": [
+        "India",
+        "Países Bajos",
+        "Egipto",
+        "Grecia",
+        "Chequia",
+        "México"
+      ],
+      "answer": [
+        "Marruecos"
+      ]
+    },
+    {
+      "text": "La ciudad de Atenas, ¿a qué país pertenece?",
+      "options": [
+        "Marruecos",
+        "Canadá",
+        "Italia",
+        "Países Bajos",
+        "Estados Unidos"
+      ],
+      "answer": [
+        "Grecia"
+      ]
+    },
+    {
+      "text": "La ciudad de Estambul, ¿a qué país pertenece?",
+      "options": [
+        "Australia",
+        "Países Bajos",
+        "Noruega",
+        "Estados Unidos",
+        "Grecia"
+      ],
+      "answer": [
+        "Turquía"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Malmö?",
+      "options": [
+        "Argentina",
+        "Dinamarca",
+        "Suiza",
+        "Australia",
+        "Japón",
+        "Marruecos"
+      ],
+      "answer": [
+        "Suecia"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra São Paulo?",
+      "options": [
+        "Hungría",
+        "Chequia",
+        "Suecia",
+        "México",
+        "Alemania"
+      ],
+      "answer": [
+        "Brasil"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Buenos Aires?",
+      "options": [
+        "Finlandia",
+        "Bélgica",
+        "Hungría",
+        "Reino Unido",
+        "Portugal"
+      ],
+      "answer": [
+        "Argentina"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Antalya?",
+      "options": [
+        "Corea del Sur",
+        "Suiza",
+        "Países Bajos",
+        "Japón"
+      ],
+      "answer": [
+        "Turquía"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Salzburgo?",
+      "options": [
+        "Finlandia",
+        "Argentina",
+        "Suecia",
+        "India",
+        "Francia"
+      ],
+      "answer": [
+        "Austria"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Debrecen?",
+      "options": [
+        "Noruega",
+        "Suiza",
+        "Canadá",
+        "Polonia",
+        "España"
+      ],
+      "answer": [
+        "Hungría"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Busan?",
+      "options": [
+        "México",
+        "Suecia",
+        "Hungría",
+        "Irlanda",
+        "Australia"
+      ],
+      "answer": [
+        "Corea del Sur"
+      ]
+    },
+    {
+      "text": "¿En qué país se encuentra Vancouver?",
+      "options": [
+        "Portugal",
+        "Irlanda",
+        "Australia",
+        "Dinamarca",
+        "Egipto",
+        "Estados Unidos"
+      ],
+      "answer": [
+        "Canadá"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Turín?",
+      "options": [
+        "Noruega",
+        "Finlandia",
+        "Japón",
+        "Irlanda"
+      ],
+      "answer": [
+        "Italia"
+      ]
+    },
+    {
+      "text": "La ciudad de Fez, ¿a qué país pertenece?",
+      "options": [
+        "Reino Unido",
+        "Alemania",
+        "Italia",
+        "Dinamarca"
+      ],
+      "answer": [
+        "Marruecos"
+      ]
+    },
+    {
+      "text": "¿En qué país está situada la ciudad de Alejandría?",
+      "options": [
+        "Alemania",
+        "Australia",
+        "Noruega",
+        "Canadá",
+        "Polonia"
+      ],
+      "answer": [
+        "Egipto"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Madrás?",
+      "options": [
+        "Corea del Sur",
+        "Japón",
+        "Austria",
+        "España"
+      ],
+      "answer": [
+        "India"
+      ]
+    },
+    {
+      "text": "La ciudad de Mendoza, ¿a qué país pertenece?",
+      "options": [
+        "Noruega",
+        "Países Bajos",
+        "Portugal",
+        "Alemania",
+        "Australia",
+        "Italia"
+      ],
+      "answer": [
+        "Argentina"
+      ]
+    },
+    {
+      "text": "La ciudad de Chicago, ¿a qué país pertenece?",
+      "options": [
+        "Austria",
+        "Hungría",
+        "Polonia",
+        "Italia",
+        "Suecia"
+      ],
+      "answer": [
+        "Estados Unidos"
+      ]
+    },
+    {
+      "text": "¿En qué país del mundo se encuentra Montreal?",
+      "options": [
+        "Japón",
+        "España",
+        "Grecia",
+        "Australia",
+        "Hungría"
+      ],
+      "answer": [
+        "Canadá"
+      ]
+    }
+  ]
+}

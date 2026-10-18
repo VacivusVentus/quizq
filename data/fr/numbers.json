@@ -1,0 +1,1383 @@
+{
+  "theme": "Nombres et faits",
+  "questions": [
+    {
+      "text": "Combien peut-on compter de jours de mai ?",
+      "options": [
+        "cinq",
+        "mille",
+        "quatre",
+        "cent quatre-vingts"
+      ],
+      "answer": [
+        "trente et un"
+      ]
+    },
+    {
+      "text": "Quel est le total de nains dans le conte de Blanche-Neige ?",
+      "options": [
+        "cent",
+        "huit",
+        "trente-deux",
+        "mille",
+        "quatre",
+        "deux"
+      ],
+      "answer": [
+        "sept"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de kilogrammes dans un quintal ?",
+      "options": [
+        "cinq",
+        "douze",
+        "trente-deux",
+        "vingt",
+        "huit"
+      ],
+      "answer": [
+        "cent"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de faces d'un dé à jouer ?",
+      "options": [
+        "cinquante-deux",
+        "trente",
+        "trois",
+        "douze",
+        "trente-deux",
+        "vingt"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Quel est le total de coordonnées d'un point dans l'espace ?",
+      "options": [
+        "trente et un",
+        "vingt",
+        "quinze",
+        "deux",
+        "sept"
+      ],
+      "answer": [
+        "trois"
+      ]
+    },
+    {
+      "text": "Quel est le total de cases d'une rangée d'un échiquier ?",
+      "options": [
+        "vingt-quatre",
+        "deux",
+        "quinze",
+        "sept"
+      ],
+      "answer": [
+        "huit"
+      ]
+    },
+    {
+      "text": "Quel est le total de couleurs d'un feu de signalisation ?",
+      "options": [
+        "six",
+        "cinq",
+        "dix",
+        "cent quatre-vingts",
+        "quatre"
+      ],
+      "answer": [
+        "trois"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de signes du zodiaque ?",
+      "options": [
+        "trente-deux",
+        "mille",
+        "cent",
+        "cinquante-deux"
+      ],
+      "answer": [
+        "douze"
+      ]
+    },
+    {
+      "text": "Quel est le total de jours de décembre ?",
+      "options": [
+        "quinze",
+        "dix",
+        "sept",
+        "huit"
+      ],
+      "answer": [
+        "trente et un"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de merveilles du monde antique ?",
+      "options": [
+        "trois",
+        "quatre",
+        "cent",
+        "six",
+        "trente-deux"
+      ],
+      "answer": [
+        "sept"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de cartes d'un jeu standard ?",
+      "options": [
+        "cinq",
+        "trente et un",
+        "quatre",
+        "huit"
+      ],
+      "answer": [
+        "cinquante-deux"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de jours de pluie lors du Déluge ?",
+      "options": [
+        "trente-deux",
+        "cinquante-deux",
+        "trente",
+        "six",
+        "trois",
+        "dix"
+      ],
+      "answer": [
+        "quarante"
+      ]
+    },
+    {
+      "text": "Quel est le total de faces d'un cube ?",
+      "options": [
+        "trois",
+        "trente",
+        "quatre",
+        "trente-deux",
+        "cinq"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de grammes dans un kilogramme ?",
+      "options": [
+        "six",
+        "neuf",
+        "cent",
+        "deux"
+      ],
+      "answer": [
+        "mille"
+      ]
+    },
+    {
+      "text": "Quel est le total de pôles d'un aimant ?",
+      "options": [
+        "huit",
+        "quarante",
+        "trente-deux",
+        "six"
+      ],
+      "answer": [
+        "deux"
+      ]
+    },
+    {
+      "text": "Quel est le total de cercles du drapeau olympique ?",
+      "options": [
+        "neuf",
+        "sept",
+        "vingt-quatre",
+        "quatre"
+      ],
+      "answer": [
+        "cinq"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de millimètres dans un décimètre ?",
+      "options": [
+        "douze",
+        "six",
+        "trente-deux",
+        "vingt-quatre",
+        "quarante",
+        "huit"
+      ],
+      "answer": [
+        "cent"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de jours d'avril ?",
+      "options": [
+        "quinze",
+        "cent",
+        "cent quatre-vingts",
+        "trente et un",
+        "sept"
+      ],
+      "answer": [
+        "trente"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de tribus d'Israël ?",
+      "options": [
+        "quatre",
+        "trente-deux",
+        "cent quatre-vingts",
+        "cinquante-deux"
+      ],
+      "answer": [
+        "douze"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de pattes d'un chat ?",
+      "options": [
+        "vingt",
+        "dix",
+        "sept",
+        "trente",
+        "neuf"
+      ],
+      "answer": [
+        "quatre"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de mois du calendrier ?",
+      "options": [
+        "huit",
+        "vingt-quatre",
+        "deux",
+        "six",
+        "sept"
+      ],
+      "answer": [
+        "douze"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de joueurs d'une équipe de basket-ball sur le terrain ?",
+      "options": [
+        "deux",
+        "trente-deux",
+        "cinquante-deux",
+        "huit",
+        "quarante"
+      ],
+      "answer": [
+        "cinq"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de cordes d'une guitare classique ?",
+      "options": [
+        "douze",
+        "deux",
+        "cent",
+        "neuf"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Quel est le total de jours de juin ?",
+      "options": [
+        "dix",
+        "trente-deux",
+        "quatre",
+        "mille",
+        "trente et un"
+      ],
+      "answer": [
+        "trente"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de jours de janvier ?",
+      "options": [
+        "douze",
+        "quinze",
+        "quarante",
+        "huit",
+        "quatre"
+      ],
+      "answer": [
+        "trente et un"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de jambes chez une personne ?",
+      "options": [
+        "six",
+        "huit",
+        "vingt-quatre",
+        "cent quatre-vingts",
+        "sept",
+        "cinquante-deux"
+      ],
+      "answer": [
+        "deux"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de commandements de la Bible ?",
+      "options": [
+        "deux",
+        "cent quatre-vingts",
+        "trois",
+        "vingt-quatre",
+        "cent",
+        "vingt"
+      ],
+      "answer": [
+        "dix"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de saisons de l'année ?",
+      "options": [
+        "mille",
+        "six",
+        "trente-deux",
+        "dix",
+        "cent quatre-vingts",
+        "cinq"
+      ],
+      "answer": [
+        "quatre"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de grammes dans un hectogramme ?",
+      "options": [
+        "dix",
+        "trente",
+        "sept",
+        "quatre"
+      ],
+      "answer": [
+        "cent"
+      ]
+    },
+    {
+      "text": "Quel est le total de joueurs d'une équipe de hockey sur glace ?",
+      "options": [
+        "neuf",
+        "vingt",
+        "cent",
+        "cinquante-deux",
+        "cent quatre-vingts"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de lettres de l'alphabet grec ?",
+      "options": [
+        "sept",
+        "trente-deux",
+        "trente",
+        "cent",
+        "quatre",
+        "six"
+      ],
+      "answer": [
+        "vingt-quatre"
+      ]
+    },
+    {
+      "text": "Quel est le total de boules rouges au snooker ?",
+      "options": [
+        "cinquante-deux",
+        "huit",
+        "mille",
+        "deux"
+      ],
+      "answer": [
+        "quinze"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de muses du Parnasse ?",
+      "options": [
+        "sept",
+        "trois",
+        "cent",
+        "six",
+        "cinquante-deux",
+        "vingt"
+      ],
+      "answer": [
+        "neuf"
+      ]
+    },
+    {
+      "text": "Quel est le total de doigts des deux pieds ?",
+      "options": [
+        "huit",
+        "sept",
+        "mille",
+        "cent",
+        "cinquante-deux"
+      ],
+      "answer": [
+        "dix"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de cordes d'une balalaïka ?",
+      "options": [
+        "deux",
+        "dix",
+        "cinq",
+        "sept",
+        "six"
+      ],
+      "answer": [
+        "trois"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de semaines dans une année ?",
+      "options": [
+        "sept",
+        "quarante",
+        "vingt-quatre",
+        "mille",
+        "cent"
+      ],
+      "answer": [
+        "cinquante-deux"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de jours de novembre ?",
+      "options": [
+        "neuf",
+        "trente et un",
+        "douze",
+        "huit"
+      ],
+      "answer": [
+        "trente"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de mi-temps dans un match de football ?",
+      "options": [
+        "trente",
+        "six",
+        "douze",
+        "trois",
+        "quarante"
+      ],
+      "answer": [
+        "deux"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de quilles au bowling ?",
+      "options": [
+        "deux",
+        "cinquante-deux",
+        "cent quatre-vingts",
+        "douze"
+      ],
+      "answer": [
+        "dix"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de couleurs d'un jeu de cartes classique ?",
+      "options": [
+        "cinq",
+        "cinquante-deux",
+        "neuf",
+        "cent"
+      ],
+      "answer": [
+        "quatre"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de jours de juillet ?",
+      "options": [
+        "sept",
+        "quarante",
+        "huit",
+        "dix",
+        "cinquante-deux"
+      ],
+      "answer": [
+        "trente et un"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de travaux d'Hercule ?",
+      "options": [
+        "quarante",
+        "quinze",
+        "six",
+        "cinq",
+        "vingt"
+      ],
+      "answer": [
+        "douze"
+      ]
+    },
+    {
+      "text": "Quel est le total de côtés d'un carré ?",
+      "options": [
+        "trente et un",
+        "huit",
+        "trois",
+        "cent quatre-vingts",
+        "cent",
+        "deux"
+      ],
+      "answer": [
+        "quatre"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de jours d'une semaine ?",
+      "options": [
+        "vingt",
+        "six",
+        "quinze",
+        "deux",
+        "trente-deux",
+        "dix"
+      ],
+      "answer": [
+        "sept"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de degrés Fahrenheit à la congélation de l'eau ?",
+      "options": [
+        "neuf",
+        "quinze",
+        "trente",
+        "six"
+      ],
+      "answer": [
+        "trente-deux"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de bits dans un octet ?",
+      "options": [
+        "cent",
+        "trente et un",
+        "quarante",
+        "quatre",
+        "vingt",
+        "dix"
+      ],
+      "answer": [
+        "huit"
+      ]
+    },
+    {
+      "text": "Quel est le total de dents de lait chez un enfant ?",
+      "options": [
+        "trente et un",
+        "trois",
+        "deux",
+        "mille",
+        "dix"
+      ],
+      "answer": [
+        "vingt"
+      ]
+    },
+    {
+      "text": "Quel est le total de touches blanches d'un piano ?",
+      "options": [
+        "vingt",
+        "mille",
+        "cent",
+        "trois",
+        "trente et un"
+      ],
+      "answer": [
+        "cinquante-deux"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de minutes dans un quart d'heure ?",
+      "options": [
+        "quarante",
+        "sept",
+        "trente-deux",
+        "six",
+        "neuf"
+      ],
+      "answer": [
+        "quinze"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de faces d'un icosaèdre ?",
+      "options": [
+        "trente et un",
+        "cent",
+        "quinze",
+        "trois"
+      ],
+      "answer": [
+        "vingt"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de périodes d'une heure dans une journée ?",
+      "options": [
+        "trente-deux",
+        "neuf",
+        "mille",
+        "quinze",
+        "quarante"
+      ],
+      "answer": [
+        "vingt-quatre"
+      ]
+    },
+    {
+      "text": "Quel est le total de degrés d'un angle plat ?",
+      "options": [
+        "dix",
+        "douze",
+        "quatre",
+        "cinquante-deux"
+      ],
+      "answer": [
+        "cent quatre-vingts"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de millilitres dans un litre ?",
+      "options": [
+        "vingt-quatre",
+        "douze",
+        "deux",
+        "trente-deux",
+        "huit"
+      ],
+      "answer": [
+        "mille"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de mois d'une année ?",
+      "options": [
+        "trente et un",
+        "sept",
+        "trente",
+        "six",
+        "trois",
+        "quatre"
+      ],
+      "answer": [
+        "douze"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de carats de l'or pur ?",
+      "options": [
+        "douze",
+        "six",
+        "mille",
+        "quatre"
+      ],
+      "answer": [
+        "vingt-quatre"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de secondes dans une demi-minute ?",
+      "options": [
+        "huit",
+        "deux",
+        "quinze",
+        "mille",
+        "neuf"
+      ],
+      "answer": [
+        "trente"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de semaines d'une grossesse humaine ?",
+      "options": [
+        "trente-deux",
+        "huit",
+        "trente",
+        "mille",
+        "neuf"
+      ],
+      "answer": [
+        "quarante"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de mois d'été ?",
+      "options": [
+        "huit",
+        "cent quatre-vingts",
+        "cinquante-deux",
+        "trente"
+      ],
+      "answer": [
+        "trois"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de jours de septembre ?",
+      "options": [
+        "deux",
+        "trente-deux",
+        "cent quatre-vingts",
+        "neuf",
+        "cent",
+        "quinze"
+      ],
+      "answer": [
+        "trente"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de jours ouvrés dans une semaine ?",
+      "options": [
+        "vingt-quatre",
+        "huit",
+        "quinze",
+        "neuf",
+        "douze",
+        "quatre"
+      ],
+      "answer": [
+        "cinq"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de litres dans un hectolitre ?",
+      "options": [
+        "six",
+        "deux",
+        "dix",
+        "trente et un",
+        "sept"
+      ],
+      "answer": [
+        "cent"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de cordes d'un ukulélé ?",
+      "options": [
+        "quarante",
+        "cent",
+        "mille",
+        "dix",
+        "sept"
+      ],
+      "answer": [
+        "quatre"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de micromètres dans un millimètre ?",
+      "options": [
+        "douze",
+        "quatre",
+        "deux",
+        "quinze",
+        "vingt",
+        "neuf"
+      ],
+      "answer": [
+        "mille"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de doigts et orteils chez une personne ?",
+      "options": [
+        "huit",
+        "quatre",
+        "deux",
+        "trente-deux",
+        "trente"
+      ],
+      "answer": [
+        "vingt"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de genoux chez un être humain ?",
+      "options": [
+        "neuf",
+        "cent",
+        "dix",
+        "mille"
+      ],
+      "answer": [
+        "deux"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de bras d'une étoile de mer ?",
+      "options": [
+        "cent",
+        "sept",
+        "mille",
+        "neuf",
+        "six"
+      ],
+      "answer": [
+        "cinq"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de poumons chez un être humain ?",
+      "options": [
+        "trente",
+        "vingt-quatre",
+        "huit",
+        "quarante",
+        "dix"
+      ],
+      "answer": [
+        "deux"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de guerriers sur le tableau de Vasnetsov ?",
+      "options": [
+        "trente",
+        "huit",
+        "sept",
+        "neuf",
+        "trente et un",
+        "vingt"
+      ],
+      "answer": [
+        "trois"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de pattes d'un scorpion ?",
+      "options": [
+        "cinq",
+        "trois",
+        "vingt-quatre",
+        "trente-deux",
+        "trente"
+      ],
+      "answer": [
+        "huit"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de dents chez un adulte ?",
+      "options": [
+        "cinq",
+        "cent quatre-vingts",
+        "dix",
+        "vingt",
+        "cent"
+      ],
+      "answer": [
+        "trente-deux"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de pattes chez un insecte ?",
+      "options": [
+        "trente et un",
+        "dix",
+        "huit",
+        "douze",
+        "cinq"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de républiques de l'Union soviétique ?",
+      "options": [
+        "quatre",
+        "quarante",
+        "vingt-quatre",
+        "trente-deux",
+        "sept",
+        "mille"
+      ],
+      "answer": [
+        "quinze"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de pattes d'une fourmi ?",
+      "options": [
+        "trois",
+        "dix",
+        "cent quatre-vingts",
+        "trente et un",
+        "sept"
+      ],
+      "answer": [
+        "six"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de cercles de l'Enfer chez Dante ?",
+      "options": [
+        "mille",
+        "cent quatre-vingts",
+        "huit",
+        "quinze"
+      ],
+      "answer": [
+        "neuf"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de minutes dans un tiers d'heure ?",
+      "options": [
+        "douze",
+        "quarante",
+        "mille",
+        "neuf",
+        "dix",
+        "cinq"
+      ],
+      "answer": [
+        "vingt"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de couleurs du drapeau de la Russie ?",
+      "options": [
+        "dix",
+        "trente",
+        "cent quatre-vingts",
+        "douze",
+        "sept"
+      ],
+      "answer": [
+        "trois"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de chaînes dans une molécule d'ADN ?",
+      "options": [
+        "dix",
+        "trente-deux",
+        "trente",
+        "cent",
+        "douze",
+        "quatre"
+      ],
+      "answer": [
+        "deux"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de doigts des deux mains ?",
+      "options": [
+        "cinquante-deux",
+        "trente-deux",
+        "trente et un",
+        "six",
+        "quatre"
+      ],
+      "answer": [
+        "dix"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de millimètres dans un centimètre ?",
+      "options": [
+        "trente et un",
+        "trois",
+        "cent",
+        "deux",
+        "vingt-quatre"
+      ],
+      "answer": [
+        "dix"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de tours du Kremlin de Moscou ?",
+      "options": [
+        "trois",
+        "douze",
+        "cinq",
+        "quarante",
+        "huit"
+      ],
+      "answer": [
+        "vingt"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de pièces sur un échiquier au début d'une partie ?",
+      "options": [
+        "vingt-quatre",
+        "six",
+        "dix",
+        "cinquante-deux",
+        "deux"
+      ],
+      "answer": [
+        "trente-deux"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de pattes d'une araignée ?",
+      "options": [
+        "six",
+        "cent quatre-vingts",
+        "quinze",
+        "neuf"
+      ],
+      "answer": [
+        "huit"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de doigts d'une main ?",
+      "options": [
+        "trois",
+        "deux",
+        "huit",
+        "vingt",
+        "quarante"
+      ],
+      "answer": [
+        "cinq"
+      ]
+    },
+    {
+      "text": "Quel est le total de jours de mars ?",
+      "options": [
+        "cent",
+        "neuf",
+        "six",
+        "cinquante-deux",
+        "cent quatre-vingts",
+        "douze"
+      ],
+      "answer": [
+        "trente et un"
+      ]
+    },
+    {
+      "text": "Quel est le total de voleurs dans le conte d'Ali Baba ?",
+      "options": [
+        "cinq",
+        "sept",
+        "cent",
+        "quatre",
+        "huit"
+      ],
+      "answer": [
+        "quarante"
+      ]
+    },
+    {
+      "text": "Quel est le total de chiffres d'un cadran d'horloge ?",
+      "options": [
+        "deux",
+        "vingt",
+        "mille",
+        "quarante",
+        "cinq",
+        "cent"
+      ],
+      "answer": [
+        "douze"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de points cardinaux sur une boussole ?",
+      "options": [
+        "trente",
+        "neuf",
+        "trois",
+        "trente-deux",
+        "huit"
+      ],
+      "answer": [
+        "quatre"
+      ]
+    },
+    {
+      "text": "Combien peut-on compter de degrés dans la somme des angles d'un triangle ?",
+      "options": [
+        "trente et un",
+        "vingt",
+        "quinze",
+        "dix",
+        "huit"
+      ],
+      "answer": [
+        "cent quatre-vingts"
+      ]
+    },
+    {
+      "text": "Quel est le total de joueurs d'une équipe de base-ball sur le terrain ?",
+      "options": [
+        "cinq",
+        "quatre",
+        "huit",
+        "deux",
+        "six"
+      ],
+      "answer": [
+        "neuf"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de doigts d'un pied ?",
+      "options": [
+        "trois",
+        "cent quatre-vingts",
+        "huit",
+        "cinquante-deux",
+        "dix",
+        "douze"
+      ],
+      "answer": [
+        "cinq"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de mains chez une personne ?",
+      "options": [
+        "neuf",
+        "six",
+        "douze",
+        "dix",
+        "quatre"
+      ],
+      "answer": [
+        "deux"
+      ]
+    },
+    {
+      "text": "Combien compte-t-on de jours d'octobre ?",
+      "options": [
+        "trois",
+        "sept",
+        "dix",
+        "trente",
+        "vingt",
+        "cinquante-deux"
+      ],
+      "answer": [
+        "trente et un"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de millimètres dans un mètre ?",
+      "options": [
+        "trois",
+        "cent quatre-vingts",
+        "sept",
+        "cent",
+        "trente et un"
+      ],
+      "answer": [
+        "mille"
+      ]
+    },
+    {
+      "text": "Quel est le total de mètres dans un kilomètre ?",
+      "options": [
+        "cinquante-deux",
+        "quatre",
+        "sept",
+        "quarante",
+        "huit",
+        "trois"
+      ],
+      "answer": [
+        "mille"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de notes d'une octave ?",
+      "options": [
+        "huit",
+        "dix",
+        "cinq",
+        "douze",
+        "quatre"
+      ],
+      "answer": [
+        "sept"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de jours d'août ?",
+      "options": [
+        "douze",
+        "huit",
+        "deux",
+        "cinq",
+        "cinquante-deux"
+      ],
+      "answer": [
+        "trente et un"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de planètes du Système solaire ?",
+      "options": [
+        "quarante",
+        "douze",
+        "six",
+        "cinquante-deux",
+        "trois"
+      ],
+      "answer": [
+        "huit"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de minutes dans trois heures ?",
+      "options": [
+        "douze",
+        "cinq",
+        "trente",
+        "huit",
+        "trente-deux"
+      ],
+      "answer": [
+        "cent quatre-vingts"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de pouces dans un pied ?",
+      "options": [
+        "vingt",
+        "trois",
+        "huit",
+        "cinquante-deux",
+        "six"
+      ],
+      "answer": [
+        "douze"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de roues d'une bicyclette ?",
+      "options": [
+        "cinq",
+        "quarante",
+        "trente",
+        "six",
+        "huit"
+      ],
+      "answer": [
+        "deux"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de roues d'une voiture ?",
+      "options": [
+        "deux",
+        "quinze",
+        "dix",
+        "vingt"
+      ],
+      "answer": [
+        "quatre"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de sonates pour piano de Beethoven ?",
+      "options": [
+        "cent",
+        "cinquante-deux",
+        "mille",
+        "trente et un",
+        "neuf",
+        "douze"
+      ],
+      "answer": [
+        "trente-deux"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de symphonies de Beethoven ?",
+      "options": [
+        "cinq",
+        "trente-deux",
+        "trente",
+        "sept",
+        "quarante"
+      ],
+      "answer": [
+        "neuf"
+      ]
+    },
+    {
+      "text": "Combien y a-t-il de couleurs de l'arc-en-ciel ?",
+      "options": [
+        "six",
+        "trente et un",
+        "cent",
+        "trente"
+      ],
+      "answer": [
+        "sept"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de tentacules d'une pieuvre ?",
+      "options": [
+        "vingt",
+        "vingt-quatre",
+        "neuf",
+        "quarante",
+        "trois"
+      ],
+      "answer": [
+        "huit"
+      ]
+    },
+    {
+      "text": "Quel est le nombre de joueurs d'une équipe de volley-ball ?",
+      "options": [
+        "dix",
+        "quatre",
+        "douze",
+        "huit"
+      ],
+      "answer": [
+        "six"
+      ]
+    }
+  ]
+}

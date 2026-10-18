@@ -1,0 +1,1345 @@
+{
+  "theme": "Colors",
+  "questions": [
+    {
+      "text": "What is the usual color of wheat flour?",
+      "options": [
+        "brown",
+        "green",
+        "gray",
+        "turquoise",
+        "blue"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "Which color does a ripe persimmon have?",
+      "options": [
+        "gray",
+        "yellow",
+        "turquoise",
+        "brown",
+        "white"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "Which of these colors describes a piglet?",
+      "options": [
+        "green",
+        "violet",
+        "red",
+        "gray"
+      ],
+      "answer": [
+        "pink"
+      ]
+    },
+    {
+      "text": "Which color does mud after rain have?",
+      "options": [
+        "blue",
+        "green",
+        "red",
+        "white"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "What is the usual color of a panther?",
+      "options": [
+        "turquoise",
+        "violet",
+        "white",
+        "green",
+        "gray",
+        "orange"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "Name the color of table mustard.",
+      "options": [
+        "green",
+        "violet",
+        "brown",
+        "white"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "What is the usual color of a fly agaric mushroom?",
+      "options": [
+        "yellow",
+        "white",
+        "turquoise",
+        "green",
+        "orange"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "What color is pomegranate seeds?",
+      "options": [
+        "violet",
+        "orange",
+        "blue",
+        "black",
+        "white",
+        "gray"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "Which color does a celery stalk have?",
+      "options": [
+        "yellow",
+        "blue",
+        "violet",
+        "white",
+        "pink"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "Which of these colors describes a dandelion?",
+      "options": [
+        "gray",
+        "white",
+        "black",
+        "orange"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "Name the color of wet sand.",
+      "options": [
+        "white",
+        "gray",
+        "red",
+        "green",
+        "pink"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "Name the color of a moonless night.",
+      "options": [
+        "blue",
+        "white",
+        "gray",
+        "pink",
+        "green"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "What color would you call milk?",
+      "options": [
+        "turquoise",
+        "violet",
+        "green",
+        "gray",
+        "blue"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "Which of these colors describes plum jam?",
+      "options": [
+        "brown",
+        "red",
+        "turquoise",
+        "orange",
+        "white"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "What color is a basketball?",
+      "options": [
+        "yellow",
+        "turquoise",
+        "red",
+        "black",
+        "violet",
+        "white"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "What color would you call a ripe cranberry?",
+      "options": [
+        "pink",
+        "violet",
+        "orange",
+        "green",
+        "yellow"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "Which color does an egg yolk have?",
+      "options": [
+        "pink",
+        "blue",
+        "gray",
+        "white",
+        "black"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "Which of these colors describes boiled rice?",
+      "options": [
+        "black",
+        "violet",
+        "red",
+        "turquoise",
+        "orange"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "Name the color of chocolate.",
+      "options": [
+        "gray",
+        "violet",
+        "white",
+        "red"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "Name the color of carrot juice.",
+      "options": [
+        "green",
+        "blue",
+        "turquoise",
+        "yellow"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "Which color does a blush on the cheeks have?",
+      "options": [
+        "turquoise",
+        "red",
+        "yellow",
+        "violet",
+        "gray"
+      ],
+      "answer": [
+        "pink"
+      ]
+    },
+    {
+      "text": "What color would you call a raven?",
+      "options": [
+        "violet",
+        "pink",
+        "red",
+        "blue",
+        "turquoise"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "What color would you call an elephant?",
+      "options": [
+        "brown",
+        "turquoise",
+        "violet",
+        "black",
+        "white",
+        "pink"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "What color is a ripe tangerine?",
+      "options": [
+        "gray",
+        "pink",
+        "green",
+        "turquoise",
+        "blue"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "What is the usual color of a ripe acorn?",
+      "options": [
+        "violet",
+        "blue",
+        "turquoise",
+        "gray",
+        "yellow",
+        "white"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "What is the usual color of ground coffee?",
+      "options": [
+        "orange",
+        "pink",
+        "violet",
+        "red",
+        "white"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "What is the usual color of sugar?",
+      "options": [
+        "brown",
+        "yellow",
+        "gray",
+        "pink",
+        "black",
+        "orange"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "Which color does ink in a fountain pen have?",
+      "options": [
+        "pink",
+        "turquoise",
+        "brown",
+        "red"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "Name the color of a chick.",
+      "options": [
+        "green",
+        "white",
+        "pink",
+        "black",
+        "turquoise"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "Which color does a ripe lemon have?",
+      "options": [
+        "black",
+        "gray",
+        "green",
+        "white"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "Name the color of a ruby.",
+      "options": [
+        "gray",
+        "turquoise",
+        "yellow",
+        "orange"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "Which color does a mourning ribbon have?",
+      "options": [
+        "blue",
+        "white",
+        "gray",
+        "green",
+        "orange"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "Which of these colors describes the sea near a coral reef?",
+      "options": [
+        "white",
+        "pink",
+        "gray",
+        "black",
+        "brown"
+      ],
+      "answer": [
+        "turquoise"
+      ]
+    },
+    {
+      "text": "Which of these colors describes dried tea leaves?",
+      "options": [
+        "green",
+        "pink",
+        "violet",
+        "orange"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "What color is a bilberry?",
+      "options": [
+        "pink",
+        "green",
+        "orange",
+        "yellow",
+        "red",
+        "violet"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "Name the color of a mouse.",
+      "options": [
+        "black",
+        "red",
+        "brown",
+        "violet"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "Which color does ash have?",
+      "options": [
+        "green",
+        "turquoise",
+        "red",
+        "pink",
+        "blue"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "What color would you call a poppy?",
+      "options": [
+        "white",
+        "orange",
+        "turquoise",
+        "blue",
+        "gray",
+        "yellow"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "What color would you call a dill stalk?",
+      "options": [
+        "yellow",
+        "gray",
+        "orange",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "Which color does a fire engine have?",
+      "options": [
+        "violet",
+        "white",
+        "turquoise",
+        "green"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "What color is wet asphalt?",
+      "options": [
+        "violet",
+        "red",
+        "black",
+        "brown",
+        "white",
+        "orange"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "Name the color of a ripe lingonberry.",
+      "options": [
+        "blue",
+        "pink",
+        "gray",
+        "brown",
+        "yellow"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "Which color does a cloud in clear weather have?",
+      "options": [
+        "green",
+        "pink",
+        "orange",
+        "brown",
+        "turquoise"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "What color is summer grass?",
+      "options": [
+        "blue",
+        "violet",
+        "orange",
+        "brown",
+        "pink",
+        "turquoise"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "Which of these colors describes a sapphire?",
+      "options": [
+        "brown",
+        "gray",
+        "black",
+        "pink",
+        "turquoise"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "What color is cherry blossom in bloom?",
+      "options": [
+        "violet",
+        "blue",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "answer": [
+        "pink"
+      ]
+    },
+    {
+      "text": "What is the usual color of pine needles?",
+      "options": [
+        "red",
+        "blue",
+        "pink",
+        "gray",
+        "yellow",
+        "black"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "What color is a corn cob?",
+      "options": [
+        "orange",
+        "black",
+        "white",
+        "brown",
+        "gray"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "What color would you call cocoa powder?",
+      "options": [
+        "orange",
+        "gray",
+        "green",
+        "violet",
+        "black"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "What is the usual color of a birch leaf in autumn?",
+      "options": [
+        "green",
+        "pink",
+        "violet",
+        "brown",
+        "gray"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "What color is a wine cork?",
+      "options": [
+        "blue",
+        "gray",
+        "violet",
+        "pink",
+        "green"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "What is the usual color of the water of a tropical lagoon?",
+      "options": [
+        "black",
+        "pink",
+        "yellow",
+        "white",
+        "red"
+      ],
+      "answer": [
+        "turquoise"
+      ]
+    },
+    {
+      "text": "What is the usual color of a forget-me-not?",
+      "options": [
+        "brown",
+        "red",
+        "gray",
+        "yellow",
+        "orange"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "Name the color of a cornflower.",
+      "options": [
+        "green",
+        "violet",
+        "yellow",
+        "brown",
+        "black"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "What color would you call a daisy?",
+      "options": [
+        "brown",
+        "violet",
+        "red",
+        "blue",
+        "gray",
+        "green"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "What color would you call a starless night sky?",
+      "options": [
+        "yellow",
+        "violet",
+        "pink",
+        "turquoise",
+        "white",
+        "red"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "What color is an eggplant?",
+      "options": [
+        "white",
+        "green",
+        "brown",
+        "blue",
+        "pink"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "What is the usual color of a flamingo?",
+      "options": [
+        "green",
+        "blue",
+        "gray",
+        "red",
+        "black",
+        "turquoise"
+      ],
+      "answer": [
+        "pink"
+      ]
+    },
+    {
+      "text": "Name the color of peas in a pod.",
+      "options": [
+        "turquoise",
+        "brown",
+        "violet",
+        "pink",
+        "yellow"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "What color would you call a grasshopper?",
+      "options": [
+        "red",
+        "violet",
+        "yellow",
+        "white",
+        "pink"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "What is the usual color of a rain cloud?",
+      "options": [
+        "red",
+        "turquoise",
+        "black",
+        "white",
+        "violet"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "What color is a plantain leaf?",
+      "options": [
+        "black",
+        "yellow",
+        "orange",
+        "pink",
+        "brown"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "Name the color of a dark bunch of grapes.",
+      "options": [
+        "black",
+        "red",
+        "green",
+        "gray"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "What color would you call a dog rose petal?",
+      "options": [
+        "white",
+        "gray",
+        "brown",
+        "orange",
+        "black",
+        "red"
+      ],
+      "answer": [
+        "pink"
+      ]
+    },
+    {
+      "text": "Which of these colors describes an avocado?",
+      "options": [
+        "yellow",
+        "black",
+        "red",
+        "pink"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "What color is the shallow water off a sandy beach?",
+      "options": [
+        "pink",
+        "blue",
+        "red",
+        "black",
+        "green",
+        "white"
+      ],
+      "answer": [
+        "turquoise"
+      ]
+    },
+    {
+      "text": "What color would you call sea buckthorn berries?",
+      "options": [
+        "yellow",
+        "violet",
+        "turquoise",
+        "pink",
+        "black",
+        "blue"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "What is the usual color of a bog bilberry?",
+      "options": [
+        "pink",
+        "yellow",
+        "brown",
+        "black",
+        "green",
+        "gray"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "Which of these colors describes oak bark?",
+      "options": [
+        "yellow",
+        "violet",
+        "black",
+        "orange",
+        "blue"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "Which of these colors describes water in the open ocean?",
+      "options": [
+        "yellow",
+        "black",
+        "red",
+        "brown"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "What color would you call the sun?",
+      "options": [
+        "white",
+        "gray",
+        "brown",
+        "violet",
+        "turquoise"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "Which color does a ripe plum have?",
+      "options": [
+        "yellow",
+        "blue",
+        "black",
+        "gray",
+        "red"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "Which of these colors describes a swan?",
+      "options": [
+        "red",
+        "turquoise",
+        "blue",
+        "black"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "Name the color of fresh snow.",
+      "options": [
+        "brown",
+        "green",
+        "red",
+        "turquoise",
+        "gray"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "Which color does soot have?",
+      "options": [
+        "pink",
+        "violet",
+        "red",
+        "blue"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "What is the usual color of a carrot?",
+      "options": [
+        "green",
+        "turquoise",
+        "violet",
+        "blue",
+        "yellow",
+        "pink"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "What color would you call a sunflower?",
+      "options": [
+        "green",
+        "white",
+        "orange",
+        "gray",
+        "black",
+        "violet"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "Name the color of cotton candy.",
+      "options": [
+        "green",
+        "violet",
+        "brown",
+        "red"
+      ],
+      "answer": [
+        "pink"
+      ]
+    },
+    {
+      "text": "Which color does a cucumber have?",
+      "options": [
+        "white",
+        "gray",
+        "violet",
+        "red"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "Which color does a ripe strawberry have?",
+      "options": [
+        "orange",
+        "brown",
+        "white",
+        "violet",
+        "green"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "What color is blood?",
+      "options": [
+        "green",
+        "orange",
+        "yellow",
+        "turquoise",
+        "violet"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "Which of these colors describes tar?",
+      "options": [
+        "red",
+        "brown",
+        "violet",
+        "pink"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "Name the color of a clear daytime sky.",
+      "options": [
+        "orange",
+        "green",
+        "white",
+        "violet"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "What color is coal?",
+      "options": [
+        "gray",
+        "blue",
+        "green",
+        "turquoise",
+        "white",
+        "yellow"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "Which of these colors describes a pumpkin?",
+      "options": [
+        "yellow",
+        "gray",
+        "black",
+        "brown"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "Which color does campfire smoke have?",
+      "options": [
+        "white",
+        "brown",
+        "yellow",
+        "blue"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "What is the usual color of a banana?",
+      "options": [
+        "brown",
+        "blue",
+        "red",
+        "white",
+        "gray",
+        "pink"
+      ],
+      "answer": [
+        "yellow"
+      ]
+    },
+    {
+      "text": "What color would you call denim fabric?",
+      "options": [
+        "orange",
+        "pink",
+        "white",
+        "gray",
+        "turquoise"
+      ],
+      "answer": [
+        "blue"
+      ]
+    },
+    {
+      "text": "Which of these colors describes a goldfish?",
+      "options": [
+        "brown",
+        "yellow",
+        "red",
+        "pink",
+        "violet"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "What color is a car tire?",
+      "options": [
+        "turquoise",
+        "yellow",
+        "violet",
+        "brown",
+        "white"
+      ],
+      "answer": [
+        "black"
+      ]
+    },
+    {
+      "text": "Which color does chokeberry berries have?",
+      "options": [
+        "red",
+        "white",
+        "orange",
+        "gray"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "Name the color of cement mortar.",
+      "options": [
+        "black",
+        "turquoise",
+        "yellow",
+        "violet",
+        "pink"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "Which of these colors describes summer foliage?",
+      "options": [
+        "black",
+        "blue",
+        "orange",
+        "violet",
+        "gray"
+      ],
+      "answer": [
+        "green"
+      ]
+    },
+    {
+      "text": "Which of these colors describes a ripe tomato?",
+      "options": [
+        "green",
+        "pink",
+        "white",
+        "brown",
+        "orange"
+      ],
+      "answer": [
+        "red"
+      ]
+    },
+    {
+      "text": "What is the usual color of a lavender flower head?",
+      "options": [
+        "black",
+        "turquoise",
+        "yellow",
+        "white",
+        "blue"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "What color would you call a pigeon?",
+      "options": [
+        "pink",
+        "red",
+        "green",
+        "turquoise",
+        "orange"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "Name the color of table salt.",
+      "options": [
+        "red",
+        "violet",
+        "pink",
+        "brown"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "What color is a ripe chestnut?",
+      "options": [
+        "pink",
+        "orange",
+        "white",
+        "red",
+        "black",
+        "green"
+      ],
+      "answer": [
+        "brown"
+      ]
+    },
+    {
+      "text": "What color is school chalk?",
+      "options": [
+        "black",
+        "orange",
+        "pink",
+        "red",
+        "green"
+      ],
+      "answer": [
+        "white"
+      ]
+    },
+    {
+      "text": "What is the usual color of a traffic cone?",
+      "options": [
+        "brown",
+        "red",
+        "gray",
+        "white",
+        "pink"
+      ],
+      "answer": [
+        "orange"
+      ]
+    },
+    {
+      "text": "What color would you call an amethyst?",
+      "options": [
+        "turquoise",
+        "yellow",
+        "blue",
+        "brown",
+        "green",
+        "pink"
+      ],
+      "answer": [
+        "violet"
+      ]
+    },
+    {
+      "text": "Which of these colors describes a concrete wall?",
+      "options": [
+        "brown",
+        "red",
+        "black",
+        "pink",
+        "green"
+      ],
+      "answer": [
+        "gray"
+      ]
+    },
+    {
+      "text": "What color is grape juice?",
+      "options": [
+        "green",
+        "white",
+        "blue",
+        "yellow",
+        "pink",
+        "orange"
+      ],
+      "answer": [
+        "violet"
+      ]
+    }
+  ]
+}

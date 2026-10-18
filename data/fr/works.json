@@ -1,0 +1,1814 @@
+{
+  "theme": "Œuvres et leurs auteurs",
+  "questions": [
+    {
+      "text": "Laquelle de ces œuvres doit-on à Jean Renoir ?",
+      "options": [
+        "Les Paradis artificiels",
+        "L'Œuvre au noir",
+        "Ascenseur pour l'échafaud",
+        "L'Enlèvement des Sabines",
+        "Chéri"
+      ],
+      "answer": [
+        "Boudu sauvé des eaux"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Jacques Rivette ?",
+      "options": [
+        "Micromégas",
+        "Romances sans paroles",
+        "Le Carnaval des animaux",
+        "Les Essais",
+        "La Religieuse"
+      ],
+      "answer": [
+        "La Belle Noiseuse"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Paul Valéry ?",
+      "options": [
+        "D'où venons-nous",
+        "Gloria",
+        "Fanny",
+        "Le Divan japonais",
+        "España"
+      ],
+      "answer": [
+        "Charmes",
+        "Le Cimetière marin"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Édouard Manet ?",
+      "options": [
+        "La Nausée",
+        "Brise marine",
+        "Le Bateau ivre",
+        "Le Verrou",
+        "Le Comte de Monte-Cristo"
+      ],
+      "answer": [
+        "Un bar aux Folies Bergère"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Luc Besson ?",
+      "options": [
+        "Huis clos",
+        "L'Atelier du peintre",
+        "Brise marine",
+        "La Mer",
+        "Le Ventre législatif"
+      ],
+      "answer": [
+        "Nikita",
+        "Léon"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Édouard Lalo ?",
+      "options": [
+        "Arearea",
+        "Touchez pas au grisbi",
+        "Les Belles de nuit",
+        "Jocelyn",
+        "La Mère coupable",
+        "Le Deuxième Sexe"
+      ],
+      "answer": [
+        "Le Roi d'Ys"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Michel de Montaigne ?",
+      "options": [
+        "Le Samouraï",
+        "Le Barbier de Séville",
+        "La Grande Illusion",
+        "Madame Bovary",
+        "Le Pont de Narni"
+      ],
+      "answer": [
+        "Journal de voyage en Italie",
+        "Les Essais"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Jean Cocteau ?",
+      "options": [
+        "Les Quatre Cents Coups",
+        "La Gare Saint-Lazare",
+        "Journal de voyage en Italie",
+        "Jeux d'enfants",
+        "La Pourvoyeuse"
+      ],
+      "answer": [
+        "Orphée",
+        "La Belle et la Bête"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par César Franck ?",
+      "options": [
+        "Pavane",
+        "Tel jour telle nuit",
+        "Le Roi des aulnes",
+        "Le Ventre législatif",
+        "La Belle et la Bête"
+      ],
+      "answer": [
+        "Prélude, choral et fugue"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Louis-Ferdinand Céline ?",
+      "options": [
+        "Orphée",
+        "Méditations poétiques",
+        "Jacques le fataliste",
+        "Les Illuminations"
+      ],
+      "answer": [
+        "Mort à crédit",
+        "Voyage au bout de la nuit"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Jean-Baptiste Camille Corot ?",
+      "options": [
+        "La Mare au Diable",
+        "L'Éducation sentimentale",
+        "La Chartreuse de Parme",
+        "Les Essais",
+        "L'Annonce faite à Marie"
+      ],
+      "answer": [
+        "Souvenir de Mortefontaine",
+        "La Femme à la perle"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Eugène Delacroix ?",
+      "options": [
+        "Quai des Orfèvres",
+        "La Religieuse",
+        "Lola",
+        "Le Corbeau et le Renard"
+      ],
+      "answer": [
+        "Dante et Virgile",
+        "La Liberté guidant le peuple"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Jacques Tati ?",
+      "options": [
+        "D'où venons-nous",
+        "Sakountala",
+        "España",
+        "Le Genou de Claire",
+        "L'Assommoir"
+      ],
+      "answer": [
+        "Les Vacances de monsieur Hulot",
+        "Mon oncle"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Henri Matisse ?",
+      "options": [
+        "La Liseuse",
+        "Au Bonheur des dames",
+        "Britannicus",
+        "Gloria"
+      ],
+      "answer": [
+        "La Danse",
+        "La Joie de vivre"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Jacques Prévert ?",
+      "options": [
+        "Gargantua",
+        "Apothéose de Lully",
+        "Le Divan japonais",
+        "Le Barbier de Séville",
+        "Souvenir de Mortefontaine"
+      ],
+      "answer": [
+        "Paroles"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Auguste Renoir ?",
+      "options": [
+        "L'Espoir",
+        "Claudine à l'école",
+        "Le Quai des brumes",
+        "Citadelle",
+        "España",
+        "Un coup de dés jamais n'abolira le hasard"
+      ],
+      "answer": [
+        "La Loge"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Abel Gance ?",
+      "options": [
+        "Le Chien jaune",
+        "Zadig",
+        "Capitale de la douleur",
+        "Graziella"
+      ],
+      "answer": [
+        "Mater dolorosa",
+        "La Dixième Symphonie"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Jean-Baptiste Chardin ?",
+      "options": [
+        "Tel jour telle nuit",
+        "Au Moulin Rouge",
+        "Lettres de mon moulin",
+        "La Grande Odalisque"
+      ],
+      "answer": [
+        "La Pourvoyeuse",
+        "La Raie"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Paul Gauguin ?",
+      "options": [
+        "J'irai cracher sur vos tombes",
+        "L'Homme qui regardait passer les trains",
+        "Ma mère l'Oye",
+        "Gloria",
+        "L'Atalante"
+      ],
+      "answer": [
+        "Arearea",
+        "D'où venons-nous"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Gabriel Fauré ?",
+      "options": [
+        "Le Sacre de Napoléon",
+        "Sous les toits de Paris",
+        "Les Confessions",
+        "Le Roman d'un tricheur",
+        "Terre des hommes"
+      ],
+      "answer": [
+        "Après un rêve"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Théodore Géricault ?",
+      "options": [
+        "L'Homme qui regardait passer les trains",
+        "Les Contes d'Hoffmann",
+        "La Madeleine à la veilleuse",
+        "Le Tricheur à l'as de carreau",
+        "Ascenseur pour l'échafaud",
+        "Zéro de conduite"
+      ],
+      "answer": [
+        "Le Radeau de la Méduse"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Germaine Dulac ?",
+      "options": [
+        "Le Bénédicité",
+        "La Peste d'Asdod",
+        "Parade",
+        "Olympia",
+        "Si j'étais roi",
+        "Le Chien jaune"
+      ],
+      "answer": [
+        "La Coquille et le Clergyman"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à André Gide ?",
+      "options": [
+        "Les Dieux ont soif",
+        "L'Homme qui regardait passer les trains",
+        "L'Armée des ombres",
+        "Mort à crédit",
+        "La Vénus d'Ille"
+      ],
+      "answer": [
+        "L'Immoraliste"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Albert Camus ?",
+      "options": [
+        "Sans toit ni loi",
+        "La Loge",
+        "L'Indifférent",
+        "Illusions perdues",
+        "La Création du monde"
+      ],
+      "answer": [
+        "L'Étranger",
+        "La Peste"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Jean-Pierre Melville ?",
+      "options": [
+        "Pickpocket",
+        "Lakmé",
+        "Namouna",
+        "Dora Bruder",
+        "Le Marteau sans maître"
+      ],
+      "answer": [
+        "Le Cercle rouge",
+        "L'Armée des ombres"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Jean-Paul Sartre ?",
+      "options": [
+        "Le Roi malgré lui",
+        "Christ aux outrages",
+        "Parade",
+        "Symphonie espagnole",
+        "Marius"
+      ],
+      "answer": [
+        "La Nausée",
+        "Huis clos"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Marguerite Yourcenar ?",
+      "options": [
+        "Scaramouche",
+        "Ma nuit chez Maud",
+        "Pli selon pli",
+        "Harold en Italie"
+      ],
+      "answer": [
+        "Alexis",
+        "L'Œuvre au noir"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Georges Bizet ?",
+      "options": [
+        "Les Provinciales",
+        "Les Diaboliques",
+        "Symphonie fantastique",
+        "Gloria"
+      ],
+      "answer": [
+        "Les Pêcheurs de perles",
+        "Jeux d'enfants"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Claude Debussy ?",
+      "options": [
+        "La Joie de vivre",
+        "L'Origine du monde",
+        "Les Fiançailles de monsieur Hire",
+        "Gaspard, Melchior et Balthazar",
+        "Les Glaneuses"
+      ],
+      "answer": [
+        "La Mer",
+        "Pelléas et Mélisande"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Georges Seurat ?",
+      "options": [
+        "Le Tiers Livre",
+        "Le Bain turc",
+        "Après un rêve",
+        "Tartarin de Tarascon",
+        "L'Étoile",
+        "Le Million"
+      ],
+      "answer": [
+        "Le Cirque"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Camille Pissarro ?",
+      "options": [
+        "Dante et Virgile",
+        "Rhinocéros",
+        "Les Bourgeois de Calais",
+        "La Règle du jeu"
+      ],
+      "answer": [
+        "Le Verger",
+        "Les Toits rouges"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur René Clair ?",
+      "options": [
+        "Coppélia",
+        "Le Roman d'un tricheur",
+        "Les Fleurs du mal",
+        "Un bar aux Folies Bergère",
+        "Élégie",
+        "Lola"
+      ],
+      "answer": [
+        "Le Million"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Marc-Antoine Charpentier ?",
+      "options": [
+        "L'Amant",
+        "Les Diaboliques",
+        "Sous les toits de Paris",
+        "Un bar aux Folies Bergère",
+        "Le Deuxième Sexe",
+        "Pauline à la plage"
+      ],
+      "answer": [
+        "David et Jonathas"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Jean Vigo ?",
+      "options": [
+        "Le Spleen de Paris",
+        "Playtime",
+        "Salammbô",
+        "Les Belles de nuit",
+        "La Leçon"
+      ],
+      "answer": [
+        "L'Atalante"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Jean-Baptiste Lully ?",
+      "options": [
+        "Brise marine",
+        "Journal de voyage en Italie",
+        "Parade",
+        "David et Jonathas",
+        "Un barrage contre le Pacifique",
+        "L'Armée des ombres"
+      ],
+      "answer": [
+        "Atys"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Arthur Rimbaud ?",
+      "options": [
+        "Lorenzaccio",
+        "Candide",
+        "Le Mythe de Sisyphe",
+        "Pelléas et Mélisande",
+        "La Pointe courte"
+      ],
+      "answer": [
+        "Les Illuminations"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Victor Hugo ?",
+      "options": [
+        "Les Troyens",
+        "Alceste",
+        "L'Angélus",
+        "La Mare au Diable",
+        "La Jolie Fille de Perth"
+      ],
+      "answer": [
+        "Les Contemplations",
+        "Quatrevingt-treize"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Georges de La Tour ?",
+      "options": [
+        "Sido",
+        "Le Trou",
+        "Le Bain turc",
+        "Le Poète assassiné",
+        "Les Demoiselles de Rochefort"
+      ],
+      "answer": [
+        "Le Nouveau-né"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Stendhal ?",
+      "options": [
+        "Poème de l'amour et de la mer",
+        "Jocelyn",
+        "Aurélien",
+        "Les Fleurs du mal",
+        "Une vie"
+      ],
+      "answer": [
+        "Le Rouge et le Noir",
+        "La Chartreuse de Parme"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Pierre Corneille ?",
+      "options": [
+        "Le Marteau sans maître",
+        "Le Ventre législatif",
+        "La Pluie et le beau temps",
+        "Les Joueurs de cartes"
+      ],
+      "answer": [
+        "Horace",
+        "Le Cid"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Arthur Honegger ?",
+      "options": [
+        "Mater dolorosa",
+        "L'Annonce faite à Marie",
+        "Le Penseur",
+        "Le Verrou"
+      ],
+      "answer": [
+        "Rugby",
+        "Pacific 231"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Bertrand Tavernier ?",
+      "options": [
+        "Un dimanche après-midi à l'île de la Grande Jatte",
+        "Le Petit Chaperon rouge",
+        "Les Choses",
+        "La Grande Illusion",
+        "Panique"
+      ],
+      "answer": [
+        "La Vie et rien d'autre",
+        "Un dimanche à la campagne"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Samuel Beckett ?",
+      "options": [
+        "La Pointe courte",
+        "Danse macabre",
+        "Alcools",
+        "L'Étranger"
+      ],
+      "answer": [
+        "En attendant Godot",
+        "Oh les beaux jours"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Louis Aragon ?",
+      "options": [
+        "Turangalîla",
+        "La Jeune Parque",
+        "La Liberté guidant le peuple",
+        "Lucien Leuwen"
+      ],
+      "answer": [
+        "Les Yeux d'Elsa",
+        "Aurélien"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Émile Zola ?",
+      "options": [
+        "La Peste d'Asdod",
+        "Aurélien",
+        "À la recherche du temps perdu",
+        "Giselle",
+        "La Mare au Diable",
+        "Harold en Italie"
+      ],
+      "answer": [
+        "L'Assommoir"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Denis Diderot ?",
+      "options": [
+        "L'Indifférent",
+        "Marius",
+        "Panique",
+        "Tartarin de Tarascon"
+      ],
+      "answer": [
+        "Jacques le fataliste",
+        "Le Neveu de Rameau"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Antoine de Saint-Exupéry ?",
+      "options": [
+        "La Madeleine à la veilleuse",
+        "Graziella",
+        "La Leçon",
+        "Les Mains sales",
+        "Le Roman d'un tricheur"
+      ],
+      "answer": [
+        "Citadelle"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par André Malraux ?",
+      "options": [
+        "Namouna",
+        "Salammbô",
+        "Le Déjeuner des canotiers",
+        "La Jolie Fille de Perth",
+        "Le Comte de Monte-Cristo"
+      ],
+      "answer": [
+        "L'Espoir",
+        "La Condition humaine"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Jean-Luc Godard ?",
+      "options": [
+        "Huis clos",
+        "L'Indifférent",
+        "Lucien Leuwen",
+        "L'Invitée",
+        "Que la fête commence",
+        "Capitale de la douleur"
+      ],
+      "answer": [
+        "À bout de souffle"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Ernest Chausson ?",
+      "options": [
+        "Mon oncle",
+        "Le Semeur",
+        "On ne badine pas avec l'amour",
+        "Colomba"
+      ],
+      "answer": [
+        "Viviane",
+        "Poème de l'amour et de la mer"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Alain Resnais ?",
+      "options": [
+        "Les Contemplations",
+        "Sagesse",
+        "Les Poseuses",
+        "Voyage au bout de la nuit",
+        "Le Cid",
+        "Chéri"
+      ],
+      "answer": [
+        "L'Année dernière à Marienbad"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Georges Rouault ?",
+      "options": [
+        "Claudine à l'école",
+        "Germinal",
+        "Les Quatre Cents Coups",
+        "Le Bœuf sur le toit",
+        "La Belle Hélène",
+        "Le Neveu de Rameau"
+      ],
+      "answer": [
+        "Les Juges"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Michel Tournier ?",
+      "options": [
+        "Le Roman d'un tricheur",
+        "Pickpocket",
+        "Une saison en enfer",
+        "La Pluie et le beau temps",
+        "Les Fleurs du mal"
+      ],
+      "answer": [
+        "Gaspard, Melchior et Balthazar",
+        "Le Roi des aulnes"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Marcel Pagnol ?",
+      "options": [
+        "Après un rêve",
+        "La Mort de Sardanapale",
+        "Lorenzaccio",
+        "Le Comte de Monte-Cristo",
+        "Du contrat social"
+      ],
+      "answer": [
+        "Marius",
+        "Topaze"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Marcel Carné ?",
+      "options": [
+        "Les Poseuses",
+        "Les Émigrants",
+        "Le Chat botté",
+        "Le Portugais",
+        "Samson et Dalila"
+      ],
+      "answer": [
+        "Hôtel du Nord"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Sacha Guitry ?",
+      "options": [
+        "Lettres de mon moulin",
+        "Les Pensées",
+        "Moderato cantabile",
+        "L'Écume des jours",
+        "Les Trois Mousquetaires"
+      ],
+      "answer": [
+        "Le Comédien",
+        "Le Roman d'un tricheur"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Jules Verne ?",
+      "options": [
+        "Le Genou de Claire",
+        "Le Samouraï",
+        "L'Immoraliste",
+        "Tartuffe",
+        "Bel-Ami",
+        "Les Belles de nuit"
+      ],
+      "answer": [
+        "Le Tour du monde en quatre-vingts jours"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Jean-Jacques Rousseau ?",
+      "options": [
+        "Le Cimetière marin",
+        "Le Neveu de Rameau",
+        "Madame Bovary",
+        "Le Marteau sans maître"
+      ],
+      "answer": [
+        "Émile",
+        "Du contrat social"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Léo Delibes ?",
+      "options": [
+        "Du contrat social",
+        "Le Roi des aulnes",
+        "Lettres de mon moulin",
+        "Le Serment des Horaces",
+        "Les Mains sales"
+      ],
+      "answer": [
+        "Lakmé"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Paul Verlaine ?",
+      "options": [
+        "Gnossiennes",
+        "L'Angélus",
+        "Les Dieux ont soif",
+        "Ma nuit chez Maud",
+        "Salammbô"
+      ],
+      "answer": [
+        "Fêtes galantes",
+        "Sagesse"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Stéphane Mallarmé ?",
+      "options": [
+        "L'Invitée",
+        "Aurélien",
+        "Un enterrement à Ornans",
+        "L'Espoir"
+      ],
+      "answer": [
+        "Un coup de dés jamais n'abolira le hasard",
+        "Brise marine"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Claude Monet ?",
+      "options": [
+        "Les Indes galantes",
+        "Les Glaneurs et la Glaneuse",
+        "Médée",
+        "Si Versailles m'était conté",
+        "Lorenzaccio",
+        "L'Homme qui rit"
+      ],
+      "answer": [
+        "Impression, soleil levant"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Robert Bresson ?",
+      "options": [
+        "Le Tiers Livre",
+        "Le Crime de Sylvestre Bonnard",
+        "La Joie de vivre",
+        "Les Dieux ont soif",
+        "Orphée"
+      ],
+      "answer": [
+        "Au hasard Balthazar",
+        "Un condamné à mort s'est échappé"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Anatole France ?",
+      "options": [
+        "Sido",
+        "Mort à crédit",
+        "Le Million",
+        "Le Penseur"
+      ],
+      "answer": [
+        "Les Dieux ont soif",
+        "L'Île des Pingouins"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à George Sand ?",
+      "options": [
+        "Émile",
+        "Les Toits rouges",
+        "Le Ventre législatif",
+        "Panique"
+      ],
+      "answer": [
+        "Lélia",
+        "Indiana"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Colette ?",
+      "options": [
+        "Marius",
+        "Le Comte de Monte-Cristo",
+        "L'Atelier du peintre",
+        "Un coup de dés jamais n'abolira le hasard",
+        "Les Troyens",
+        "L'Art de toucher le clavecin"
+      ],
+      "answer": [
+        "Claudine à l'école"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Jean-François Millet ?",
+      "options": [
+        "Le Divan japonais",
+        "Le Portugais",
+        "Topaze",
+        "La Petite Châtelaine"
+      ],
+      "answer": [
+        "Le Semeur",
+        "Les Glaneuses"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Paul Dukas ?",
+      "options": [
+        "Les Vacances de monsieur Hulot",
+        "Vol de nuit",
+        "Alcools",
+        "Les Béatitudes",
+        "Le Bain turc",
+        "Topaze"
+      ],
+      "answer": [
+        "La Péri"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Gustave Courbet ?",
+      "options": [
+        "Mémoires d'Hadrien",
+        "Graziella",
+        "Le Cid",
+        "La Princesse de Clèves",
+        "Le Pont de Narni"
+      ],
+      "answer": [
+        "Un enterrement à Ornans"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Darius Milhaud ?",
+      "options": [
+        "Sagesse",
+        "Gaspard, Melchior et Balthazar",
+        "Le Barbier de Séville",
+        "La Peste d'Asdod"
+      ],
+      "answer": [
+        "La Création du monde",
+        "Le Bœuf sur le toit"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Nicolas Poussin ?",
+      "options": [
+        "Le Trou",
+        "Le Lièvre et la Tortue",
+        "Les Mains sales",
+        "Turangalîla",
+        "L'Écume des jours"
+      ],
+      "answer": [
+        "L'Enlèvement des Sabines"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Honoré de Balzac ?",
+      "options": [
+        "Indiana",
+        "La Princesse de Clèves",
+        "Micromégas",
+        "Du contrat social",
+        "Un enterrement à Ornans"
+      ],
+      "answer": [
+        "Le Père Goriot",
+        "Illusions perdues"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Gustave Flaubert ?",
+      "options": [
+        "Les Bergers d'Arcadie",
+        "Germinal",
+        "La Vénus d'Ille",
+        "Les Parapluies de Cherbourg",
+        "Brise marine",
+        "Le Poète assassiné"
+      ],
+      "answer": [
+        "Madame Bovary"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Patrick Modiano ?",
+      "options": [
+        "Pacific 231",
+        "À bout de souffle",
+        "Orphée aux enfers",
+        "L'Enfant sauvage",
+        "Paroles"
+      ],
+      "answer": [
+        "Rue des Boutiques obscures"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Jacques Offenbach ?",
+      "options": [
+        "Spectacle",
+        "Paris nous appartient",
+        "Tête d'or",
+        "Fanny",
+        "Le Sacre de Napoléon",
+        "Émile"
+      ],
+      "answer": [
+        "Orphée aux enfers"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Camille Saint-Saëns ?",
+      "options": [
+        "Le Bain turc",
+        "La Belle Noiseuse",
+        "Les Glaneuses",
+        "Claudine à l'école",
+        "Zadig"
+      ],
+      "answer": [
+        "Le Carnaval des animaux"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Jacques-Louis David ?",
+      "options": [
+        "Les Conquérants",
+        "Huis clos",
+        "Mon oncle",
+        "La Création du monde"
+      ],
+      "answer": [
+        "Le Serment des Horaces",
+        "Le Sacre de Napoléon"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Beaumarchais ?",
+      "options": [
+        "Boudu sauvé des eaux",
+        "Un dimanche après-midi à l'île de la Grande Jatte",
+        "Les Poseuses",
+        "Apothéose de Lully"
+      ],
+      "answer": [
+        "Le Barbier de Séville",
+        "Le Mariage de Figaro"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Jean Giono ?",
+      "options": [
+        "La Création du monde",
+        "Marius",
+        "David et Jonathas",
+        "Panique"
+      ],
+      "answer": [
+        "Colline",
+        "Regain"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Georges Perec ?",
+      "options": [
+        "Viviane",
+        "La Reine Margot",
+        "Pli selon pli",
+        "Mon oncle d'Amérique",
+        "Le Sacre de Napoléon"
+      ],
+      "answer": [
+        "Les Choses"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Adolphe Adam ?",
+      "options": [
+        "Charmes",
+        "Journal de voyage en Italie",
+        "La Princesse de Clèves",
+        "Armide"
+      ],
+      "answer": [
+        "Le Postillon de Lonjumeau",
+        "Giselle"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par François Rabelais ?",
+      "options": [
+        "La Petite Danseuse de quatorze ans",
+        "La Belle Équipe",
+        "La Grande Illusion",
+        "Pauline à la plage",
+        "Villanelle"
+      ],
+      "answer": [
+        "Le Tiers Livre",
+        "Gargantua"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Paul Cézanne ?",
+      "options": [
+        "À la recherche du temps perdu",
+        "Touchez pas au grisbi",
+        "Les Juges",
+        "Le Petit Chaperon rouge",
+        "La Princesse de Clèves"
+      ],
+      "answer": [
+        "Les Grandes Baigneuses"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Jean Racine ?",
+      "options": [
+        "Les Quatre Cents Coups",
+        "La Mer",
+        "Dialogues des carmélites",
+        "Zadig",
+        "Rugby",
+        "L'Île des Pingouins"
+      ],
+      "answer": [
+        "Phèdre"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Georges Braque ?",
+      "options": [
+        "Mémoires d'une jeune fille rangée",
+        "Tartarin de Tarascon",
+        "Le Poète assassiné",
+        "Les Béatitudes",
+        "Capitale de la douleur"
+      ],
+      "answer": [
+        "Le Portugais",
+        "Le Viaduc à l'Estaque"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Guillaume Apollinaire ?",
+      "options": [
+        "Christ aux outrages",
+        "Le Boucher",
+        "L'Angélus",
+        "Pantagruel",
+        "Ascenseur pour l'échafaud"
+      ],
+      "answer": [
+        "Le Poète assassiné"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Boris Vian ?",
+      "options": [
+        "La Pluie et le beau temps",
+        "Émile",
+        "La Souriante Madame Beudet",
+        "Christ aux outrages",
+        "L'Absinthe"
+      ],
+      "answer": [
+        "L'Arrache-cœur"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Paul Claudel ?",
+      "options": [
+        "Le Horla",
+        "Sylvia",
+        "Fanny",
+        "La Pourvoyeuse"
+      ],
+      "answer": [
+        "L'Annonce faite à Marie",
+        "Le Soulier de satin"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Jacques Demy ?",
+      "options": [
+        "Le Cimetière marin",
+        "Moderato cantabile",
+        "Les Pêcheurs de perles",
+        "En attendant Godot",
+        "Micromégas"
+      ],
+      "answer": [
+        "Lola",
+        "Les Parapluies de Cherbourg"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Pierre Boulez ?",
+      "options": [
+        "Britannicus",
+        "Le Postillon de Lonjumeau",
+        "Le Roman d'un tricheur",
+        "Les Toits rouges",
+        "David et Jonathas"
+      ],
+      "answer": [
+        "Le Marteau sans maître"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Francis Poulenc ?",
+      "options": [
+        "Villa triste",
+        "Catalogue d'oiseaux",
+        "Pelléas et Mélisande",
+        "Le Quai des brumes",
+        "Gilles"
+      ],
+      "answer": [
+        "Dialogues des carmélites"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Jean de La Fontaine ?",
+      "options": [
+        "L'Arrache-cœur",
+        "Élégie",
+        "La Liberté guidant le peuple",
+        "Au Moulin Rouge",
+        "Les Pensées",
+        "L'Espoir"
+      ],
+      "answer": [
+        "Le Lièvre et la Tortue"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Claude Chabrol ?",
+      "options": [
+        "Quai des Orfèvres",
+        "Le Chat botté",
+        "Marius",
+        "Officier de chasseurs à cheval"
+      ],
+      "answer": [
+        "Le Boucher",
+        "Violette Nozière"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Jacques Becker ?",
+      "options": [
+        "Si Versailles m'était conté",
+        "Les Troyens",
+        "Indiana",
+        "La Madeleine à la veilleuse",
+        "La Porte de l'Enfer"
+      ],
+      "answer": [
+        "Touchez pas au grisbi",
+        "Le Trou"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Alphonse de Lamartine ?",
+      "options": [
+        "Les Émigrants",
+        "Hippolyte et Aricie",
+        "Un enterrement à Ornans",
+        "Le Père Goriot"
+      ],
+      "answer": [
+        "Jocelyn",
+        "Graziella"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Simone de Beauvoir ?",
+      "options": [
+        "L'Écume des jours",
+        "Le Cercle rouge",
+        "Un coup de dés jamais n'abolira le hasard",
+        "Le Trou",
+        "Le Soulier de satin"
+      ],
+      "answer": [
+        "Mémoires d'une jeune fille rangée",
+        "L'Invitée"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Charles Perrault ?",
+      "options": [
+        "Les Joueurs de cartes",
+        "Apothéose de Lully",
+        "Sylvia",
+        "Nuit et brouillard",
+        "La Danse"
+      ],
+      "answer": [
+        "Le Chat botté",
+        "Le Petit Chaperon rouge"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Henri de Toulouse-Lautrec ?",
+      "options": [
+        "La Peste",
+        "Les Choses",
+        "Le Quai des brumes",
+        "L'Origine du monde"
+      ],
+      "answer": [
+        "Au Moulin Rouge",
+        "Le Divan japonais"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Jean-Philippe Rameau ?",
+      "options": [
+        "Le Mythe de Sisyphe",
+        "Symphonie espagnole",
+        "Le Tiers Livre",
+        "Atys"
+      ],
+      "answer": [
+        "Hippolyte et Aricie",
+        "Les Indes galantes"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Emmanuel Chabrier ?",
+      "options": [
+        "Les Quatre Cents Coups",
+        "Le Viaduc à l'Estaque",
+        "Le Salaire de la peur",
+        "La Gare Saint-Lazare",
+        "Dante et Virgile",
+        "Le Semeur"
+      ],
+      "answer": [
+        "España"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par François Truffaut ?",
+      "options": [
+        "Sylvia",
+        "La Condition humaine",
+        "Maisons à l'Estaque",
+        "Touchez pas au grisbi",
+        "L'Œuvre au noir"
+      ],
+      "answer": [
+        "L'Enfant sauvage",
+        "Les Quatre Cents Coups"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Charles Baudelaire ?",
+      "options": [
+        "L'Espoir",
+        "Le Rouge et le Noir",
+        "Le Petit Chaperon rouge",
+        "La Grande Odalisque",
+        "Le Comte de Monte-Cristo"
+      ],
+      "answer": [
+        "Le Spleen de Paris"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Voltaire ?",
+      "options": [
+        "Le Déjeuner des canotiers",
+        "Le Tricheur à l'as de carreau",
+        "Mémoires d'outre-tombe",
+        "La Reine Margot",
+        "Le Trou"
+      ],
+      "answer": [
+        "Zadig",
+        "Micromégas"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Marcel Proust ?",
+      "options": [
+        "Regain",
+        "Lettres de mon moulin",
+        "Pelléas et Mélisande",
+        "La Nausée"
+      ],
+      "answer": [
+        "Le Temps retrouvé",
+        "À la recherche du temps perdu"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Camille Claudel ?",
+      "options": [
+        "Le Radeau de la Méduse",
+        "Hippolyte et Aricie",
+        "Dora Bruder",
+        "Mort à crédit",
+        "Le Deuxième Sexe",
+        "Capitale de la douleur"
+      ],
+      "answer": [
+        "Sakountala"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Hector Berlioz ?",
+      "options": [
+        "Un coup de dés jamais n'abolira le hasard",
+        "Une vie",
+        "Phèdre",
+        "Mon oncle",
+        "La Liberté guidant le peuple"
+      ],
+      "answer": [
+        "Les Troyens"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Alfred de Musset ?",
+      "options": [
+        "La Gare Saint-Lazare",
+        "Zéro de conduite",
+        "Oh les beaux jours",
+        "La Reine Margot",
+        "Le Petit Chose",
+        "La Cérémonie"
+      ],
+      "answer": [
+        "On ne badine pas avec l'amour"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Éric Rohmer ?",
+      "options": [
+        "Impression, soleil levant",
+        "La Pourvoyeuse",
+        "Les Faux-Monnayeurs",
+        "L'Absinthe",
+        "L'Arrache-cœur"
+      ],
+      "answer": [
+        "Pauline à la plage"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à François Couperin ?",
+      "options": [
+        "L'Âge mûr",
+        "Mort à crédit",
+        "Les Provinciales",
+        "Paroles",
+        "La Coquille et le Clergyman",
+        "Après un rêve"
+      ],
+      "answer": [
+        "Apothéose de Lully"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Louis Malle ?",
+      "options": [
+        "Les Béatitudes",
+        "Tartarin de Tarascon",
+        "Zadig",
+        "Armide",
+        "Répons"
+      ],
+      "answer": [
+        "Au revoir les enfants"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Antoine Watteau ?",
+      "options": [
+        "Tête d'or",
+        "Madame Bovary",
+        "Pickpocket",
+        "Violette Nozière"
+      ],
+      "answer": [
+        "Gilles",
+        "L'Indifférent"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Molière ?",
+      "options": [
+        "Une saison en enfer",
+        "Madame Bovary",
+        "Daphnis et Chloé",
+        "Le Bœuf sur le toit",
+        "L'Île des Pingouins",
+        "Les Paradis artificiels"
+      ],
+      "answer": [
+        "L'Avare"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Blaise Pascal ?",
+      "options": [
+        "Britannicus",
+        "Le Roi malgré lui",
+        "Les Caprices de Marianne",
+        "La Petite Châtelaine"
+      ],
+      "answer": [
+        "Les Pensées",
+        "Les Provinciales"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Jean-Auguste-Dominique Ingres ?",
+      "options": [
+        "La Porte étroite",
+        "Léon",
+        "Le Cercle rouge",
+        "La Souriante Madame Beudet",
+        "Le Cirque",
+        "Romances sans paroles"
+      ],
+      "answer": [
+        "L'Apothéose d'Homère"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Jean-Honoré Fragonard ?",
+      "options": [
+        "Léon",
+        "L'Atelier du peintre",
+        "Le Bain turc",
+        "Les Quatre Cents Coups",
+        "Le Salaire de la peur",
+        "Paroles"
+      ],
+      "answer": [
+        "Le Verrou"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Auguste Rodin ?",
+      "options": [
+        "Apothéose de Lully",
+        "La Dixième Symphonie",
+        "Eugénie Grandet",
+        "Tel jour telle nuit",
+        "Le Horla"
+      ],
+      "answer": [
+        "Les Bourgeois de Calais",
+        "La Porte de l'Enfer"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Agnès Varda ?",
+      "options": [
+        "Charmes",
+        "La Danse",
+        "Le Grand Bleu",
+        "Le Bœuf sur le toit",
+        "Symphonie espagnole"
+      ],
+      "answer": [
+        "Sans toit ni loi"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres a été créée par Alexandre Dumas ?",
+      "options": [
+        "La Nausée",
+        "La Vision après le sermon",
+        "Coppélia",
+        "Le Serment des Horaces",
+        "L'Arrache-cœur"
+      ],
+      "answer": [
+        "Le Comte de Monte-Cristo"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Honoré Daumier ?",
+      "options": [
+        "Orphée aux enfers",
+        "Jeanne d'Arc au bûcher",
+        "Le Nouveau-né",
+        "La Religieuse",
+        "Pickpocket",
+        "Pépé le Moko"
+      ],
+      "answer": [
+        "Le Ventre législatif"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Prosper Mérimée ?",
+      "options": [
+        "Les Paradis artificiels",
+        "Le Boucher",
+        "Aurélien",
+        "Romances sans paroles",
+        "Fêtes galantes"
+      ],
+      "answer": [
+        "La Vénus d'Ille",
+        "Mateo Falcone"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Edgar Degas ?",
+      "options": [
+        "Tartarin de Tarascon",
+        "La Mare au Diable",
+        "Le Sang d'un poète",
+        "Les Faux-Monnayeurs",
+        "Les Glaneuses",
+        "L'Atelier rouge"
+      ],
+      "answer": [
+        "L'Absinthe"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Julien Duvivier ?",
+      "options": [
+        "Le Postillon de Lonjumeau",
+        "Phèdre",
+        "Lakmé",
+        "Le Pont de Narni",
+        "Zéro de conduite"
+      ],
+      "answer": [
+        "La Belle Équipe"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Eugène Ionesco ?",
+      "options": [
+        "Le Corbeau et le Renard",
+        "Pavane",
+        "Les Essais",
+        "Ma mère l'Oye",
+        "Le Cid"
+      ],
+      "answer": [
+        "Rhinocéros"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Marguerite Duras ?",
+      "options": [
+        "Poème de l'amour et de la mer",
+        "Céline et Julie vont en bateau",
+        "Au Bonheur des dames",
+        "Les Fiançailles de monsieur Hire",
+        "Zaïde",
+        "Les Poseuses"
+      ],
+      "answer": [
+        "Un barrage contre le Pacifique"
+      ]
+    },
+    {
+      "text": "Quel titre de cette liste a pour auteur Maurice Ravel ?",
+      "options": [
+        "Les Joueurs de cartes",
+        "L'Assommoir",
+        "Le Carnaval des animaux",
+        "Dora Bruder",
+        "Pauline à la plage",
+        "Céline et Julie vont en bateau"
+      ],
+      "answer": [
+        "Ma mère l'Oye"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Erik Satie ?",
+      "options": [
+        "Le Rouge et le Noir",
+        "Lélia",
+        "Un dimanche à la campagne",
+        "La Grande Illusion",
+        "L'Année dernière à Marienbad",
+        "Le Carnaval des animaux"
+      ],
+      "answer": [
+        "Gnossiennes"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Chateaubriand ?",
+      "options": [
+        "Dante et Virgile",
+        "Rugby",
+        "Le Deuxième Sexe",
+        "La Joie de vivre",
+        "Colline"
+      ],
+      "answer": [
+        "René",
+        "Mémoires d'outre-tombe"
+      ]
+    },
+    {
+      "text": "Quelle œuvre de cette liste est signée Paul Éluard ?",
+      "options": [
+        "Une vie",
+        "Le Postillon de Lonjumeau",
+        "Phèdre",
+        "Le Poète assassiné",
+        "Marius"
+      ],
+      "answer": [
+        "Liberté"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Georges Simenon ?",
+      "options": [
+        "Nuit et brouillard",
+        "Une saison en enfer",
+        "Mateo Falcone",
+        "Mémoires d'Hadrien",
+        "Les Choses"
+      ],
+      "answer": [
+        "L'Homme qui regardait passer les trains"
+      ]
+    },
+    {
+      "text": "Quelles sont les deux œuvres de cette liste que l’on doit à Guy de Maupassant ?",
+      "options": [
+        "La Petite Châtelaine",
+        "La Mort de Marat",
+        "Journal de voyage en Italie",
+        "Les Choses"
+      ],
+      "answer": [
+        "Une vie",
+        "Le Horla"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Olivier Messiaen ?",
+      "options": [
+        "Namouna",
+        "Les Troyens",
+        "Le Million",
+        "Dora Bruder",
+        "La Nausée"
+      ],
+      "answer": [
+        "Turangalîla",
+        "Quatuor pour la fin du temps"
+      ]
+    },
+    {
+      "text": "Quels deux titres de cette liste sont signés par Alphonse Daudet ?",
+      "options": [
+        "Les Glaneuses",
+        "Jeanne d'Arc au bûcher",
+        "Gymnopédies",
+        "La Princesse de Clèves",
+        "Lola"
+      ],
+      "answer": [
+        "Le Petit Chose",
+        "Tartarin de Tarascon"
+      ]
+    },
+    {
+      "text": "Laquelle de ces œuvres doit-on à Madame de La Fayette ?",
+      "options": [
+        "La Vénus d'Ille",
+        "Les Juges",
+        "Le Bain turc",
+        "L'Âge mûr",
+        "Parade",
+        "Hippolyte et Aricie"
+      ],
+      "answer": [
+        "Zaïde"
+      ]
+    },
+    {
+      "text": "Parmi ces œuvres, laquelle appartient à Henri-Georges Clouzot ?",
+      "options": [
+        "Romances sans paroles",
+        "La Vénus d'Ille",
+        "À bout de souffle",
+        "Les Belles de nuit",
+        "Atala"
+      ],
+      "answer": [
+        "Le Salaire de la peur"
+      ]
+    }
+  ]
+}

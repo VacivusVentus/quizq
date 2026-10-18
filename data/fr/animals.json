@@ -1,0 +1,1331 @@
+{
+  "theme": "Animaux",
+  "questions": [
+    {
+      "text": "Quel animal est-ce : « sa maison s'appelle une hutte et son entrée est cachée sous l'eau » ?",
+      "options": [
+        "loup",
+        "ours",
+        "chien",
+        "paon"
+      ],
+      "answer": [
+        "castor"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « son bec recourbé filtre l'eau des lacs salés » ?",
+      "options": [
+        "écureuil",
+        "tigre",
+        "papillon",
+        "chien",
+        "dauphin"
+      ],
+      "answer": [
+        "flamant"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il commence sa vie en chenille puis devient chrysalide » ?",
+      "options": [
+        "caméléon",
+        "renard",
+        "abeille",
+        "dauphin",
+        "écureuil"
+      ],
+      "answer": [
+        "papillon"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il se passe des semaines sans boire et on l'appelle le vaisseau du désert » ?",
+      "options": [
+        "tortue",
+        "crocodile",
+        "paon",
+        "manchot",
+        "lièvre"
+      ],
+      "answer": [
+        "chameau"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « sa langue mesure près d'un demi-mètre et tire sur le bleu » ?",
+      "options": [
+        "aigle",
+        "hérisson",
+        "kangourou",
+        "dauphin",
+        "hibou"
+      ],
+      "answer": [
+        "girafe"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « elle porte le pollen dans des paniers sur ses pattes arrière et ne pique qu'une fois » ?",
+      "options": [
+        "cheval",
+        "loup",
+        "écureuil",
+        "paon",
+        "hibou"
+      ],
+      "answer": [
+        "abeille"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « il filtre l'eau à travers des fanons pour manger de minuscules crevettes » ?",
+      "options": [
+        "chien",
+        "lièvre",
+        "éléphant",
+        "manchot"
+      ],
+      "answer": [
+        "baleine"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « en automne il suspend des champignons aux branches pour les faire sécher » ?",
+      "options": [
+        "dauphin",
+        "castor",
+        "chameau",
+        "paon",
+        "zèbre"
+      ],
+      "answer": [
+        "écureuil"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il a des ailes vives couvertes de dessins et voltige de fleur en fleur » ?",
+      "options": [
+        "kangourou",
+        "zèbre",
+        "baleine",
+        "autruche",
+        "aigle"
+      ],
+      "answer": [
+        "papillon"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « il attrape les feuilles d'acacia tout en haut des arbres » ?",
+      "options": [
+        "paon",
+        "hibou",
+        "aigle",
+        "caméléon",
+        "panda"
+      ],
+      "answer": [
+        "girafe"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « on l'appelle le roi des animaux » ?",
+      "options": [
+        "ours",
+        "autruche",
+        "chien",
+        "cheval",
+        "éléphant"
+      ],
+      "answer": [
+        "lion"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « sa queue touffue lui sert de gouvernail quand il saute » ?",
+      "options": [
+        "tortue",
+        "zèbre",
+        "dauphin",
+        "éléphant"
+      ],
+      "answer": [
+        "écureuil"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il bondit de branche en branche et cache des noisettes pour l'hiver » ?",
+      "options": [
+        "panda",
+        "castor",
+        "araignée",
+        "aigle",
+        "papillon",
+        "girafe"
+      ],
+      "answer": [
+        "écureuil"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « il remue la queue de joie et donne la patte » ?",
+      "options": [
+        "hérisson",
+        "manchot",
+        "chameau",
+        "aigle",
+        "castor"
+      ],
+      "answer": [
+        "chien"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il porte une ou deux bosses pleines de graisse sur le dos » ?",
+      "options": [
+        "abeille",
+        "kangourou",
+        "lièvre",
+        "manchot",
+        "loup"
+      ],
+      "answer": [
+        "chameau"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « il a une queue rousse et touffue au bout blanc ».",
+      "options": [
+        "fourmi",
+        "manchot",
+        "caméléon",
+        "éléphant"
+      ],
+      "answer": [
+        "renard"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « un oiseau qui ne sait pas voler mais nage à merveille » ?",
+      "options": [
+        "zèbre",
+        "tortue",
+        "ours",
+        "crocodile",
+        "lion"
+      ],
+      "answer": [
+        "manchot"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il dort tout l'hiver dans une tanière creusée sous les racines » ?",
+      "options": [
+        "autruche",
+        "chameau",
+        "tigre",
+        "caméléon",
+        "manchot",
+        "hérisson"
+      ],
+      "answer": [
+        "ours"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « dans les contes c'est le plus malin et il berne ses voisins » ?",
+      "options": [
+        "loup",
+        "dauphin",
+        "aigle",
+        "paon",
+        "crocodile"
+      ],
+      "answer": [
+        "renard"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « ses larges pieds calleux ne s'enfoncent pas dans le sable » ?",
+      "options": [
+        "ours",
+        "papillon",
+        "cobra",
+        "chien",
+        "éléphant",
+        "tortue"
+      ],
+      "answer": [
+        "chameau"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « le dessin de ses rayures ne ressemble à aucun autre » ?",
+      "options": [
+        "chien",
+        "écureuil",
+        "autruche",
+        "baleine",
+        "tortue",
+        "cheval"
+      ],
+      "answer": [
+        "zèbre"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « il respire l'air et souffle un jet par son évent » ?",
+      "options": [
+        "paon",
+        "panda",
+        "hibou",
+        "éléphant",
+        "tortue",
+        "kangourou"
+      ],
+      "answer": [
+        "baleine"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « il replie les ailes et tombe comme une pierre sur sa proie » ?",
+      "options": [
+        "paon",
+        "kangourou",
+        "flamant",
+        "caméléon",
+        "chameau"
+      ],
+      "answer": [
+        "aigle"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « des touffes de plumes sur sa tête ressemblent à des oreilles et il hulule » ?",
+      "options": [
+        "araignée",
+        "girafe",
+        "kangourou",
+        "chameau"
+      ],
+      "answer": [
+        "hibou"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « il peut tourner la tête presque à deux cent soixante-dix degrés » ?",
+      "options": [
+        "abeille",
+        "tigre",
+        "papillon",
+        "castor",
+        "renard",
+        "aigle"
+      ],
+      "answer": [
+        "hibou"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « il a des cernes sombres autour des yeux, comme des lunettes » ?",
+      "options": [
+        "abeille",
+        "chameau",
+        "renard",
+        "chien",
+        "zèbre",
+        "flamant"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « il porte des rayures noires et blanches sur tout le corps ».",
+      "options": [
+        "loup",
+        "castor",
+        "lièvre",
+        "renard",
+        "chien"
+      ],
+      "answer": [
+        "zèbre"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « l'animal le plus haut du monde ».",
+      "options": [
+        "crocodile",
+        "chameau",
+        "papillon",
+        "koala"
+      ],
+      "answer": [
+        "girafe"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « en Inde sa morsure est mortelle et on le vénère même » ?",
+      "options": [
+        "baleine",
+        "kangourou",
+        "koala",
+        "éléphant",
+        "aigle",
+        "girafe"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il ne mange presque que des feuilles d'eucalyptus » ?",
+      "options": [
+        "fourmi",
+        "flamant",
+        "hérisson",
+        "kangourou",
+        "aigle",
+        "manchot"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « il a des piquants sur le dos et se roule en boule ».",
+      "options": [
+        "koala",
+        "paon",
+        "lion",
+        "baleine"
+      ],
+      "answer": [
+        "hérisson"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « les espèces marines rament avec des nageoires et pondent sur les plages de sable » ?",
+      "options": [
+        "koala",
+        "écureuil",
+        "paon",
+        "kangourou",
+        "aigle"
+      ],
+      "answer": [
+        "tortue"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « il attrape les insectes avec une langue qui jaillit plus longue que son corps » ?",
+      "options": [
+        "cobra",
+        "loup",
+        "tortue",
+        "flamant"
+      ],
+      "answer": [
+        "caméléon"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « on le voit sur les armoiries de l'Australie » ?",
+      "options": [
+        "hérisson",
+        "chameau",
+        "araignée",
+        "chien",
+        "caméléon"
+      ],
+      "answer": [
+        "kangourou"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « le plus grand animal de la planète, et il vit dans l'océan ».",
+      "options": [
+        "koala",
+        "girafe",
+        "chameau",
+        "aigle",
+        "abeille"
+      ],
+      "answer": [
+        "baleine"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « elle a huit pattes et tisse une toile avec un fil très fin ».",
+      "options": [
+        "koala",
+        "abeille",
+        "caméléon",
+        "flamant"
+      ],
+      "answer": [
+        "araignée"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « sa toile est plus solide que l'acier de même poids » ?",
+      "options": [
+        "papillon",
+        "abeille",
+        "loup",
+        "dauphin",
+        "hibou"
+      ],
+      "answer": [
+        "araignée"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « un ours noir et blanc qui se nourrit surtout de bambou ».",
+      "options": [
+        "kangourou",
+        "tortue",
+        "girafe",
+        "araignée",
+        "abeille"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « un serpent venimeux qui déploie une coiffe quand il est en colère » ?",
+      "options": [
+        "chameau",
+        "abeille",
+        "lièvre",
+        "tigre",
+        "baleine"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « en hiver sa fourrure grise devient blanche » ?",
+      "options": [
+        "fourmi",
+        "cheval",
+        "chien",
+        "flamant",
+        "loup",
+        "manchot"
+      ],
+      "answer": [
+        "lièvre"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « un oiseau dont les ailes se sont transformées en nageoires » ?",
+      "options": [
+        "cheval",
+        "araignée",
+        "abeille",
+        "castor",
+        "zèbre"
+      ],
+      "answer": [
+        "manchot"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « il n'a pas de queue, et des touffes blanches ornent ses oreilles » ?",
+      "options": [
+        "paon",
+        "lion",
+        "écureuil",
+        "fourmi",
+        "chameau"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « son museau allongé a la forme d'un bec et il apprend vite les tours » ?",
+      "options": [
+        "crocodile",
+        "castor",
+        "tigre",
+        "cheval",
+        "ours"
+      ],
+      "answer": [
+        "dauphin"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il adore le miel et peut dévaster une ruche » ?",
+      "options": [
+        "fourmi",
+        "hibou",
+        "panda",
+        "tortue"
+      ],
+      "answer": [
+        "ours"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « il s'évente avec ses oreilles immenses » ?",
+      "options": [
+        "aigle",
+        "flamant",
+        "papillon",
+        "renard",
+        "autruche"
+      ],
+      "answer": [
+        "éléphant"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « il saute sur ses pattes arrière et porte son petit dans une poche sur le ventre ».",
+      "options": [
+        "zèbre",
+        "lièvre",
+        "tortue",
+        "manchot"
+      ],
+      "answer": [
+        "kangourou"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il court plus vite qu'un cheval, sur deux longs doigts » ?",
+      "options": [
+        "fourmi",
+        "chameau",
+        "kangourou",
+        "dauphin",
+        "flamant"
+      ],
+      "answer": [
+        "autruche"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il possède une longue trompe à la place du nez » ?",
+      "options": [
+        "lion",
+        "autruche",
+        "écureuil",
+        "koala"
+      ],
+      "answer": [
+        "éléphant"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « sa carapace d'os est si solide qu'elle ne peut pas la quitter ».",
+      "options": [
+        "cheval",
+        "hérisson",
+        "dauphin",
+        "baleine"
+      ],
+      "answer": [
+        "tortue"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « son plumage rose vient des crevettes colorées qu'il avale ».",
+      "options": [
+        "zèbre",
+        "castor",
+        "kangourou",
+        "cheval"
+      ],
+      "answer": [
+        "flamant"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « un oiseau de l'Antarctique qui marche en se dandinant et glisse sur le ventre sur la glace » ?",
+      "options": [
+        "chien",
+        "aigle",
+        "araignée",
+        "flamant",
+        "chameau",
+        "panda"
+      ],
+      "answer": [
+        "manchot"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « ses deux yeux bougent chacun de son côté » ?",
+      "options": [
+        "kangourou",
+        "hibou",
+        "abeille",
+        "hérisson",
+        "manchot",
+        "castor"
+      ],
+      "answer": [
+        "caméléon"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « ses ailes sont couvertes d'écailles minuscules qui s'effacent au toucher » ?",
+      "options": [
+        "chien",
+        "araignée",
+        "lièvre",
+        "castor",
+        "ours",
+        "autruche"
+      ],
+      "answer": [
+        "papillon"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « ses rayures sèment la confusion chez les prédateurs quand il fuit » ?",
+      "options": [
+        "cobra",
+        "ours",
+        "chien",
+        "panda"
+      ],
+      "answer": [
+        "zèbre"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « un animal marin qui sauve les noyés et les pousse vers la côte » ?",
+      "options": [
+        "tigre",
+        "panda",
+        "abeille",
+        "crocodile",
+        "manchot"
+      ],
+      "answer": [
+        "dauphin"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « il a de longues oreilles et une petite queue en boule ».",
+      "options": [
+        "renard",
+        "chien",
+        "paon",
+        "baleine",
+        "fourmi"
+      ],
+      "answer": [
+        "lièvre"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « c'est le plus grand représentant de la famille des chats » ?",
+      "options": [
+        "crocodile",
+        "hibou",
+        "paon",
+        "hérisson"
+      ],
+      "answer": [
+        "tigre"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « elle récolte le nectar et fait du miel dans une ruche, en grande famille » ?",
+      "options": [
+        "renard",
+        "girafe",
+        "tigre",
+        "zèbre",
+        "hibou",
+        "autruche"
+      ],
+      "answer": [
+        "abeille"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « il change la couleur de sa peau selon son humeur et le décor ».",
+      "options": [
+        "chameau",
+        "panda",
+        "cheval",
+        "araignée",
+        "hibou"
+      ],
+      "answer": [
+        "caméléon"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « la huppe de plumes sur sa tête ressemble à une couronne » ?",
+      "options": [
+        "crocodile",
+        "chameau",
+        "loup",
+        "tigre"
+      ],
+      "answer": [
+        "paon"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « sa longue queue lui sert d'appui quand il bondit » ?",
+      "options": [
+        "paon",
+        "papillon",
+        "écureuil",
+        "chameau",
+        "castor"
+      ],
+      "answer": [
+        "kangourou"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « c'est le plus grand prédateur de la forêt et il se dresse sur ses pattes arrière » ?",
+      "options": [
+        "flamant",
+        "araignée",
+        "koala",
+        "éléphant",
+        "tortue"
+      ],
+      "answer": [
+        "ours"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « certaines espèces élèvent des pucerons chez elles et les traient » ?",
+      "options": [
+        "cheval",
+        "chien",
+        "manchot",
+        "kangourou"
+      ],
+      "answer": [
+        "fourmi"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il déploie sa queue en éventail, couverte d'ocelles colorées » ?",
+      "options": [
+        "tortue",
+        "cheval",
+        "papillon",
+        "loup",
+        "autruche",
+        "renard"
+      ],
+      "answer": [
+        "paon"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « la femelle de cette bête dévore parfois le mâle après l'accouplement » ?",
+      "options": [
+        "lion",
+        "tortue",
+        "caméléon",
+        "koala",
+        "chameau"
+      ],
+      "answer": [
+        "araignée"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « il vit dans un terrier qu'il prend parfois au blaireau » ?",
+      "options": [
+        "crocodile",
+        "écureuil",
+        "lion",
+        "koala",
+        "tigre"
+      ],
+      "answer": [
+        "renard"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « il peut courir des dizaines de kilomètres sans repos derrière un troupeau » ?",
+      "options": [
+        "chien",
+        "autruche",
+        "girafe",
+        "baleine",
+        "papillon",
+        "zèbre"
+      ],
+      "answer": [
+        "loup"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « il fut le premier animal domestiqué et ses bébés s'appellent des chiots » ?",
+      "options": [
+        "tigre",
+        "abeille",
+        "caméléon",
+        "papillon",
+        "hérisson"
+      ],
+      "answer": [
+        "chien"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il peut dormir debout et reconnaît son maître à la voix » ?",
+      "options": [
+        "abeille",
+        "éléphant",
+        "manchot",
+        "caméléon",
+        "kangourou"
+      ],
+      "answer": [
+        "cheval"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « sa danse indique à ses sœurs où poussent les fleurs » ?",
+      "options": [
+        "girafe",
+        "hérisson",
+        "fourmi",
+        "aigle"
+      ],
+      "answer": [
+        "abeille"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « le plus grand oiseau du monde, et il ne sait pas voler » ?",
+      "options": [
+        "chameau",
+        "loup",
+        "kangourou",
+        "caméléon",
+        "écureuil"
+      ],
+      "answer": [
+        "autruche"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « il reste longtemps sur une seule patte, l'autre repliée » ?",
+      "options": [
+        "girafe",
+        "hérisson",
+        "cobra",
+        "lion",
+        "loup"
+      ],
+      "answer": [
+        "flamant"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « le mâle porte une épaisse crinière que la femelle n'a pas ».",
+      "options": [
+        "chameau",
+        "crocodile",
+        "hibou",
+        "araignée"
+      ],
+      "answer": [
+        "lion"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « elle bâtit un haut monticule d'aiguilles et de brindilles et soulève plus lourd qu'elle ».",
+      "options": [
+        "ours",
+        "dauphin",
+        "baleine",
+        "panda",
+        "hibou"
+      ],
+      "answer": [
+        "fourmi"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « il brouille ses propres traces en faisant des détours dans le bois » ?",
+      "options": [
+        "araignée",
+        "manchot",
+        "autruche",
+        "hibou"
+      ],
+      "answer": [
+        "lièvre"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « ses petits naissent aveugles, avec des piquants tout mous » ?",
+      "options": [
+        "girafe",
+        "zèbre",
+        "fourmi",
+        "flamant",
+        "koala"
+      ],
+      "answer": [
+        "hérisson"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il plane haut dans le ciel et repère sa proie de très loin » ?",
+      "options": [
+        "éléphant",
+        "girafe",
+        "manchot",
+        "lion",
+        "cheval",
+        "panda"
+      ],
+      "answer": [
+        "aigle"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « on lui cloue des fers sous les sabots » ?",
+      "options": [
+        "panda",
+        "manchot",
+        "kangourou",
+        "hibou",
+        "chameau"
+      ],
+      "answer": [
+        "cheval"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « le plus grand des reptiles vivants » ?",
+      "options": [
+        "girafe",
+        "cobra",
+        "abeille",
+        "fourmi",
+        "tortue"
+      ],
+      "answer": [
+        "crocodile"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « il garde la maison, suit une piste et sert l'homme ».",
+      "options": [
+        "kangourou",
+        "araignée",
+        "hérisson",
+        "tigre"
+      ],
+      "answer": [
+        "chien"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « on le considère comme l'ancêtre du chien domestique » ?",
+      "options": [
+        "flamant",
+        "ours",
+        "chameau",
+        "kangourou",
+        "aigle"
+      ],
+      "answer": [
+        "loup"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « c'est l'oiseau national de l'Inde » ?",
+      "options": [
+        "castor",
+        "loup",
+        "renard",
+        "chien",
+        "ours"
+      ],
+      "answer": [
+        "paon"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « ses œufs sont les plus gros de tous les oiseaux » ?",
+      "options": [
+        "zèbre",
+        "dauphin",
+        "tortue",
+        "aigle",
+        "hérisson",
+        "koala"
+      ],
+      "answer": [
+        "autruche"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il n'a pas de pattes et darde une langue fourchue » ?",
+      "options": [
+        "zèbre",
+        "flamant",
+        "fourmi",
+        "dauphin",
+        "loup"
+      ],
+      "answer": [
+        "cobra"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « il nage à l'étrave des navires et bondit hors de l'eau en arc » ?",
+      "options": [
+        "éléphant",
+        "loup",
+        "cobra",
+        "girafe",
+        "zèbre",
+        "tigre"
+      ],
+      "answer": [
+        "dauphin"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « c'est le seul grand félin qui aime l'eau et nage volontiers » ?",
+      "options": [
+        "chien",
+        "cheval",
+        "aigle",
+        "fourmi",
+        "lièvre"
+      ],
+      "answer": [
+        "tigre"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « un oiseau de nuit qui chasse dans l'obscurité et vole sans bruit ».",
+      "options": [
+        "paon",
+        "cheval",
+        "araignée",
+        "crocodile",
+        "lion"
+      ],
+      "answer": [
+        "hibou"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « il figure sur l'emblème du Fonds mondial pour la nature » ?",
+      "options": [
+        "autruche",
+        "baleine",
+        "abeille",
+        "hibou"
+      ],
+      "answer": [
+        "panda"
+      ]
+    },
+    {
+      "text": "Quel animal est-ce : « il vit en clans où ce sont surtout les femelles qui chassent » ?",
+      "options": [
+        "zèbre",
+        "loup",
+        "baleine",
+        "renard",
+        "hibou"
+      ],
+      "answer": [
+        "lion"
+      ]
+    },
+    {
+      "text": "Devinez l'animal : « il abat des arbres avec ses dents et construit un barrage sur la rivière ».",
+      "options": [
+        "lion",
+        "dauphin",
+        "fourmi",
+        "paon",
+        "aigle"
+      ],
+      "answer": [
+        "castor"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il a la peau orange rayée de noir » ?",
+      "options": [
+        "girafe",
+        "manchot",
+        "zèbre",
+        "tortue",
+        "ours",
+        "paon"
+      ],
+      "answer": [
+        "tigre"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « il sort chasser au crépuscule et ramasse les insectes dans l'herbe » ?",
+      "options": [
+        "cobra",
+        "hibou",
+        "lion",
+        "kangourou",
+        "caméléon"
+      ],
+      "answer": [
+        "hérisson"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « son image orne les armoiries de nombreux pays comme symbole de puissance » ?",
+      "options": [
+        "cheval",
+        "hibou",
+        "tortue",
+        "flamant"
+      ],
+      "answer": [
+        "aigle"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « ses mâchoires puissantes entraînent la victime sous l'eau » ?",
+      "options": [
+        "kangourou",
+        "loup",
+        "koala",
+        "cobra",
+        "dauphin",
+        "chien"
+      ],
+      "answer": [
+        "crocodile"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il dort jusqu'à vingt heures par jour en serrant une branche » ?",
+      "options": [
+        "baleine",
+        "araignée",
+        "castor",
+        "hibou"
+      ],
+      "answer": [
+        "koala"
+      ]
+    },
+    {
+      "text": "Quel animal correspond à cette description : « il verse des larmes en avalant sa proie » ?",
+      "options": [
+        "abeille",
+        "aigle",
+        "renard",
+        "cobra",
+        "panda"
+      ],
+      "answer": [
+        "crocodile"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « sa queue plate de rame claque bruyamment sur l'eau » ?",
+      "options": [
+        "koala",
+        "tigre",
+        "kangourou",
+        "hérisson",
+        "loup",
+        "écureuil"
+      ],
+      "answer": [
+        "castor"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « le plus gros animal terrestre » ?",
+      "options": [
+        "abeille",
+        "hibou",
+        "flamant",
+        "crocodile",
+        "paon",
+        "manchot"
+      ],
+      "answer": [
+        "éléphant"
+      ]
+    },
+    {
+      "text": "De quel animal parle-t-on : « on le monte sur son dos et son petit s'appelle un poulain » ?",
+      "options": [
+        "écureuil",
+        "lièvre",
+        "ours",
+        "hibou",
+        "loup",
+        "éléphant"
+      ],
+      "answer": [
+        "cheval"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « sa famille compte une reine et des ouvrières, et elles communiquent par odeurs » ?",
+      "options": [
+        "crocodile",
+        "castor",
+        "zèbre",
+        "kangourou",
+        "panda",
+        "araignée"
+      ],
+      "answer": [
+        "fourmi"
+      ]
+    },
+    {
+      "text": "Quel animal se cache derrière ces mots : « elle n'a pas de dents et broie sa nourriture avec un bec corné » ?",
+      "options": [
+        "papillon",
+        "araignée",
+        "girafe",
+        "cheval",
+        "flamant"
+      ],
+      "answer": [
+        "tortue"
+      ]
+    },
+    {
+      "text": "Quel animal est décrit ainsi : « il hurle à la lune et toute sa meute répond en chœur » ?",
+      "options": [
+        "papillon",
+        "lièvre",
+        "chameau",
+        "hérisson",
+        "ours"
+      ],
+      "answer": [
+        "loup"
+      ]
+    }
+  ]
+}

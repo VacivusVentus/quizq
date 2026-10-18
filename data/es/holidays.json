@@ -1,0 +1,1469 @@
+{
+  "theme": "Fiestas y tradiciones",
+  "questions": [
+    {
+      "text": "Selecciona dos elementos que aparecen en el Día de Muertos.",
+      "options": [
+        "los cocineros desfilando",
+        "la izada de la bandera",
+        "las comparsas",
+        "la menorá de nueve brazos"
+      ],
+      "answer": [
+        "las ofrendas en los altares",
+        "las calaveras de azúcar"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona la cabalgata del cinco de enero?",
+      "options": [
+        "la Fiesta Nacional",
+        "la Diada de Sant Jordi",
+        "el Corpus Christi",
+        "el Día de la Constitución",
+        "la Feria de Abril"
+      ],
+      "answer": [
+        "los Reyes Magos"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece las torrijas?",
+      "options": [
+        "el Janucá",
+        "la Feria de San Isidro",
+        "el Día de Muertos",
+        "el Día del Trabajador",
+        "el Corpus Christi",
+        "el Día de Andalucía"
+      ],
+      "answer": [
+        "la Semana Santa"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona el primer domingo de mayo?",
+      "options": [
+        "el Día del Padre",
+        "las Fiestas de la Mercè",
+        "la Diada de Sant Jordi",
+        "el Día del Trabajador",
+        "el Día de los Inocentes"
+      ],
+      "answer": [
+        "el Día de la Madre"
+      ]
+    },
+    {
+      "text": "¿Qué dos tradiciones acompañan el Día de los Inocentes?",
+      "options": [
+        "el belén iluminado",
+        "los actos en las Cortes",
+        "las comparsas",
+        "las flores de cempasúchil",
+        "el himno de Andalucía",
+        "la tarjeta hecha a mano"
+      ],
+      "answer": [
+        "las bromas pesadas",
+        "el veintiocho de diciembre"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos las ofrendas en los altares?",
+      "options": [
+        "las Fiestas de la Mercè",
+        "la Nochevieja",
+        "la Feria de Abril",
+        "el Día de la Mujer",
+        "el Día del Padre"
+      ],
+      "answer": [
+        "el Día de Muertos"
+      ]
+    },
+    {
+      "text": "¿Qué dos cosas encontramos en el Día de la Mujer?",
+      "options": [
+        "las ocho noches de luces",
+        "el turrón",
+        "el seis de diciembre",
+        "el primer domingo de mayo",
+        "el himno de Andalucía"
+      ],
+      "answer": [
+        "las manifestaciones del ocho de marzo",
+        "los lazos morados"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona la tarta de calabaza?",
+      "options": [
+        "la Navidad",
+        "el Día de los Inocentes",
+        "la Feria de Abril",
+        "San Fermín",
+        "el Día de la Mujer"
+      ],
+      "answer": [
+        "el Día de Acción de Gracias"
+      ]
+    },
+    {
+      "text": "¿Qué se hace durante la Nochebuena?",
+      "options": [
+        "los villancicos",
+        "la mascletà",
+        "la fiesta del trabajo",
+        "las danzas del león"
+      ],
+      "answer": [
+        "el turrón"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona las comparsas?",
+      "options": [
+        "el Día del Trabajador",
+        "las Fallas",
+        "la Nochevieja",
+        "el Día de Andalucía"
+      ],
+      "answer": [
+        "el Carnaval"
+      ]
+    },
+    {
+      "text": "las manifestaciones del ocho de marzo: ¿de qué fiesta se trata?",
+      "options": [
+        "el Dos de Mayo",
+        "el Día de la Madre",
+        "la Feria de Abril",
+        "el Día de Muertos",
+        "San Fermín"
+      ],
+      "answer": [
+        "el Día de la Mujer"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin el desayuno de pan con aceite?",
+      "options": [
+        "los Reyes Magos",
+        "la Navidad",
+        "el Carnaval",
+        "el Día de Muertos",
+        "la Tamborrada"
+      ],
+      "answer": [
+        "el Día de Andalucía"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona el doce de octubre?",
+      "options": [
+        "el Janucá",
+        "las Fallas",
+        "el Día de la Mujer",
+        "la Navidad",
+        "el Día de la Madre"
+      ],
+      "answer": [
+        "la Fiesta Nacional"
+      ]
+    },
+    {
+      "text": "el entierro de la sardina: ¿de qué fiesta se trata?",
+      "options": [
+        "la Semana Santa",
+        "la Diada de Sant Jordi",
+        "el Día de Muertos",
+        "el Dos de Mayo",
+        "el Día del Padre"
+      ],
+      "answer": [
+        "el Carnaval"
+      ]
+    },
+    {
+      "text": "la corbata de regalo: ¿de qué fiesta se trata?",
+      "options": [
+        "el Día de Andalucía",
+        "el Día de los Inocentes",
+        "el Janucá",
+        "la Fiesta Nacional",
+        "la Nochevieja"
+      ],
+      "answer": [
+        "el Día del Padre"
+      ]
+    },
+    {
+      "text": "¿Qué se hace durante el Día de la Madre?",
+      "options": [
+        "los gigantes de la ciudad",
+        "la plantà de los monumentos",
+        "los farolillos de papel",
+        "las verbenas del barrio",
+        "la menorá de nueve brazos"
+      ],
+      "answer": [
+        "el primer domingo de mayo"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por la cena familiar del veinticuatro?",
+      "options": [
+        "el Día de los Inocentes",
+        "la Semana Santa",
+        "la Tomatina",
+        "las Fallas"
+      ],
+      "answer": [
+        "la Nochebuena"
+      ]
+    },
+    {
+      "text": "¿Qué se asocia con la Fiesta Nacional?",
+      "options": [
+        "la tarta de calabaza",
+        "el encierro de los toros",
+        "la plantà de los monumentos",
+        "el dragón de la leyenda"
+      ],
+      "answer": [
+        "el doce de octubre"
+      ]
+    },
+    {
+      "text": "¿Qué tradición se vive durante la Feria de San Isidro?",
+      "options": [
+        "el desfile de las Fuerzas Armadas",
+        "los disfraces",
+        "el último miércoles de agosto",
+        "el primer domingo de mayo",
+        "el peón de la suerte"
+      ],
+      "answer": [
+        "las verbenas del barrio"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por el referéndum de la carta magna?",
+      "options": [
+        "la Navidad",
+        "el Corpus Christi",
+        "las Fiestas de la Mercè",
+        "el Carnaval"
+      ],
+      "answer": [
+        "el Día de la Constitución"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por la tarjeta hecha a mano?",
+      "options": [
+        "la Tomatina",
+        "el Día de Acción de Gracias",
+        "San Fermín",
+        "el Dos de Mayo"
+      ],
+      "answer": [
+        "el Día del Padre"
+      ]
+    },
+    {
+      "text": "¿Qué tradición se vive durante la Semana Santa?",
+      "options": [
+        "el pavo asado",
+        "las ofrendas a los caídos",
+        "las danzas del león",
+        "el salto de la reja",
+        "las noticias falsas en los periódicos",
+        "la custodia en la calle"
+      ],
+      "answer": [
+        "las procesiones de penitencia"
+      ]
+    },
+    {
+      "text": "¿Qué se asocia con la Navidad?",
+      "options": [
+        "la limpieza de la casa antes de la fiesta",
+        "el pescaíto frito",
+        "la fiesta del trabajo",
+        "la tarta de calabaza",
+        "los actos en las Cortes"
+      ],
+      "answer": [
+        "la misa del gallo"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por los chulapos y chulapas?",
+      "options": [
+        "la Tomatina",
+        "el Día de los Inocentes",
+        "el Día de Andalucía",
+        "el Día de Acción de Gracias"
+      ],
+      "answer": [
+        "la Feria de San Isidro"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona los castellers?",
+      "options": [
+        "el Día del Trabajador",
+        "el Corpus Christi",
+        "el Año Nuevo Chino",
+        "el Dos de Mayo"
+      ],
+      "answer": [
+        "las Fiestas de la Mercè"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos las alfombras de flores?",
+      "options": [
+        "el Janucá",
+        "el Día de la Madre",
+        "el Día de Acción de Gracias",
+        "el Día del Trabajador",
+        "las Fallas"
+      ],
+      "answer": [
+        "el Corpus Christi"
+      ]
+    },
+    {
+      "text": "¿Qué costumbre define el Carnaval?",
+      "options": [
+        "la mascletà",
+        "el belén iluminado",
+        "la sublevación contra Napoleón",
+        "las doce uvas"
+      ],
+      "answer": [
+        "el entierro de la sardina"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por las campanadas de medianoche?",
+      "options": [
+        "la Tamborrada",
+        "el Día de Muertos",
+        "la Noche de San Juan",
+        "el Día de los Inocentes",
+        "la Fiesta Nacional"
+      ],
+      "answer": [
+        "la Nochevieja"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona las ofrendas a los caídos?",
+      "options": [
+        "la Diada de Sant Jordi",
+        "el Día de Andalucía",
+        "el Día de la Madre",
+        "el Día de la Mujer"
+      ],
+      "answer": [
+        "el Dos de Mayo"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos el seis de diciembre?",
+      "options": [
+        "la Feria de San Isidro",
+        "la Tomatina",
+        "el Janucá",
+        "el Día de los Inocentes",
+        "la Diada de Sant Jordi",
+        "la Fiesta Nacional"
+      ],
+      "answer": [
+        "el Día de la Constitución"
+      ]
+    },
+    {
+      "text": "¿Qué tradición encontramos en la Tomatina?",
+      "options": [
+        "la misa del gallo",
+        "el desfile de las Fuerzas Armadas",
+        "los sobres rojos",
+        "las calaveras de azúcar",
+        "las felicitaciones a las madres",
+        "el salto de la reja"
+      ],
+      "answer": [
+        "la batalla de tomates"
+      ]
+    },
+    {
+      "text": "Elige dos costumbres que se dan durante los Reyes Magos.",
+      "options": [
+        "los sobres rojos",
+        "las flores para las madres",
+        "el dragón de la leyenda",
+        "los lazos morados",
+        "los actos en la Puerta del Sol"
+      ],
+      "answer": [
+        "el carbón para los que se portan mal",
+        "los juguetes junto a los zapatos"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona el himno de Andalucía?",
+      "options": [
+        "el Año Nuevo Chino",
+        "el Día de Muertos",
+        "la Tomatina",
+        "la Nochevieja"
+      ],
+      "answer": [
+        "el Día de Andalucía"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos los lazos morados?",
+      "options": [
+        "el Día de Acción de Gracias",
+        "la Nochevieja",
+        "la Nochebuena",
+        "la Semana Santa",
+        "el Día de los Inocentes",
+        "el Día de Muertos"
+      ],
+      "answer": [
+        "el Día de la Mujer"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin la fiesta del trabajo?",
+      "options": [
+        "la Nochebuena",
+        "el Día de la Constitución",
+        "la Feria de Abril",
+        "el Día de Andalucía",
+        "el Día del Padre",
+        "la Navidad"
+      ],
+      "answer": [
+        "el Día del Trabajador"
+      ]
+    },
+    {
+      "text": "los juguetes junto a los zapatos: ¿de qué fiesta se trata?",
+      "options": [
+        "las Fallas",
+        "San Fermín",
+        "el Carnaval",
+        "el Corpus Christi"
+      ],
+      "answer": [
+        "los Reyes Magos"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona las danzas del león?",
+      "options": [
+        "el Día del Trabajador",
+        "el Día de la Constitución",
+        "el Día de Muertos",
+        "la Diada de Sant Jordi"
+      ],
+      "answer": [
+        "el Año Nuevo Chino"
+      ]
+    },
+    {
+      "text": "¿Qué dos cosas encontramos en el Día del Trabajador?",
+      "options": [
+        "los tambores por las calles",
+        "el chupinazo",
+        "las doce uvas",
+        "la mascletà",
+        "el pañuelo rojo"
+      ],
+      "answer": [
+        "la fiesta del trabajo",
+        "las manifestaciones sindicales"
+      ]
+    },
+    {
+      "text": "los toros en Las Ventas: ¿de qué fiesta se trata?",
+      "options": [
+        "la Nochebuena",
+        "San Fermín",
+        "la Fiesta Nacional",
+        "el Dos de Mayo",
+        "la Diada de Sant Jordi"
+      ],
+      "answer": [
+        "la Feria de San Isidro"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin los gigantes de la ciudad?",
+      "options": [
+        "el Corpus Christi",
+        "las Fallas",
+        "la Diada de Sant Jordi",
+        "la Feria de Abril",
+        "la Semana Santa"
+      ],
+      "answer": [
+        "las Fiestas de la Mercè"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos el encierro de los toros?",
+      "options": [
+        "la Feria de Abril",
+        "el Día de Andalucía",
+        "la Romería del Rocío",
+        "el Dos de Mayo",
+        "la Noche de San Juan",
+        "el Día de Acción de Gracias"
+      ],
+      "answer": [
+        "San Fermín"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos el espumillón del árbol?",
+      "options": [
+        "la Diada de Sant Jordi",
+        "el Dos de Mayo",
+        "las Fiestas de la Mercè",
+        "la Tamborrada",
+        "el Carnaval"
+      ],
+      "answer": [
+        "la Navidad"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por el pañuelo rojo?",
+      "options": [
+        "el Día de la Mujer",
+        "el Día del Padre",
+        "el Janucá",
+        "el Día de Andalucía"
+      ],
+      "answer": [
+        "San Fermín"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece el veintiocho de febrero?",
+      "options": [
+        "las Fallas",
+        "el Día de los Inocentes",
+        "el Día de la Madre",
+        "el Día de Acción de Gracias",
+        "la Diada de Sant Jordi",
+        "el Carnaval"
+      ],
+      "answer": [
+        "el Día de Andalucía"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece el belén iluminado?",
+      "options": [
+        "la Romería del Rocío",
+        "la Noche de San Juan",
+        "el Carnaval",
+        "el Dos de Mayo",
+        "el Día de la Mujer"
+      ],
+      "answer": [
+        "la Nochebuena"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos los cocineros desfilando?",
+      "options": [
+        "la Nochebuena",
+        "el Dos de Mayo",
+        "el Janucá",
+        "la Nochevieja",
+        "la Feria de San Isidro"
+      ],
+      "answer": [
+        "la Tamborrada"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin la limpieza de la casa antes de la fiesta?",
+      "options": [
+        "la Fiesta Nacional",
+        "el Día de Andalucía",
+        "la Feria de Abril",
+        "San Fermín",
+        "el Carnaval"
+      ],
+      "answer": [
+        "el Año Nuevo Chino"
+      ]
+    },
+    {
+      "text": "las hogueras en la playa: ¿de qué fiesta se trata?",
+      "options": [
+        "San Fermín",
+        "la Romería del Rocío",
+        "las Fiestas de la Mercè",
+        "el Día de Muertos",
+        "las Fallas"
+      ],
+      "answer": [
+        "la Noche de San Juan"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos el veintitrés de junio?",
+      "options": [
+        "el Día de Acción de Gracias",
+        "la Diada de Sant Jordi",
+        "la Tomatina",
+        "las Fiestas de la Mercè",
+        "la Nochevieja",
+        "el Año Nuevo Chino"
+      ],
+      "answer": [
+        "la Noche de San Juan"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece las carretas hacia la aldea?",
+      "options": [
+        "el Corpus Christi",
+        "el Día de la Mujer",
+        "las Fallas",
+        "el Carnaval",
+        "la Noche de San Juan",
+        "el Día de Muertos"
+      ],
+      "answer": [
+        "la Romería del Rocío"
+      ]
+    },
+    {
+      "text": "¿Qué dos tradiciones acompañan la Diada de Sant Jordi?",
+      "options": [
+        "los cotillones de la fiesta",
+        "los villancicos",
+        "los tamborileros",
+        "la tarjeta hecha a mano",
+        "los ninots de cartón",
+        "el primero de mayo"
+      ],
+      "answer": [
+        "las paradas de libros en la calle",
+        "el dragón de la leyenda"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos el turrón?",
+      "options": [
+        "la Feria de San Isidro",
+        "la Noche de San Juan",
+        "el Carnaval",
+        "la Fiesta Nacional",
+        "el Dos de Mayo",
+        "la Romería del Rocío"
+      ],
+      "answer": [
+        "la Nochebuena"
+      ]
+    },
+    {
+      "text": "las bromas pesadas: ¿de qué fiesta se trata?",
+      "options": [
+        "la Tamborrada",
+        "el Año Nuevo Chino",
+        "las Fallas",
+        "la Feria de Abril"
+      ],
+      "answer": [
+        "el Día de los Inocentes"
+      ]
+    },
+    {
+      "text": "la plantà de los monumentos: ¿de qué fiesta se trata?",
+      "options": [
+        "el Día de Acción de Gracias",
+        "la Navidad",
+        "el Día del Padre",
+        "la Nochebuena",
+        "el Corpus Christi"
+      ],
+      "answer": [
+        "las Fallas"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece el pavo asado?",
+      "options": [
+        "las Fiestas de la Mercè",
+        "el Día del Padre",
+        "el Día de Muertos",
+        "el Día de la Constitución",
+        "el Día de Andalucía"
+      ],
+      "answer": [
+        "el Día de Acción de Gracias"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece el primero de mayo?",
+      "options": [
+        "el Día de la Madre",
+        "el Corpus Christi",
+        "la Fiesta Nacional",
+        "la Tamborrada",
+        "la Nochevieja"
+      ],
+      "answer": [
+        "el Día del Trabajador"
+      ]
+    },
+    {
+      "text": "los villancicos: ¿de qué fiesta se trata?",
+      "options": [
+        "el Día de Andalucía",
+        "la Romería del Rocío",
+        "el Día de la Mujer",
+        "la Diada de Sant Jordi"
+      ],
+      "answer": [
+        "la Navidad"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece el chupinazo?",
+      "options": [
+        "el Día de Muertos",
+        "la Nochebuena",
+        "las Fiestas de la Mercè",
+        "las Fallas",
+        "el Día de la Constitución"
+      ],
+      "answer": [
+        "San Fermín"
+      ]
+    },
+    {
+      "text": "¿Qué tradición se vive durante las Fiestas de la Mercè?",
+      "options": [
+        "las procesiones de penitencia",
+        "los actos en las Cortes",
+        "la custodia en la calle",
+        "el veintiocho de diciembre",
+        "la menorá de nueve brazos"
+      ],
+      "answer": [
+        "los gigantes de la ciudad"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por los saltos sobre el fuego?",
+      "options": [
+        "el Janucá",
+        "el Carnaval",
+        "el Día de Acción de Gracias",
+        "el Día de los Inocentes"
+      ],
+      "answer": [
+        "la Noche de San Juan"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos el peón de la suerte?",
+      "options": [
+        "las Fiestas de la Mercè",
+        "la Nochebuena",
+        "la Feria de San Isidro",
+        "el Día del Trabajador",
+        "los Reyes Magos"
+      ],
+      "answer": [
+        "el Janucá"
+      ]
+    },
+    {
+      "text": "¿Qué costumbre define el Día del Padre?",
+      "options": [
+        "las ofrendas en los altares",
+        "el peón de la suerte",
+        "los actos por la igualdad",
+        "los farolillos de papel",
+        "los actos en la Puerta del Sol"
+      ],
+      "answer": [
+        "la tarjeta hecha a mano"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin el carbón para los que se portan mal?",
+      "options": [
+        "el Día de Acción de Gracias",
+        "las Fallas",
+        "la Feria de San Isidro",
+        "la Fiesta Nacional",
+        "el Año Nuevo Chino",
+        "la Navidad"
+      ],
+      "answer": [
+        "los Reyes Magos"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin los trajes de flamenca?",
+      "options": [
+        "el Día de la Mujer",
+        "el Año Nuevo Chino",
+        "la Noche de San Juan",
+        "la Diada de Sant Jordi",
+        "las Fiestas de la Mercè",
+        "el Día del Padre"
+      ],
+      "answer": [
+        "la Feria de Abril"
+      ]
+    },
+    {
+      "text": "¿Qué tradición se vive durante San Fermín?",
+      "options": [
+        "las noticias falsas en los periódicos",
+        "las alfombras de flores",
+        "el espumillón del árbol",
+        "las rosas y los libros",
+        "el pescaíto frito"
+      ],
+      "answer": [
+        "el encierro de los toros"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por la custodia en la calle?",
+      "options": [
+        "el Día de los Inocentes",
+        "el Día de la Mujer",
+        "el Día de la Madre",
+        "San Fermín",
+        "la Semana Santa"
+      ],
+      "answer": [
+        "el Corpus Christi"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos las procesiones de penitencia?",
+      "options": [
+        "San Fermín",
+        "los Reyes Magos",
+        "el Día de Muertos",
+        "la Noche de San Juan",
+        "el Año Nuevo Chino"
+      ],
+      "answer": [
+        "la Semana Santa"
+      ]
+    },
+    {
+      "text": "¿Qué se hace durante la Nochevieja?",
+      "options": [
+        "el salto de la reja",
+        "el desayuno de pan con aceite",
+        "el belén iluminado",
+        "el pañuelo rojo",
+        "los gigantes de la ciudad",
+        "las carretas hacia la aldea"
+      ],
+      "answer": [
+        "las doce uvas"
+      ]
+    },
+    {
+      "text": "el último miércoles de agosto: ¿de qué fiesta se trata?",
+      "options": [
+        "el Día de Muertos",
+        "el Día del Padre",
+        "el Corpus Christi",
+        "el Día de la Madre",
+        "la Diada de Sant Jordi"
+      ],
+      "answer": [
+        "la Tomatina"
+      ]
+    },
+    {
+      "text": "el pescaíto frito: ¿de qué fiesta se trata?",
+      "options": [
+        "la Tomatina",
+        "la Semana Santa",
+        "la Romería del Rocío",
+        "la Feria de San Isidro"
+      ],
+      "answer": [
+        "la Feria de Abril"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por la izada de la bandera?",
+      "options": [
+        "el Día de Acción de Gracias",
+        "la Fiesta Nacional",
+        "la Diada de Sant Jordi",
+        "el Día del Padre",
+        "el Día de la Constitución"
+      ],
+      "answer": [
+        "la Tamborrada"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece las calaveras de azúcar?",
+      "options": [
+        "los Reyes Magos",
+        "la Nochevieja",
+        "el Día de Acción de Gracias",
+        "la Noche de San Juan",
+        "el Día de Andalucía",
+        "las Fiestas de la Mercè"
+      ],
+      "answer": [
+        "el Día de Muertos"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin el pueblo de Buñol?",
+      "options": [
+        "la Nochebuena",
+        "el Carnaval",
+        "el Día de los Inocentes",
+        "los Reyes Magos",
+        "el Día del Padre"
+      ],
+      "answer": [
+        "la Tomatina"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona el salto de la reja?",
+      "options": [
+        "la Noche de San Juan",
+        "la Tamborrada",
+        "el Año Nuevo Chino",
+        "la Fiesta Nacional"
+      ],
+      "answer": [
+        "la Romería del Rocío"
+      ]
+    },
+    {
+      "text": "Elige dos costumbres que se dan durante el Corpus Christi.",
+      "options": [
+        "las felicitaciones a las madres",
+        "las bromas pesadas",
+        "el peón de la suerte",
+        "los juguetes junto a los zapatos",
+        "las noticias falsas en los periódicos"
+      ],
+      "answer": [
+        "la custodia en la calle",
+        "las alfombras de flores"
+      ]
+    },
+    {
+      "text": "¿Qué costumbre define el Día de la Constitución?",
+      "options": [
+        "las manifestaciones del ocho de marzo",
+        "los farolillos de papel",
+        "los saltos sobre el fuego",
+        "el espumillón del árbol",
+        "los actos por la igualdad",
+        "el pañuelo rojo"
+      ],
+      "answer": [
+        "el seis de diciembre"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin los actos en la Puerta del Sol?",
+      "options": [
+        "el Día de la Mujer",
+        "la Tomatina",
+        "el Año Nuevo Chino",
+        "la Nochevieja",
+        "la Noche de San Juan"
+      ],
+      "answer": [
+        "el Dos de Mayo"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece los correfocs de fuego?",
+      "options": [
+        "la Navidad",
+        "el Año Nuevo Chino",
+        "el Día de la Madre",
+        "la Fiesta Nacional",
+        "el Día de la Mujer",
+        "el Janucá"
+      ],
+      "answer": [
+        "las Fiestas de la Mercè"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por la misa del gallo?",
+      "options": [
+        "el Día de los Inocentes",
+        "las Fiestas de la Mercè",
+        "la Romería del Rocío",
+        "la Noche de San Juan",
+        "la Tomatina"
+      ],
+      "answer": [
+        "la Navidad"
+      ]
+    },
+    {
+      "text": "¿Qué se asocia con el Día de Acción de Gracias?",
+      "options": [
+        "la izada de la bandera",
+        "los trajes de flamenca",
+        "el seis de diciembre",
+        "el primer domingo de mayo",
+        "las flores de cempasúchil"
+      ],
+      "answer": [
+        "el pavo asado"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos las verbenas del barrio?",
+      "options": [
+        "el Día del Trabajador",
+        "el Día de los Inocentes",
+        "el Año Nuevo Chino",
+        "la Tamborrada",
+        "el Día del Padre",
+        "el Dos de Mayo"
+      ],
+      "answer": [
+        "la Feria de San Isidro"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por las flores de cempasúchil?",
+      "options": [
+        "la Nochevieja",
+        "el Día de los Inocentes",
+        "el Día de la Madre",
+        "el Día del Trabajador",
+        "las Fallas"
+      ],
+      "answer": [
+        "el Día de Muertos"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona los farolillos de papel?",
+      "options": [
+        "el Día de la Constitución",
+        "la Feria de San Isidro",
+        "la Tomatina",
+        "el Carnaval",
+        "el Dos de Mayo"
+      ],
+      "answer": [
+        "la Feria de Abril"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin el desfile de las Fuerzas Armadas?",
+      "options": [
+        "la Romería del Rocío",
+        "la Diada de Sant Jordi",
+        "los Reyes Magos",
+        "la Semana Santa",
+        "el Día de Andalucía",
+        "el Día del Trabajador"
+      ],
+      "answer": [
+        "la Fiesta Nacional"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin los tamborileros?",
+      "options": [
+        "el Día de la Constitución",
+        "la Tamborrada",
+        "el Carnaval",
+        "el Dos de Mayo",
+        "la Navidad"
+      ],
+      "answer": [
+        "la Romería del Rocío"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona las paradas de libros en la calle?",
+      "options": [
+        "las Fallas",
+        "el Corpus Christi",
+        "San Fermín",
+        "la Nochevieja",
+        "el Janucá"
+      ],
+      "answer": [
+        "la Diada de Sant Jordi"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos el veintiocho de diciembre?",
+      "options": [
+        "el Carnaval",
+        "la Navidad",
+        "las Fiestas de la Mercè",
+        "el Año Nuevo Chino",
+        "los Reyes Magos"
+      ],
+      "answer": [
+        "el Día de los Inocentes"
+      ]
+    },
+    {
+      "text": "la bandera de España: ¿de qué fiesta se trata?",
+      "options": [
+        "la Tamborrada",
+        "la Noche de San Juan",
+        "la Feria de Abril",
+        "el Año Nuevo Chino"
+      ],
+      "answer": [
+        "la Fiesta Nacional"
+      ]
+    },
+    {
+      "text": "Selecciona dos elementos que aparecen en el Janucá.",
+      "options": [
+        "las manifestaciones del ocho de marzo",
+        "los tamborileros",
+        "el encierro de los toros",
+        "las felicitaciones a las madres"
+      ],
+      "answer": [
+        "la menorá de nueve brazos",
+        "el peón de la suerte"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por los nazarenos?",
+      "options": [
+        "las Fiestas de la Mercè",
+        "el Corpus Christi",
+        "el Día de Acción de Gracias",
+        "la Nochebuena",
+        "el Día del Trabajador"
+      ],
+      "answer": [
+        "la Semana Santa"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece la sublevación contra Napoleón?",
+      "options": [
+        "el Día del Padre",
+        "las Fiestas de la Mercè",
+        "el Día del Trabajador",
+        "el Día de Andalucía",
+        "los Reyes Magos",
+        "la Semana Santa"
+      ],
+      "answer": [
+        "el Dos de Mayo"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por las ocho noches de luces?",
+      "options": [
+        "la Tomatina",
+        "la Feria de Abril",
+        "el Día de Muertos",
+        "el Día de Acción de Gracias",
+        "el Día del Trabajador"
+      ],
+      "answer": [
+        "el Janucá"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona las manifestaciones sindicales?",
+      "options": [
+        "la Feria de San Isidro",
+        "el Día de la Mujer",
+        "la Nochebuena",
+        "la Romería del Rocío",
+        "la Feria de Abril"
+      ],
+      "answer": [
+        "el Día del Trabajador"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por los actos por la igualdad?",
+      "options": [
+        "la Nochevieja",
+        "la Nochebuena",
+        "la Navidad",
+        "la Romería del Rocío"
+      ],
+      "answer": [
+        "el Día de la Mujer"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece los cotillones de la fiesta?",
+      "options": [
+        "la Noche de San Juan",
+        "el Día de Acción de Gracias",
+        "la Diada de Sant Jordi",
+        "el Dos de Mayo",
+        "la Tomatina",
+        "las Fallas"
+      ],
+      "answer": [
+        "la Nochevieja"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin la mascletà?",
+      "options": [
+        "el Carnaval",
+        "la Romería del Rocío",
+        "la Feria de San Isidro",
+        "la Semana Santa",
+        "el Día de la Mujer"
+      ],
+      "answer": [
+        "las Fallas"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece las flores para las madres?",
+      "options": [
+        "el Día de Acción de Gracias",
+        "la Fiesta Nacional",
+        "el Día de la Constitución",
+        "las Fallas",
+        "la Semana Santa"
+      ],
+      "answer": [
+        "el Día de la Madre"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin las felicitaciones a las madres?",
+      "options": [
+        "la Noche de San Juan",
+        "la Navidad",
+        "el Día de Muertos",
+        "el Año Nuevo Chino",
+        "la Feria de San Isidro",
+        "las Fallas"
+      ],
+      "answer": [
+        "el Día de la Madre"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin el dragón de la leyenda?",
+      "options": [
+        "la Romería del Rocío",
+        "el Día de Acción de Gracias",
+        "la Nochevieja",
+        "la Feria de Abril",
+        "las Fallas",
+        "San Fermín"
+      ],
+      "answer": [
+        "la Diada de Sant Jordi"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece los sobres rojos?",
+      "options": [
+        "el Día del Trabajador",
+        "el Día de la Madre",
+        "los Reyes Magos",
+        "la Diada de Sant Jordi",
+        "la Nochevieja",
+        "la Fiesta Nacional"
+      ],
+      "answer": [
+        "el Año Nuevo Chino"
+      ]
+    },
+    {
+      "text": "¿Qué tradición encontramos en el Dos de Mayo?",
+      "options": [
+        "el seis de diciembre",
+        "la menorá de nueve brazos",
+        "el himno de Andalucía",
+        "el veintiocho de febrero"
+      ],
+      "answer": [
+        "los actos en la Puerta del Sol"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta se reconoce por las noticias falsas en los periódicos?",
+      "options": [
+        "el Janucá",
+        "el Día de la Constitución",
+        "la Nochevieja",
+        "la Noche de San Juan",
+        "el Dos de Mayo"
+      ],
+      "answer": [
+        "el Día de los Inocentes"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece los actos en las Cortes?",
+      "options": [
+        "la Diada de Sant Jordi",
+        "la Nochevieja",
+        "el Día del Trabajador",
+        "la Noche de San Juan",
+        "el Día de Acción de Gracias"
+      ],
+      "answer": [
+        "el Día de la Constitución"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin las gracias por la cosecha?",
+      "options": [
+        "el Día de Muertos",
+        "la Diada de Sant Jordi",
+        "las Fiestas de la Mercè",
+        "la Fiesta Nacional",
+        "la Romería del Rocío",
+        "la Noche de San Juan"
+      ],
+      "answer": [
+        "el Día de Acción de Gracias"
+      ]
+    },
+    {
+      "text": "¿Qué fiesta no se entiende sin los disfraces?",
+      "options": [
+        "la Nochebuena",
+        "la Tomatina",
+        "el Corpus Christi",
+        "el Día de los Inocentes",
+        "la Romería del Rocío"
+      ],
+      "answer": [
+        "el Carnaval"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona los ninots de cartón?",
+      "options": [
+        "la Tamborrada",
+        "la Semana Santa",
+        "la Navidad",
+        "el Día de Acción de Gracias"
+      ],
+      "answer": [
+        "las Fallas"
+      ]
+    },
+    {
+      "text": "los tambores por las calles: ¿de qué fiesta se trata?",
+      "options": [
+        "el Día de la Constitución",
+        "el Día del Padre",
+        "la Navidad",
+        "la Feria de Abril"
+      ],
+      "answer": [
+        "la Tamborrada"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos las doce uvas?",
+      "options": [
+        "el Año Nuevo Chino",
+        "el Día de la Mujer",
+        "el Carnaval",
+        "el Dos de Mayo",
+        "el Día de los Inocentes"
+      ],
+      "answer": [
+        "la Nochevieja"
+      ]
+    },
+    {
+      "text": "¿Con qué fiesta se relaciona la batalla de tomates?",
+      "options": [
+        "la Nochevieja",
+        "la Feria de San Isidro",
+        "el Janucá",
+        "la Tamborrada"
+      ],
+      "answer": [
+        "la Tomatina"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta encontramos el diecinueve de marzo?",
+      "options": [
+        "el Día de los Inocentes",
+        "la Diada de Sant Jordi",
+        "el Día de la Mujer",
+        "el Día de Muertos",
+        "las Fallas",
+        "el Día de la Madre"
+      ],
+      "answer": [
+        "el Día del Padre"
+      ]
+    },
+    {
+      "text": "¿En qué fiesta aparece las rosas y los libros?",
+      "options": [
+        "los Reyes Magos",
+        "la Fiesta Nacional",
+        "el Año Nuevo Chino",
+        "el Janucá",
+        "la Feria de San Isidro"
+      ],
+      "answer": [
+        "la Diada de Sant Jordi"
+      ]
+    },
+    {
+      "text": "la menorá de nueve brazos: ¿de qué fiesta se trata?",
+      "options": [
+        "la Nochevieja",
+        "la Noche de San Juan",
+        "el Día de la Mujer",
+        "la Diada de Sant Jordi"
+      ],
+      "answer": [
+        "el Janucá"
+      ]
+    }
+  ]
+}

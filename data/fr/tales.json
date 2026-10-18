@@ -1,0 +1,1573 @@
+{
+  "theme": "Contes et légendes",
+  "questions": [
+    {
+      "text": "Quel conte met en scène les crapauds et les vipères ?",
+      "options": [
+        "La Laitière et le Pot au lait",
+        "Le Corbeau et le Renard",
+        "La Gardeuse d'oies",
+        "La Belle et la Bête",
+        "Le Renard et les Raisins"
+      ],
+      "answer": [
+        "Les Fées"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on le jeune animal qui boit en aval ?",
+      "options": [
+        "Le Loup et les Sept Chevreaux",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "La Cigale et la Fourmi",
+        "La Laitière et le Pot au lait",
+        "Le Corbeau et le Renard",
+        "Le Vaillant Petit Tailleur"
+      ],
+      "answer": [
+        "Le Loup et l'Agneau"
+      ]
+    },
+    {
+      "text": "De quel conte vient la capuche offerte par la grand-mère ?",
+      "options": [
+        "Raiponce",
+        "Peau d'âne",
+        "Le Corbeau et le Renard",
+        "Le Renard et les Raisins",
+        "La Cigale et la Fourmi"
+      ],
+      "answer": [
+        "Le Petit Chaperon rouge"
+      ]
+    },
+    {
+      "text": "De quel conte vient le ruminant de la prairie ?",
+      "options": [
+        "Le Renard et les Raisins",
+        "La Cigale et la Fourmi",
+        "Le Nain Tracassin",
+        "Le Pêcheur et sa femme",
+        "Les Musiciens de Brême",
+        "Le Rat des villes et le Rat des champs"
+      ],
+      "answer": [
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf"
+      ]
+    },
+    {
+      "text": "Quels détails font partie du conte «Le Rat des villes et le Rat des champs» ?",
+      "options": [
+        "le fuseau",
+        "la vieille cabane",
+        "les cailloux blancs",
+        "le cheval Fallada"
+      ],
+      "answer": [
+        "le festin citadin",
+        "la vie simple des champs"
+      ]
+    },
+    {
+      "text": "Quel élément fait partie du conte «Le Pêcheur et sa femme» ?",
+      "options": [
+        "la boucle de cheveux",
+        "l'esprit du prince",
+        "le ruisseau",
+        "l'ogre changé en souris"
+      ],
+      "answer": [
+        "la femme insatiable"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on l'hiver sans provisions ?",
+      "options": [
+        "La Barbe bleue",
+        "Les Sept Corbeaux",
+        "Les Musiciens de Brême",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "La Laitière et le Pot au lait",
+        "La Gardeuse d'oies"
+      ],
+      "answer": [
+        "La Cigale et la Fourmi"
+      ]
+    },
+    {
+      "text": "Que rencontre-t-on dans le conte «La Gardeuse d'oies» ?",
+      "options": [
+        "le domaine enchanté",
+        "la mélodie qui attire les enfants",
+        "la chute du pot",
+        "la tige qui plie"
+      ],
+      "answer": [
+        "le cheval Fallada"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène la mélodie qui attire les enfants ?",
+      "options": [
+        "Le Nain Tracassin",
+        "Cendrillon",
+        "La Gardeuse d'oies",
+        "Le Pêcheur et sa femme",
+        "La Cigale et la Fourmi"
+      ],
+      "answer": [
+        "Le Joueur de flûte de Hamelin"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on la ceinture des sept d'un coup ?",
+      "options": [
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "La Belle au bois dormant",
+        "Le Lièvre et la Tortue",
+        "Peau d'âne",
+        "Riquet à la houppe"
+      ],
+      "answer": [
+        "Le Vaillant Petit Tailleur"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on le fuseau ?",
+      "options": [
+        "Le Petit Poucet",
+        "Le Rat des villes et le Rat des champs",
+        "Le Roi Grenouille",
+        "Le Loup et l'Agneau"
+      ],
+      "answer": [
+        "La Belle au bois dormant"
+      ]
+    },
+    {
+      "text": "Quels deux détails viennent du conte «Dame Holle» ?",
+      "options": [
+        "la licorne capturée",
+        "la maison en pain d'épice",
+        "les cent ans de sommeil",
+        "le coq sur le toit",
+        "la boucle de cheveux",
+        "le danger des festins"
+      ],
+      "answer": [
+        "l'or du retour",
+        "les plumes de neige"
+      ]
+    },
+    {
+      "text": "À quel conte appartient le géant vaincu ?",
+      "options": [
+        "Dame Holle",
+        "Le Roi Grenouille",
+        "Le Petit Poucet",
+        "La Laitière et le Pot au lait",
+        "Les Sept Corbeaux"
+      ],
+      "answer": [
+        "Le Vaillant Petit Tailleur"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on la paille changée en or ?",
+      "options": [
+        "Le Joueur de flûte de Hamelin",
+        "La Barbe bleue",
+        "La Cigale et la Fourmi",
+        "Riquet à la houppe",
+        "Le Lièvre et la Tortue"
+      ],
+      "answer": [
+        "Le Nain Tracassin"
+      ]
+    },
+    {
+      "text": "À quel conte appartient la femme insatiable ?",
+      "options": [
+        "La Belle et la Bête",
+        "Cendrillon",
+        "Le Loup et l'Agneau",
+        "La Belle au bois dormant",
+        "Les Sept Corbeaux"
+      ],
+      "answer": [
+        "Le Pêcheur et sa femme"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on le roi méfiant ?",
+      "options": [
+        "Dame Holle",
+        "Peau d'âne",
+        "Cendrillon",
+        "Le Joueur de flûte de Hamelin",
+        "Le Chat botté"
+      ],
+      "answer": [
+        "La Gardeuse d'oies"
+      ]
+    },
+    {
+      "text": "De quel conte vient la tour sans porte ?",
+      "options": [
+        "Les Sept Corbeaux",
+        "Le Petit Poucet",
+        "Dame Holle",
+        "Les Fées",
+        "Blanche-Neige",
+        "Le Pêcheur et sa femme"
+      ],
+      "answer": [
+        "Raiponce"
+      ]
+    },
+    {
+      "text": "De quel conte vient la montagne de verre ?",
+      "options": [
+        "La Barbe bleue",
+        "Hansel et Gretel",
+        "Le Corbeau et le Renard",
+        "Le Petit Poucet",
+        "Le Chêne et le Roseau"
+      ],
+      "answer": [
+        "Les Sept Corbeaux"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on le cercueil de verre ?",
+      "options": [
+        "Le Vaillant Petit Tailleur",
+        "La Laitière et le Pot au lait",
+        "Cendrillon",
+        "Le Petit Chaperon rouge",
+        "La Belle et la Bête"
+      ],
+      "answer": [
+        "Blanche-Neige"
+      ]
+    },
+    {
+      "text": "Quel détail vient du conte «Le Chat botté» ?",
+      "options": [
+        "la vie simple des champs",
+        "le vent furieux",
+        "la rose du jardin",
+        "le miroir magique",
+        "l'épouse curieuse"
+      ],
+      "answer": [
+        "le marquis de Carabas"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on le poisson magique ?",
+      "options": [
+        "La Belle et la Bête",
+        "Le Lièvre et la Tortue",
+        "Le Nain Tracassin",
+        "Riquet à la houppe",
+        "Les Musiciens de Brême"
+      ],
+      "answer": [
+        "Le Pêcheur et sa femme"
+      ]
+    },
+    {
+      "text": "De quel conte vient le cheval Fallada ?",
+      "options": [
+        "Les Musiciens de Brême",
+        "Blanche-Neige",
+        "Cendrillon",
+        "Le Pêcheur et sa femme",
+        "Le Petit Chaperon rouge"
+      ],
+      "answer": [
+        "La Gardeuse d'oies"
+      ]
+    },
+    {
+      "text": "Quel élément fait partie du conte «Le Lièvre et la Tortue» ?",
+      "options": [
+        "les cent ans de sommeil",
+        "le cheval Fallada",
+        "le prince métamorphosé",
+        "l'or du retour",
+        "le festin citadin"
+      ],
+      "answer": [
+        "le sommeil au milieu du chemin"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on la clé tachée de sang ?",
+      "options": [
+        "Le Chat botté",
+        "Le Pêcheur et sa femme",
+        "Les Fées",
+        "Le Petit Poucet",
+        "Le Chêne et le Roseau"
+      ],
+      "answer": [
+        "La Barbe bleue"
+      ]
+    },
+    {
+      "text": "À quel conte appartient le ruisseau ?",
+      "options": [
+        "Le Loup et les Sept Chevreaux",
+        "Le Renard et les Raisins",
+        "Le Vaillant Petit Tailleur",
+        "Les Fées"
+      ],
+      "answer": [
+        "Le Loup et l'Agneau"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène la boule d'or ?",
+      "options": [
+        "Le Corbeau et le Renard",
+        "Blanche-Neige",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Riquet à la houppe",
+        "Les Sept Corbeaux"
+      ],
+      "answer": [
+        "Le Roi Grenouille"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on les cailloux blancs ?",
+      "options": [
+        "La Cigale et la Fourmi",
+        "Raiponce",
+        "Peau d'âne",
+        "Le Roi Grenouille",
+        "La Belle au bois dormant",
+        "Le Lièvre et la Tortue"
+      ],
+      "answer": [
+        "Le Petit Poucet"
+      ]
+    },
+    {
+      "text": "De quel conte vient l'ogre changé en souris ?",
+      "options": [
+        "Le Nain Tracassin",
+        "Blanche-Neige",
+        "Le Loup et les Sept Chevreaux",
+        "Les Fées",
+        "Le Rat des villes et le Rat des champs",
+        "La Barbe bleue"
+      ],
+      "answer": [
+        "Le Chat botté"
+      ]
+    },
+    {
+      "text": "Quels détails font partie du conte «Le Joueur de flûte de Hamelin» ?",
+      "options": [
+        "le four plein de pain",
+        "les cent ans de sommeil",
+        "l'ambitieuse qui enfle",
+        "l'arbre déraciné"
+      ],
+      "answer": [
+        "les rats de la ville",
+        "les enfants disparus"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène l'ambitieuse qui enfle ?",
+      "options": [
+        "Le Corbeau et le Renard",
+        "Cendrillon",
+        "Blanche-Neige",
+        "La Belle et la Bête",
+        "Peau d'âne"
+      ],
+      "answer": [
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf"
+      ]
+    },
+    {
+      "text": "À quel conte appartient le four de la sorcière ?",
+      "options": [
+        "Le Rat des villes et le Rat des champs",
+        "La Barbe bleue",
+        "Raiponce",
+        "Le Corbeau et le Renard"
+      ],
+      "answer": [
+        "Hansel et Gretel"
+      ]
+    },
+    {
+      "text": "À quel conte appartient celle qui amasse des provisions ?",
+      "options": [
+        "Riquet à la houppe",
+        "Le Loup et les Sept Chevreaux",
+        "Le Loup et l'Agneau",
+        "Hansel et Gretel",
+        "Le Petit Poucet"
+      ],
+      "answer": [
+        "La Cigale et la Fourmi"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène le fromage ?",
+      "options": [
+        "Peau d'âne",
+        "Les Musiciens de Brême",
+        "Blanche-Neige",
+        "Le Roi Grenouille",
+        "La Belle au bois dormant"
+      ],
+      "answer": [
+        "Le Corbeau et le Renard"
+      ]
+    },
+    {
+      "text": "À quel conte appartient l'épouse curieuse ?",
+      "options": [
+        "Le Petit Poucet",
+        "Le Chêne et le Roseau",
+        "Les Sept Corbeaux",
+        "Le Rat des villes et le Rat des champs"
+      ],
+      "answer": [
+        "La Barbe bleue"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on la vieille cabane ?",
+      "options": [
+        "Le Rat des villes et le Rat des champs",
+        "Hansel et Gretel",
+        "Le Loup et l'Agneau",
+        "Le Loup et les Sept Chevreaux",
+        "Cendrillon",
+        "Le Vaillant Petit Tailleur"
+      ],
+      "answer": [
+        "Le Pêcheur et sa femme"
+      ]
+    },
+    {
+      "text": "À quel conte appartient le premier-né promis ?",
+      "options": [
+        "Le Chêne et le Roseau",
+        "La Belle au bois dormant",
+        "La Gardeuse d'oies",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Le Chat botté"
+      ],
+      "answer": [
+        "Le Nain Tracassin"
+      ]
+    },
+    {
+      "text": "De quel conte vient la maison des brigands ?",
+      "options": [
+        "Le Lièvre et la Tortue",
+        "La Belle au bois dormant",
+        "Le Loup et les Sept Chevreaux",
+        "Le Roi Grenouille",
+        "La Gardeuse d'oies"
+      ],
+      "answer": [
+        "Les Musiciens de Brême"
+      ]
+    },
+    {
+      "text": "De quel conte vient la pomme empoisonnée ?",
+      "options": [
+        "Les Sept Corbeaux",
+        "Les Musiciens de Brême",
+        "Dame Holle",
+        "Le Roi Grenouille",
+        "La Laitière et le Pot au lait"
+      ],
+      "answer": [
+        "Blanche-Neige"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on le bec ouvert ?",
+      "options": [
+        "Le Vaillant Petit Tailleur",
+        "La Laitière et le Pot au lait",
+        "Les Musiciens de Brême",
+        "Le Lièvre et la Tortue"
+      ],
+      "answer": [
+        "Le Corbeau et le Renard"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on le cabinet secret ?",
+      "options": [
+        "Le Petit Poucet",
+        "Les Sept Corbeaux",
+        "Le Loup et les Sept Chevreaux",
+        "Le Corbeau et le Renard",
+        "Les Fées",
+        "La Cigale et la Fourmi"
+      ],
+      "answer": [
+        "La Barbe bleue"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène le miroir magique ?",
+      "options": [
+        "Le Petit Poucet",
+        "Le Vaillant Petit Tailleur",
+        "Dame Holle",
+        "Le Nain Tracassin"
+      ],
+      "answer": [
+        "Blanche-Neige"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on l'or du retour ?",
+      "options": [
+        "Blanche-Neige",
+        "Le Chêne et le Roseau",
+        "Les Fées",
+        "Le Petit Chaperon rouge",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf"
+      ],
+      "answer": [
+        "Dame Holle"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène le marquis de Carabas ?",
+      "options": [
+        "Le Loup et les Sept Chevreaux",
+        "Le Loup et l'Agneau",
+        "La Laitière et le Pot au lait",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Raiponce"
+      ],
+      "answer": [
+        "Le Chat botté"
+      ]
+    },
+    {
+      "text": "Quels éléments trouve-t-on dans le conte «Le Roi Grenouille» ?",
+      "options": [
+        "les sept biquets",
+        "le jeune animal qui boit en aval",
+        "le coq sur le toit",
+        "le danger des festins",
+        "les plumes de neige"
+      ],
+      "answer": [
+        "la promesse tenue",
+        "le puits du jardin"
+      ]
+    },
+    {
+      "text": "Quel détail vient du conte «Peau d'âne» ?",
+      "options": [
+        "les souliers de vair",
+        "la princesse sotte",
+        "le premier-né promis",
+        "le château endormi",
+        "la rose du jardin",
+        "l'épouse curieuse"
+      ],
+      "answer": [
+        "la fuite dans la forêt"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène la course ?",
+      "options": [
+        "Le Roi Grenouille",
+        "La Laitière et le Pot au lait",
+        "La Cigale et la Fourmi",
+        "La Gardeuse d'oies"
+      ],
+      "answer": [
+        "Le Lièvre et la Tortue"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on la boucle de cheveux ?",
+      "options": [
+        "Le Petit Chaperon rouge",
+        "Le Joueur de flûte de Hamelin",
+        "Le Chat botté",
+        "Le Loup et les Sept Chevreaux"
+      ],
+      "answer": [
+        "Riquet à la houppe"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on les sept nains ?",
+      "options": [
+        "Le Petit Poucet",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Le Pêcheur et sa femme",
+        "Les Sept Corbeaux",
+        "La Cigale et la Fourmi",
+        "Le Loup et l'Agneau"
+      ],
+      "answer": [
+        "Blanche-Neige"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on le sommeil au milieu du chemin ?",
+      "options": [
+        "La Barbe bleue",
+        "Le Loup et les Sept Chevreaux",
+        "Le Chêne et le Roseau",
+        "Le Petit Poucet",
+        "Le Loup et l'Agneau"
+      ],
+      "answer": [
+        "Le Lièvre et la Tortue"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on les enfants disparus ?",
+      "options": [
+        "Les Sept Corbeaux",
+        "Le Loup et les Sept Chevreaux",
+        "Le Nain Tracassin",
+        "Le Renard et les Raisins"
+      ],
+      "answer": [
+        "Le Joueur de flûte de Hamelin"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on le nom deviné ?",
+      "options": [
+        "Le Loup et l'Agneau",
+        "Dame Holle",
+        "Le Pêcheur et sa femme",
+        "La Gardeuse d'oies",
+        "Le Rat des villes et le Rat des champs",
+        "La Cigale et la Fourmi"
+      ],
+      "answer": [
+        "Le Nain Tracassin"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on le coq sur le toit ?",
+      "options": [
+        "Raiponce",
+        "La Belle et la Bête",
+        "Les Sept Corbeaux",
+        "Le Roi Grenouille",
+        "Le Rat des villes et le Rat des champs"
+      ],
+      "answer": [
+        "Les Musiciens de Brême"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on l'âne aux pièces d'or ?",
+      "options": [
+        "La Belle et la Bête",
+        "La Gardeuse d'oies",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Le Chat botté",
+        "Dame Holle",
+        "Hansel et Gretel"
+      ],
+      "answer": [
+        "Peau d'âne"
+      ]
+    },
+    {
+      "text": "Quel élément appartient au conte «Raiponce» ?",
+      "options": [
+        "l'orgueil puni",
+        "les rats de la ville",
+        "le miroir magique",
+        "le danger des festins",
+        "la flatterie"
+      ],
+      "answer": [
+        "la longue tresse"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on la licorne capturée ?",
+      "options": [
+        "Le Renard et les Raisins",
+        "La Gardeuse d'oies",
+        "Le Loup et les Sept Chevreaux",
+        "Le Corbeau et le Renard",
+        "Le Petit Poucet",
+        "Les Fées"
+      ],
+      "answer": [
+        "Le Vaillant Petit Tailleur"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on le danger des festins ?",
+      "options": [
+        "La Belle au bois dormant",
+        "Le Loup et l'Agneau",
+        "Le Petit Chaperon rouge",
+        "Le Pêcheur et sa femme",
+        "Hansel et Gretel"
+      ],
+      "answer": [
+        "Le Rat des villes et le Rat des champs"
+      ]
+    },
+    {
+      "text": "À quel conte appartient la fuite dans la forêt ?",
+      "options": [
+        "La Belle et la Bête",
+        "Les Fées",
+        "Le Roi Grenouille",
+        "Le Lièvre et la Tortue"
+      ],
+      "answer": [
+        "Peau d'âne"
+      ]
+    },
+    {
+      "text": "Que rencontre-t-on dans le conte «Le Nain Tracassin» ?",
+      "options": [
+        "la capuche offerte par la grand-mère",
+        "les frères changés en oiseaux",
+        "les sept biquets",
+        "le dépit",
+        "la pomme empoisonnée"
+      ],
+      "answer": [
+        "le premier-né promis"
+      ]
+    },
+    {
+      "text": "À quel conte appartient la princesse sotte ?",
+      "options": [
+        "Le Nain Tracassin",
+        "Dame Holle",
+        "Le Chêne et le Roseau",
+        "La Belle au bois dormant",
+        "Le Petit Poucet"
+      ],
+      "answer": [
+        "Riquet à la houppe"
+      ]
+    },
+    {
+      "text": "De quel conte vient la flatterie ?",
+      "options": [
+        "Le Loup et l'Agneau",
+        "Le Chat botté",
+        "Le Loup et les Sept Chevreaux",
+        "La Cigale et la Fourmi",
+        "Le Chêne et le Roseau",
+        "Le Roi Grenouille"
+      ],
+      "answer": [
+        "Le Corbeau et le Renard"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on la promesse tenue ?",
+      "options": [
+        "Les Fées",
+        "Riquet à la houppe",
+        "Raiponce",
+        "Le Chat botté"
+      ],
+      "answer": [
+        "Le Roi Grenouille"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on les oiseaux qui mangent les miettes ?",
+      "options": [
+        "Le Petit Poucet",
+        "La Barbe bleue",
+        "Le Vaillant Petit Tailleur",
+        "Riquet à la houppe",
+        "Le Petit Chaperon rouge"
+      ],
+      "answer": [
+        "Hansel et Gretel"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on le château endormi ?",
+      "options": [
+        "Peau d'âne",
+        "Le Loup et l'Agneau",
+        "Blanche-Neige",
+        "La Barbe bleue",
+        "Le Pêcheur et sa femme"
+      ],
+      "answer": [
+        "La Belle au bois dormant"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène la galette et le petit pot de beurre ?",
+      "options": [
+        "Raiponce",
+        "Peau d'âne",
+        "Le Joueur de flûte de Hamelin",
+        "Le Nain Tracassin"
+      ],
+      "answer": [
+        "Le Petit Chaperon rouge"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on la maison en pain d'épice ?",
+      "options": [
+        "Riquet à la houppe",
+        "Dame Holle",
+        "La Belle et la Bête",
+        "Blanche-Neige",
+        "La Belle au bois dormant",
+        "Les Sept Corbeaux"
+      ],
+      "answer": [
+        "Hansel et Gretel"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on la robe couleur du temps ?",
+      "options": [
+        "Le Vaillant Petit Tailleur",
+        "Blanche-Neige",
+        "Le Corbeau et le Renard",
+        "Le Petit Poucet",
+        "La Gardeuse d'oies"
+      ],
+      "answer": [
+        "Peau d'âne"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on la pantoufle de verre ?",
+      "options": [
+        "Les Sept Corbeaux",
+        "Les Fées",
+        "Le Nain Tracassin",
+        "Blanche-Neige",
+        "Le Chat botté"
+      ],
+      "answer": [
+        "Cendrillon"
+      ]
+    },
+    {
+      "text": "Quels deux détails viennent du conte «Les Sept Corbeaux» ?",
+      "options": [
+        "le fromage",
+        "la mélodie qui attire les enfants",
+        "le bec ouvert",
+        "l'insecte chanteur de l'été",
+        "la pantoufle de verre",
+        "l'or du retour"
+      ],
+      "answer": [
+        "les frères changés en oiseaux",
+        "l'os de poulet du matin"
+      ]
+    },
+    {
+      "text": "De quel conte vient la vie simple des champs ?",
+      "options": [
+        "Le Petit Poucet",
+        "Le Chêne et le Roseau",
+        "Le Loup et l'Agneau",
+        "Le Nain Tracassin",
+        "Le Joueur de flûte de Hamelin"
+      ],
+      "answer": [
+        "Le Rat des villes et le Rat des champs"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène les bottes de sept lieues ?",
+      "options": [
+        "Cendrillon",
+        "La Belle au bois dormant",
+        "Dame Holle",
+        "Les Fées"
+      ],
+      "answer": [
+        "Le Petit Poucet"
+      ]
+    },
+    {
+      "text": "À quel conte appartient la tige qui plie ?",
+      "options": [
+        "Cendrillon",
+        "Blanche-Neige",
+        "Peau d'âne",
+        "Hansel et Gretel"
+      ],
+      "answer": [
+        "Le Chêne et le Roseau"
+      ]
+    },
+    {
+      "text": "Quels deux éléments appartiennent au conte «Le Loup et l'Agneau» ?",
+      "options": [
+        "le roi méfiant",
+        "le rêve de richesse renversé",
+        "la fuite dans la forêt",
+        "la vie simple des champs",
+        "le sommeil au milieu du chemin"
+      ],
+      "answer": [
+        "le ruisseau",
+        "le jeune animal qui boit en aval"
+      ]
+    },
+    {
+      "text": "Quel élément fait partie du conte «Le Renard et les Raisins» ?",
+      "options": [
+        "le premier-né promis",
+        "le miroir magique",
+        "l'ambitieuse qui enfle",
+        "la capuche offerte par la grand-mère",
+        "la montagne de verre"
+      ],
+      "answer": [
+        "la fausse indifférence"
+      ]
+    },
+    {
+      "text": "De quel conte vient les rats de la ville ?",
+      "options": [
+        "Riquet à la houppe",
+        "Le Renard et les Raisins",
+        "Hansel et Gretel",
+        "La Belle et la Bête",
+        "Le Lièvre et la Tortue",
+        "Peau d'âne"
+      ],
+      "answer": [
+        "Le Joueur de flûte de Hamelin"
+      ]
+    },
+    {
+      "text": "Quels deux éléments appartiennent au conte «Le Petit Chaperon rouge» ?",
+      "options": [
+        "la rose du jardin",
+        "le four de la sorcière",
+        "les oiseaux qui mangent les miettes",
+        "la salade du jardin",
+        "le coq sur le toit"
+      ],
+      "answer": [
+        "la galette et le petit pot de beurre",
+        "la capuche offerte par la grand-mère"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène les quatre animaux chanteurs ?",
+      "options": [
+        "Le Vaillant Petit Tailleur",
+        "Le Nain Tracassin",
+        "Le Loup et l'Agneau",
+        "Le Petit Chaperon rouge"
+      ],
+      "answer": [
+        "Les Musiciens de Brême"
+      ]
+    },
+    {
+      "text": "À quel conte appartient la citrouille transformée en carrosse ?",
+      "options": [
+        "Le Chêne et le Roseau",
+        "Blanche-Neige",
+        "La Gardeuse d'oies",
+        "Le Joueur de flûte de Hamelin",
+        "La Cigale et la Fourmi"
+      ],
+      "answer": [
+        "Cendrillon"
+      ]
+    },
+    {
+      "text": "De quel conte vient les sept frères abandonnés ?",
+      "options": [
+        "Les Sept Corbeaux",
+        "Peau d'âne",
+        "Les Fées",
+        "La Gardeuse d'oies",
+        "Le Petit Chaperon rouge"
+      ],
+      "answer": [
+        "Le Petit Poucet"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on l'esprit du prince ?",
+      "options": [
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "La Gardeuse d'oies",
+        "Le Petit Poucet",
+        "Le Petit Chaperon rouge",
+        "Le Roi Grenouille"
+      ],
+      "answer": [
+        "Riquet à la houppe"
+      ]
+    },
+    {
+      "text": "Quel détail vient du conte «Le Chêne et le Roseau» ?",
+      "options": [
+        "le coureur trop sûr de lui",
+        "le four plein de pain",
+        "la fontaine du village",
+        "la flatterie",
+        "le ruminant de la prairie",
+        "le domaine enchanté"
+      ],
+      "answer": [
+        "l'arbre déraciné"
+      ]
+    },
+    {
+      "text": "À quel conte appartient les cent ans de sommeil ?",
+      "options": [
+        "Le Petit Poucet",
+        "Le Loup et les Sept Chevreaux",
+        "Dame Holle",
+        "Les Fées",
+        "Le Lièvre et la Tortue"
+      ],
+      "answer": [
+        "La Belle au bois dormant"
+      ]
+    },
+    {
+      "text": "Que rencontre-t-on dans le conte «Le Loup et les Sept Chevreaux» ?",
+      "options": [
+        "la tige qui plie",
+        "le dépit",
+        "le prince métamorphosé",
+        "la montagne de verre"
+      ],
+      "answer": [
+        "la cachette dans l'horloge"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on la salade du jardin ?",
+      "options": [
+        "La Belle et la Bête",
+        "Le Chat botté",
+        "Riquet à la houppe",
+        "Le Nain Tracassin"
+      ],
+      "answer": [
+        "Raiponce"
+      ]
+    },
+    {
+      "text": "Quel élément appartient au conte «Le Vaillant Petit Tailleur» ?",
+      "options": [
+        "le vent furieux",
+        "les souliers de vair",
+        "l'ambitieuse qui enfle",
+        "la fuite dans la forêt",
+        "la robe couleur du temps",
+        "la vieille cabane"
+      ],
+      "answer": [
+        "la licorne capturée"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène le festin citadin ?",
+      "options": [
+        "Hansel et Gretel",
+        "Le Loup et l'Agneau",
+        "Le Chat botté",
+        "Riquet à la houppe"
+      ],
+      "answer": [
+        "Le Rat des villes et le Rat des champs"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on l'os de poulet du matin ?",
+      "options": [
+        "Le Nain Tracassin",
+        "Peau d'âne",
+        "Le Corbeau et le Renard",
+        "Blanche-Neige",
+        "La Cigale et la Fourmi"
+      ],
+      "answer": [
+        "Les Sept Corbeaux"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on le prince métamorphosé ?",
+      "options": [
+        "Riquet à la houppe",
+        "Raiponce",
+        "Le Chêne et le Roseau",
+        "Le Petit Chaperon rouge",
+        "Le Renard et les Raisins"
+      ],
+      "answer": [
+        "La Belle et la Bête"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène le rêve de richesse renversé ?",
+      "options": [
+        "Le Joueur de flûte de Hamelin",
+        "La Cigale et la Fourmi",
+        "Le Loup et les Sept Chevreaux",
+        "Le Petit Poucet",
+        "Le Rat des villes et le Rat des champs"
+      ],
+      "answer": [
+        "La Laitière et le Pot au lait"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on la rose du jardin ?",
+      "options": [
+        "Le Rat des villes et le Rat des champs",
+        "Le Nain Tracassin",
+        "Le Renard et les Raisins",
+        "Le Lièvre et la Tortue",
+        "Raiponce",
+        "Le Pêcheur et sa femme"
+      ],
+      "answer": [
+        "La Belle et la Bête"
+      ]
+    },
+    {
+      "text": "De quel conte vient la fontaine du village ?",
+      "options": [
+        "Le Lièvre et la Tortue",
+        "Le Pêcheur et sa femme",
+        "Le Roi Grenouille",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Le Rat des villes et le Rat des champs",
+        "Cendrillon"
+      ],
+      "answer": [
+        "Les Fées"
+      ]
+    },
+    {
+      "text": "Quels éléments trouve-t-on dans le conte «Les Musiciens de Brême» ?",
+      "options": [
+        "celle qui amasse des provisions",
+        "le rêve de richesse renversé",
+        "la boucle de cheveux",
+        "la vieille cabane",
+        "les grappes hors d'atteinte"
+      ],
+      "answer": [
+        "les quatre animaux chanteurs",
+        "la maison des brigands"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on la chute du pot ?",
+      "options": [
+        "Les Sept Corbeaux",
+        "Les Musiciens de Brême",
+        "Le Roi Grenouille",
+        "Le Petit Poucet"
+      ],
+      "answer": [
+        "La Laitière et le Pot au lait"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on les souliers de vair ?",
+      "options": [
+        "La Cigale et la Fourmi",
+        "La Barbe bleue",
+        "Le Pêcheur et sa femme",
+        "Dame Holle",
+        "Hansel et Gretel",
+        "Le Nain Tracassin"
+      ],
+      "answer": [
+        "Cendrillon"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène la longue tresse ?",
+      "options": [
+        "Le Vaillant Petit Tailleur",
+        "Le Loup et l'Agneau",
+        "Le Chat botté",
+        "Les Musiciens de Brême",
+        "Le Pêcheur et sa femme"
+      ],
+      "answer": [
+        "Raiponce"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on l'arbre déraciné ?",
+      "options": [
+        "Le Joueur de flûte de Hamelin",
+        "Le Roi Grenouille",
+        "Le Petit Chaperon rouge",
+        "Raiponce",
+        "La Gardeuse d'oies"
+      ],
+      "answer": [
+        "Le Chêne et le Roseau"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on l'insecte chanteur de l'été ?",
+      "options": [
+        "Le Vaillant Petit Tailleur",
+        "Le Petit Poucet",
+        "Le Roi Grenouille",
+        "Le Chêne et le Roseau",
+        "Peau d'âne"
+      ],
+      "answer": [
+        "La Cigale et la Fourmi"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on les mauvaises raisons ?",
+      "options": [
+        "La Belle au bois dormant",
+        "Cendrillon",
+        "Peau d'âne",
+        "Le Petit Poucet",
+        "Le Vaillant Petit Tailleur"
+      ],
+      "answer": [
+        "Le Loup et l'Agneau"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on les chaussures à la mode du chat ?",
+      "options": [
+        "Dame Holle",
+        "La Laitière et le Pot au lait",
+        "Le Renard et les Raisins",
+        "Cendrillon",
+        "Les Sept Corbeaux"
+      ],
+      "answer": [
+        "Le Chat botté"
+      ]
+    },
+    {
+      "text": "Quel détail vient du conte «La Cigale et la Fourmi» ?",
+      "options": [
+        "la cachette dans l'horloge",
+        "l'ambitieuse qui enfle",
+        "la maison en pain d'épice",
+        "la tresse d'or",
+        "l'épouse curieuse"
+      ],
+      "answer": [
+        "celle qui amasse des provisions"
+      ]
+    },
+    {
+      "text": "À quel conte appartient la fausse indifférence ?",
+      "options": [
+        "Le Chêne et le Roseau",
+        "Le Chat botté",
+        "Blanche-Neige",
+        "Riquet à la houppe",
+        "Le Petit Poucet"
+      ],
+      "answer": [
+        "Le Renard et les Raisins"
+      ]
+    },
+    {
+      "text": "Quel élément appartient au conte «Blanche-Neige» ?",
+      "options": [
+        "les rats de la ville",
+        "le dépit",
+        "la princesse sotte",
+        "les crapauds et les vipères",
+        "la flatterie"
+      ],
+      "answer": [
+        "le miroir magique"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on les perles et les diamants ?",
+      "options": [
+        "Raiponce",
+        "Peau d'âne",
+        "Blanche-Neige",
+        "Le Chat botté",
+        "Riquet à la houppe"
+      ],
+      "answer": [
+        "Les Fées"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on les plumes de neige ?",
+      "options": [
+        "Le Chat botté",
+        "La Barbe bleue",
+        "Le Roi Grenouille",
+        "La Cigale et la Fourmi",
+        "Riquet à la houppe",
+        "Le Loup et les Sept Chevreaux"
+      ],
+      "answer": [
+        "Dame Holle"
+      ]
+    },
+    {
+      "text": "Dans quel conte retrouve-t-on l'orgueil puni ?",
+      "options": [
+        "Le Loup et l'Agneau",
+        "Le Chêne et le Roseau",
+        "Le Vaillant Petit Tailleur",
+        "Dame Holle"
+      ],
+      "answer": [
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf"
+      ]
+    },
+    {
+      "text": "De quel conte vient les rêves de richesse ?",
+      "options": [
+        "Peau d'âne",
+        "La Gardeuse d'oies",
+        "Le Pêcheur et sa femme",
+        "Le Corbeau et le Renard",
+        "Cendrillon",
+        "Le Petit Poucet"
+      ],
+      "answer": [
+        "La Laitière et le Pot au lait"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on le dépit ?",
+      "options": [
+        "Le Roi Grenouille",
+        "Le Lièvre et la Tortue",
+        "Cendrillon",
+        "La Belle et la Bête",
+        "Blanche-Neige",
+        "Le Corbeau et le Renard"
+      ],
+      "answer": [
+        "Le Renard et les Raisins"
+      ]
+    },
+    {
+      "text": "Quel élément appartient au conte «Le Corbeau et le Renard» ?",
+      "options": [
+        "la clé tachée de sang",
+        "les cailloux blancs",
+        "celle qui amasse des provisions",
+        "les sept biquets",
+        "les sept nains",
+        "le fuseau"
+      ],
+      "answer": [
+        "le fromage"
+      ]
+    },
+    {
+      "text": "À quel conte appartient la chèvre mère ?",
+      "options": [
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Le Petit Chaperon rouge",
+        "Le Loup et l'Agneau",
+        "La Cigale et la Fourmi"
+      ],
+      "answer": [
+        "Le Loup et les Sept Chevreaux"
+      ]
+    },
+    {
+      "text": "À quel conte appartient le domaine enchanté ?",
+      "options": [
+        "Le Lièvre et la Tortue",
+        "Le Chat botté",
+        "La Laitière et le Pot au lait",
+        "La Barbe bleue"
+      ],
+      "answer": [
+        "La Belle et la Bête"
+      ]
+    },
+    {
+      "text": "De quel conte vient le puits du jardin ?",
+      "options": [
+        "Le Loup et l'Agneau",
+        "Le Corbeau et le Renard",
+        "La Laitière et le Pot au lait",
+        "Les Fées",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Le Renard et les Raisins"
+      ],
+      "answer": [
+        "Le Roi Grenouille"
+      ]
+    },
+    {
+      "text": "À quel conte appartient le four plein de pain ?",
+      "options": [
+        "Le Petit Chaperon rouge",
+        "Le Renard et les Raisins",
+        "Le Vaillant Petit Tailleur",
+        "Le Rat des villes et le Rat des champs"
+      ],
+      "answer": [
+        "Dame Holle"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène les frères changés en oiseaux ?",
+      "options": [
+        "Dame Holle",
+        "Le Nain Tracassin",
+        "Le Roi Grenouille",
+        "La Belle au bois dormant"
+      ],
+      "answer": [
+        "Les Sept Corbeaux"
+      ]
+    },
+    {
+      "text": "De quel conte vient le coureur trop sûr de lui ?",
+      "options": [
+        "Riquet à la houppe",
+        "Le Petit Poucet",
+        "La Barbe bleue",
+        "Blanche-Neige",
+        "Peau d'âne"
+      ],
+      "answer": [
+        "Le Lièvre et la Tortue"
+      ]
+    },
+    {
+      "text": "Quel conte met en scène la tresse d'or ?",
+      "options": [
+        "Le Petit Chaperon rouge",
+        "Le Rat des villes et le Rat des champs",
+        "Le Roi Grenouille",
+        "Hansel et Gretel"
+      ],
+      "answer": [
+        "La Gardeuse d'oies"
+      ]
+    },
+    {
+      "text": "Quel élément fait partie du conte «La Grenouille qui veut se faire aussi grosse que le Bœuf» ?",
+      "options": [
+        "la boule d'or",
+        "les mauvaises raisons",
+        "le nom deviné",
+        "le four de la sorcière"
+      ],
+      "answer": [
+        "le ruminant de la prairie"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on les grappes hors d'atteinte ?",
+      "options": [
+        "Cendrillon",
+        "La Belle au bois dormant",
+        "Riquet à la houppe",
+        "Le Nain Tracassin",
+        "Le Pêcheur et sa femme"
+      ],
+      "answer": [
+        "Le Renard et les Raisins"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on le vent furieux ?",
+      "options": [
+        "Le Lièvre et la Tortue",
+        "Les Sept Corbeaux",
+        "Riquet à la houppe",
+        "Les Musiciens de Brême",
+        "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+        "Le Nain Tracassin"
+      ],
+      "answer": [
+        "Le Chêne et le Roseau"
+      ]
+    },
+    {
+      "text": "Que rencontre-t-on dans le conte «Le Petit Poucet» ?",
+      "options": [
+        "l'ogre changé en souris",
+        "la vieille cabane",
+        "le ruisseau",
+        "l'hiver sans provisions",
+        "la pantoufle de verre"
+      ],
+      "answer": [
+        "les bottes de sept lieues"
+      ]
+    },
+    {
+      "text": "Dans quel conte rencontre-t-on la cachette dans l'horloge ?",
+      "options": [
+        "La Belle et la Bête",
+        "Peau d'âne",
+        "Le Chat botté",
+        "La Cigale et la Fourmi",
+        "Blanche-Neige"
+      ],
+      "answer": [
+        "Le Loup et les Sept Chevreaux"
+      ]
+    },
+    {
+      "text": "Dans quel conte trouve-t-on les sept biquets ?",
+      "options": [
+        "Les Sept Corbeaux",
+        "Le Rat des villes et le Rat des champs",
+        "La Laitière et le Pot au lait",
+        "Dame Holle",
+        "Le Nain Tracassin",
+        "Riquet à la houppe"
+      ],
+      "answer": [
+        "Le Loup et les Sept Chevreaux"
+      ]
+    }
+  ]
+}

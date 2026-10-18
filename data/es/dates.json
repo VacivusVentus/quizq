@@ -1,0 +1,1474 @@
+{
+  "theme": "Fechas y épocas",
+  "questions": [
+    {
+      "text": "¿De qué siglo data el final de la guerra de los Cien Años?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo veintiuno",
+        "el siglo dieciocho",
+        "el siglo doce",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió el descubrimiento del radio por los esposos Curie?",
+      "options": [
+        "el siglo quince",
+        "el siglo catorce",
+        "el siglo doce",
+        "el siglo dieciséis",
+        "el siglo dieciocho",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la caída de Acre?",
+      "options": [
+        "el siglo quince",
+        "el siglo diecisiete",
+        "el siglo catorce",
+        "el siglo dieciséis",
+        "el siglo veintiuno"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la creación de Wikipedia?",
+      "options": [
+        "el siglo doce",
+        "el siglo trece",
+        "el siglo diecinueve",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la primera vacuna contra la viruela por Edward Jenner?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo quince",
+        "el siglo veinte",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la invención de la imprenta por Gutenberg?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo trece",
+        "el siglo diecisiete",
+        "el siglo veintiuno"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la batalla de Bannockburn?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo trece",
+        "el siglo veinte",
+        "el siglo diecisiete",
+        "el siglo dieciocho",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar el inicio del reinado de Luis Once?",
+      "options": [
+        "el siglo catorce",
+        "el siglo doce",
+        "el siglo veinte",
+        "el siglo diecinueve"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la firma de la paz de Westfalia?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo diecinueve",
+        "el siglo doce",
+        "el siglo dieciocho",
+        "el siglo quince"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data el terremoto de Lisboa?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo diecinueve",
+        "el siglo diecisiete",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la fundación del Imperio mongol por Gengis Kan?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo dieciocho",
+        "el siglo catorce",
+        "el siglo quince",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece el hundimiento del Titanic?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo doce",
+        "el siglo dieciocho",
+        "el siglo diecinueve",
+        "el siglo quince",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la primera vuelta al mundo de Magallanes?",
+      "options": [
+        "el siglo veinte",
+        "el siglo quince",
+        "el siglo dieciocho",
+        "el siglo diecisiete",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data el referéndum sobre la salida del Reino Unido de la Unión Europea?",
+      "options": [
+        "el siglo catorce",
+        "el siglo dieciocho",
+        "el siglo diecinueve",
+        "el siglo dieciséis",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la segunda cruzada?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo diecisiete",
+        "el siglo dieciséis",
+        "el siglo quince",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la muerte de Voltaire en París?",
+      "options": [
+        "el siglo quince",
+        "el siglo diecinueve",
+        "el siglo veintiuno",
+        "el siglo diecisiete",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la finalización de la secuenciación del genoma humano?",
+      "options": [
+        "el siglo trece",
+        "el siglo dieciséis",
+        "el siglo diecinueve",
+        "el siglo doce",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la catástrofe de la central de Chernóbil?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo diecisiete",
+        "el siglo diecinueve",
+        "el siglo quince"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la coronación de Napoleón como emperador?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo dieciocho",
+        "el siglo catorce",
+        "el siglo doce",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data el ascenso de Federico Barbarroja al trono imperial?",
+      "options": [
+        "el siglo trece",
+        "el siglo diecisiete",
+        "el siglo dieciocho",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la destrucción de las Torres Gemelas de Nueva York?",
+      "options": [
+        "el siglo catorce",
+        "el siglo diecinueve",
+        "el siglo trece",
+        "el siglo diecisiete",
+        "el siglo quince",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece el acuerdo de París sobre el clima?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo diecisiete",
+        "el siglo diecinueve",
+        "el siglo dieciséis",
+        "el siglo catorce",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió el Concilio de Trento?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo trece",
+        "el siglo quince",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la puesta en marcha del Gran Colisionador de Hadrones?",
+      "options": [
+        "el siglo veinte",
+        "el siglo diecinueve",
+        "el siglo doce",
+        "el siglo diecisiete",
+        "el siglo dieciocho",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta el inicio de la Segunda Guerra Mundial?",
+      "options": [
+        "el siglo catorce",
+        "el siglo trece",
+        "el siglo diecinueve",
+        "el siglo doce",
+        "el siglo dieciséis",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la fundación de Quebec por Samuel de Champlain?",
+      "options": [
+        "el siglo veinte",
+        "el siglo trece",
+        "el siglo quince",
+        "el siglo veintiuno",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la batalla de Bouvines?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo veintiuno",
+        "el siglo catorce",
+        "el siglo diecisiete",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la gran hambruna en Europa?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo trece",
+        "el siglo doce",
+        "el siglo veintiuno"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta el viaje de Marco Polo a China?",
+      "options": [
+        "el siglo veinte",
+        "el siglo quince",
+        "el siglo dieciséis",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la publicación del primer volumen de la Enciclopedia?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo quince",
+        "el siglo diecinueve",
+        "el siglo catorce",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la coronación de Iván el Terrible como zar?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo doce",
+        "el siglo veintiuno",
+        "el siglo trece",
+        "el siglo diecinueve"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la toma de Granada por los Reyes Católicos?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo veinte",
+        "el siglo dieciséis",
+        "el siglo diecisiete",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la batalla de Marignano?",
+      "options": [
+        "el siglo doce",
+        "el siglo veintiuno",
+        "el siglo diecinueve",
+        "el siglo veinte",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la primera reunión de los Estados Generales en Francia?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo veinte",
+        "el siglo diecinueve",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la muerte de Gengis Kan?",
+      "options": [
+        "el siglo quince",
+        "el siglo veintiuno",
+        "el siglo diecisiete",
+        "el siglo doce",
+        "el siglo dieciséis",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la peste negra en Europa?",
+      "options": [
+        "el siglo quince",
+        "el siglo dieciocho",
+        "el siglo dieciséis",
+        "el siglo diecinueve",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data el asesinato de Tomás Becket en su catedral?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo veintiuno",
+        "el siglo catorce",
+        "el siglo quince",
+        "el siglo veinte",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la derrota de la Armada Invencible?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo veintiuno",
+        "el siglo veinte",
+        "el siglo diecisiete",
+        "el siglo quince",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la invasión mongola de la Rus?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo diecinueve",
+        "el siglo diecisiete",
+        "el siglo veintiuno"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la firma de la Carta Magna por el rey Juan sin Tierra?",
+      "options": [
+        "el siglo catorce",
+        "el siglo dieciséis",
+        "el siglo dieciocho",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece el desembarco aliado en Normandía?",
+      "options": [
+        "el siglo doce",
+        "el siglo veintiuno",
+        "el siglo quince",
+        "el siglo diecinueve"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la conquista de Jerusalén por Saladino?",
+      "options": [
+        "el siglo quince",
+        "el siglo diecinueve",
+        "el siglo catorce",
+        "el siglo trece",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar el accidente nuclear de Fukushima?",
+      "options": [
+        "el siglo doce",
+        "el siglo diecinueve",
+        "el siglo catorce",
+        "el siglo veinte",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la abolición de la esclavitud en Francia?",
+      "options": [
+        "el siglo quince",
+        "el siglo trece",
+        "el siglo veinte",
+        "el siglo dieciocho",
+        "el siglo veintiuno",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la muerte de Luis Catorce?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo trece",
+        "el siglo diecisiete",
+        "el siglo veinte",
+        "el siglo veintiuno",
+        "el siglo quince"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la publicación de la obra de Copérnico sobre la rotación de las esferas celestes?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo diecinueve",
+        "el siglo trece",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la batalla de Crécy?",
+      "options": [
+        "el siglo veinte",
+        "el siglo dieciocho",
+        "el siglo veintiuno",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar el inicio de la construcción de la catedral de Colonia?",
+      "options": [
+        "el siglo doce",
+        "el siglo veinte",
+        "el siglo dieciocho",
+        "el siglo quince",
+        "el siglo veintiuno",
+        "el siglo diecinueve"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta el gran incendio de Londres?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo dieciocho",
+        "el siglo catorce",
+        "el siglo quince"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió el bombardeo atómico de Hiroshima?",
+      "options": [
+        "el siglo doce",
+        "el siglo diecisiete",
+        "el siglo veintiuno",
+        "el siglo dieciséis",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la guerra de los Siete Años?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo diecinueve",
+        "el siglo veintiuno",
+        "el siglo trece",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la cruzada contra los albigenses?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo dieciséis",
+        "el siglo diecinueve",
+        "el siglo quince",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece el viaje de Vasco de Gama a la India?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo dieciocho",
+        "el siglo diecinueve",
+        "el siglo veintiuno",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la invención de la máquina de vapor por James Watt?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo dieciséis",
+        "el siglo trece",
+        "el siglo catorce",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la puesta en circulación de las monedas y los billetes de euro?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo quince",
+        "el siglo diecisiete",
+        "el siglo veinte",
+        "el siglo diecinueve"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la guerra civil estadounidense?",
+      "options": [
+        "el siglo quince",
+        "el siglo dieciocho",
+        "el siglo veinte",
+        "el siglo doce",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la caída del muro de Berlín?",
+      "options": [
+        "el siglo catorce",
+        "el siglo dieciséis",
+        "el siglo quince",
+        "el siglo trece",
+        "el siglo veintiuno"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar el inicio de la construcción de la catedral de Notre Dame de París?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo dieciséis",
+        "el siglo veintiuno",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la publicación de Los miserables de Victor Hugo?",
+      "options": [
+        "el siglo quince",
+        "el siglo dieciocho",
+        "el siglo veintiuno",
+        "el siglo catorce",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la fundación de San Petersburgo?",
+      "options": [
+        "el siglo trece",
+        "el siglo diecinueve",
+        "el siglo diecisiete",
+        "el siglo dieciséis",
+        "el siglo veintiuno",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la Gran Jacquería en Francia?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo diecisiete",
+        "el siglo dieciséis",
+        "el siglo veintiuno",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la ejecución del rey Carlos Primero de Inglaterra?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo dieciocho",
+        "el siglo dieciséis",
+        "el siglo veinte",
+        "el siglo quince"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece el congreso de Viena?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo quince",
+        "el siglo doce",
+        "el siglo dieciocho",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la captura del rey Juan el Bueno en la batalla de Poitiers?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo doce",
+        "el siglo veintiuno",
+        "el siglo dieciséis",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la publicación de Don Quijote?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo trece",
+        "el siglo dieciocho",
+        "el siglo diecinueve",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la batalla de Austerlitz?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo diecisiete",
+        "el siglo dieciocho",
+        "el siglo quince",
+        "el siglo doce",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la llegada de Cristóbal Colón a América?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo doce",
+        "el siglo catorce",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar el juicio a Galileo?",
+      "options": [
+        "el siglo trece",
+        "el siglo veintiuno",
+        "el siglo doce",
+        "el siglo catorce",
+        "el siglo veinte",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió el nacimiento de la Universidad de Cambridge?",
+      "options": [
+        "el siglo catorce",
+        "el siglo dieciséis",
+        "el siglo dieciocho",
+        "el siglo diecisiete",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta el incendio de la catedral de Notre Dame de París?",
+      "options": [
+        "el siglo quince",
+        "el siglo catorce",
+        "el siglo diecinueve",
+        "el siglo diecisiete",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la inauguración de la torre Eiffel?",
+      "options": [
+        "el siglo catorce",
+        "el siglo veintiuno",
+        "el siglo diecisiete",
+        "el siglo dieciocho",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la invención del cine por los hermanos Lumière?",
+      "options": [
+        "el siglo quince",
+        "el siglo dieciséis",
+        "el siglo veintiuno",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la guerra de las Dos Rosas en Inglaterra?",
+      "options": [
+        "el siglo trece",
+        "el siglo veinte",
+        "el siglo catorce",
+        "el siglo dieciocho",
+        "el siglo diecisiete",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la batalla de Grunwald?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo doce",
+        "el siglo diecinueve",
+        "el siglo veinte",
+        "el siglo trece",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data el inicio de la guerra de los Cien Años?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo dieciséis",
+        "el siglo veinte",
+        "el siglo doce",
+        "el siglo dieciocho",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la toma de la Bastilla?",
+      "options": [
+        "el siglo doce",
+        "el siglo dieciséis",
+        "el siglo diecisiete",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la publicación de las tesis de Martín Lutero en Wittenberg?",
+      "options": [
+        "el siglo quince",
+        "el siglo dieciocho",
+        "el siglo veintiuno",
+        "el siglo catorce",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data el Edicto de Nantes?",
+      "options": [
+        "el siglo veinte",
+        "el siglo diecinueve",
+        "el siglo quince",
+        "el siglo veintiuno",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió el inicio de la Primera Guerra Mundial?",
+      "options": [
+        "el siglo trece",
+        "el siglo quince",
+        "el siglo catorce",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la ejecución de Juana de Arco en la hoguera?",
+      "options": [
+        "el siglo veintiuno",
+        "el siglo doce",
+        "el siglo diecisiete",
+        "el siglo diecinueve",
+        "el siglo dieciséis",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió el ascenso de Luis Catorce al trono?",
+      "options": [
+        "el siglo quince",
+        "el siglo dieciocho",
+        "el siglo dieciséis",
+        "el siglo doce",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la disolución de la Unión Soviética?",
+      "options": [
+        "el siglo doce",
+        "el siglo trece",
+        "el siglo veintiuno",
+        "el siglo dieciocho",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece el inicio de la guerra de los Treinta Años?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo dieciséis",
+        "el siglo catorce",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la creación de la Academia Francesa?",
+      "options": [
+        "el siglo catorce",
+        "el siglo doce",
+        "el siglo dieciséis",
+        "el siglo diecinueve",
+        "el siglo quince",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la batalla de Waterloo?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo doce",
+        "el siglo dieciocho",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la ejecución de Luis Dieciséis?",
+      "options": [
+        "el siglo catorce",
+        "el siglo diecisiete",
+        "el siglo dieciséis",
+        "el siglo veinte",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la fundación del reino de Portugal?",
+      "options": [
+        "el siglo trece",
+        "el siglo catorce",
+        "el siglo quince",
+        "el siglo veinte",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la invasión normanda de Irlanda?",
+      "options": [
+        "el siglo trece",
+        "el siglo veintiuno",
+        "el siglo diecisiete",
+        "el siglo veinte",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la muerte de Saladino en Damasco?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo quince",
+        "el siglo trece",
+        "el siglo dieciocho",
+        "el siglo catorce",
+        "el siglo veintiuno"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece el inicio del reinado de Felipe Augusto?",
+      "options": [
+        "el siglo quince",
+        "el siglo diecisiete",
+        "el siglo trece",
+        "el siglo diecinueve",
+        "el siglo dieciocho",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la batalla de Azincourt?",
+      "options": [
+        "el siglo doce",
+        "el siglo dieciocho",
+        "el siglo diecisiete",
+        "el siglo trece",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la pandemia de coronavirus?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo dieciséis",
+        "el siglo dieciocho",
+        "el siglo diecinueve"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar los primeros pasos del hombre en la Luna?",
+      "options": [
+        "el siglo doce",
+        "el siglo veintiuno",
+        "el siglo quince",
+        "el siglo catorce",
+        "el siglo diecinueve",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la fundación de la dinastía Ming?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo doce",
+        "el siglo dieciocho",
+        "el siglo veintiuno",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data la Revolución de Octubre en Rusia?",
+      "options": [
+        "el siglo quince",
+        "el siglo diecisiete",
+        "el siglo trece",
+        "el siglo doce",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta el inicio de la construcción de la torre inclinada de Pisa?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo catorce",
+        "el siglo diecisiete",
+        "el siglo veinte",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar el inicio del Cisma de Occidente?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo quince",
+        "el siglo veintiuno",
+        "el siglo diecisiete",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la batalla de Kosovo?",
+      "options": [
+        "el siglo trece",
+        "el siglo quince",
+        "el siglo dieciocho",
+        "el siglo dieciséis",
+        "el siglo diecisiete",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo catorce"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar el caso Dreyfus?",
+      "options": [
+        "el siglo diecisiete",
+        "el siglo catorce",
+        "el siglo veinte",
+        "el siglo dieciséis",
+        "el siglo quince"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data los Juegos Olímpicos de verano de Pekín?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo dieciséis",
+        "el siglo doce",
+        "el siglo catorce"
+      ],
+      "answer": [
+        "el siglo veintiuno"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data el saqueo de Constantinopla por los cruzados?",
+      "options": [
+        "el siglo quince",
+        "el siglo catorce",
+        "el siglo veinte",
+        "el siglo dieciséis",
+        "el siglo dieciocho"
+      ],
+      "answer": [
+        "el siglo trece"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la muerte de Leonardo da Vinci?",
+      "options": [
+        "el siglo quince",
+        "el siglo diecisiete",
+        "el siglo doce",
+        "el siglo veinte",
+        "el siglo veintiuno",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la revocación del Edicto de Nantes?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo doce",
+        "el siglo dieciséis",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la toma de Constantinopla por los otomanos?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo dieciocho",
+        "el siglo diecisiete",
+        "el siglo catorce",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo quince"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta el primer vuelo de los hermanos Wright?",
+      "options": [
+        "el siglo catorce",
+        "el siglo veintiuno",
+        "el siglo quince",
+        "el siglo dieciocho",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿A qué siglo se remonta la matanza de la Noche de San Bartolomé?",
+      "options": [
+        "el siglo diecinueve",
+        "el siglo quince",
+        "el siglo veintiuno",
+        "el siglo catorce",
+        "el siglo diecisiete"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece la declaración de independencia de los Estados Unidos?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo catorce",
+        "el siglo diecisiete",
+        "el siglo diecinueve",
+        "el siglo doce",
+        "el siglo trece"
+      ],
+      "answer": [
+        "el siglo dieciocho"
+      ]
+    },
+    {
+      "text": "¿A qué siglo pertenece el inicio de la construcción del palacio de Versalles?",
+      "options": [
+        "el siglo doce",
+        "el siglo quince",
+        "el siglo diecinueve",
+        "el siglo veintiuno",
+        "el siglo veinte"
+      ],
+      "answer": [
+        "el siglo diecisiete"
+      ]
+    },
+    {
+      "text": "¿De qué siglo data el primer vuelo de un ser humano al espacio?",
+      "options": [
+        "el siglo dieciocho",
+        "el siglo catorce",
+        "el siglo quince",
+        "el siglo trece",
+        "el siglo doce"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la conquista de México por Cortés?",
+      "options": [
+        "el siglo veinte",
+        "el siglo veintiuno",
+        "el siglo quince",
+        "el siglo trece",
+        "el siglo catorce",
+        "el siglo diecinueve"
+      ],
+      "answer": [
+        "el siglo dieciséis"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar el descubrimiento de la penicilina por Alexander Fleming?",
+      "options": [
+        "el siglo trece",
+        "el siglo doce",
+        "el siglo veintiuno",
+        "el siglo diecinueve",
+        "el siglo dieciséis"
+      ],
+      "answer": [
+        "el siglo veinte"
+      ]
+    },
+    {
+      "text": "¿En qué siglo tuvo lugar la guerra de Crimea?",
+      "options": [
+        "el siglo doce",
+        "el siglo veinte",
+        "el siglo diecisiete",
+        "el siglo veintiuno"
+      ],
+      "answer": [
+        "el siglo diecinueve"
+      ]
+    },
+    {
+      "text": "¿En qué siglo ocurrió la tercera cruzada?",
+      "options": [
+        "el siglo dieciséis",
+        "el siglo diecinueve",
+        "el siglo trece",
+        "el siglo diecisiete",
+        "el siglo veintiuno"
+      ],
+      "answer": [
+        "el siglo doce"
+      ]
+    }
+  ]
+}

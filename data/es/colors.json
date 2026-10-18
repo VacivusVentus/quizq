@@ -1,0 +1,1345 @@
+{
+  "theme": "Colores",
+  "questions": [
+    {
+      "text": "¿Cuál es el color predominante del dorso de una paloma bravía de plumaje silvestre?",
+      "options": [
+        "marrón",
+        "violeta",
+        "negro",
+        "naranja",
+        "blanco",
+        "verde"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el plátano?",
+      "options": [
+        "rosa",
+        "marrón",
+        "turquesa",
+        "naranja",
+        "verde",
+        "rojo"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el algodón de azúcar?",
+      "options": [
+        "marrón",
+        "violeta",
+        "amarillo",
+        "turquesa",
+        "blanco"
+      ],
+      "answer": [
+        "rosa"
+      ]
+    },
+    {
+      "text": "el flamenco, ¿de qué color es?",
+      "options": [
+        "amarillo",
+        "verde",
+        "violeta",
+        "marrón",
+        "azul"
+      ],
+      "answer": [
+        "rosa"
+      ]
+    },
+    {
+      "text": "el agua de una laguna tropical, ¿de qué color es?",
+      "options": [
+        "marrón",
+        "azul",
+        "gris",
+        "naranja"
+      ],
+      "answer": [
+        "turquesa"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene la ciruela madura?",
+      "options": [
+        "negro",
+        "blanco",
+        "naranja",
+        "turquesa",
+        "amarillo"
+      ],
+      "answer": [
+        "violeta"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene la cereza madura?",
+      "options": [
+        "negro",
+        "amarillo",
+        "azul",
+        "gris"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la peonía?",
+      "options": [
+        "azul",
+        "rojo",
+        "naranja",
+        "negro",
+        "blanco",
+        "amarillo"
+      ],
+      "answer": [
+        "rosa"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es la tiza?",
+      "options": [
+        "rojo",
+        "amarillo",
+        "verde",
+        "marrón",
+        "violeta",
+        "naranja"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "¿De qué color es la fresa madura?",
+      "options": [
+        "violeta",
+        "verde",
+        "gris",
+        "marrón",
+        "amarillo",
+        "rosa"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el agua poco profunda de un atolón?",
+      "options": [
+        "naranja",
+        "negro",
+        "azul",
+        "rosa",
+        "blanco"
+      ],
+      "answer": [
+        "turquesa"
+      ]
+    },
+    {
+      "text": "el pollito, ¿de qué color es?",
+      "options": [
+        "turquesa",
+        "negro",
+        "naranja",
+        "blanco",
+        "rojo"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el carbón?",
+      "options": [
+        "rojo",
+        "verde",
+        "blanco",
+        "violeta",
+        "gris"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser el cono de señalización?",
+      "options": [
+        "turquesa",
+        "blanco",
+        "azul",
+        "gris",
+        "rojo",
+        "amarillo"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene la calabaza?",
+      "options": [
+        "turquesa",
+        "rosa",
+        "azul",
+        "violeta"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el mar sobre un arrecife de coral?",
+      "options": [
+        "blanco",
+        "verde",
+        "rojo",
+        "rosa",
+        "marrón"
+      ],
+      "answer": [
+        "turquesa"
+      ]
+    },
+    {
+      "text": "¿De qué color es el brócoli?",
+      "options": [
+        "gris",
+        "rosa",
+        "amarillo",
+        "naranja",
+        "negro"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿De qué color es el pétalo del escaramujo?",
+      "options": [
+        "negro",
+        "amarillo",
+        "verde",
+        "violeta",
+        "marrón"
+      ],
+      "answer": [
+        "rosa"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la mostaza?",
+      "options": [
+        "blanco",
+        "negro",
+        "rosa",
+        "verde",
+        "turquesa",
+        "rojo"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "la corteza del roble, ¿de qué color es?",
+      "options": [
+        "violeta",
+        "rojo",
+        "gris",
+        "blanco"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "¿De qué color es el cacao en polvo?",
+      "options": [
+        "azul",
+        "naranja",
+        "rosa",
+        "amarillo",
+        "turquesa",
+        "verde"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el hollín?",
+      "options": [
+        "marrón",
+        "azul",
+        "gris",
+        "verde",
+        "turquesa"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el tomate maduro?",
+      "options": [
+        "verde",
+        "turquesa",
+        "blanco",
+        "gris",
+        "amarillo"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el camión de bomberos?",
+      "options": [
+        "violeta",
+        "marrón",
+        "naranja",
+        "verde",
+        "blanco"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "el alquitrán, ¿de qué color es?",
+      "options": [
+        "marrón",
+        "blanco",
+        "naranja",
+        "verde",
+        "turquesa"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene la noche sin luna?",
+      "options": [
+        "turquesa",
+        "blanco",
+        "verde",
+        "gris"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "¿De qué color es el cuervo?",
+      "options": [
+        "amarillo",
+        "azul",
+        "naranja",
+        "blanco",
+        "rosa",
+        "marrón"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "¿De qué color es el agua del mar Caribe?",
+      "options": [
+        "violeta",
+        "rosa",
+        "azul",
+        "blanco",
+        "naranja",
+        "gris"
+      ],
+      "answer": [
+        "turquesa"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser el café molido?",
+      "options": [
+        "naranja",
+        "turquesa",
+        "negro",
+        "verde",
+        "rojo",
+        "amarillo"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el diente de león?",
+      "options": [
+        "turquesa",
+        "rojo",
+        "violeta",
+        "negro"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el saltamontes?",
+      "options": [
+        "gris",
+        "blanco",
+        "amarillo",
+        "negro"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el petróleo crudo?",
+      "options": [
+        "rojo",
+        "gris",
+        "marrón",
+        "rosa"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la harina de trigo?",
+      "options": [
+        "rojo",
+        "negro",
+        "rosa",
+        "amarillo",
+        "violeta",
+        "turquesa"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser el rubí?",
+      "options": [
+        "violeta",
+        "turquesa",
+        "verde",
+        "azul",
+        "amarillo",
+        "negro"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el neumático del coche?",
+      "options": [
+        "azul",
+        "gris",
+        "naranja",
+        "marrón",
+        "rosa",
+        "amarillo"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene la hierba en primavera?",
+      "options": [
+        "turquesa",
+        "negro",
+        "rojo",
+        "azul",
+        "gris"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el Mediterráneo?",
+      "options": [
+        "rojo",
+        "violeta",
+        "verde",
+        "blanco"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene la sal de cocina?",
+      "options": [
+        "gris",
+        "rojo",
+        "negro",
+        "rosa",
+        "violeta"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el aguacate?",
+      "options": [
+        "rojo",
+        "amarillo",
+        "naranja",
+        "marrón",
+        "turquesa",
+        "rosa"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene la ceniza?",
+      "options": [
+        "azul",
+        "turquesa",
+        "verde",
+        "negro"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "la aguja de pino, ¿de qué color es?",
+      "options": [
+        "negro",
+        "gris",
+        "azul",
+        "rosa",
+        "rojo"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el chaleco salvavidas?",
+      "options": [
+        "blanco",
+        "violeta",
+        "verde",
+        "rojo",
+        "turquesa"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "el corcho, ¿de qué color es?",
+      "options": [
+        "amarillo",
+        "gris",
+        "azul",
+        "turquesa",
+        "rosa"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "¿De qué color es el albaricoque maduro?",
+      "options": [
+        "marrón",
+        "violeta",
+        "amarillo",
+        "verde",
+        "blanco",
+        "negro"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es la buganvilla?",
+      "options": [
+        "verde",
+        "amarillo",
+        "rosa",
+        "azul",
+        "rojo"
+      ],
+      "answer": [
+        "violeta"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el humo de una hoguera?",
+      "options": [
+        "rojo",
+        "negro",
+        "verde",
+        "turquesa",
+        "rosa"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color es el elefante?",
+      "options": [
+        "negro",
+        "violeta",
+        "amarillo",
+        "turquesa",
+        "blanco"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es la zanahoria?",
+      "options": [
+        "negro",
+        "azul",
+        "amarillo",
+        "turquesa",
+        "verde",
+        "gris"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el pan integral?",
+      "options": [
+        "negro",
+        "amarillo",
+        "violeta",
+        "verde"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "el cielo despejado, ¿de qué color es?",
+      "options": [
+        "rosa",
+        "gris",
+        "marrón",
+        "verde"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene la flor del cerezo?",
+      "options": [
+        "rojo",
+        "turquesa",
+        "blanco",
+        "marrón"
+      ],
+      "answer": [
+        "rosa"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es la papaya madura?",
+      "options": [
+        "turquesa",
+        "verde",
+        "azul",
+        "rosa",
+        "violeta"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el cardo?",
+      "options": [
+        "verde",
+        "azul",
+        "gris",
+        "naranja",
+        "negro"
+      ],
+      "answer": [
+        "violeta"
+      ]
+    },
+    {
+      "text": "¿De qué color es el pepino?",
+      "options": [
+        "naranja",
+        "negro",
+        "turquesa",
+        "azul",
+        "gris",
+        "rosa"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene la tinta de un bolígrafo?",
+      "options": [
+        "rojo",
+        "turquesa",
+        "marrón",
+        "violeta"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el zafiro?",
+      "options": [
+        "rosa",
+        "turquesa",
+        "verde",
+        "blanco",
+        "violeta"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "el balón de baloncesto, ¿de qué color es?",
+      "options": [
+        "rosa",
+        "azul",
+        "turquesa",
+        "blanco"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene la nube en un día claro?",
+      "options": [
+        "marrón",
+        "violeta",
+        "verde",
+        "amarillo"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "¿De qué color es la mandarina madura?",
+      "options": [
+        "azul",
+        "turquesa",
+        "negro",
+        "rosa",
+        "marrón"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el limón maduro?",
+      "options": [
+        "marrón",
+        "blanco",
+        "violeta",
+        "naranja"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es la canela?",
+      "options": [
+        "amarillo",
+        "turquesa",
+        "rosa",
+        "azul",
+        "rojo",
+        "blanco"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "el cisne, ¿de qué color es?",
+      "options": [
+        "amarillo",
+        "gris",
+        "verde",
+        "turquesa",
+        "negro"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el ratón?",
+      "options": [
+        "negro",
+        "violeta",
+        "naranja",
+        "blanco",
+        "turquesa"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color es la leche?",
+      "options": [
+        "marrón",
+        "rosa",
+        "violeta",
+        "turquesa",
+        "negro",
+        "rojo"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "el canario, ¿de qué color es?",
+      "options": [
+        "marrón",
+        "negro",
+        "verde",
+        "violeta"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene la amapola?",
+      "options": [
+        "blanco",
+        "violeta",
+        "turquesa",
+        "naranja",
+        "rosa"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el zumo de zanahoria?",
+      "options": [
+        "rojo",
+        "gris",
+        "turquesa",
+        "negro",
+        "blanco"
+      ],
+      "answer": [
+        "naranja"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el girasol?",
+      "options": [
+        "blanco",
+        "gris",
+        "negro",
+        "marrón",
+        "turquesa"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el lapislázuli?",
+      "options": [
+        "violeta",
+        "gris",
+        "naranja",
+        "negro",
+        "verde",
+        "rosa"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene la hoja de menta?",
+      "options": [
+        "negro",
+        "marrón",
+        "amarillo",
+        "turquesa",
+        "rojo"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser el lobo?",
+      "options": [
+        "azul",
+        "marrón",
+        "verde",
+        "blanco",
+        "turquesa"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es la nomeolvides?",
+      "options": [
+        "gris",
+        "turquesa",
+        "rosa",
+        "rojo",
+        "violeta"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "¿De qué color es la berenjena?",
+      "options": [
+        "gris",
+        "blanco",
+        "rosa",
+        "verde",
+        "rojo"
+      ],
+      "answer": [
+        "violeta"
+      ]
+    },
+    {
+      "text": "el arroz cocido, ¿de qué color es?",
+      "options": [
+        "verde",
+        "rosa",
+        "violeta",
+        "azul"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "¿De qué color es el azabache?",
+      "options": [
+        "rosa",
+        "verde",
+        "marrón",
+        "azul",
+        "gris"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la espinaca?",
+      "options": [
+        "marrón",
+        "rojo",
+        "azul",
+        "gris",
+        "negro",
+        "rosa"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el chocolate?",
+      "options": [
+        "violeta",
+        "azul",
+        "verde",
+        "negro",
+        "amarillo"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es la miel?",
+      "options": [
+        "violeta",
+        "rojo",
+        "gris",
+        "negro",
+        "azul"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "la amanita, ¿de qué color es?",
+      "options": [
+        "verde",
+        "blanco",
+        "azul",
+        "naranja"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el cerdo?",
+      "options": [
+        "negro",
+        "violeta",
+        "blanco",
+        "gris",
+        "amarillo",
+        "naranja"
+      ],
+      "answer": [
+        "rosa"
+      ]
+    },
+    {
+      "text": "la lavanda, ¿de qué color es?",
+      "options": [
+        "gris",
+        "negro",
+        "marrón",
+        "amarillo"
+      ],
+      "answer": [
+        "violeta"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la bellota?",
+      "options": [
+        "verde",
+        "rojo",
+        "rosa",
+        "violeta",
+        "naranja"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser el pantalón vaquero?",
+      "options": [
+        "blanco",
+        "rosa",
+        "rojo",
+        "naranja",
+        "negro"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la amatista?",
+      "options": [
+        "negro",
+        "turquesa",
+        "gris",
+        "amarillo",
+        "rojo",
+        "rosa"
+      ],
+      "answer": [
+        "violeta"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene el cemento?",
+      "options": [
+        "violeta",
+        "marrón",
+        "rosa",
+        "blanco"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color es la sangre?",
+      "options": [
+        "gris",
+        "negro",
+        "rosa",
+        "turquesa",
+        "verde"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿Qué color tiene la nieve fresca?",
+      "options": [
+        "marrón",
+        "violeta",
+        "negro",
+        "rosa"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la nube de lluvia?",
+      "options": [
+        "violeta",
+        "turquesa",
+        "rosa",
+        "azul",
+        "blanco",
+        "rojo"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color es el arándano?",
+      "options": [
+        "naranja",
+        "blanco",
+        "rosa",
+        "amarillo",
+        "turquesa",
+        "gris"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la pantera?",
+      "options": [
+        "marrón",
+        "violeta",
+        "turquesa",
+        "naranja",
+        "amarillo"
+      ],
+      "answer": [
+        "negro"
+      ]
+    },
+    {
+      "text": "el hormigón, ¿de qué color es?",
+      "options": [
+        "azul",
+        "turquesa",
+        "violeta",
+        "negro"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color es la margarita?",
+      "options": [
+        "turquesa",
+        "marrón",
+        "verde",
+        "amarillo",
+        "naranja"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "el océano, ¿de qué color es?",
+      "options": [
+        "gris",
+        "verde",
+        "marrón",
+        "violeta",
+        "naranja"
+      ],
+      "answer": [
+        "azul"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el barro tras la lluvia?",
+      "options": [
+        "rosa",
+        "naranja",
+        "violeta",
+        "turquesa",
+        "gris"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es el asfalto mojado?",
+      "options": [
+        "rojo",
+        "negro",
+        "marrón",
+        "amarillo",
+        "verde"
+      ],
+      "answer": [
+        "gris"
+      ]
+    },
+    {
+      "text": "¿De qué color dirías que es la castaña?",
+      "options": [
+        "amarillo",
+        "violeta",
+        "negro",
+        "turquesa",
+        "azul"
+      ],
+      "answer": [
+        "marrón"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser la frambuesa?",
+      "options": [
+        "marrón",
+        "negro",
+        "rosa",
+        "gris",
+        "turquesa"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser el sol?",
+      "options": [
+        "verde",
+        "naranja",
+        "rosa",
+        "gris",
+        "blanco"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "¿Qué color dirías que tiene el trébol?",
+      "options": [
+        "violeta",
+        "rosa",
+        "marrón",
+        "negro"
+      ],
+      "answer": [
+        "verde"
+      ]
+    },
+    {
+      "text": "¿De qué color es la mazorca de maíz?",
+      "options": [
+        "rosa",
+        "turquesa",
+        "negro",
+        "marrón",
+        "blanco"
+      ],
+      "answer": [
+        "amarillo"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser el azúcar?",
+      "options": [
+        "amarillo",
+        "turquesa",
+        "negro",
+        "naranja",
+        "rojo"
+      ],
+      "answer": [
+        "blanco"
+      ]
+    },
+    {
+      "text": "el pimentón molido, ¿de qué color es?",
+      "options": [
+        "turquesa",
+        "rosa",
+        "blanco",
+        "violeta",
+        "verde"
+      ],
+      "answer": [
+        "rojo"
+      ]
+    },
+    {
+      "text": "¿De qué color suele ser el guisante?",
+      "options": [
+        "turquesa",
+        "azul",
+        "amarillo",
+        "naranja",
+        "violeta"
+      ],
+      "answer": [
+        "verde"
+      ]
+    }
+  ]
+}

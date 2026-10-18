@@ -1,0 +1,1521 @@
+{
+  "theme": "Mitología y leyendas",
+  "questions": [
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «el águila»?",
+      "options": [
+        "Atenea",
+        "Ícaro",
+        "Hermes",
+        "Dioniso",
+        "Afrodita"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «el amor»?",
+      "options": [
+        "Perseo",
+        "Atenea",
+        "Circe",
+        "Jasón",
+        "Perséfone"
+      ],
+      "answer": [
+        "Afrodita"
+      ]
+    },
+    {
+      "text": "«la montura de Belerofonte» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Ártemis",
+        "Apolo",
+        "Perseo",
+        "Eco",
+        "Hércules"
+      ],
+      "answer": [
+        "Pegaso"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «la muerte a manos de Belerofonte» en la mitología?",
+      "options": [
+        "Hermes",
+        "Eco",
+        "Ares",
+        "Aquiles",
+        "Poseidón"
+      ],
+      "answer": [
+        "Quimera"
+      ]
+    },
+    {
+      "text": "¿Qué elemento se asocia con Ulises?",
+      "options": [
+        "el canto que amansaba a las fieras",
+        "el fuego que escupía",
+        "la paloma",
+        "la fuente Hipocrene",
+        "el vino"
+      ],
+      "answer": [
+        "el largo regreso a Ítaca"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «la red de oro»?",
+      "options": [
+        "Atlas",
+        "Circe",
+        "Pegaso",
+        "Hermes",
+        "Prometeo"
+      ],
+      "answer": [
+        "Hefesto"
+      ]
+    },
+    {
+      "text": "¿Qué elementos forman parte de la figura de Orfeo?",
+      "options": [
+        "la montura de Belerofonte",
+        "las hierbas encantadas",
+        "el trigo maduro",
+        "la vid",
+        "la nave Argo"
+      ],
+      "answer": [
+        "el canto que amansaba a las fieras",
+        "Eurídice"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «la nave Argo»?",
+      "options": [
+        "Pandora",
+        "Prometeo",
+        "Afrodita",
+        "Hera",
+        "Ulises",
+        "Deméter"
+      ],
+      "answer": [
+        "Jasón"
+      ]
+    },
+    {
+      "text": "«la vid» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Ares",
+        "Deméter",
+        "Hércules",
+        "Afrodita",
+        "Prometeo",
+        "Narciso"
+      ],
+      "answer": [
+        "Dioniso"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «la lechuza»?",
+      "options": [
+        "Dioniso",
+        "Orfeo",
+        "Hermes",
+        "Pegaso",
+        "Perseo"
+      ],
+      "answer": [
+        "Atenea"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «el león de Nemea»?",
+      "options": [
+        "Apolo",
+        "Quimera",
+        "Orfeo",
+        "Perseo"
+      ],
+      "answer": [
+        "Hércules"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «el matrimonio»?",
+      "options": [
+        "Perseo",
+        "Ártemis",
+        "Hércules",
+        "Hades"
+      ],
+      "answer": [
+        "Hera"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el monstruo marino Ceto»?",
+      "options": [
+        "Ícaro",
+        "Deméter",
+        "Ulises",
+        "Perséfone",
+        "Orfeo",
+        "Ares"
+      ],
+      "answer": [
+        "Perseo"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el cíclope Polifemo»?",
+      "options": [
+        "Orfeo",
+        "Pandora",
+        "Ares",
+        "Deméter",
+        "Poseidón"
+      ],
+      "answer": [
+        "Ulises"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «la paloma»?",
+      "options": [
+        "Orfeo",
+        "Ártemis",
+        "Eco",
+        "Teseo",
+        "Hera"
+      ],
+      "answer": [
+        "Afrodita"
+      ]
+    },
+    {
+      "text": "«la cierva» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Jasón",
+        "Hércules",
+        "Ulises",
+        "Apolo",
+        "Eco"
+      ],
+      "answer": [
+        "Ártemis"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «el castigo del hígado devorado»?",
+      "options": [
+        "Perséfone",
+        "Hércules",
+        "Ares",
+        "Hermes",
+        "Poseidón"
+      ],
+      "answer": [
+        "Prometeo"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «el fuego robado a los dioses»?",
+      "options": [
+        "Atlas",
+        "Hefesto",
+        "Quimera",
+        "Zeus",
+        "Aquiles"
+      ],
+      "answer": [
+        "Prometeo"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «el hogar»?",
+      "options": [
+        "Pegaso",
+        "Orfeo",
+        "Atlas",
+        "Teseo"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «la isla de Eea»?",
+      "options": [
+        "Jasón",
+        "Pandora",
+        "Perseo",
+        "Hades"
+      ],
+      "answer": [
+        "Circe"
+      ]
+    },
+    {
+      "text": "«el desvanecimiento entre las rocas» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Pandora",
+        "Hércules",
+        "Ulises",
+        "Afrodita",
+        "Prometeo",
+        "Ares"
+      ],
+      "answer": [
+        "Eco"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «el tridente»?",
+      "options": [
+        "Hefesto",
+        "Hestia",
+        "Pandora",
+        "Jasón"
+      ],
+      "answer": [
+        "Poseidón"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos elementos se asocian con Deméter?",
+      "options": [
+        "el vino",
+        "el fuego robado a los dioses",
+        "el buitre",
+        "las hierbas encantadas",
+        "la creación de los hombres"
+      ],
+      "answer": [
+        "los misterios de Eleusis",
+        "las cosechas"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estas características corresponden a Atlas?",
+      "options": [
+        "la cierva",
+        "la primera ofrenda de los banquetes",
+        "el teatro",
+        "la curiosidad"
+      ],
+      "answer": [
+        "las columnas del cielo",
+        "la metamorfosis en montaña"
+      ]
+    },
+    {
+      "text": "«el mensajero de los dioses» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Perséfone",
+        "Eco",
+        "Atlas",
+        "Pegaso",
+        "Deméter"
+      ],
+      "answer": [
+        "Hermes"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «el rescate de Andrómeda» en la mitología?",
+      "options": [
+        "Ares",
+        "Dioniso",
+        "Hera",
+        "Pandora"
+      ],
+      "answer": [
+        "Perseo"
+      ]
+    },
+    {
+      "text": "«el título de reina de los muertos» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Circe",
+        "Jasón",
+        "Hera",
+        "Ártemis",
+        "Hestia",
+        "Prometeo"
+      ],
+      "answer": [
+        "Perséfone"
+      ]
+    },
+    {
+      "text": "«los caballos» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Atenea",
+        "Dioniso",
+        "Zeus",
+        "Afrodita",
+        "Pegaso"
+      ],
+      "answer": [
+        "Poseidón"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «la lira»?",
+      "options": [
+        "Aquiles",
+        "Ares",
+        "Ulises",
+        "Zeus",
+        "Eco",
+        "Hestia"
+      ],
+      "answer": [
+        "Orfeo"
+      ]
+    },
+    {
+      "text": "«la creación de los hombres» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Ártemis",
+        "Pandora",
+        "Atenea",
+        "Zeus",
+        "Hades",
+        "Ícaro"
+      ],
+      "answer": [
+        "Prometeo"
+      ]
+    },
+    {
+      "text": "¿Qué héroe derrotó a Medusa?",
+      "options": [
+        "Zeus",
+        "Teseo",
+        "Dioniso",
+        "Atlas",
+        "Afrodita"
+      ],
+      "answer": [
+        "Perseo"
+      ]
+    },
+    {
+      "text": "¿Qué elemento se asocia con Hermes?",
+      "options": [
+        "la curiosidad",
+        "la sabiduría",
+        "el regreso de la primavera",
+        "el trigo maduro",
+        "la primera ofrenda de los banquetes"
+      ],
+      "answer": [
+        "las sandalias aladas"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «la voz que repite las últimas palabras»?",
+      "options": [
+        "Hera",
+        "Hefesto",
+        "Atlas",
+        "Jasón",
+        "Pandora"
+      ],
+      "answer": [
+        "Eco"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el fuego que escupía»?",
+      "options": [
+        "Poseidón",
+        "Circe",
+        "Narciso",
+        "Ares",
+        "Hércules"
+      ],
+      "answer": [
+        "Quimera"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «el Minotauro»?",
+      "options": [
+        "Perséfone",
+        "Orfeo",
+        "Poseidón",
+        "Atlas",
+        "Narciso"
+      ],
+      "answer": [
+        "Teseo"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «el teatro»?",
+      "options": [
+        "Hermes",
+        "Eco",
+        "Ícaro",
+        "Hestia",
+        "Pegaso"
+      ],
+      "answer": [
+        "Dioniso"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «las cosechas»?",
+      "options": [
+        "Perséfone",
+        "Pegaso",
+        "Aquiles",
+        "Apolo",
+        "Teseo"
+      ],
+      "answer": [
+        "Deméter"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «los doce trabajos»?",
+      "options": [
+        "Jasón",
+        "Poseidón",
+        "Circe",
+        "Hermes",
+        "Perséfone",
+        "Teseo"
+      ],
+      "answer": [
+        "Hércules"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «el inframundo»?",
+      "options": [
+        "Dioniso",
+        "Atenea",
+        "Narciso",
+        "Perseo",
+        "Pandora"
+      ],
+      "answer": [
+        "Hades"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «las columnas del cielo»?",
+      "options": [
+        "Hestia",
+        "Hermes",
+        "Ares",
+        "Ulises"
+      ],
+      "answer": [
+        "Atlas"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «el sol»?",
+      "options": [
+        "Hefesto",
+        "Hestia",
+        "Deméter",
+        "Afrodita"
+      ],
+      "answer": [
+        "Apolo"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el trigo maduro»?",
+      "options": [
+        "Hades",
+        "Ares",
+        "Teseo",
+        "Poseidón",
+        "Afrodita",
+        "Pandora"
+      ],
+      "answer": [
+        "Deméter"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «el vino»?",
+      "options": [
+        "Hera",
+        "Ártemis",
+        "Perséfone",
+        "Deméter",
+        "Pegaso"
+      ],
+      "answer": [
+        "Dioniso"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «la sabiduría»?",
+      "options": [
+        "Perseo",
+        "Dioniso",
+        "Eco",
+        "Afrodita",
+        "Prometeo"
+      ],
+      "answer": [
+        "Atenea"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «la cólera ante Troya» en la mitología?",
+      "options": [
+        "Afrodita",
+        "Dioniso",
+        "Deméter",
+        "Hera"
+      ],
+      "answer": [
+        "Aquiles"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «la ninfa que se consumió de amor»?",
+      "options": [
+        "Hefesto",
+        "Poseidón",
+        "Hermes",
+        "Aquiles",
+        "Ulises"
+      ],
+      "answer": [
+        "Eco"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «la flor en que se transformó al morir»?",
+      "options": [
+        "Aquiles",
+        "Orfeo",
+        "Perseo",
+        "Hermes",
+        "Deméter",
+        "Circe"
+      ],
+      "answer": [
+        "Narciso"
+      ]
+    },
+    {
+      "text": "¿Por qué es conocido Hestia entre estas opciones?",
+      "options": [
+        "la cierva",
+        "la nave Argo",
+        "el título de reina de los muertos",
+        "la paloma",
+        "el caballo con alas"
+      ],
+      "answer": [
+        "la primera ofrenda de los banquetes"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «el largo regreso a Ítaca» en la mitología?",
+      "options": [
+        "Hades",
+        "Hefesto",
+        "Aquiles",
+        "Quimera",
+        "Atlas"
+      ],
+      "answer": [
+        "Ulises"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «la hechicera Medea» en la mitología?",
+      "options": [
+        "Poseidón",
+        "Dioniso",
+        "Hércules",
+        "Quimera"
+      ],
+      "answer": [
+        "Jasón"
+      ]
+    },
+    {
+      "text": "«la espuma del mar» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Atlas",
+        "Zeus",
+        "Hestia",
+        "Pegaso",
+        "Ícaro",
+        "Hermes"
+      ],
+      "answer": [
+        "Afrodita"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «el oráculo de Delfos» en la mitología?",
+      "options": [
+        "Afrodita",
+        "Orfeo",
+        "Narciso",
+        "Perséfone",
+        "Hera"
+      ],
+      "answer": [
+        "Apolo"
+      ]
+    },
+    {
+      "text": "¿Qué elemento forma parte de la figura de Dioniso?",
+      "options": [
+        "los marineros convertidos en cerdos",
+        "la ninfa que se consumió de amor",
+        "el can Cerbero",
+        "el desvanecimiento entre las rocas",
+        "la muerte a manos de Belerofonte"
+      ],
+      "answer": [
+        "el vino"
+      ]
+    },
+    {
+      "text": "¿Qué elemento se asocia con Circe?",
+      "options": [
+        "el laurel",
+        "la jarra de los males",
+        "la cierva",
+        "las sandalias aladas"
+      ],
+      "answer": [
+        "las hierbas encantadas"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas características corresponde a Ares?",
+      "options": [
+        "la lechuza",
+        "las alas de cera",
+        "el caballo de Troya",
+        "Medusa",
+        "el casco de la invisibilidad"
+      ],
+      "answer": [
+        "el buitre"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «el regreso de la primavera»?",
+      "options": [
+        "Hestia",
+        "Aquiles",
+        "Ulises",
+        "Atenea",
+        "Hera"
+      ],
+      "answer": [
+        "Perséfone"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «el casco de la invisibilidad» en la mitología?",
+      "options": [
+        "Hefesto",
+        "Dioniso",
+        "Atlas",
+        "Hércules"
+      ],
+      "answer": [
+        "Hades"
+      ]
+    },
+    {
+      "text": "«la fuerza sobrehumana» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Zeus",
+        "Atlas",
+        "Pegaso",
+        "Hades",
+        "Hera"
+      ],
+      "answer": [
+        "Hércules"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estos elementos se asocian con Atenea?",
+      "options": [
+        "el laurel",
+        "la primera ofrenda de los banquetes",
+        "el hogar",
+        "el matrimonio",
+        "el amor"
+      ],
+      "answer": [
+        "la lechuza",
+        "la sabiduría"
+      ]
+    },
+    {
+      "text": "¿Por qué es conocido Poseidón entre estas opciones?",
+      "options": [
+        "el mensajero de los dioses",
+        "el rayo",
+        "la montura de Belerofonte",
+        "el fuego doméstico"
+      ],
+      "answer": [
+        "los caballos"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas características corresponde a Hera?",
+      "options": [
+        "el cíclope Polifemo",
+        "la sabiduría",
+        "las armas de los dioses",
+        "la primera mujer moldeada",
+        "el Minotauro",
+        "la caída en el mar Egeo"
+      ],
+      "answer": [
+        "la reina de los dioses"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas características corresponde a Afrodita?",
+      "options": [
+        "el fuego que escupía",
+        "la primera mujer moldeada",
+        "el caduceo",
+        "el trigo maduro",
+        "la cólera ante Troya"
+      ],
+      "answer": [
+        "el amor"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «la granada»?",
+      "options": [
+        "Atlas",
+        "Pegaso",
+        "Apolo",
+        "Deméter",
+        "Perseo"
+      ],
+      "answer": [
+        "Perséfone"
+      ]
+    },
+    {
+      "text": "«el canto que amansaba a las fieras» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Hestia",
+        "Eco",
+        "Dioniso",
+        "Hércules",
+        "Atenea"
+      ],
+      "answer": [
+        "Orfeo"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «el caballo de Troya»?",
+      "options": [
+        "Apolo",
+        "Zeus",
+        "Atlas",
+        "Dioniso"
+      ],
+      "answer": [
+        "Ulises"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el can Cerbero»?",
+      "options": [
+        "Eco",
+        "Jasón",
+        "Atlas",
+        "Pandora",
+        "Hércules",
+        "Circe"
+      ],
+      "answer": [
+        "Hades"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «el caduceo»?",
+      "options": [
+        "Deméter",
+        "Prometeo",
+        "Aquiles",
+        "Hefesto"
+      ],
+      "answer": [
+        "Hermes"
+      ]
+    },
+    {
+      "text": "«el vuelo demasiado cerca del sol» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Eco",
+        "Perseo",
+        "Pegaso",
+        "Ares",
+        "Pandora"
+      ],
+      "answer": [
+        "Ícaro"
+      ]
+    },
+    {
+      "text": "¿Qué dominios, símbolos o hazañas pertenecen a Eco?",
+      "options": [
+        "el vellocino de oro",
+        "las columnas del cielo",
+        "el fuego doméstico",
+        "la luna",
+        "el trigo maduro",
+        "las hierbas encantadas"
+      ],
+      "answer": [
+        "la voz que repite las últimas palabras",
+        "la ninfa que se consumió de amor"
+      ]
+    },
+    {
+      "text": "«el olivo» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Hera",
+        "Pandora",
+        "Prometeo",
+        "Apolo",
+        "Hércules",
+        "Teseo"
+      ],
+      "answer": [
+        "Atenea"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «el buitre» en la mitología?",
+      "options": [
+        "Aquiles",
+        "Afrodita",
+        "Orfeo",
+        "Apolo"
+      ],
+      "answer": [
+        "Ares"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «el rayo»?",
+      "options": [
+        "Dioniso",
+        "Hefesto",
+        "Ártemis",
+        "Hermes",
+        "Pandora"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "«el cielo» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Pegaso",
+        "Ulises",
+        "Apolo",
+        "Narciso",
+        "Ares",
+        "Hércules"
+      ],
+      "answer": [
+        "Zeus"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «la luna»?",
+      "options": [
+        "Hermes",
+        "Zeus",
+        "Atlas",
+        "Ícaro"
+      ],
+      "answer": [
+        "Ártemis"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «las armas de los dioses» en la mitología?",
+      "options": [
+        "Ícaro",
+        "Circe",
+        "Hera",
+        "Jasón",
+        "Teseo"
+      ],
+      "answer": [
+        "Hefesto"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «el talón vulnerable»?",
+      "options": [
+        "Eco",
+        "Hermes",
+        "Hércules",
+        "Deméter",
+        "Orfeo"
+      ],
+      "answer": [
+        "Aquiles"
+      ]
+    },
+    {
+      "text": "¿Qué elemento forma parte de la figura de Pandora?",
+      "options": [
+        "el buitre",
+        "la paloma",
+        "el tridente",
+        "la lira",
+        "la voz que repite las últimas palabras",
+        "la isla de Eea"
+      ],
+      "answer": [
+        "la curiosidad"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «la fuente Hipocrene»?",
+      "options": [
+        "Eco",
+        "Ícaro",
+        "Pandora",
+        "Hércules"
+      ],
+      "answer": [
+        "Pegaso"
+      ]
+    },
+    {
+      "text": "¿Qué elemento forma parte de la figura de Hércules?",
+      "options": [
+        "la montura de Belerofonte",
+        "el buitre",
+        "la voz que repite las últimas palabras",
+        "la cabeza de león y el cuerpo de cabra",
+        "la hechicera Medea",
+        "la caza"
+      ],
+      "answer": [
+        "los doce trabajos"
+      ]
+    },
+    {
+      "text": "¿Qué dominios, símbolos o hazañas pertenecen a Teseo?",
+      "options": [
+        "el reflejo en el agua",
+        "la granada",
+        "el rayo",
+        "la caza",
+        "el inframundo",
+        "la fuerza sobrehumana"
+      ],
+      "answer": [
+        "el laberinto de Creta",
+        "el hilo de Ariadna"
+      ]
+    },
+    {
+      "text": "¿Cuál de estas características corresponde a Perseo?",
+      "options": [
+        "el laurel",
+        "el fuego que escupía",
+        "el Minotauro",
+        "la creación de los hombres",
+        "el canto que amansaba a las fieras",
+        "la forja"
+      ],
+      "answer": [
+        "el rescate de Andrómeda"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el mejor guerrero griego»?",
+      "options": [
+        "Atlas",
+        "Afrodita",
+        "Pegaso",
+        "Hera",
+        "Hermes",
+        "Poseidón"
+      ],
+      "answer": [
+        "Aquiles"
+      ]
+    },
+    {
+      "text": "«la metamorfosis en montaña» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Pegaso",
+        "Ícaro",
+        "Hestia",
+        "Orfeo",
+        "Hades"
+      ],
+      "answer": [
+        "Atlas"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «Eurídice»?",
+      "options": [
+        "Circe",
+        "Eco",
+        "Perséfone",
+        "Quimera"
+      ],
+      "answer": [
+        "Orfeo"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «la forja»?",
+      "options": [
+        "Ícaro",
+        "Ulises",
+        "Hera",
+        "Orfeo"
+      ],
+      "answer": [
+        "Hefesto"
+      ]
+    },
+    {
+      "text": "¿Cuáles de estas características corresponden a Ártemis?",
+      "options": [
+        "el vellocino de oro",
+        "las columnas del cielo",
+        "los marineros convertidos en cerdos",
+        "Eurídice"
+      ],
+      "answer": [
+        "la cierva",
+        "la luna"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «la guerra»?",
+      "options": [
+        "Dioniso",
+        "Poseidón",
+        "Hera",
+        "Ícaro",
+        "Pegaso"
+      ],
+      "answer": [
+        "Ares"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «la primera ofrenda de los banquetes» en la mitología?",
+      "options": [
+        "Atenea",
+        "Hércules",
+        "Ulises",
+        "Aquiles",
+        "Perseo"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «la primera mujer moldeada» en la mitología?",
+      "options": [
+        "Apolo",
+        "Quimera",
+        "Perséfone",
+        "Hércules",
+        "Hera"
+      ],
+      "answer": [
+        "Pandora"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «el reflejo en el agua»?",
+      "options": [
+        "Circe",
+        "Atenea",
+        "Ícaro",
+        "Ártemis",
+        "Ulises"
+      ],
+      "answer": [
+        "Narciso"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «el caballo con alas»?",
+      "options": [
+        "Aquiles",
+        "Hades",
+        "Afrodita",
+        "Hermes",
+        "Orfeo",
+        "Eco"
+      ],
+      "answer": [
+        "Pegaso"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «el vellocino de oro»?",
+      "options": [
+        "Zeus",
+        "Pegaso",
+        "Teseo",
+        "Hera",
+        "Perseo"
+      ],
+      "answer": [
+        "Jasón"
+      ]
+    },
+    {
+      "text": "¿Qué elementos forman parte de la figura de Pegaso?",
+      "options": [
+        "el castigo del hígado devorado",
+        "el regreso de la primavera",
+        "el teatro",
+        "la fuerza sobrehumana",
+        "la caza"
+      ],
+      "answer": [
+        "la fuente Hipocrene",
+        "la montura de Belerofonte"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «la bóveda celeste»?",
+      "options": [
+        "Quimera",
+        "Ártemis",
+        "Circe",
+        "Jasón",
+        "Eco",
+        "Teseo"
+      ],
+      "answer": [
+        "Atlas"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «los marineros convertidos en cerdos» en la mitología?",
+      "options": [
+        "Hermes",
+        "Perséfone",
+        "Ulises",
+        "Afrodita",
+        "Ares"
+      ],
+      "answer": [
+        "Circe"
+      ]
+    },
+    {
+      "text": "¿Qué elemento se asocia con Prometeo?",
+      "options": [
+        "la espuma del mar",
+        "el mejor guerrero griego",
+        "el león de Nemea",
+        "el inframundo"
+      ],
+      "answer": [
+        "la creación de los hombres"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «la cabeza de león y el cuerpo de cabra»?",
+      "options": [
+        "Perseo",
+        "Prometeo",
+        "Ares",
+        "Perséfone"
+      ],
+      "answer": [
+        "Quimera"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «las alas de cera»?",
+      "options": [
+        "Ulises",
+        "Quimera",
+        "Afrodita",
+        "Apolo",
+        "Orfeo",
+        "Hera"
+      ],
+      "answer": [
+        "Ícaro"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «el amor por su propia imagen» en la mitología?",
+      "options": [
+        "Hera",
+        "Hermes",
+        "Prometeo",
+        "Hefesto"
+      ],
+      "answer": [
+        "Narciso"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «la brutalidad de las batallas»?",
+      "options": [
+        "Ártemis",
+        "Hércules",
+        "Dioniso",
+        "Teseo",
+        "Hermes",
+        "Perseo"
+      ],
+      "answer": [
+        "Ares"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «los misterios de Eleusis» en la mitología?",
+      "options": [
+        "Ícaro",
+        "Hera",
+        "Prometeo",
+        "Teseo"
+      ],
+      "answer": [
+        "Deméter"
+      ]
+    },
+    {
+      "text": "«el laberinto de Creta» — ¿a qué figura de los mitos corresponde?",
+      "options": [
+        "Quimera",
+        "Atenea",
+        "Perseo",
+        "Hermes",
+        "Ártemis",
+        "Narciso"
+      ],
+      "answer": [
+        "Teseo"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el laurel»?",
+      "options": [
+        "Ártemis",
+        "Deméter",
+        "Orfeo",
+        "Afrodita",
+        "Jasón"
+      ],
+      "answer": [
+        "Apolo"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el fuego doméstico»?",
+      "options": [
+        "Zeus",
+        "Circe",
+        "Dioniso",
+        "Narciso",
+        "Perséfone"
+      ],
+      "answer": [
+        "Hestia"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «la caída en el mar Egeo»?",
+      "options": [
+        "Zeus",
+        "Deméter",
+        "Poseidón",
+        "Hera"
+      ],
+      "answer": [
+        "Ícaro"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «el mar»?",
+      "options": [
+        "Apolo",
+        "Hestia",
+        "Quimera",
+        "Jasón",
+        "Aquiles",
+        "Perseo"
+      ],
+      "answer": [
+        "Poseidón"
+      ]
+    },
+    {
+      "text": "¿Por qué es conocido Hefesto entre estas opciones?",
+      "options": [
+        "la caza",
+        "el león de Nemea",
+        "los marineros convertidos en cerdos",
+        "Eurídice"
+      ],
+      "answer": [
+        "la red de oro"
+      ]
+    },
+    {
+      "text": "¿Con qué personaje de la mitología se relaciona «el hilo de Ariadna»?",
+      "options": [
+        "Perseo",
+        "Ártemis",
+        "Eco",
+        "Pegaso",
+        "Hera"
+      ],
+      "answer": [
+        "Teseo"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «la caza»?",
+      "options": [
+        "Ares",
+        "Jasón",
+        "Afrodita",
+        "Perséfone",
+        "Zeus",
+        "Hefesto"
+      ],
+      "answer": [
+        "Ártemis"
+      ]
+    },
+    {
+      "text": "¿Por qué es conocido Hades entre estas opciones?",
+      "options": [
+        "la ninfa que se consumió de amor",
+        "la sabiduría",
+        "el hilo de Ariadna",
+        "el amor",
+        "el largo regreso a Ítaca"
+      ],
+      "answer": [
+        "el can Cerbero"
+      ]
+    },
+    {
+      "text": "¿A quién pertenece «la reina de los dioses» en la mitología?",
+      "options": [
+        "Atenea",
+        "Quimera",
+        "Teseo",
+        "Prometeo",
+        "Orfeo"
+      ],
+      "answer": [
+        "Hera"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «el pavo real»?",
+      "options": [
+        "Orfeo",
+        "Pegaso",
+        "Eco",
+        "Hércules",
+        "Hefesto"
+      ],
+      "answer": [
+        "Hera"
+      ]
+    },
+    {
+      "text": "¿A qué figura mitológica pertenece «las sandalias aladas»?",
+      "options": [
+        "Aquiles",
+        "Poseidón",
+        "Narciso",
+        "Orfeo",
+        "Hera",
+        "Atlas"
+      ],
+      "answer": [
+        "Hermes"
+      ]
+    },
+    {
+      "text": "¿Qué dios o héroe se asocia con «la jarra de los males»?",
+      "options": [
+        "Afrodita",
+        "Hércules",
+        "Atlas",
+        "Apolo"
+      ],
+      "answer": [
+        "Pandora"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «la curiosidad»?",
+      "options": [
+        "Eco",
+        "Atenea",
+        "Hermes",
+        "Prometeo",
+        "Ulises"
+      ],
+      "answer": [
+        "Pandora"
+      ]
+    },
+    {
+      "text": "¿De qué figura mitológica es atributo «las hierbas encantadas»?",
+      "options": [
+        "Ícaro",
+        "Hefesto",
+        "Quimera",
+        "Ártemis",
+        "Hércules"
+      ],
+      "answer": [
+        "Circe"
+      ]
+    }
+  ]
+}

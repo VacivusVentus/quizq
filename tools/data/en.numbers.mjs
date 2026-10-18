@@ -1,0 +1,40 @@
+// Answer-space theme: key = a number written as a word, item = a quantity fact.
+// Only item -> key questions are generated, so every option and every answer is a number word.
+export default {
+  lang: 'en',
+  theme: 'Numbers and Facts',
+  seed: 71402,
+  keyQuestions: 0,
+  templates: {
+    item: [
+      'How many {v}?',
+      'So how many {v}?',
+      'What is the number of {v}?',
+      'Do you know how many {v}?',
+      'How many {v} can you count?',
+    ],
+  },
+  groups: [
+    ['two', 'wings on a bird', 'hemispheres in the human brain', 'endpoints of a line segment', 'halves in a football match', 'eyes on a person', 'wheels on a bicycle', 'strands in a DNA molecule', 'hemispheres of the Earth'],
+    ['three', 'colors on a traffic light', 'strings on a balalaika', 'bogatyrs in the painting by Vasnetsov', 'months in summer', 'colors on the Russian flag', 'coordinates of a point in space'],
+    ['four', 'seasons in a year', 'wheels on a passenger car', 'cardinal directions on a compass', 'paws on a cat', 'wings on a dragonfly', 'suits in a deck of cards', 'strings on a ukulele'],
+    ['five', 'fingers on one hand', 'working days in a week', 'rings on the Olympic flag', 'arms on a starfish', 'players in a basketball team', 'toes on one foot'],
+    ['six', 'strings on a classical guitar', 'faces on a cube', 'legs on an insect', 'cases in the Russian language', 'players in a volleyball team', 'legs on an ant', 'players of one hockey team on the ice'],
+    ['seven', 'days in a week', 'colors in a rainbow', 'notes in an octave', 'wonders of the ancient world', 'dwarfs in the tale of Snow White'],
+    ['eight', 'legs on a spider', 'planets in the Solar System', 'tentacles on an octopus', 'bits in a byte', 'squares in one row of a chessboard', 'legs on a scorpion'],
+    ['nine', 'symphonies by Beethoven', 'muses on Parnassus', 'circles of hell in the poem by Dante', 'players in a baseball team'],
+    ['ten', 'fingers on both hands', 'commandments in the Bible', 'digits in the decimal system', 'millimeters in a centimeter', 'toes on both feet'],
+    ['twelve', 'months in a year', 'zodiac signs', 'inches in a foot', 'labors of Hercules', 'apostles of Christ', 'hours on a clock face', 'tribes of Israel'],
+    ['fifteen', 'minutes in a quarter of an hour', 'union republics in the USSR', 'players in a rugby team'],
+    ['twenty', 'fingers and toes on a human body', 'towers of the Moscow Kremlin', 'minutes in a third of an hour', 'amino acids in proteins', 'baby teeth in a child'],
+    ['twenty-four', 'hours in a day', 'letters in the Greek alphabet', 'frames per second in classic film'],
+    ['thirty', 'days in April', 'days in June', 'days in September', 'days in November', 'seconds in half a minute'],
+    ['thirty-one', 'days in January', 'days in March', 'days in May', 'days in July', 'days in August', 'days in October'],
+    ['thirty-two', 'teeth in an adult', 'pieces on a chessboard at the start', 'piano sonatas by Beethoven', 'degrees on the Fahrenheit scale at which water freezes'],
+    ['forty', 'thieves in the tale of Ali Baba', 'days of Great Lent', 'days of continuous rain during the Flood', 'years of wandering in the desert'],
+    ['fifty-two', 'cards in a standard deck', 'weeks in a year', 'white keys on a piano'],
+    ['one hundred', 'kopeks in a ruble', 'centimeters in a meter', 'years in a century', 'millimeters in a decimeter'],
+    ['one thousand', 'meters in a kilometer', 'grams in a kilogram', 'milliliters in a liter', 'millimeters in a meter', 'micrometers in a millimeter'],
+    ['one hundred eighty', 'degrees in a straight angle', 'degrees in the sum of the angles of a triangle', 'minutes in three hours'],
+  ],
+};
