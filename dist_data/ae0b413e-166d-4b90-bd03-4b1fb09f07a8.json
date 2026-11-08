@@ -1,0 +1,904 @@
+{
+  "theme": "Fiestas y tradiciones",
+  "lang": "es",
+  "questionsDictionary": [
+    "Selecciona dos elementos que aparecen en el Día de Muertos.",
+    "¿Con qué fiesta se relaciona la cabalgata del cinco de enero?",
+    "¿En qué fiesta aparece las torrijas?",
+    "¿Con qué fiesta se relaciona el primer domingo de mayo?",
+    "¿Qué dos tradiciones acompañan el Día de los Inocentes?",
+    "¿En qué fiesta encontramos las ofrendas en los altares?",
+    "¿Qué dos cosas encontramos en el Día de la Mujer?",
+    "¿Con qué fiesta se relaciona la tarta de calabaza?",
+    "¿Qué se hace durante la Nochebuena?",
+    "¿Con qué fiesta se relaciona las comparsas?",
+    "las manifestaciones del ocho de marzo: ¿de qué fiesta se trata?",
+    "¿Qué fiesta no se entiende sin el desayuno de pan con aceite?",
+    "¿Con qué fiesta se relaciona el doce de octubre?",
+    "el entierro de la sardina: ¿de qué fiesta se trata?",
+    "la corbata de regalo: ¿de qué fiesta se trata?",
+    "¿Qué se hace durante el Día de la Madre?",
+    "¿Qué fiesta se reconoce por la cena familiar del veinticuatro?",
+    "¿Qué se asocia con la Fiesta Nacional?",
+    "¿Qué tradición se vive durante la Feria de San Isidro?",
+    "¿Qué fiesta se reconoce por el referéndum de la carta magna?",
+    "¿Qué fiesta se reconoce por la tarjeta hecha a mano?",
+    "¿Qué tradición se vive durante la Semana Santa?",
+    "¿Qué se asocia con la Navidad?",
+    "¿Qué fiesta se reconoce por los chulapos y chulapas?",
+    "¿Con qué fiesta se relaciona los castellers?",
+    "¿En qué fiesta encontramos las alfombras de flores?",
+    "¿Qué costumbre define el Carnaval?",
+    "¿Qué fiesta se reconoce por las campanadas de medianoche?",
+    "¿Con qué fiesta se relaciona las ofrendas a los caídos?",
+    "¿En qué fiesta encontramos el seis de diciembre?",
+    "¿Qué tradición encontramos en la Tomatina?",
+    "Elige dos costumbres que se dan durante los Reyes Magos.",
+    "¿Con qué fiesta se relaciona el himno de Andalucía?",
+    "¿En qué fiesta encontramos los lazos morados?",
+    "¿Qué fiesta no se entiende sin la fiesta del trabajo?",
+    "los juguetes junto a los zapatos: ¿de qué fiesta se trata?",
+    "¿Con qué fiesta se relaciona las danzas del león?",
+    "¿Qué dos cosas encontramos en el Día del Trabajador?",
+    "los toros en Las Ventas: ¿de qué fiesta se trata?",
+    "¿Qué fiesta no se entiende sin los gigantes de la ciudad?",
+    "¿En qué fiesta encontramos el encierro de los toros?",
+    "¿En qué fiesta encontramos el espumillón del árbol?",
+    "¿Qué fiesta se reconoce por el pañuelo rojo?",
+    "¿En qué fiesta aparece el veintiocho de febrero?",
+    "¿En qué fiesta aparece el belén iluminado?",
+    "¿En qué fiesta encontramos los cocineros desfilando?",
+    "¿Qué fiesta no se entiende sin la limpieza de la casa antes de la fiesta?",
+    "las hogueras en la playa: ¿de qué fiesta se trata?",
+    "¿En qué fiesta encontramos el veintitrés de junio?",
+    "¿En qué fiesta aparece las carretas hacia la aldea?",
+    "¿Qué dos tradiciones acompañan la Diada de Sant Jordi?",
+    "¿En qué fiesta encontramos el turrón?",
+    "las bromas pesadas: ¿de qué fiesta se trata?",
+    "la plantà de los monumentos: ¿de qué fiesta se trata?",
+    "¿En qué fiesta aparece el pavo asado?",
+    "¿En qué fiesta aparece el primero de mayo?",
+    "los villancicos: ¿de qué fiesta se trata?",
+    "¿En qué fiesta aparece el chupinazo?",
+    "¿Qué tradición se vive durante las Fiestas de la Mercè?",
+    "¿Qué fiesta se reconoce por los saltos sobre el fuego?",
+    "¿En qué fiesta encontramos el peón de la suerte?",
+    "¿Qué costumbre define el Día del Padre?",
+    "¿Qué fiesta no se entiende sin el carbón para los que se portan mal?",
+    "¿Qué fiesta no se entiende sin los trajes de flamenca?",
+    "¿Qué tradición se vive durante San Fermín?",
+    "¿Qué fiesta se reconoce por la custodia en la calle?",
+    "¿En qué fiesta encontramos las procesiones de penitencia?",
+    "¿Qué se hace durante la Nochevieja?",
+    "el último miércoles de agosto: ¿de qué fiesta se trata?",
+    "el pescaíto frito: ¿de qué fiesta se trata?",
+    "¿Qué fiesta se reconoce por la izada de la bandera?",
+    "¿En qué fiesta aparece las calaveras de azúcar?",
+    "¿Qué fiesta no se entiende sin el pueblo de Buñol?",
+    "¿Con qué fiesta se relaciona el salto de la reja?",
+    "Elige dos costumbres que se dan durante el Corpus Christi.",
+    "¿Qué costumbre define el Día de la Constitución?",
+    "¿Qué fiesta no se entiende sin los actos en la Puerta del Sol?",
+    "¿En qué fiesta aparece los correfocs de fuego?",
+    "¿Qué fiesta se reconoce por la misa del gallo?",
+    "¿Qué se asocia con el Día de Acción de Gracias?",
+    "¿En qué fiesta encontramos las verbenas del barrio?",
+    "¿Qué fiesta se reconoce por las flores de cempasúchil?",
+    "¿Con qué fiesta se relaciona los farolillos de papel?",
+    "¿Qué fiesta no se entiende sin el desfile de las Fuerzas Armadas?",
+    "¿Qué fiesta no se entiende sin los tamborileros?",
+    "¿Con qué fiesta se relaciona las paradas de libros en la calle?",
+    "¿En qué fiesta encontramos el veintiocho de diciembre?",
+    "la bandera de España: ¿de qué fiesta se trata?",
+    "Selecciona dos elementos que aparecen en el Janucá.",
+    "¿Qué fiesta se reconoce por los nazarenos?",
+    "¿En qué fiesta aparece la sublevación contra Napoleón?",
+    "¿Qué fiesta se reconoce por las ocho noches de luces?",
+    "¿Con qué fiesta se relaciona las manifestaciones sindicales?",
+    "¿Qué fiesta se reconoce por los actos por la igualdad?",
+    "¿En qué fiesta aparece los cotillones de la fiesta?",
+    "¿Qué fiesta no se entiende sin la mascletà?",
+    "¿En qué fiesta aparece las flores para las madres?",
+    "¿Qué fiesta no se entiende sin las felicitaciones a las madres?",
+    "¿Qué fiesta no se entiende sin el dragón de la leyenda?",
+    "¿En qué fiesta aparece los sobres rojos?",
+    "¿Qué tradición encontramos en el Dos de Mayo?",
+    "¿Qué fiesta se reconoce por las noticias falsas en los periódicos?",
+    "¿En qué fiesta aparece los actos en las Cortes?",
+    "¿Qué fiesta no se entiende sin las gracias por la cosecha?",
+    "¿Qué fiesta no se entiende sin los disfraces?",
+    "¿Con qué fiesta se relaciona los ninots de cartón?",
+    "los tambores por las calles: ¿de qué fiesta se trata?",
+    "¿En qué fiesta encontramos las doce uvas?",
+    "¿Con qué fiesta se relaciona la batalla de tomates?",
+    "¿En qué fiesta encontramos el diecinueve de marzo?",
+    "¿En qué fiesta aparece las rosas y los libros?",
+    "la menorá de nueve brazos: ¿de qué fiesta se trata?"
+  ],
+  "optionsDictionary": [
+    "los cocineros desfilando",
+    "la izada de la bandera",
+    "las comparsas",
+    "la menorá de nueve brazos",
+    "las ofrendas en los altares",
+    "las calaveras de azúcar",
+    "la Fiesta Nacional",
+    "la Diada de Sant Jordi",
+    "el Corpus Christi",
+    "el Día de la Constitución",
+    "la Feria de Abril",
+    "los Reyes Magos",
+    "el Janucá",
+    "la Feria de San Isidro",
+    "el Día de Muertos",
+    "el Día del Trabajador",
+    "el Día de Andalucía",
+    "la Semana Santa",
+    "el Día del Padre",
+    "las Fiestas de la Mercè",
+    "el Día de los Inocentes",
+    "el Día de la Madre",
+    "el belén iluminado",
+    "los actos en las Cortes",
+    "las flores de cempasúchil",
+    "el himno de Andalucía",
+    "la tarjeta hecha a mano",
+    "las bromas pesadas",
+    "el veintiocho de diciembre",
+    "la Nochevieja",
+    "el Día de la Mujer",
+    "las ocho noches de luces",
+    "el turrón",
+    "el seis de diciembre",
+    "el primer domingo de mayo",
+    "las manifestaciones del ocho de marzo",
+    "los lazos morados",
+    "la Navidad",
+    "San Fermín",
+    "el Día de Acción de Gracias",
+    "los villancicos",
+    "la mascletà",
+    "la fiesta del trabajo",
+    "las danzas del león",
+    "las Fallas",
+    "el Carnaval",
+    "el Dos de Mayo",
+    "la Tamborrada",
+    "los gigantes de la ciudad",
+    "la plantà de los monumentos",
+    "los farolillos de papel",
+    "las verbenas del barrio",
+    "la Tomatina",
+    "la Nochebuena",
+    "la tarta de calabaza",
+    "el encierro de los toros",
+    "el dragón de la leyenda",
+    "el doce de octubre",
+    "el desfile de las Fuerzas Armadas",
+    "los disfraces",
+    "el último miércoles de agosto",
+    "el peón de la suerte",
+    "el pavo asado",
+    "las ofrendas a los caídos",
+    "el salto de la reja",
+    "las noticias falsas en los periódicos",
+    "la custodia en la calle",
+    "las procesiones de penitencia",
+    "la limpieza de la casa antes de la fiesta",
+    "el pescaíto frito",
+    "la misa del gallo",
+    "el Año Nuevo Chino",
+    "la sublevación contra Napoleón",
+    "las doce uvas",
+    "el entierro de la sardina",
+    "la Noche de San Juan",
+    "los sobres rojos",
+    "las felicitaciones a las madres",
+    "la batalla de tomates",
+    "las flores para las madres",
+    "los actos en la Puerta del Sol",
+    "el carbón para los que se portan mal",
+    "los juguetes junto a los zapatos",
+    "los tambores por las calles",
+    "el chupinazo",
+    "el pañuelo rojo",
+    "las manifestaciones sindicales",
+    "la Romería del Rocío",
+    "los cotillones de la fiesta",
+    "los tamborileros",
+    "los ninots de cartón",
+    "el primero de mayo",
+    "las paradas de libros en la calle",
+    "los actos por la igualdad",
+    "las alfombras de flores",
+    "el espumillón del árbol",
+    "las rosas y los libros",
+    "el desayuno de pan con aceite",
+    "las carretas hacia la aldea",
+    "los saltos sobre el fuego",
+    "los trajes de flamenca",
+    "el veintiocho de febrero"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        4,
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        27,
+        28
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        35,
+        36
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        53
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        57
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        67
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        70
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        74
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        78
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        81,
+        82
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        42,
+        86
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        53
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        75
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        75
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        87
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        92,
+        56
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        53
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        75
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        55
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        73
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        87
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        66,
+        94
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        62
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        87
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        3,
+        61
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        80
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        12
+      ]
+    }
+  ]
+}

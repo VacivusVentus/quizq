@@ -1,0 +1,773 @@
+{
+  "theme": "Numbers and Facts",
+  "lang": "en",
+  "questionsDictionary": [
+    "How many strings are there on a ukulele?",
+    "How many milliliters are there in a liter?",
+    "How many fingers and toes on a human body can you count?",
+    "How many days are there in August?",
+    "Do you know how many days there are in June?",
+    "Do you know how many coordinates of a point there are in space?",
+    "What is the number of weeks in a year?",
+    "How many symphonies by Beethoven are there?",
+    "How many days in a week can you count?",
+    "How many years of wandering are there in the desert?",
+    "How many colors are there in a rainbow?",
+    "How many suits in a deck of cards can you count?",
+    "How many legs on a scorpion can you count?",
+    "How many hours on a clock face can you count?",
+    "How many wheels are there on a bicycle?",
+    "How many muses are there on Parnassus?",
+    "Do you know how many players there are in a rugby team?",
+    "Do you know how many apostles of Christ there are?",
+    "How many cardinal directions are there on a compass?",
+    "Do you know how many faces there are on a cube?",
+    "How many minutes are there in a third of an hour?",
+    "How many players are there in a volleyball team?",
+    "How many eyes on a person can you count?",
+    "How many seasons in a year can you count?",
+    "Do you know how many players of one hockey team there are on the ice?",
+    "What is the number of strings on a classical guitar?",
+    "Do you know how many rings there are on the Olympic flag?",
+    "What is the number of endpoints of a line segment?",
+    "How many days in May can you count?",
+    "Do you know how many wings there are on a dragonfly?",
+    "Do you know how many halves there are in a football match?",
+    "What is the number of amino acids in proteins?",
+    "How many seconds are there in half a minute?",
+    "How many months in a year can you count?",
+    "How many legs on a spider can you count?",
+    "What is the number of labors of Hercules?",
+    "How many cases are there in the Russian language?",
+    "Do you know how many white keys there are on a piano?",
+    "Do you know how many toes there are on both feet?",
+    "How many degrees are there on the Fahrenheit scale at which water freezes?",
+    "Do you know how many days of Great Lent there are?",
+    "What is the number of working days in a week?",
+    "Do you know how many teeth there are in an adult?",
+    "How many bogatyrs are there in the painting by Vasnetsov?",
+    "How many toes are there on one foot?",
+    "How many minutes are there in three hours?",
+    "How many pieces on a chessboard at the start can you count?",
+    "How many arms does an octopus have?",
+    "What is the number of millimeters in a centimeter?",
+    "How many strings on a balalaika can you count?",
+    "What is the number of hemispheres of the Earth?",
+    "How many kopeks in a ruble can you count?",
+    "How many legs on an insect can you count?",
+    "How many months are there in summer?",
+    "How many hemispheres are there in the human brain?",
+    "How many days of continuous rain during the Flood can you count?",
+    "How many commandments are there in the Bible?",
+    "How many minutes are there in a quarter of an hour?",
+    "How many days in September can you count?",
+    "What is the number of days in October?",
+    "Do you know how many degrees there are in a straight angle?",
+    "How many millimeters are there in a meter?",
+    "Do you know how many baby teeth there are in a child?",
+    "Do you know how many colors there are on a traffic light?",
+    "What is the number of legs on an ant?",
+    "Do you know how many meters there are in a kilometer?",
+    "How many inches are there in a foot?",
+    "What is the number of micrometers in a millimeter?",
+    "Do you know how many days there are in March?",
+    "How many fingers on both hands can you count?",
+    "What is the number of colors on the Russian flag?",
+    "How many tribes of Israel are there?",
+    "How many players are there in a basketball team?",
+    "How many zodiac signs are there?",
+    "Do you know how many dwarfs there are in the tale of Snow White?",
+    "How many days are there in July?",
+    "Do you know how many players there are in a baseball team?",
+    "What is the number of union republics in the USSR?",
+    "How many years are there in a century?",
+    "What is the number of paws on a cat?",
+    "How many cards are there in a standard deck?",
+    "What is the number of days in January?",
+    "What is the number of thieves in the tale of Ali Baba?",
+    "How many towers of the Moscow Kremlin are there?",
+    "How many days are there in November?",
+    "Do you know how many squares there are in one row of a chessboard?",
+    "How many piano sonatas by Beethoven are there?",
+    "How many strands are there in a DNA molecule?",
+    "What is the number of wonders of the ancient world?",
+    "What is the number of millimeters in a decimeter?",
+    "How many centimeters are there in a meter?",
+    "How many wheels are there on a passenger car?",
+    "How many arms on a starfish can you count?",
+    "What is the number of days in April?",
+    "How many wings are there on a bird?",
+    "What is the number of bits in a byte?",
+    "How many fingers are there on one hand?",
+    "How many frames per second are there in classic film?",
+    "How many letters are there in the Greek alphabet?",
+    "How many degrees in the sum of the angles of a triangle can you count?",
+    "What is the number of circles of hell in the poem by Dante?",
+    "How many planets are there in the Solar System?",
+    "How many digits are there in the decimal system?",
+    "How many notes are there in an octave?",
+    "How many hours in a day can you count?",
+    "How many grams in a kilogram can you count?"
+  ],
+  "optionsDictionary": [
+    "fifteen",
+    "fifty-two",
+    "eight",
+    "twelve",
+    "six",
+    "four",
+    "thirty-one",
+    "one hundred",
+    "three",
+    "one thousand",
+    "ten",
+    "twenty",
+    "two",
+    "forty",
+    "seven",
+    "thirty",
+    "nine",
+    "thirty-two",
+    "one hundred eighty",
+    "five",
+    "twenty-four"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        9
+      ]
+    }
+  ]
+}

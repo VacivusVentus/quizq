@@ -1,0 +1,1013 @@
+{
+  "theme": "Famous Names",
+  "lang": "en",
+  "questionsDictionary": [
+    "Whose name stands behind “Reservoir Dogs”?",
+    "Whose name is linked to “the New Deal”?",
+    "Whose name stands behind “La Traviata”?",
+    "Whose name is linked to “La Mer”?",
+    "Which of these people is connected with “The Picture of Dorian Gray”?",
+    "Which of these people is famous for “The Godfather”?",
+    "Whose name is linked to “the first US presidency”?",
+    "Whose name is linked to “Emma”?",
+    "Which of these people is famous for “the Continental Army”?",
+    "Whose name stands behind “The Persistence of Memory”?",
+    "Whose name is linked to “Robben Island”?",
+    "Who is associated with “Goodfellas”?",
+    "Which of these people is connected with “the Iron Curtain speech”?",
+    "Whose name is linked to “Billy Budd”?",
+    "Whose name is linked to “Great Expectations”?",
+    "Whose name is linked to “For Whom the Bell Tolls”?",
+    "Who is associated with “Pulp Fiction”?",
+    "Whose name is linked to “Eraserhead”?",
+    "Who is associated with “the Brandenburg Concertos”?",
+    "Whose name is linked to “Inception”?",
+    "Whose name stands behind “Raging Bull”?",
+    "Whose name stands behind “the Sistine Chapel ceiling”?",
+    "Whose name stands behind “Lady Windermere's Fan”?",
+    "Whose name is linked to “Monticello”?",
+    "Who is associated with “Vitruvian Man”?",
+    "Which of these people is famous for “Porgy and Bess”?",
+    "Which of these people is connected with “the Funeral March”?",
+    "Which of these people is famous for “E.T. the Extra-Terrestrial”?",
+    "Whose name stands behind “The Adventures of Tom Sawyer”?",
+    "Whose name is linked to “Schindler's List”?",
+    "Which of these people is connected with “The Anatomy Lesson of Dr Nicolaes Tulp”?",
+    "Who is associated with “Ebenezer Scrooge”?",
+    "Which of these people is famous for “the end of apartheid”?",
+    "Which of these people is famous for “Clair de Lune”?",
+    "Whose name is linked to “City Lights”?",
+    "Which of these people is famous for “Vertigo”?",
+    "Whose name is linked to “Lohengrin”?",
+    "Which of these people is famous for “The Old Guitarist”?",
+    "Who is associated with “the wartime alliance”?",
+    "Whose name is linked to “The Night Watch”?",
+    "Whose name stands behind “The Well-Tempered Clavier”?",
+    "Whose name stands behind “The Bedroom”?",
+    "Who is associated with “The Dark Knight”?",
+    "Which of these people is famous for “The Kid”?",
+    "Whose name stands behind “Romeo”?",
+    "Who is associated with “Se7en”?",
+    "Which of these people is famous for “Oliver Twist”?",
+    "Who is associated with “the Continental System”?",
+    "Who is associated with “the Minute Waltz”?",
+    "Which of these people is connected with “Fight Club”?",
+    "Whose name stands behind “The Social Network”?",
+    "Which of these people is famous for “Mulholland Drive”?",
+    "Whose name stands behind “Jaws”?",
+    "Who is associated with “Self-Portrait with Thorn Necklace”?",
+    "Which of these people is famous for “David”?",
+    "Whose name is linked to “Impression Sunrise”?",
+    "Who is associated with “Sunflowers”?",
+    "Who is associated with “Rigoletto”?",
+    "Whose name stands behind “Les Demoiselles d'Avignon”?",
+    "Whose name is linked to “the Revolutionary Étude”?",
+    "Who is associated with “The Importance of Being Earnest”?",
+    "Which of these people is connected with “Modern Times”?",
+    "Whose name is linked to “The Prince and the Pauper”?",
+    "Which of these people is connected with “Mount Vernon”?",
+    "Which of these people is connected with “A Clockwork Orange”?",
+    "Which of these people is famous for “The Elephants”?",
+    "Which of these people is connected with “Macbeth”?",
+    "Whose name stands behind “Heart of Darkness”?",
+    "Whose name stands behind “the Gettysburg Address”?",
+    "Whose name stands behind “An American in Paris”?",
+    "Which of these people is famous for “Kill Bill”?",
+    "Which of these people is connected with “The Conversation”?",
+    "Whose name stands behind “Psycho”?",
+    "Which of these people is connected with “the Prelude to the Afternoon of a Faun”?",
+    "Which of these people is connected with “Animal Farm”?",
+    "Whose name stands behind “The Old Man and the Sea”?",
+    "Which of these people is famous for “Adventures of Huckleberry Finn”?",
+    "Which of these people is connected with “Tom Sawyer”?",
+    "Who is associated with “Guernica”?",
+    "Which of these people is connected with “Interstellar”?",
+    "Which of these people is famous for “Pride and Prejudice”?",
+    "Who is associated with “Nineteen Eighty-Four”?",
+    "Which of these people is famous for “Tristan and Isolde”?",
+    "Which of these people is connected with “The Starry Night”?",
+    "Who is associated with “the Salt March”?",
+    "Who is associated with “Othello”?",
+    "Which of these people is connected with “The Last Supper”?",
+    "Which of these people is connected with “David Copperfield”?",
+    "Whose name stands behind “Burmese Days”?",
+    "Which of these people is famous for “Lord Jim”?",
+    "Whose name is linked to “Mona Lisa”?",
+    "Whose name is linked to “The Creation of Adam”?",
+    "Whose name is linked to “The Fall of the House of Usher”?",
+    "Which of these people is connected with “Typee”?",
+    "Which of these people is famous for “Moby-Dick”?",
+    "Whose name is linked to “Rear Window”?",
+    "Who is associated with “2001: A Space Odyssey”?",
+    "Whose name is linked to “Nostromo”?",
+    "Which of these people is connected with “Fidelio”?",
+    "Which of these people is famous for “the American Civil War”?",
+    "Which of these people is connected with “The Magic Flute”?",
+    "Whose name is linked to “The Sacrament of the Last Supper”?",
+    "Who is associated with “Huckleberry Finn”?",
+    "Which of these people is famous for “A Farewell to Arms”?",
+    "Which of these people is famous for “The Tell-Tale Heart”?",
+    "Whose name stands behind “Eine kleine Nachtmusik”?",
+    "Who is associated with “Rhapsody in Blue”?",
+    "Which of these people is connected with “The Broken Column”?",
+    "Which of these people is famous for “the St Matthew Passion”?",
+    "Which of these people is connected with “Sense and Sensibility”?",
+    "Whose name is linked to “the Moonlight Sonata”?",
+    "Whose name stands behind “non-violent resistance”?",
+    "Which of these people is famous for “Water Lilies”?",
+    "Which of these people is famous for “the Indian independence movement”?",
+    "Whose name is linked to “Apocalypse Now”?",
+    "Which of these people is connected with “Woman with a Parasol”?",
+    "Whose name stands behind “the Declaration of Independence”?",
+    "Who is associated with “Self-Portrait with Two Circles”?",
+    "Whose name stands behind “The Raven”?",
+    "Whose name stands behind “Roots”?",
+    "Who is associated with “Elizabeth Bennet”?",
+    "Which of these people is connected with “Taxi Driver”?",
+    "Who is associated with “a national unity government”?",
+    "Which of these people is famous for “the Ninth Symphony”?",
+    "Which of these people is famous for “the Louisiana Purchase”?",
+    "Whose name is linked to “Hamlet”?",
+    "Which of these people is connected with “the Battle of Austerlitz”?",
+    "Whose name stands behind “the Egyptian campaign”?",
+    "Whose name stands behind “Blue Velvet”?",
+    "Which of these people is connected with “Aida”?",
+    "Which of these people is connected with “the Truth and Reconciliation Commission”?",
+    "Who is associated with “Don Giovanni”?",
+    "Whose name is linked to “the Battle of Britain”?",
+    "Whose name stands behind “The Ring of the Nibelung”?",
+    "Who is associated with “the Emancipation Proclamation”?",
+    "Which of these people is connected with “the Four Freedoms”?",
+    "Who is associated with “Captain Ahab”?"
+  ],
+  "optionsDictionary": [
+    "Joseph Conrad",
+    "Leonardo da Vinci",
+    "Herman Melville",
+    "Steven Spielberg",
+    "Quentin Tarantino",
+    "Abraham Lincoln",
+    "George Orwell",
+    "George Washington",
+    "David Lynch",
+    "Franklin D. Roosevelt",
+    "Jane Austen",
+    "Giuseppe Verdi",
+    "Frida Kahlo",
+    "Martin Scorsese",
+    "Michelangelo",
+    "Johann Sebastian Bach",
+    "Claude Debussy",
+    "Napoleon Bonaparte",
+    "Ludwig van Beethoven",
+    "Ernest Hemingway",
+    "Oscar Wilde",
+    "Thomas Jefferson",
+    "Francis Ford Coppola",
+    "Claude Monet",
+    "Vincent van Gogh",
+    "Edgar Allan Poe",
+    "Winston Churchill",
+    "Charlie Chaplin",
+    "Rembrandt",
+    "Stanley Kubrick",
+    "Christopher Nolan",
+    "Mahatma Gandhi",
+    "Salvador Dalí",
+    "George Gershwin",
+    "David Fincher",
+    "Alfred Hitchcock",
+    "Nelson Mandela",
+    "Charles Dickens",
+    "William Shakespeare",
+    "Wolfgang Amadeus Mozart",
+    "Richard Wagner",
+    "Frédéric Chopin",
+    "Mark Twain",
+    "Pablo Picasso"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 113,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 114,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 115,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 116,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 117,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 118,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 119,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 120,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 121,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 122,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 123,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 124,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 125,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 126,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 127,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 128,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 129,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 130,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 131,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 132,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 133,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 134,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 135,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 136,
+      "answers": [
+        2
+      ]
+    }
+  ]
+}

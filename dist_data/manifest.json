@@ -1,0 +1,326 @@
+{
+  "ar": [
+    {
+      "id": "bca882a9-d429-448d-8852-33d38fcb419d",
+      "theme": "الحيوانات"
+    },
+    {
+      "id": "15be8a6b-ac60-4590-9c33-ade6256a2d93",
+      "theme": "المدن والمعالم"
+    },
+    {
+      "id": "772f5835-b7bf-4a76-969d-b976152f1537",
+      "theme": "الألوان"
+    },
+    {
+      "id": "cb01790a-3195-4df7-8141-17c6daf562e7",
+      "theme": "مطابخ العالم"
+    },
+    {
+      "id": "33d3de21-883f-4adc-9918-bd0a923f98e6",
+      "theme": "التواريخ والعصور"
+    },
+    {
+      "id": "3c89c0f8-3706-49d8-8c9a-a5ea995e194c",
+      "theme": "الأعياد والتقاليد"
+    },
+    {
+      "id": "149379f4-3559-4346-bdb4-79bb43589a0a",
+      "theme": "المخترعون والاختراعات"
+    },
+    {
+      "id": "a4e43261-a3a5-4bed-8a51-f59f1aaa5ce5",
+      "theme": "الأساطير والملاحم"
+    },
+    {
+      "id": "66cddf89-d01a-4610-a1af-81ceeb164b78",
+      "theme": "أسماء خالدة"
+    },
+    {
+      "id": "c656b6b6-37c8-45f6-8fbd-cb8ee494c2f9",
+      "theme": "الأرقام والحقائق"
+    },
+    {
+      "id": "5849c2f6-a25b-4746-86a0-3f30b8da57ef",
+      "theme": "البلدان والمدن"
+    },
+    {
+      "id": "52119358-150f-43f5-83f1-e2dd332e9d60",
+      "theme": "الحكايات والأساطير"
+    },
+    {
+      "id": "80779802-3eec-4dc1-b296-f23d832474c9",
+      "theme": "الأعمال ومؤلفوها"
+    }
+  ],
+  "en": [
+    {
+      "id": "e8e41771-f5bd-48c3-9d49-de04bcbe7a96",
+      "theme": "Animals"
+    },
+    {
+      "id": "2affa2f3-8fc1-41c1-8568-f264a53e9040",
+      "theme": "Cities and Their Landmarks"
+    },
+    {
+      "id": "a3f9c96a-8d31-4eee-90cc-cf970b764b16",
+      "theme": "Colors"
+    },
+    {
+      "id": "ef4637d2-b821-4098-8bb1-d33bea32085f",
+      "theme": "World Cuisines and Dishes"
+    },
+    {
+      "id": "04a2bb83-f328-4efe-90b4-1a9f5178e3ea",
+      "theme": "Dates and Eras"
+    },
+    {
+      "id": "6be7131b-4e25-4031-88ad-f5c8be87d041",
+      "theme": "Holidays and Their Traditions"
+    },
+    {
+      "id": "a8b07462-5815-4239-8dec-22c457d9b712",
+      "theme": "Inventors and Their Inventions"
+    },
+    {
+      "id": "e13fd160-c78e-4d1e-ad58-78d620fff0a3",
+      "theme": "Mythology: Gods and Their Domains"
+    },
+    {
+      "id": "ae1fc35d-139d-4eb0-9237-d47f8cb46af9",
+      "theme": "Famous Names"
+    },
+    {
+      "id": "6b550e4b-046c-458a-8bff-73ebe9c7ab3a",
+      "theme": "Numbers and Facts"
+    },
+    {
+      "id": "fbea5348-d259-455b-95fa-46bc0c7e645d",
+      "theme": "Countries and Cities"
+    },
+    {
+      "id": "8b940797-6bd9-4e3f-b6f9-8ec333feefd4",
+      "theme": "Fairy Tales and Their Characters"
+    },
+    {
+      "id": "ed7744a2-e2d7-49b9-9092-b25a415dc76e",
+      "theme": "Works and Their Creators"
+    }
+  ],
+  "es": [
+    {
+      "id": "746ad2a4-c2fd-4c62-9809-e9e47d35a80d",
+      "theme": "Animales"
+    },
+    {
+      "id": "4e667f0d-f1ed-4b66-b12c-74cddf5b4b1d",
+      "theme": "Ciudades y monumentos"
+    },
+    {
+      "id": "a9df5fb4-f1f1-429f-b0e3-9c7c220d952e",
+      "theme": "Colores"
+    },
+    {
+      "id": "84ded60b-15f5-4861-8210-d7225a456485",
+      "theme": "Cocinas del mundo"
+    },
+    {
+      "id": "db29c937-2940-4ff7-8d0d-47db58254a89",
+      "theme": "Fechas y épocas"
+    },
+    {
+      "id": "ae0b413e-166d-4b90-bd03-4b1fb09f07a8",
+      "theme": "Fiestas y tradiciones"
+    },
+    {
+      "id": "338abf8a-502d-4640-b46f-d17404d9244f",
+      "theme": "Inventores e inventos"
+    },
+    {
+      "id": "187cc705-e0c4-493c-878d-7fdebcce8661",
+      "theme": "Mitología y leyendas"
+    },
+    {
+      "id": "4bbdef3f-06ea-4e49-bdeb-fd2019f934a9",
+      "theme": "Grandes nombres"
+    },
+    {
+      "id": "adad9faa-4777-4090-84b1-a2dc0b4f890b",
+      "theme": "Números y datos"
+    },
+    {
+      "id": "e24edf15-3a77-4109-946f-0ef5f5c24495",
+      "theme": "Países y ciudades"
+    },
+    {
+      "id": "4a894db6-17c3-468b-b0e4-4b81fbf1edab",
+      "theme": "Cuentos y leyendas"
+    },
+    {
+      "id": "12a9b629-293d-4448-bb38-be3bd4d9889f",
+      "theme": "Obras y sus autores"
+    }
+  ],
+  "fr": [
+    {
+      "id": "fdae9faf-b908-46bc-803e-ac4bff0c7145",
+      "theme": "Animaux"
+    },
+    {
+      "id": "677da282-e4ec-4786-ba1e-25f5a9cff7e1",
+      "theme": "Villes et monuments"
+    },
+    {
+      "id": "b03a93d3-4651-4a68-811c-0a8f182fad06",
+      "theme": "Couleurs"
+    },
+    {
+      "id": "a6367592-8aae-4142-8131-10dbc64f97d7",
+      "theme": "Cuisines du monde"
+    },
+    {
+      "id": "309c39bb-f650-4a10-8f08-1b4cf4e6c8cd",
+      "theme": "Dates et époques"
+    },
+    {
+      "id": "4ff8893f-b18a-48da-9f86-97b0404f8af2",
+      "theme": "Fêtes et traditions"
+    },
+    {
+      "id": "6d558761-2974-4ea8-9f47-80dc33e4a0db",
+      "theme": "Inventeurs et inventions"
+    },
+    {
+      "id": "e6b5186d-7f8e-4256-a2ff-317d05d9f08f",
+      "theme": "Mythologie et légendes"
+    },
+    {
+      "id": "ae8b1848-16d2-473d-a893-8a8dc8d846ae",
+      "theme": "Grands noms"
+    },
+    {
+      "id": "462a9a40-1f11-4810-a02d-a34be9b71578",
+      "theme": "Nombres et faits"
+    },
+    {
+      "id": "a2cf3051-a40d-4b5e-897b-a8e98743f11a",
+      "theme": "Pays et villes"
+    },
+    {
+      "id": "4e3724d5-6cbb-48cf-be4d-b5faaef8ef62",
+      "theme": "Contes et légendes"
+    },
+    {
+      "id": "b15e6027-bd92-41fa-a03f-2b6970119e8e",
+      "theme": "Œuvres et leurs auteurs"
+    }
+  ],
+  "ru": [
+    {
+      "id": "e09a1117-3b9d-4e9d-9e7f-562f4868c171",
+      "theme": "Животные"
+    },
+    {
+      "id": "a0a385ce-ec03-4f66-ad2d-ef59e82e412b",
+      "theme": "Города России и их достопримечательности"
+    },
+    {
+      "id": "c0765669-1add-4a39-84a0-b1d38b9973ba",
+      "theme": "Цвета"
+    },
+    {
+      "id": "74260484-90fd-4908-9b51-d35d40ddacb6",
+      "theme": "Кухни народов мира"
+    },
+    {
+      "id": "481d69b6-d777-4c16-9d96-f0ed23496faa",
+      "theme": "Даты и эпохи"
+    },
+    {
+      "id": "d566d536-e9ab-4289-84c9-f1a19174187e",
+      "theme": "Русские праздники и традиции"
+    },
+    {
+      "id": "c1cfeaf0-f4a6-4747-8822-228d90824ec1",
+      "theme": "Русские изобретатели"
+    },
+    {
+      "id": "426bff48-8ea0-4e88-9f95-88734ac635d4",
+      "theme": "Славянская мифология"
+    },
+    {
+      "id": "f5060d0d-1376-4a8c-bbc5-4cdf91fc4f73",
+      "theme": "Великие имена"
+    },
+    {
+      "id": "a4f17d61-e517-41f0-80c9-78c347134ec2",
+      "theme": "Числа и факты"
+    },
+    {
+      "id": "c570b423-f0c3-403a-96a2-f37924f6bbfe",
+      "theme": "Страны и города"
+    },
+    {
+      "id": "2cc99e3c-49d5-4c3d-99bb-df8e63e4c942",
+      "theme": "Русские сказки"
+    },
+    {
+      "id": "79478be2-0b17-4a13-b149-af9a1c4da07a",
+      "theme": "Произведения и их авторы"
+    }
+  ],
+  "zh": [
+    {
+      "id": "30d5e495-f86f-49ae-a0bc-7bc1fa414aed",
+      "theme": "动物"
+    },
+    {
+      "id": "2a5cf645-01ac-49d4-9969-498f6932bcd9",
+      "theme": "中国城市与名胜"
+    },
+    {
+      "id": "906fe6a9-af01-4651-9c7a-2091ff628362",
+      "theme": "颜色"
+    },
+    {
+      "id": "9ba85082-a864-46cd-b96e-227f49b82055",
+      "theme": "中国菜系与名菜"
+    },
+    {
+      "id": "1df53e5c-0c49-41db-afbc-663302503be0",
+      "theme": "年代与事件"
+    },
+    {
+      "id": "5f365195-b582-4cb9-b3ea-e8b38d779537",
+      "theme": "中国传统节日与习俗"
+    },
+    {
+      "id": "8d76e92a-a066-47cd-8230-af72dd687214",
+      "theme": "发明家与发明"
+    },
+    {
+      "id": "20131616-1fe3-444f-94f4-0e702838a822",
+      "theme": "中国神话人物与事迹"
+    },
+    {
+      "id": "283a9962-f055-42c0-9b04-b3729668c89d",
+      "theme": "名人与其成就"
+    },
+    {
+      "id": "79587fe5-e341-40dc-8742-1c863f6a3ff8",
+      "theme": "数字与事实"
+    },
+    {
+      "id": "a7644d17-3dbd-4627-bc63-6c3363c2b3d9",
+      "theme": "国家与城市"
+    },
+    {
+      "id": "b0b19531-3e70-4255-9d6f-f179c834f1ab",
+      "theme": "中国故事与传说"
+    },
+    {
+      "id": "9dd023a5-e770-4432-8bbb-58803933405a",
+      "theme": "名作与作者"
+    }
+  ]
+}

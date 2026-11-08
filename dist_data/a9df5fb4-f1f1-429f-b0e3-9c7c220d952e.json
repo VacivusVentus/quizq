@@ -1,0 +1,743 @@
+{
+  "theme": "Colores",
+  "lang": "es",
+  "questionsDictionary": [
+    "¿Cuál es el color predominante del dorso de una paloma bravía de plumaje silvestre?",
+    "¿De qué color dirías que es el plátano?",
+    "¿Qué color tiene el algodón de azúcar?",
+    "el flamenco, ¿de qué color es?",
+    "el agua de una laguna tropical, ¿de qué color es?",
+    "¿Qué color tiene la ciruela madura?",
+    "¿Qué color tiene la cereza madura?",
+    "¿De qué color suele ser la peonía?",
+    "¿De qué color dirías que es la tiza?",
+    "¿De qué color es la fresa madura?",
+    "¿De qué color dirías que es el agua poco profunda de un atolón?",
+    "el pollito, ¿de qué color es?",
+    "¿De qué color dirías que es el carbón?",
+    "¿De qué color suele ser el cono de señalización?",
+    "¿Qué color dirías que tiene la calabaza?",
+    "¿Qué color dirías que tiene el mar sobre un arrecife de coral?",
+    "¿De qué color es el brócoli?",
+    "¿De qué color es el pétalo del escaramujo?",
+    "¿De qué color suele ser la mostaza?",
+    "la corteza del roble, ¿de qué color es?",
+    "¿De qué color es el cacao en polvo?",
+    "¿Qué color dirías que tiene el hollín?",
+    "¿De qué color dirías que es el tomate maduro?",
+    "¿Qué color dirías que tiene el camión de bomberos?",
+    "el alquitrán, ¿de qué color es?",
+    "¿Qué color tiene la noche sin luna?",
+    "¿De qué color es el cuervo?",
+    "¿De qué color es el agua del mar Caribe?",
+    "¿De qué color suele ser el café molido?",
+    "¿Qué color dirías que tiene el diente de león?",
+    "¿Qué color tiene el saltamontes?",
+    "¿Qué color dirías que tiene el petróleo crudo?",
+    "¿De qué color suele ser la harina de trigo?",
+    "¿De qué color suele ser el rubí?",
+    "¿De qué color dirías que es el neumático del coche?",
+    "¿Qué color dirías que tiene la hierba en primavera?",
+    "¿Qué color dirías que tiene el Mediterráneo?",
+    "¿Qué color tiene la sal de cocina?",
+    "¿De qué color dirías que es el aguacate?",
+    "¿Qué color dirías que tiene la ceniza?",
+    "la aguja de pino, ¿de qué color es?",
+    "¿Qué color dirías que tiene el chaleco salvavidas?",
+    "el corcho, ¿de qué color es?",
+    "¿De qué color es el albaricoque maduro?",
+    "¿De qué color dirías que es la buganvilla?",
+    "¿Qué color dirías que tiene el humo de una hoguera?",
+    "¿De qué color es el elefante?",
+    "¿De qué color dirías que es la zanahoria?",
+    "¿Qué color tiene el pan integral?",
+    "el cielo despejado, ¿de qué color es?",
+    "¿Qué color dirías que tiene la flor del cerezo?",
+    "¿De qué color dirías que es la papaya madura?",
+    "¿Qué color dirías que tiene el cardo?",
+    "¿De qué color es el pepino?",
+    "¿Qué color tiene la tinta de un bolígrafo?",
+    "¿Qué color dirías que tiene el zafiro?",
+    "el balón de baloncesto, ¿de qué color es?",
+    "¿Qué color dirías que tiene la nube en un día claro?",
+    "¿De qué color es la mandarina madura?",
+    "¿Qué color tiene el limón maduro?",
+    "¿De qué color dirías que es la canela?",
+    "el cisne, ¿de qué color es?",
+    "¿Qué color tiene el ratón?",
+    "¿De qué color es la leche?",
+    "el canario, ¿de qué color es?",
+    "¿Qué color tiene la amapola?",
+    "¿Qué color tiene el zumo de zanahoria?",
+    "¿Qué color tiene el girasol?",
+    "¿De qué color dirías que es el lapislázuli?",
+    "¿Qué color tiene la hoja de menta?",
+    "¿De qué color suele ser el lobo?",
+    "¿De qué color dirías que es la nomeolvides?",
+    "¿De qué color es la berenjena?",
+    "el arroz cocido, ¿de qué color es?",
+    "¿De qué color es el azabache?",
+    "¿De qué color suele ser la espinaca?",
+    "¿Qué color tiene el chocolate?",
+    "¿De qué color dirías que es la miel?",
+    "la amanita, ¿de qué color es?",
+    "¿De qué color dirías que es el cerdo?",
+    "la lavanda, ¿de qué color es?",
+    "¿De qué color suele ser la bellota?",
+    "¿De qué color suele ser el pantalón vaquero?",
+    "¿De qué color suele ser la amatista?",
+    "¿Qué color tiene el cemento?",
+    "¿De qué color es la sangre?",
+    "¿Qué color tiene la nieve fresca?",
+    "¿De qué color suele ser la nube de lluvia?",
+    "¿De qué color es el arándano?",
+    "¿De qué color suele ser la pantera?",
+    "el hormigón, ¿de qué color es?",
+    "¿De qué color es la margarita?",
+    "el océano, ¿de qué color es?",
+    "¿Qué color dirías que tiene el barro tras la lluvia?",
+    "¿De qué color dirías que es el asfalto mojado?",
+    "¿De qué color dirías que es la castaña?",
+    "¿De qué color suele ser la frambuesa?",
+    "¿De qué color suele ser el sol?",
+    "¿Qué color dirías que tiene el trébol?",
+    "¿De qué color es la mazorca de maíz?",
+    "¿De qué color suele ser el azúcar?",
+    "el pimentón molido, ¿de qué color es?",
+    "¿De qué color suele ser el guisante?"
+  ],
+  "optionsDictionary": [
+    "marrón",
+    "violeta",
+    "negro",
+    "naranja",
+    "blanco",
+    "verde",
+    "gris",
+    "rosa",
+    "turquesa",
+    "rojo",
+    "amarillo",
+    "azul"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        5
+      ]
+    }
+  ]
+}

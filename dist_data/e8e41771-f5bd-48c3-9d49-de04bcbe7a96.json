@@ -1,0 +1,758 @@
+{
+  "theme": "Animals",
+  "lang": "en",
+  "questionsDictionary": [
+    "What animal is this: \"its babies are born blind with soft spines\"?",
+    "Name the animal: \"in autumn it hangs mushrooms on branches to dry while stocking up\".",
+    "Which animal hides behind this description: \"it has a bushy red tail with a white tip\"?",
+    "Which animal hides behind this description: \"a black and white bear that feeds mainly on bamboo\"?",
+    "Which animal fits this description: \"its flat paddle-like tail slaps loudly on the water\"?",
+    "Name the animal: \"its broad calloused feet do not sink into the sand\".",
+    "Which animal fits this description: \"it breathes air and blows a fountain from its blowhole\"?",
+    "Which animal is described as \"a bird that cannot fly but swims beautifully\"?",
+    "Which animal fits this description: \"its stripe pattern is unique to each individual\"?",
+    "What animal matches this description: \"it sheds tears while swallowing its prey\"?",
+    "Which animal fits this description: \"its picture appears on the coat of arms of Australia\"?",
+    "What animal is this: \"some kinds of it keep aphids at home and milk them\"?",
+    "Which animal is described as \"it gathers nectar and makes honey, living in a big family in a hive\"?",
+    "Which animal is described as \"it leaps through the branches and hides nuts in secret stores for the winter\"?",
+    "Name the animal: \"an Antarctic bird that waddles and slides on its belly over the ice\".",
+    "Which animal hides behind this description: \"it has a hard bony shell that it cannot take off\"?",
+    "Which animal is described as \"the largest bird in the world, and it cannot fly\"?",
+    "Which animal is described as \"the largest land animal\"?",
+    "Which animal fits this description: \"it is called the king of beasts\"?",
+    "Which animal hides behind this description: \"it has black and white stripes all over its body\"?",
+    "Which animal hides behind this description: \"it hops on its hind legs and carries its baby in a pouch on its belly\"?",
+    "Which animal is described as \"it has one or two humps on its back that store fat\"?",
+    "Name the animal: \"its eggs are the largest of all birds\".",
+    "Which animal hides behind this description: \"the tallest animal on Earth\"?",
+    "Which animal is described as \"its tail opens into a fan covered with colourful eye-spots\"?",
+    "Name the animal: \"it fans itself with its enormous ears\".",
+    "What animal matches this description: \"its image decorates the coats of arms of many countries as a symbol of power\"?",
+    "Which animal is described as \"it soars in the sky on wide wings and spots prey from a great height\"?",
+    "What animal is this: \"it was the first animal tamed by humans and its babies are called puppies\"?",
+    "What animal matches this description: \"it begins life as a caterpillar and then becomes a chrysalis\"?",
+    "Which animal fits this description: \"its web is stronger than steel of the same weight\"?",
+    "Which animal hides behind this description: \"it changes the colour of its skin with its mood and surroundings\"?",
+    "What animal matches this description: \"it has a long trunk instead of an ordinary nose\"?",
+    "Which animal hides behind this description: \"a night bird that hunts in the dark and flies almost silently\"?",
+    "What animal is this: \"its stripes confuse predators when it runs away\"?",
+    "Name the animal: \"its wings are covered with tiny scales that rub off at a touch\".",
+    "Which animal hides behind this description: \"it fells trees with its teeth and builds a dam across a river\"?",
+    "What animal is this: \"the female of this creature sometimes eats the male after mating\"?",
+    "Which animal is described as \"it howls at the moon and its whole pack answers in chorus\"?",
+    "Name the animal: \"it folds its wings and drops like a stone onto its prey\".",
+    "Which animal hides behind this description: \"it has prickly spines on its back and rolls itself into a ball\"?",
+    "Which animal fits this description: \"it comes out to hunt at dusk and gathers insects in the grass\"?",
+    "Which animal hides behind this description: \"it has eight legs and weaves a web from thin thread\"?",
+    "What animal is this: \"it strains water through horny plates to eat tiny crustaceans\"?",
+    "Name the animal: \"it is the only big cat that loves swimming and is not afraid of water\".",
+    "Which animal fits this description: \"in winter it changes its grey coat for a white one\"?",
+    "Which animal is described as \"it eats almost nothing but eucalyptus leaves\"?",
+    "What animal matches this description: \"it runs faster than a horse on two long toes\"?",
+    "What animal is this: \"its long tail serves as a support while it jumps\"?",
+    "Which animal fits this description: \"it has no teeth and grinds its food with a horny beak\"?",
+    "Which animal is described as \"a sea animal that saves drowning people and pushes them towards the shore\"?",
+    "What animal is this: \"its home is called a lodge and the entrance is hidden under water\"?",
+    "Which animal is described as \"it has an orange coat with black stripes\"?",
+    "Which animal fits this description: \"it reaches acacia leaves at the very tops of trees\"?",
+    "What animal matches this description: \"it is the largest member of the cat family\"?",
+    "Name the animal: \"it swims in front of a ship and leaps out of the water in an arc\".",
+    "What animal matches this description: \"its bushy tail works as a rudder when it jumps\"?",
+    "Which animal fits this description: \"it stands for a long time on one leg with the other folded up\"?",
+    "Name the animal: \"people ride on its back, and its baby is called a foal\".",
+    "Which animal hides behind this description: \"the male has a thick mane that the female lacks\"?",
+    "Which animal hides behind this description: \"the largest animal on the planet, and it lives in the ocean\"?",
+    "What animal is this: \"it lives in a burrow that it sometimes takes from a badger\"?",
+    "What animal matches this description: \"it sleeps up to twenty hours a day, hugging a branch\"?",
+    "What animal is this: \"it has a tongue about half a metre long with a bluish tint\"?",
+    "What animal is this: \"it lives in a pride in which mostly the females hunt\"?",
+    "Which animal hides behind this description: \"its pink plumage comes from the pigmented crustaceans it eats\"?",
+    "What animal matches this description: \"it goes for weeks without water and is called the ship of the desert\"?",
+    "What animal is this: \"tufts of feathers on its head look like little ears, and its voice is a hoot\"?",
+    "Name the animal: \"in India its bite is deadly and people even worship it\".",
+    "Name the animal: \"it has powerful jaws and drags its victim under the water\".",
+    "What animal matches this description: \"it loves honey and may ruin a beehive\"?",
+    "What animal is this: \"its picture is the emblem of the World Wide Fund for Nature\"?",
+    "What animal matches this description: \"it dances to show its sisters where the flowers grow\"?",
+    "What animal matches this description: \"it can sleep standing up and recognises its owner by voice\"?",
+    "Which animal fits this description: \"in fairy tales it is the cleverest and cheats the wolf and the bear\"?",
+    "What animal matches this description: \"a bird whose wings have turned into flippers\"?",
+    "Which animal is described as \"the largest living reptile\"?",
+    "Which animal hides behind this description: \"it guards the house, follows a trail and serves people\"?",
+    "Which animal fits this description: \"it wags its tail for joy and offers a paw\"?",
+    "Which animal fits this description: \"its family has a queen and workers, and they talk to each other with smells\"?",
+    "Which animal is described as \"a venomous snake that spreads a hood when it is angry\"?",
+    "Which animal fits this description: \"it has dark rings around its eyes that look like spectacles\"?",
+    "Name the animal: \"it is the largest predator of the forest and can stand up on its hind legs\".",
+    "Name the animal: \"it carries pollen in baskets on its hind legs and can sting only once\".",
+    "Name the animal: \"it has no tail at all, and white tufts of fur show on its ears\".",
+    "Name the animal: \"it is considered the national bird of India\".",
+    "Which animal is described as \"it digs a den under tree roots and sleeps there all winter\"?",
+    "What animal is this: \"its bent bill filters the water of salt lakes\"?",
+    "Which animal is described as \"it has bright patterned wings and flutters from flower to flower\"?",
+    "Which animal fits this description: \"it can turn its head almost two hundred and seventy degrees\"?",
+    "What animal is this: \"the sea-dwelling kinds row with flippers and lay their eggs on sandy beaches\"?",
+    "What animal matches this description: \"it has an elongated beak-like snout and is easily trained\"?",
+    "What animal matches this description: \"it is considered the ancestor of the domestic dog\"?",
+    "What animal matches this description: \"the crest of feathers on its head looks like a small crown\"?",
+    "What animal is this: \"it tangles its own tracks, looping through the forest to fool the chase\"?",
+    "Name the animal: \"it can run dozens of kilometres after a herd without rest\".",
+    "Which animal fits this description: \"its two eyes move independently of each other\"?",
+    "What animal matches this description: \"it has no legs at all and flicks a forked tongue\"?",
+    "Which animal hides behind this description: \"it builds a tall mound of needles and twigs and can lift more than its own weight\"?",
+    "What animal is this: \"it catches insects with a tongue that shoots out longer than its body\"?",
+    "Which animal hides behind this description: \"it has long ears and a short fluffy tail like a little ball\"?",
+    "Which animal is described as \"iron shoes are nailed to its hooves\"?"
+  ],
+  "optionsDictionary": [
+    "crocodile",
+    "lion",
+    "zebra",
+    "panda",
+    "chameleon",
+    "hedgehog",
+    "tiger",
+    "ostrich",
+    "kangaroo",
+    "elephant",
+    "flamingo",
+    "squirrel",
+    "butterfly",
+    "fox",
+    "wolf",
+    "horse",
+    "dog",
+    "cobra",
+    "giraffe",
+    "bee",
+    "owl",
+    "beaver",
+    "koala",
+    "turtle",
+    "eagle",
+    "camel",
+    "dolphin",
+    "whale",
+    "penguin",
+    "ant",
+    "bear",
+    "peacock",
+    "spider",
+    "hare"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        15
+      ]
+    }
+  ]
+}

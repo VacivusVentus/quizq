@@ -1,0 +1,804 @@
+{
+  "theme": "Dates and Eras",
+  "lang": "en",
+  "questionsDictionary": [
+    "In which century did the Mongol invasion of Rus take place?",
+    "In which century did the dissolution of the Soviet Union take place?",
+    "In which century did the Peasants Revolt in England take place?",
+    "Which century saw the start of the Livonian War?",
+    "In which century did the burning of Joan of Arc take place?",
+    "In which century did the accession of Frederick Barbarossa as Holy Roman Emperor take place?",
+    "Which century saw the fall of Jerusalem to Saladin?",
+    "In what century did the founding of the Mongol Empire happen?",
+    "In what century did the start of construction of Notre-Dame Cathedral happen?",
+    "In what century did the first flight of the Wright brothers happen?",
+    "Which century saw the coronavirus pandemic?",
+    "To which century does the execution of King Charles the First belong?",
+    "Which century is the Winter Olympics in Sochi associated with?",
+    "In which century did the Battle of Legnano take place?",
+    "In which century did the FIFA World Cup in Russia take place?",
+    "Which century is the Anglo-Norman invasion of Ireland associated with?",
+    "Which century saw the October Revolution in Russia?",
+    "To which century does the death of Saladin belong?",
+    "To which century does the Battle of Borodino belong?",
+    "In what century did the voyage of Vasco da Gama to India happen?",
+    "In what century did the adoption of the Declaration of Independence happen?",
+    "To which century does the first human landing on the Moon belong?",
+    "In what century did the beginning of the Western Schism happen?",
+    "To which century does the Summer Olympics in Beijing belong?",
+    "Which century is the Battle of Kulikovo associated with?",
+    "Which century saw the establishment of the Romanov dynasty?",
+    "Which century is the Thirty Years War associated with?",
+    "Which century is the founding of the Kingdom of Portugal associated with?",
+    "Which century is the fall of the Berlin Wall associated with?",
+    "Which century is the D-Day landings in Normandy associated with?",
+    "To which century does the Battle of Lepanto belong?",
+    "In which century did the start of the Seven Years War take place?",
+    "Which century saw the Third Crusade?",
+    "To which century does the voyage of the Mayflower belong?",
+    "Which century is the publication of the Ninety-five Theses by Martin Luther associated with?",
+    "In which century did the start of the French Revolution take place?",
+    "In which century did the Second Crusade take place?",
+    "In what century did the trial of Galileo happen?",
+    "Which century saw the signing of Magna Carta?",
+    "In what century did the Battle of Grunwald happen?",
+    "To which century does the fall of Constantinople belong?",
+    "Which century is the completion of the Human Genome Project associated with?",
+    "Which century saw the first human flight into space?",
+    "Which century is the death of Genghis Khan associated with?",
+    "To which century does the founding of the Ming dynasty belong?",
+    "In which century did the Gunpowder Plot take place?",
+    "In what century did the Fukushima nuclear accident happen?",
+    "In what century did the outbreak of the Second World War happen?",
+    "Which century saw the start of operation of the Large Hadron Collider?",
+    "Which century is the publication of the periodic table by Mendeleev associated with?",
+    "Which century is the publication of the Principia by Newton associated with?",
+    "To which century does the first voyage of Captain Cook belong?",
+    "In what century did the start of the Hundred Years War happen?",
+    "Which century saw the invention of the printing press by Gutenberg?",
+    "In what century did the start of construction of Cologne Cathedral happen?",
+    "In which century did the fall of Acre take place?",
+    "To which century does the murder of Thomas Becket belong?",
+    "To which century does the discovery of penicillin belong?",
+    "Which century saw the founding of the University of Cambridge?",
+    "Which century is the sinking of the Titanic associated with?",
+    "In what century did the conquest of the Inca Empire happen?",
+    "Which century saw the summoning of the first English Parliament?",
+    "In what century did the introduction of euro banknotes and coins happen?",
+    "In what century did the Congress of Vienna happen?",
+    "To which century does the Diet of Worms belong?",
+    "In which century did the publication of the theory of evolution take place?",
+    "Which century saw the Peace of Westphalia?",
+    "In which century did the Glorious Revolution take place?",
+    "In which century did the Black Death take place?",
+    "In what century did the Great Fire of London happen?",
+    "In which century did the unification of Germany take place?",
+    "In which century did the outbreak of the First World War take place?",
+    "In which century did the start of the Council of Trent take place?",
+    "To which century does the Battle of Kosovo belong?",
+    "Which century is the defeat of the Spanish Armada associated with?",
+    "Which century is the publication of the heliocentric theory by Copernicus associated with?",
+    "Which century is the Battle of Agincourt associated with?",
+    "Which century saw the invention of the steam engine by James Watt?",
+    "Which century is the founding of the University of Moscow associated with?",
+    "Which century is the Battle of Waterloo associated with?",
+    "Which century saw the American Civil War?",
+    "Which century is the Wars of the Roses associated with?",
+    "Which century is the journey of Marco Polo to China associated with?",
+    "To which century does the Battle of Bannockburn belong?",
+    "In what century did the end of the Hundred Years War happen?",
+    "In what century did the Chernobyl disaster happen?",
+    "Which century saw the voyage of Columbus to America?",
+    "Which century saw the invention of the telephone?",
+    "To which century does the creation of Wikipedia belong?",
+    "To which century does the Battle of Poltava belong?",
+    "In which century did the bombing of Hiroshima take place?",
+    "To which century does the abolition of serfdom in Russia belong?",
+    "In which century did the start of the Spanish Inquisition take place?",
+    "In what century did the accession of Henry the Second to the English throne happen?",
+    "In what century did the proclamation of the Russian Empire happen?",
+    "In which century did the first circumnavigation of the globe take place?",
+    "Which century saw the sack of Moscow by Tokhtamysh?",
+    "In which century did the English Civil War take place?",
+    "In what century did the sale of Alaska to the United States happen?",
+    "To which century does the Albigensian Crusade belong?",
+    "To which century does the fall of Granada belong?",
+    "In which century did the global financial crisis take place?",
+    "Which century saw the founding of Saint Petersburg?",
+    "Which century saw the Battle of Poitiers?",
+    "Which century saw the execution of King Louis the Sixteenth?",
+    "To which century does the sack of Constantinople by the Crusaders belong?",
+    "Which century is the adoption of the Constitution of the United States associated with?",
+    "Which century saw the destruction of the World Trade Center?",
+    "Which century saw the conquest of Mexico by Cortes?",
+    "In what century did the St Bartholomew Day massacre happen?",
+    "Which century is the Battle of Crecy associated with?",
+    "To which century does the discovery of X-rays belong?"
+  ],
+  "optionsDictionary": [
+    "the nineteenth century",
+    "the fourteenth century",
+    "the sixteenth century",
+    "the eighteenth century",
+    "the thirteenth century",
+    "the seventeenth century",
+    "the twelfth century",
+    "the twentieth century",
+    "the twenty-first century",
+    "the fifteenth century"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

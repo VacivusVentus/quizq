@@ -1,0 +1,758 @@
+{
+  "theme": "Animaux",
+  "lang": "fr",
+  "questionsDictionary": [
+    "Quel animal est-ce : « sa maison s'appelle une hutte et son entrée est cachée sous l'eau » ?",
+    "Quel animal est-ce : « son bec recourbé filtre l'eau des lacs salés » ?",
+    "Quel animal correspond à cette description : « il commence sa vie en chenille puis devient chrysalide » ?",
+    "Quel animal correspond à cette description : « il se passe des semaines sans boire et on l'appelle le vaisseau du désert » ?",
+    "Quel animal est-ce : « sa langue mesure près d'un demi-mètre et tire sur le bleu » ?",
+    "De quel animal parle-t-on : « elle porte le pollen dans des paniers sur ses pattes arrière et ne pique qu'une fois » ?",
+    "Quel animal est-ce : « il filtre l'eau à travers des fanons pour manger de minuscules crevettes » ?",
+    "De quel animal parle-t-on : « en automne il suspend des champignons aux branches pour les faire sécher » ?",
+    "Quel animal est décrit ainsi : « il a des ailes vives couvertes de dessins et voltige de fleur en fleur » ?",
+    "Quel animal se cache derrière ces mots : « il attrape les feuilles d'acacia tout en haut des arbres » ?",
+    "Quel animal se cache derrière ces mots : « on l'appelle le roi des animaux » ?",
+    "Quel animal correspond à cette description : « sa queue touffue lui sert de gouvernail quand il saute » ?",
+    "Quel animal est décrit ainsi : « il bondit de branche en branche et cache des noisettes pour l'hiver » ?",
+    "Quel animal se cache derrière ces mots : « il remue la queue de joie et donne la patte » ?",
+    "Quel animal est décrit ainsi : « il porte une ou deux bosses pleines de graisse sur le dos » ?",
+    "Devinez l'animal : « il a une queue rousse et touffue au bout blanc ».",
+    "Quel animal est décrit ainsi : « un oiseau qui ne sait pas voler mais nage à merveille » ?",
+    "Quel animal est décrit ainsi : « il dort tout l'hiver dans une tanière creusée sous les racines » ?",
+    "Quel animal se cache derrière ces mots : « dans les contes c'est le plus malin et il berne ses voisins » ?",
+    "De quel animal parle-t-on : « ses larges pieds calleux ne s'enfoncent pas dans le sable » ?",
+    "Quel animal se cache derrière ces mots : « le dessin de ses rayures ne ressemble à aucun autre » ?",
+    "Quel animal se cache derrière ces mots : « il respire l'air et souffle un jet par son évent » ?",
+    "De quel animal parle-t-on : « il replie les ailes et tombe comme une pierre sur sa proie » ?",
+    "Quel animal est-ce : « des touffes de plumes sur sa tête ressemblent à des oreilles et il hulule » ?",
+    "Quel animal se cache derrière ces mots : « il peut tourner la tête presque à deux cent soixante-dix degrés » ?",
+    "Quel animal se cache derrière ces mots : « il a des cernes sombres autour des yeux, comme des lunettes » ?",
+    "Devinez l'animal : « il porte des rayures noires et blanches sur tout le corps ».",
+    "Devinez l'animal : « l'animal le plus haut du monde ».",
+    "De quel animal parle-t-on : « en Inde sa morsure est mortelle et on le vénère même » ?",
+    "Quel animal est décrit ainsi : « il ne mange presque que des feuilles d'eucalyptus » ?",
+    "Devinez l'animal : « il a des piquants sur le dos et se roule en boule ».",
+    "Quel animal est-ce : « les espèces marines rament avec des nageoires et pondent sur les plages de sable » ?",
+    "Quel animal est-ce : « il attrape les insectes avec une langue qui jaillit plus longue que son corps » ?",
+    "Quel animal se cache derrière ces mots : « on le voit sur les armoiries de l'Australie » ?",
+    "Devinez l'animal : « le plus grand animal de la planète, et il vit dans l'océan ».",
+    "Devinez l'animal : « elle a huit pattes et tisse une toile avec un fil très fin ».",
+    "Quel animal se cache derrière ces mots : « sa toile est plus solide que l'acier de même poids » ?",
+    "Devinez l'animal : « un ours noir et blanc qui se nourrit surtout de bambou ».",
+    "Quel animal est décrit ainsi : « un serpent venimeux qui déploie une coiffe quand il est en colère » ?",
+    "Quel animal se cache derrière ces mots : « en hiver sa fourrure grise devient blanche » ?",
+    "Quel animal correspond à cette description : « un oiseau dont les ailes se sont transformées en nageoires » ?",
+    "De quel animal parle-t-on : « il n'a pas de queue, et des touffes blanches ornent ses oreilles » ?",
+    "Quel animal correspond à cette description : « son museau allongé a la forme d'un bec et il apprend vite les tours » ?",
+    "Quel animal correspond à cette description : « il adore le miel et peut dévaster une ruche » ?",
+    "De quel animal parle-t-on : « il s'évente avec ses oreilles immenses » ?",
+    "Devinez l'animal : « il saute sur ses pattes arrière et porte son petit dans une poche sur le ventre ».",
+    "Quel animal correspond à cette description : « il court plus vite qu'un cheval, sur deux longs doigts » ?",
+    "Quel animal correspond à cette description : « il possède une longue trompe à la place du nez » ?",
+    "Devinez l'animal : « sa carapace d'os est si solide qu'elle ne peut pas la quitter ».",
+    "Devinez l'animal : « son plumage rose vient des crevettes colorées qu'il avale ».",
+    "De quel animal parle-t-on : « un oiseau de l'Antarctique qui marche en se dandinant et glisse sur le ventre sur la glace » ?",
+    "Quel animal se cache derrière ces mots : « ses deux yeux bougent chacun de son côté » ?",
+    "De quel animal parle-t-on : « ses ailes sont couvertes d'écailles minuscules qui s'effacent au toucher » ?",
+    "Quel animal est-ce : « ses rayures sèment la confusion chez les prédateurs quand il fuit » ?",
+    "Quel animal est décrit ainsi : « un animal marin qui sauve les noyés et les pousse vers la côte » ?",
+    "Devinez l'animal : « il a de longues oreilles et une petite queue en boule ».",
+    "Quel animal correspond à cette description : « c'est le plus grand représentant de la famille des chats » ?",
+    "Quel animal est décrit ainsi : « elle récolte le nectar et fait du miel dans une ruche, en grande famille » ?",
+    "Devinez l'animal : « il change la couleur de sa peau selon son humeur et le décor ».",
+    "Quel animal correspond à cette description : « la huppe de plumes sur sa tête ressemble à une couronne » ?",
+    "Quel animal est-ce : « sa longue queue lui sert d'appui quand il bondit » ?",
+    "De quel animal parle-t-on : « c'est le plus grand prédateur de la forêt et il se dresse sur ses pattes arrière » ?",
+    "Quel animal est-ce : « certaines espèces élèvent des pucerons chez elles et les traient » ?",
+    "Quel animal est décrit ainsi : « il déploie sa queue en éventail, couverte d'ocelles colorées » ?",
+    "Quel animal est-ce : « la femelle de cette bête dévore parfois le mâle après l'accouplement » ?",
+    "Quel animal est-ce : « il vit dans un terrier qu'il prend parfois au blaireau » ?",
+    "De quel animal parle-t-on : « il peut courir des dizaines de kilomètres sans repos derrière un troupeau » ?",
+    "Quel animal est-ce : « il fut le premier animal domestiqué et ses bébés s'appellent des chiots » ?",
+    "Quel animal correspond à cette description : « il peut dormir debout et reconnaît son maître à la voix » ?",
+    "Quel animal correspond à cette description : « sa danse indique à ses sœurs où poussent les fleurs » ?",
+    "Quel animal est décrit ainsi : « le plus grand oiseau du monde, et il ne sait pas voler » ?",
+    "Quel animal se cache derrière ces mots : « il reste longtemps sur une seule patte, l'autre repliée » ?",
+    "Devinez l'animal : « le mâle porte une épaisse crinière que la femelle n'a pas ».",
+    "Devinez l'animal : « elle bâtit un haut monticule d'aiguilles et de brindilles et soulève plus lourd qu'elle ».",
+    "Quel animal est-ce : « il brouille ses propres traces en faisant des détours dans le bois » ?",
+    "Quel animal est-ce : « ses petits naissent aveugles, avec des piquants tout mous » ?",
+    "Quel animal est décrit ainsi : « il plane haut dans le ciel et repère sa proie de très loin » ?",
+    "Quel animal est décrit ainsi : « on lui cloue des fers sous les sabots » ?",
+    "Quel animal est décrit ainsi : « le plus grand des reptiles vivants » ?",
+    "Devinez l'animal : « il garde la maison, suit une piste et sert l'homme ».",
+    "Quel animal correspond à cette description : « on le considère comme l'ancêtre du chien domestique » ?",
+    "De quel animal parle-t-on : « c'est l'oiseau national de l'Inde » ?",
+    "De quel animal parle-t-on : « ses œufs sont les plus gros de tous les oiseaux » ?",
+    "Quel animal correspond à cette description : « il n'a pas de pattes et darde une langue fourchue » ?",
+    "De quel animal parle-t-on : « il nage à l'étrave des navires et bondit hors de l'eau en arc » ?",
+    "De quel animal parle-t-on : « c'est le seul grand félin qui aime l'eau et nage volontiers » ?",
+    "Devinez l'animal : « un oiseau de nuit qui chasse dans l'obscurité et vole sans bruit ».",
+    "Quel animal est-ce : « il figure sur l'emblème du Fonds mondial pour la nature » ?",
+    "Quel animal est-ce : « il vit en clans où ce sont surtout les femelles qui chassent » ?",
+    "Devinez l'animal : « il abat des arbres avec ses dents et construit un barrage sur la rivière ».",
+    "Quel animal est décrit ainsi : « il a la peau orange rayée de noir » ?",
+    "Quel animal se cache derrière ces mots : « il sort chasser au crépuscule et ramasse les insectes dans l'herbe » ?",
+    "Quel animal correspond à cette description : « son image orne les armoiries de nombreux pays comme symbole de puissance » ?",
+    "De quel animal parle-t-on : « ses mâchoires puissantes entraînent la victime sous l'eau » ?",
+    "Quel animal correspond à cette description : « il dort jusqu'à vingt heures par jour en serrant une branche » ?",
+    "Quel animal correspond à cette description : « il verse des larmes en avalant sa proie » ?",
+    "Quel animal se cache derrière ces mots : « sa queue plate de rame claque bruyamment sur l'eau » ?",
+    "Quel animal est décrit ainsi : « le plus gros animal terrestre » ?",
+    "De quel animal parle-t-on : « on le monte sur son dos et son petit s'appelle un poulain » ?",
+    "Quel animal se cache derrière ces mots : « sa famille compte une reine et des ouvrières, et elles communiquent par odeurs » ?",
+    "Quel animal se cache derrière ces mots : « elle n'a pas de dents et broie sa nourriture avec un bec corné » ?",
+    "Quel animal est décrit ainsi : « il hurle à la lune et toute sa meute répond en chœur » ?"
+  ],
+  "optionsDictionary": [
+    "loup",
+    "ours",
+    "chien",
+    "paon",
+    "castor",
+    "écureuil",
+    "tigre",
+    "papillon",
+    "dauphin",
+    "flamant",
+    "caméléon",
+    "renard",
+    "abeille",
+    "tortue",
+    "crocodile",
+    "manchot",
+    "lièvre",
+    "chameau",
+    "aigle",
+    "hérisson",
+    "kangourou",
+    "hibou",
+    "girafe",
+    "cheval",
+    "éléphant",
+    "baleine",
+    "zèbre",
+    "autruche",
+    "panda",
+    "lion",
+    "araignée",
+    "fourmi",
+    "cobra",
+    "koala"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "theme": "Ciudades y monumentos",
+  "lang": "es",
+  "questionsDictionary": [
+    "¿A qué ciudad pertenece Playa de la Caleta?",
+    "¿En qué ciudad se puede visitar Paseo del Born?",
+    "¿Qué ciudad alberga Giralda?",
+    "¿En qué ciudad está Casa de Colón?",
+    "¿En qué ciudad se puede visitar Albaicín?",
+    "¿Cuáles de estos monumentos se pueden ver en La Habana?",
+    "¿A qué ciudad pertenece Ciudad de las Artes y las Ciencias?",
+    "¿Qué se puede ver en Madrid?",
+    "¿Qué ciudad alberga Puente de Alcántara?",
+    "¿A qué ciudad pertenece Casa Batlló?",
+    "¿En qué ciudad está Panecillo?",
+    "¿En qué ciudad se puede visitar Playa de la Concha?",
+    "¿En qué ciudad está Torre del Reloj?",
+    "¿Cuál de estos monumentos está en Córdoba?",
+    "¿Qué ciudad alberga Gran Teatro Falla?",
+    "¿Cuál de estos monumentos está en Zaragoza?",
+    "¿En qué ciudad está Convento de San Esteban?",
+    "¿Qué monumento se encuentra en Cusco?",
+    "¿En qué ciudad se encuentra Palacio del Marqués de Dos Aguas?",
+    "¿A qué ciudad pertenece Teatro Colón?",
+    "¿En qué ciudad se encuentra Puerta de Alcalá?",
+    "¿Qué ciudad alberga Torre de la Calahorra?",
+    "¿En qué ciudad está Las Ramblas?",
+    "¿En qué ciudad se encuentra Playa de las Canteras?",
+    "¿En qué ciudad está Museo del Prado?",
+    "¿En qué ciudad está Piedra de los Doce Ángulos?",
+    "¿Qué monumento se puede visitar en Valencia?",
+    "¿Qué monumento se puede visitar en Burgos?",
+    "¿En qué ciudad se puede visitar Lonja de la Seda?",
+    "¿A qué ciudad pertenece Monasterio de San Juan de los Reyes?",
+    "¿Qué ciudad alberga Hostal de los Reyes Católicos?",
+    "¿En qué ciudad se encuentra Museo Nacional de Antropología?",
+    "¿En qué ciudad se encuentra Acueducto romano?",
+    "¿En qué ciudad se puede visitar Palacio de Bellas Artes?",
+    "¿Cuáles de estos monumentos están en Salamanca?",
+    "¿Qué monumento se puede visitar en Bilbao?",
+    "¿A qué ciudad pertenece Parque del Retiro?",
+    "¿En qué ciudad está Mercado de Atarazanas?",
+    "¿En qué ciudad se puede visitar Plaza Mayor?",
+    "¿A qué ciudad pertenece Puente Romano?",
+    "¿En qué ciudad se encuentra Museo Guggenheim?",
+    "¿En qué ciudad está Casa de los Picos?",
+    "¿A qué ciudad pertenece Auditorio Alfredo Kraus?",
+    "¿Qué ciudad alberga Castillo de Bellver?",
+    "¿En qué ciudad se encuentra Puente de Piedra?",
+    "¿Qué monumentos se encuentran en Bogotá?",
+    "¿En qué ciudad está Catacumbas de San Francisco?",
+    "¿Qué se puede ver en Cartagena de Indias?",
+    "¿En qué ciudad se puede visitar Huaca Pucllana?",
+    "¿En qué ciudad se encuentra Sacsayhuamán?",
+    "¿En qué ciudad se puede visitar Hoz del Huécar?",
+    "¿A qué ciudad pertenece Plaza del Obradoiro?",
+    "¿Qué monumento se puede visitar en Toledo?",
+    "¿En qué ciudad se encuentra Castillo del Morro?",
+    "¿A qué ciudad pertenece Generalife?",
+    "¿En qué ciudad se encuentra Torre del Oro?",
+    "¿Qué monumentos se pueden visitar en Barcelona?",
+    "¿Cuáles de estos monumentos están en Málaga?",
+    "¿En qué ciudad se puede visitar Palacio de la Aljafería?",
+    "¿A qué ciudad pertenece Iglesia de la Vera Cruz?",
+    "¿En qué ciudad se encuentra Peine del Viento?",
+    "¿En qué ciudad está Mezquita-Catedral?",
+    "¿Qué monumentos se encuentran en Cádiz?",
+    "¿En qué ciudad se puede visitar Monte do Gozo?",
+    "¿En qué ciudad está Obelisco?",
+    "¿A qué ciudad pertenece La Seu?",
+    "¿Qué ciudad alberga Basílica del Pilar?",
+    "¿Cuáles de estos monumentos se pueden ver en Lima?",
+    "¿Qué ciudad alberga Monserrate?",
+    "¿En qué ciudad se puede visitar Qorikancha?",
+    "¿En qué ciudad está Alhambra?",
+    "¿En qué ciudad se encuentra Parque Güell?",
+    "¿En qué ciudad está Sinagoga del Tránsito?",
+    "¿Qué monumento se encuentra en Quito?",
+    "¿Qué ciudad alberga Casa del Cordón?",
+    "¿En qué ciudad se encuentra Puerta de Bisagra?",
+    "¿Qué ciudad alberga Zócalo?",
+    "¿Cuál de estos monumentos está en Ciudad de México?",
+    "¿Qué ciudad alberga Museo Reina Sofía?",
+    "¿Qué ciudad alberga Plaza de la Independencia?",
+    "¿En qué ciudad se puede visitar Capitolio?",
+    "¿En qué ciudad se puede visitar Sagrada Familia?",
+    "¿Qué ciudad alberga Capilla Real?",
+    "¿Qué monumento se encuentra en Las Palmas?",
+    "¿A qué ciudad pertenece Mercado de la Ribera?",
+    "¿En qué ciudad se encuentra Castillo de San Felipe de Barajas?",
+    "¿En qué ciudad está Barrio de Santa Cruz?",
+    "¿Qué se puede ver en Palma?",
+    "¿En qué ciudad está Torre Tavira?",
+    "¿Qué ciudad alberga Casas Colgadas?",
+    "¿Qué ciudad alberga Torres de Serranos?",
+    "¿En qué ciudad se puede visitar Monasterio de las Huelgas?",
+    "¿En qué ciudad está Teatro Arriaga?",
+    "¿En qué ciudad se encuentra Casa de las Conchas?",
+    "¿A qué ciudad pertenece Museo del Oro?",
+    "¿A qué ciudad pertenece Arco de Santa María?",
+    "¿A qué ciudad pertenece Basílica del Voto Nacional?",
+    "¿En qué ciudad se puede visitar Real Alcázar?",
+    "¿En qué ciudad está Monte Igueldo?",
+    "¿Qué ciudad alberga Malecón?",
+    "¿En qué ciudad se puede visitar La Candelaria?",
+    "¿En qué ciudad se puede visitar Castillo de Gibralfaro?",
+    "¿En qué ciudad se encuentra Puente de San Pablo?",
+    "¿Qué ciudad alberga Caminito?",
+    "¿En qué ciudad se encuentra Malecón de Miraflores?",
+    "¿A qué ciudad pertenece Convento de la Popa?",
+    "¿En qué ciudad se encuentra Playa de la Malagueta?"
+  ],
+  "optionsDictionary": [
+    "Córdoba",
+    "Cartagena de Indias",
+    "Ciudad de México",
+    "Salamanca",
+    "Lima",
+    "Cádiz",
+    "Madrid",
+    "Sevilla",
+    "Toledo",
+    "Segovia",
+    "Palma",
+    "Barcelona",
+    "Bogotá",
+    "Valencia",
+    "Cusco",
+    "Bilbao",
+    "Zaragoza",
+    "Las Palmas",
+    "Cuenca",
+    "Granada",
+    "Caminito",
+    "Museo Nacional de Antropología",
+    "Las Ramblas",
+    "Convento de la Popa",
+    "Casas Colgadas",
+    "Casa del Cordón",
+    "Castillo del Morro",
+    "Capitolio",
+    "Santiago de Compostela",
+    "Málaga",
+    "Palacio del Marqués de Dos Aguas",
+    "Puente Romano",
+    "Paseo del Born",
+    "Peine del Viento",
+    "Museo del Oro",
+    "Puente de Piedra",
+    "Museo del Prado",
+    "Buenos Aires",
+    "Quito",
+    "San Sebastián",
+    "Hostal de los Reyes Católicos",
+    "La Candelaria",
+    "Casa de los Picos",
+    "Qorikancha",
+    "La Habana",
+    "Sinagoga del Tránsito",
+    "Torre de la Calahorra",
+    "Catacumbas de San Francisco",
+    "Palacio de la Aljafería",
+    "Iglesia de la Vera Cruz",
+    "Mercado de la Ribera",
+    "Piedra de los Doce Ángulos",
+    "Burgos",
+    "Monte do Gozo",
+    "Playa de la Concha",
+    "Basílica del Pilar",
+    "Torres de Serranos",
+    "Puente de San Pablo",
+    "Torre del Reloj",
+    "Museo Guggenheim",
+    "Monasterio de San Juan de los Reyes",
+    "Acueducto romano",
+    "Parque Güell",
+    "Casa de las Conchas",
+    "Plaza Mayor",
+    "Albaicín",
+    "Ciudad de las Artes y las Ciencias",
+    "Malecón",
+    "Playa de las Canteras",
+    "Casa Batlló",
+    "Puerta de Bisagra",
+    "Monserrate",
+    "Parque del Retiro",
+    "Palacio de Bellas Artes",
+    "Gran Teatro Falla",
+    "Puente de Alcántara",
+    "Sacsayhuamán",
+    "Sagrada Familia",
+    "Alhambra",
+    "Playa de la Malagueta",
+    "Mercado de Atarazanas",
+    "Torre Tavira",
+    "Playa de la Caleta",
+    "Museo Reina Sofía",
+    "Huaca Pucllana",
+    "Panecillo",
+    "Lonja de la Seda",
+    "Zócalo",
+    "Castillo de San Felipe de Barajas",
+    "Castillo de Gibralfaro",
+    "Monasterio de las Huelgas",
+    "Castillo de Bellver"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        26,
+        27
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        56
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        63,
+        64
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        50
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        71,
+        34
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        60
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        69,
+        77
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        79,
+        80
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        81,
+        82
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        47,
+        84
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        85
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        87
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        68
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        91
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        29
+      ]
+    }
+  ]
+}

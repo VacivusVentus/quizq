@@ -1,0 +1,821 @@
+{
+  "theme": "Inventors and Their Inventions",
+  "lang": "en",
+  "questionsDictionary": [
+    "Whose invention is the pneumatic bicycle tire?",
+    "Who is credited with creating xerography?",
+    "Who invented the Audion amplifier?",
+    "Who invented the first practical photographic process?",
+    "Who was the inventor of oil-based printing ink?",
+    "What did Elisha Otis create?",
+    "Which of these did Samuel Morse invent?",
+    "Whose invention is the Kodak camera?",
+    "Whose invention is the first computer mouse prototype?",
+    "Which of these inventions is credited to Robert Fulton?",
+    "Which inventor created the moving assembly line?",
+    "Who was the inventor of the Model T automobile?",
+    "Whose invention is the converter vessel for steelmaking?",
+    "Who is credited with creating the aircraft test wind tunnel?",
+    "Who is credited with creating the first web browser?",
+    "Who was the inventor of the pneumatic tire?",
+    "Who was the inventor of the miner's safety lamp?",
+    "Which of these are the work of Thomas Edison?",
+    "Who is credited with creating the kinetoscope?",
+    "Which two of these did Douglas Engelbart invent?",
+    "Which of these inventions are credited to Guglielmo Marconi?",
+    "Whose invention is the separate condenser for steam engines?",
+    "Who invented the handheld calculator?",
+    "Who was the inventor of the computer mouse?",
+    "Who is credited with creating the Apple I computer?",
+    "Whose invention is the cotton gin?",
+    "Which of these did Chester Carlson invent?",
+    "Whose invention is the alternating current power distribution system?",
+    "What did Ferdinand von Zeppelin create?",
+    "Who invented the electric telegraph?",
+    "Whose invention is the three-wheeled motor car?",
+    "Which invention was the work of Nikola Tesla?",
+    "Who was the inventor of roll film?",
+    "Which of these are the work of Henry Ford?",
+    "Which inventor created the railway steam locomotive?",
+    "Which of these inventions is credited to Samuel Colt?",
+    "Who is credited with creating dynamite?",
+    "Who was the inventor of the Bessemer steelmaking process?",
+    "Which invention was the work of Rudolf Diesel?",
+    "Which inventor is responsible for the integrated circuit?",
+    "Which of these inventions are credited to Johannes Gutenberg?",
+    "Who was the inventor of the eye-pointed needle for sewing machines?",
+    "Which of these did George Stephenson invent?",
+    "Who invented the phonograph?",
+    "Who invented the compression-ignition engine?",
+    "Which inventor created the practical incandescent light bulb?",
+    "Whose invention is instant photography?",
+    "Which inventor created the mechanical printing press?",
+    "Who invented the World Wide Web?",
+    "Which inventor is responsible for the electromechanical television system?",
+    "Whose invention is the steamboat?",
+    "Which inventor is responsible for the double-acting steam engine?",
+    "Who invented the single-rotor helicopter?",
+    "Who invented the three-axis flight control system?",
+    "Which inventor created the first plain-paper copier?",
+    "Which inventor is responsible for the daguerreotype?",
+    "Who was the inventor of the automobile?",
+    "Who is credited with creating the movable-type printing press?",
+    "Who is credited with creating the rigid airship?",
+    "Which inventor is responsible for interchangeable parts for firearms?",
+    "Which inventor is responsible for the diesel engine?",
+    "John Boyd Dunlop is known for which of these inventions?",
+    "Which of these did Karl Benz invent?",
+    "Whose invention is mechanical television?",
+    "Who invented the single-action revolver?",
+    "What did Alfred Nobel create?",
+    "Which two of the following did Alexander Graham Bell create?",
+    "Who was the inventor of the Tesla coil?",
+    "Which inventor is responsible for the airplane?",
+    "George Eastman is known for which of these inventions?",
+    "Which inventor created the Apple II computer?",
+    "Which inventor is responsible for the triode vacuum tube?",
+    "Which invention was the work of Jack Kilby?",
+    "Which inventor created the AC induction motor?",
+    "Who is credited with creating vulcanized rubber?",
+    "Who is credited with creating the amphibian flying boat?",
+    "Which inventor is responsible for the safety elevator?",
+    "Who is credited with creating Morse code?",
+    "Which inventor created the blasting cap detonator?",
+    "Who invented the radio telegraph?",
+    "Who was the inventor of the Polaroid camera?",
+    "Who invented the centrifugal governor for steam engines?",
+    "Which two of the following did Henry Bessemer create?",
+    "Which inventor is responsible for the helicopter?",
+    "Which inventor created the aluminium-framed dirigible?",
+    "Which inventor created the lockstitch sewing machine?",
+    "Who invented the elevator safety brake?",
+    "Which invention was the work of Steve Wozniak?",
+    "Which two of these did the Wright brothers invent?",
+    "Which inventor created the HTTP protocol?",
+    "Which inventor is responsible for wireless telegraphy?",
+    "Which inventor is responsible for the steam-powered warship?",
+    "Who is credited with creating the revolving-cylinder firearm?",
+    "Which inventor created the vulcanization process for rubber?",
+    "Whose invention is the photophone?",
+    "Which of these inventions is credited to Lee de Forest?",
+    "Who was the inventor of the telephone?",
+    "Igor Sikorsky is known for which of these inventions?",
+    "Who is credited with creating the Rocket locomotive?",
+    "Which of these inventions are credited to Charles Goodyear?"
+  ],
+  "optionsDictionary": [
+    "Chester Carlson",
+    "Alexander Graham Bell",
+    "Rudolf Diesel",
+    "Charles Goodyear",
+    "Guglielmo Marconi",
+    "John Boyd Dunlop",
+    "Robert Fulton",
+    "Alfred Nobel",
+    "Steve Wozniak",
+    "James Watt",
+    "Douglas Engelbart",
+    "George Stephenson",
+    "Louis Daguerre",
+    "Nikola Tesla",
+    "Igor Sikorsky",
+    "Lee de Forest",
+    "Johannes Gutenberg",
+    "the Wright brothers",
+    "Jack Kilby",
+    "Ferdinand von Zeppelin",
+    "Elias Howe",
+    "Samuel Morse",
+    "the converter vessel for steelmaking",
+    "the three-wheeled motor car",
+    "the pneumatic tire",
+    "vulcanized rubber",
+    "the Apple I computer",
+    "the safety elevator",
+    "the alternating current power distribution system",
+    "the steam-powered warship",
+    "the AC induction motor",
+    "wireless telegraphy",
+    "the electric telegraph",
+    "Henry Ford",
+    "John Logie Baird",
+    "George Eastman",
+    "Karl Benz",
+    "Edwin Land",
+    "Eli Whitney",
+    "the compression-ignition engine",
+    "the aircraft test wind tunnel",
+    "the Kodak camera",
+    "interchangeable parts for firearms",
+    "the steamboat",
+    "Samuel Colt",
+    "Henry Bessemer",
+    "Thomas Edison",
+    "Tim Berners-Lee",
+    "the handheld calculator",
+    "the three-axis flight control system",
+    "the World Wide Web",
+    "the railway steam locomotive",
+    "the practical incandescent light bulb",
+    "the phonograph",
+    "the Model T automobile",
+    "the automobile",
+    "the eye-pointed needle for sewing machines",
+    "the cotton gin",
+    "the computer mouse",
+    "the first computer mouse prototype",
+    "mechanical television",
+    "the elevator safety brake",
+    "the radio telegraph",
+    "Elisha Otis",
+    "the daguerreotype",
+    "the triode vacuum tube",
+    "the blasting cap detonator",
+    "the first plain-paper copier",
+    "the amphibian flying boat",
+    "the separate condenser for steam engines",
+    "the electromechanical television system",
+    "the revolving-cylinder firearm",
+    "the first practical photographic process",
+    "the rigid airship",
+    "the telephone",
+    "the Apple II computer",
+    "the Tesla coil",
+    "the single-action revolver",
+    "the helicopter",
+    "the moving assembly line",
+    "the first web browser",
+    "the movable-type printing press",
+    "the Audion amplifier",
+    "the kinetoscope",
+    "the photophone",
+    "roll film",
+    "oil-based printing ink",
+    "the HTTP protocol",
+    "the miner's safety lamp",
+    "the Rocket locomotive",
+    "Morse code",
+    "instant photography",
+    "the double-acting steam engine",
+    "xerography",
+    "the Bessemer steelmaking process",
+    "the aluminium-framed dirigible",
+    "the diesel engine",
+    "the airplane",
+    "the Polaroid camera",
+    "the centrifugal governor for steam engines",
+    "dynamite",
+    "the vulcanization process for rubber"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        52,
+        53
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        58,
+        59
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        62,
+        31
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        67
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        73
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        76
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        79,
+        54
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        81,
+        86
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        88
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        55
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        66
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        84,
+        74
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        63
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        22,
+        94
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        63
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        97,
+        40
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        65
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        68
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        25,
+        101
+      ]
+    }
+  ]
+}

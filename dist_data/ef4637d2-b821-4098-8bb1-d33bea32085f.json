@@ -1,0 +1,816 @@
+{
+  "theme": "World Cuisines and Dishes",
+  "lang": "en",
+  "questionsDictionary": [
+    "Which cuisine is traditionally known for pastel de nata?",
+    "Which of these cuisines is the home of shepherds pie?",
+    "The dish tzatziki comes from which cuisine?",
+    "Which cuisine is traditionally known for bulgogi?",
+    "The dish bibimbap is a classic of which cuisine?",
+    "Which of these dishes come from German cuisine?",
+    "The dish hummus is a classic of which cuisine?",
+    "Which of these dishes are classics of Italian cuisine?",
+    "Which of these dishes is traditionally served in Hungarian cuisine?",
+    "The dish pasta is a classic of which cuisine?",
+    "Which cuisine does the dish hamburger belong to?",
+    "Which of these dishes is part of Malaysian cuisine?",
+    "Which cuisine does the dish langos belong to?",
+    "Which of these dishes are traditionally served in Turkish cuisine?",
+    "The dish guacamole is a classic of which cuisine?",
+    "In which cuisine would you traditionally find onion soup?",
+    "Which of these cuisines is the home of baklava?",
+    "Which of these cuisines is the home of tagine?",
+    "In which cuisine would you traditionally find moussaka?",
+    "Which of these dishes is a classic of French cuisine?",
+    "The dish ramen is a classic of which cuisine?",
+    "In which cuisine would you traditionally find shchi?",
+    "Which two of these dishes belong to American cuisine?",
+    "Which of these cuisines is the home of naan?",
+    "Which of these dishes comes from Chinese cuisine?",
+    "The dish khash is a classic of which cuisine?",
+    "Which cuisine is traditionally known for churros?",
+    "The dish biryani comes from which cuisine?",
+    "Which cuisine is traditionally known for laksa?",
+    "The dish goi cuon comes from which cuisine?",
+    "Which of these dishes comes from Filipino cuisine?",
+    "Which cuisine does the dish doro wat belong to?",
+    "In which cuisine would you traditionally find ceviche?",
+    "Which of these dishes is part of Uzbek cuisine?",
+    "Which cuisine does the dish pretzel belong to?",
+    "The dish full English breakfast comes from which cuisine?",
+    "Which of these dishes comes from Lebanese cuisine?",
+    "Which of these dishes come from Polish cuisine?",
+    "Which cuisine is traditionally known for green curry?",
+    "Which of these dishes is a classic of Ethiopian cuisine?",
+    "Which cuisine does the dish pizza belong to?",
+    "In which cuisine would you traditionally find fish and chips?",
+    "Which cuisine is traditionally known for burrito?",
+    "The dish injera comes from which cuisine?",
+    "The dish goulash comes from which cuisine?",
+    "Which of these dishes is a classic of Indian cuisine?",
+    "In which cuisine would you traditionally find kebab?",
+    "Which of these dishes are traditionally served in Greek cuisine?",
+    "The dish bacalhau is a classic of which cuisine?",
+    "The dish currywurst is a classic of which cuisine?",
+    "Which of these cuisines is the home of lomo saltado?",
+    "Which cuisine is traditionally known for sauerbraten?",
+    "Which of these cuisines is the home of souvlaki?",
+    "Which of these dishes is traditionally served in Armenian cuisine?",
+    "Which cuisine does the dish kimchi belong to?",
+    "Which cuisine does the dish sinigang belong to?",
+    "In which cuisine would you traditionally find bigos?",
+    "Which of these dishes are classics of Russian cuisine?",
+    "Which two of these dishes belong to Japanese cuisine?",
+    "Which of these dishes is traditionally served in Korean cuisine?",
+    "Which of these cuisines is the home of dim sum?",
+    "Which of these dishes is traditionally served in Brazilian cuisine?",
+    "In which cuisine would you traditionally find Peking duck?",
+    "Which cuisine does the dish khinkali belong to?",
+    "Which of these dishes is part of Mexican cuisine?",
+    "Which cuisine is traditionally known for tiramisu?",
+    "The dish nasi lemak is a classic of which cuisine?",
+    "Which of these cuisines is the home of banh mi?",
+    "Which cuisine does the dish tom yum belong to?",
+    "Which cuisine is traditionally known for buffalo wings?",
+    "Which of these dishes is part of Swedish cuisine?",
+    "Which of these cuisines is the home of croissant?",
+    "Which cuisine is traditionally known for tempura?",
+    "Which cuisine does the dish semla belong to?",
+    "The dish adobo comes from which cuisine?",
+    "Which cuisine is traditionally known for ghapama?",
+    "The dish gazpacho is a classic of which cuisine?",
+    "Which cuisine does the dish tacos belong to?",
+    "Which of these cuisines is the home of pierogi?",
+    "Which of these dishes comes from Portuguese cuisine?",
+    "Which of these cuisines is the home of dimlama?",
+    "Which cuisine does the dish paella belong to?",
+    "The dish feijoada is a classic of which cuisine?",
+    "Which cuisine does the dish sushi belong to?",
+    "Which of these dishes comes from Moroccan cuisine?",
+    "In which cuisine would you traditionally find couscous?",
+    "Which cuisine is traditionally known for tabbouleh?",
+    "In which cuisine would you traditionally find butter chicken?",
+    "The dish pad thai is a classic of which cuisine?",
+    "The dish mapo tofu comes from which cuisine?",
+    "The dish surstromming comes from which cuisine?",
+    "Which cuisine is traditionally known for brigadeiro?",
+    "The dish hot dog is a classic of which cuisine?",
+    "The dish khachapuri comes from which cuisine?",
+    "Which of these dishes is a classic of Peruvian cuisine?",
+    "In which cuisine would you traditionally find plov?",
+    "The dish ratatouille comes from which cuisine?",
+    "The dish pide comes from which cuisine?",
+    "Which of these cuisines is the home of okroshka?",
+    "In which cuisine would you traditionally find pho?"
+  ],
+  "optionsDictionary": [
+    "German cuisine",
+    "French cuisine",
+    "Korean cuisine",
+    "Japanese cuisine",
+    "Armenian cuisine",
+    "Portuguese cuisine",
+    "Mexican cuisine",
+    "Malaysian cuisine",
+    "Indian cuisine",
+    "Spanish cuisine",
+    "British cuisine",
+    "Italian cuisine",
+    "Thai cuisine",
+    "Turkish cuisine",
+    "Greek cuisine",
+    "Filipino cuisine",
+    "Uzbek cuisine",
+    "Vietnamese cuisine",
+    "Brazilian cuisine",
+    "Chinese cuisine",
+    "surstromming",
+    "banh mi",
+    "naan",
+    "paella",
+    "currywurst",
+    "pretzel",
+    "Lebanese cuisine",
+    "green curry",
+    "plov",
+    "khinkali",
+    "injera",
+    "bibimbap",
+    "tiramisu",
+    "pasta",
+    "kimchi",
+    "tacos",
+    "kebab",
+    "ghapama",
+    "langos",
+    "Russian cuisine",
+    "Polish cuisine",
+    "American cuisine",
+    "moussaka",
+    "semla",
+    "tagine",
+    "croissant",
+    "okroshka",
+    "nasi lemak",
+    "Swedish cuisine",
+    "Moroccan cuisine",
+    "Ethiopian cuisine",
+    "Hungarian cuisine",
+    "hummus",
+    "pho",
+    "bigos",
+    "Peking duck",
+    "biryani",
+    "pide",
+    "baklava",
+    "Peruvian cuisine",
+    "Georgian cuisine",
+    "khash",
+    "doro wat",
+    "sinigang",
+    "ratatouille",
+    "fish and chips",
+    "tempura",
+    "bulgogi",
+    "hot dog",
+    "hamburger",
+    "goi cuon",
+    "mapo tofu",
+    "couscous",
+    "butter chicken",
+    "adobo",
+    "pad thai",
+    "full English breakfast",
+    "shchi",
+    "dimlama",
+    "ramen",
+    "sushi",
+    "tabbouleh",
+    "pierogi",
+    "lomo saltado",
+    "shepherds pie",
+    "sauerbraten",
+    "tzatziki",
+    "souvlaki",
+    "tom yum",
+    "guacamole",
+    "churros",
+    "feijoada",
+    "ceviche",
+    "khachapuri",
+    "gazpacho",
+    "pastel de nata",
+    "brigadeiro",
+    "goulash"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        24,
+        25
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        32,
+        33
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        57,
+        58
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        49
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        64
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        68,
+        69
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        74
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        50
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        59
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        78
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        81
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        54,
+        82
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        50
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        86,
+        87
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        59
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        61
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        46,
+        77
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        79,
+        66
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        91
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        60
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        89
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        95
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        49
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        60
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        92
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        17
+      ]
+    }
+  ]
+}

@@ -1,0 +1,766 @@
+{
+  "theme": "Números y datos",
+  "lang": "es",
+  "questionsDictionary": [
+    "¿Qué cifra resulta del recuento de patas de un escorpión?",
+    "¿Qué número se obtiene al contar días de diciembre?",
+    "¿Cuál es el número de litros de un hectolitro?",
+    "¿Qué número se obtiene al contar dedos de los dos pies?",
+    "¿Cuál es la cantidad de dedos de una mano?",
+    "¿Cuál es el número de notas de una octava?",
+    "¿Qué número se obtiene al contar colores de la bandera de Rusia?",
+    "¿Cuál es el número de sonatas para piano de Beethoven?",
+    "¿Qué cifra resulta del recuento de anillos de la bandera olímpica?",
+    "¿Qué cifra resulta del recuento de meses de un año?",
+    "¿Cuál es la cantidad de milímetros de un centímetro?",
+    "¿Qué número da el total de pulmones en un ser humano?",
+    "¿Cuál es la cantidad de dedos de un pie?",
+    "¿Qué número da el total de brazos de una estrella de mar?",
+    "¿Qué número se obtiene al contar rodillas en un ser humano?",
+    "¿Cuál es la cantidad de repúblicas de la Unión Soviética?",
+    "¿Cuál es la cantidad de puntos cardinales de una brújula?",
+    "¿Qué número se obtiene al contar patas de un gato?",
+    "¿Qué cifra resulta del recuento de polos de un imán?",
+    "¿Cuál es el número de ruedas de una bicicleta?",
+    "¿Cuál es la cantidad de maravillas del mundo antiguo?",
+    "¿Qué cifra resulta del recuento de patas de una araña?",
+    "¿Qué número se obtiene al contar cadenas de una molécula de ADN?",
+    "¿Qué número se obtiene al contar enanos del cuento de Blancanieves?",
+    "¿Qué número da el total de días de lluvia durante el Diluvio?",
+    "¿Cuál es el número de cuerdas de un ukelele?",
+    "¿Cuál es la cantidad de tiempos de un partido de fútbol?",
+    "¿Qué número se obtiene al contar cuerdas de una guitarra clásica?",
+    "¿Cuál es el número de minutos de un cuarto de hora?",
+    "¿Cuál es el número de pulgadas de un pie?",
+    "¿Qué número se obtiene al contar horas marcadas en un reloj de agujas?",
+    "¿Qué número se obtiene al contar teclas blancas de un piano?",
+    "¿Cuál es el número de cartas de una baraja estándar?",
+    "¿Qué cifra resulta del recuento de grados de la suma de los ángulos de un triángulo?",
+    "¿Cuál es el número de minutos de un tercio de hora?",
+    "¿Qué número da el total de minutos de tres horas?",
+    "¿Qué cifra resulta del recuento de milímetros de un decímetro?",
+    "¿Cuál es el número de jinetes en el cuadro de Vasnetsov?",
+    "¿Cuál es la cantidad de días de enero?",
+    "¿Qué número se obtiene al contar días laborables de una semana?",
+    "¿Cuál es la cantidad de días de octubre?",
+    "¿Qué número se obtiene al contar casillas de una fila de un tablero de ajedrez?",
+    "¿Cuál es el número de tentáculos de un pulpo?",
+    "¿Qué cifra resulta del recuento de semanas de un embarazo humano?",
+    "¿Qué cifra resulta del recuento de colores de un semáforo?",
+    "¿Cuál es el número de musas del Parnaso?",
+    "¿Cuál es la cantidad de grados Fahrenheit a los que se congela el agua?",
+    "¿Cuál es el número de fotogramas por segundo en el cine?",
+    "¿Cuál es la cantidad de kilos de un quintal?",
+    "¿Cuál es el número de ruedas de un coche?",
+    "¿Qué cifra resulta del recuento de tribus de Israel?",
+    "¿Cuál es la cantidad de días de abril?",
+    "¿Qué cifra resulta del recuento de días de septiembre?",
+    "¿Qué número da el total de gramos de un hectogramo?",
+    "¿Qué número da el total de torres del Kremlin de Moscú?",
+    "¿Qué número da el total de letras del alfabeto griego?",
+    "¿Qué número se obtiene al contar metros de un kilómetro?",
+    "¿Qué número se obtiene al contar días de marzo?",
+    "¿Qué número se obtiene al contar jugadores de un equipo de béisbol en el campo?",
+    "¿Qué cifra resulta del recuento de coordenadas de un punto en el espacio?",
+    "¿Qué número da el total de sinfonías de Beethoven?",
+    "¿Qué número da el total de colores del arco iris?",
+    "¿Cuál es el número de caras de un dado?",
+    "¿Qué número da el total de patas de un insecto?",
+    "¿Cuál es la cantidad de meses del verano?",
+    "¿Qué cifra resulta del recuento de caras de un cubo?",
+    "¿Cuál es la cantidad de semanas de un año?",
+    "¿Qué cifra resulta del recuento de dientes de un adulto?",
+    "¿Cuál es la cantidad de círculos del infierno de Dante?",
+    "¿Cuál es el número de segundos de medio minuto?",
+    "¿Qué número da el total de días de julio?",
+    "¿Qué cifra resulta del recuento de días de una semana?",
+    "¿Cuál es el número de gramos de un litro de agua?",
+    "¿Cuál es el número de jugadores de un equipo de baloncesto en la cancha?",
+    "¿Cuál es el número de bolos del juego de bolos?",
+    "¿Qué número se obtiene al contar patas de una hormiga?",
+    "¿Qué cifra resulta del recuento de gramos de un kilogramo?",
+    "¿Cuál es la cantidad de piernas en una persona?",
+    "¿Qué cifra resulta del recuento de horas de un día?",
+    "¿Qué número se obtiene al contar ladrones del cuento de Alí Babá?",
+    "¿Qué número da el total de mandamientos de la Biblia?",
+    "¿Qué número se obtiene al contar grados de un ángulo llano?",
+    "¿Qué cifra resulta del recuento de dedos de las dos manos?",
+    "¿Qué número da el total de días de noviembre?",
+    "¿Cuál es la cantidad de trabajos de Hércules?",
+    "¿Cuál es la cantidad de caras de un icosaedro?",
+    "¿Qué número da el total de litros de un metro cúbico?",
+    "¿Qué número da el total de signos del zodiaco?",
+    "¿Qué número se obtiene al contar días de junio?",
+    "¿Qué cifra resulta del recuento de lados de un cuadrado?",
+    "¿Cuál es la cantidad de bits de un byte?",
+    "¿Qué cifra resulta del recuento de dedos de las manos y de los pies en una persona?",
+    "¿Qué número da el total de piezas de un tablero de ajedrez al inicio de la partida?",
+    "¿Qué número da el total de estaciones del año?",
+    "¿Qué número da el total de meses del calendario?",
+    "¿Cuál es la cantidad de jugadores de un equipo de voleibol?",
+    "¿Qué cifra resulta del recuento de días de mayo?",
+    "¿Qué número da el total de planetas del sistema solar?",
+    "¿Qué número da el total de palos de una baraja de cartas?",
+    "¿Cuál es la cantidad de vatios de un kilovatio?",
+    "¿Qué número da el total de cuerdas de una balalaika?",
+    "¿Qué número se obtiene al contar bolas rojas del snooker?",
+    "¿Cuál es el número de días de agosto?",
+    "¿Qué número se obtiene al contar dientes de leche de un niño?",
+    "¿Cuál es el número de manos en una persona?"
+  ],
+  "optionsDictionary": [
+    "cincuenta y dos",
+    "veinte",
+    "cinco",
+    "cien",
+    "ocho",
+    "dos",
+    "nueve",
+    "ciento ochenta",
+    "cuatro",
+    "treinta y uno",
+    "doce",
+    "treinta y dos",
+    "mil",
+    "siete",
+    "diez",
+    "treinta",
+    "veinticuatro",
+    "seis",
+    "quince",
+    "tres",
+    "cuarenta"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        5
+      ]
+    }
+  ]
+}

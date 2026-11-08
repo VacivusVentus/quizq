@@ -1,0 +1,815 @@
+{
+  "theme": "Inventores e inventos",
+  "lang": "es",
+  "questionsDictionary": [
+    "¿Qué inventó Ladislao Biro?",
+    "¿A quién se debe «cuchilla de diamante para cortes ultrafinos»?",
+    "¿Quién creó «arcos de ladrillo sin cimbra»?",
+    "¿Quién es el inventor de «planeador Demoiselle»?",
+    "¿Qué dos inventos son obra de Humberto Fernández Morán?",
+    "¿Quién inventó «máquina de calcular con multiplicación directa»?",
+    "¿Quién inventó «jeringuilla desechable de un solo uso»?",
+    "¿A quién se atribuye «telequino de mando a distancia»?",
+    "¿Cuáles de estas creaciones se atribuyen a Isaac Peral?",
+    "¿Quién inventó «aguja especial para la anestesia raquídea»?",
+    "¿A quién se atribuye «horno de amalgamación»?",
+    "¿Cuál de estas creaciones es obra de Francisco Salvá Campillo?",
+    "¿Cuál de estos inventos se debe a Jerónimo de Ayanz?",
+    "¿A qué invento se asocia el nombre de Juanelo Turriano?",
+    "¿A quién se debe «técnica de revascularización del corazón»?",
+    "¿A quién se debe «vacuna de péptidos sintéticos»?",
+    "¿Cuál de estas creaciones es obra de Narcís Monturiol?",
+    "¿De quién es la invención de «escafandra estratonáutica»?",
+    "¿Quién creó «mesa quirúrgica de altura regulable»?",
+    "¿A qué invento se asocia el nombre de Rafael Guastavino?",
+    "¿Cuáles de estos inventos se deben a Carlos Finlay?",
+    "¿De quién es la invención de «método de patio para amalgamar la plata»?",
+    "¿A quién se atribuye «culata de aluminio en un solo bloque»?",
+    "¿Quién inventó «cubierta laminar de hormigón»?",
+    "¿A quién se debe «calculadora mecánica de sobremesa»?",
+    "¿Cuál de estos inventos se debe a Ramón Verea?",
+    "¿Cuál de estos inventos se debe a Manuel Patricio Rodríguez García?",
+    "¿De quién es la invención de «caramelo esférico ensartado en un palito»?",
+    "¿Quién inventó «injerto de vena safena en las arterias coronarias»?",
+    "¿A quién se debe «cubo escurridor para fregonas»?",
+    "¿Cuál de estas creaciones es obra de Alberto Santos Dumont?",
+    "¿De quién es la invención de «bolígrafo de bolilla giratoria»?",
+    "¿Quién inventó «primera vacuna sintética contra la malaria»?",
+    "¿Quién es el inventor de «aire acondicionado para el aire viciado de las minas»?",
+    "¿Qué dos aportaciones técnicas son de Juan de la Cierva?",
+    "¿Quién es el inventor de «frontoluz de quirófano»?",
+    "¿Quién creó «motor de combustión anaerobia»?",
+    "¿Quién creó «cañón automático de veinte milímetros»?",
+    "¿Qué aportación técnica se debe a René Favaloro?",
+    "¿Qué inventó Luis Ernesto Miramontes?",
+    "¿Quién es el inventor de «depósito elevado de hormigón»?",
+    "¿Qué inventó Emilio Herrera?",
+    "¿A quién se atribuye «bóveda plana de rasilla»?",
+    "¿Quién creó «telégrafo electroquímico»?",
+    "¿De quién es la invención de «submarino Ictíneo»?",
+    "¿Quién inventó «submarino torpedero eléctrico»?",
+    "¿A quién se debe «rotor articulado con palas batientes»?",
+    "¿Quién creó «método de control del mosquito transmisor»?",
+    "¿A quién se debe «periscopio»?",
+    "¿Quién es el inventor de «tubo lanzatorpedos»?",
+    "¿A quién se debe «dirigible que rodeó la torre Eiffel»?",
+    "¿A quién se atribuye «fregona con escurridor»?",
+    "¿De quién es la invención de «cortes histológicos a baja temperatura»?",
+    "¿Quién es el inventor de «ultramicrotomo de cuchilla de diamante»?",
+    "¿De quién es la invención de «bóveda tabicada de ladrillo»?",
+    "¿Qué dos inventos son obra de Manuel Jalón?",
+    "¿A quién se atribuye «pluma estilográfica de punta esférica»?",
+    "¿A quién se debe «autómatas de la corte imperial»?",
+    "¿A quién se atribuye «bloqueo anestésico peridural»?",
+    "¿A quién se debe «enciclopedia mecánica»?",
+    "¿Quién es el inventor de «ala giratoria no propulsada»?",
+    "¿A quién se atribuye «transmisión de letras por corrientes eléctricas»?",
+    "¿De quién es la invención de «transbordador aéreo»?",
+    "¿Quién inventó «mapas del tejido nervioso»?",
+    "¿A quién se atribuye «mapa de los focos de fiebre amarilla»?",
+    "¿Quién es el inventor de «coche de ferrocarril basculante»?",
+    "¿A quién se atribuye «tinción de plata reducida»?",
+    "¿Quién creó «prótesis de válvula para el corazón»?",
+    "¿Qué aportación técnica se debe a Alejandro Goicoechea?",
+    "¿Quién creó «ajedrecista automático»?",
+    "¿De quién es la invención de «espejo laríngeo para ver las cuerdas vocales»?",
+    "¿Quién creó «examen de la voz con espejo inclinado»?",
+    "¿Cuáles de estas creaciones se atribuyen a Eduardo Torroja?",
+    "¿Quién inventó «avión 14-bis»?",
+    "¿Quién creó «anestesia epidural»?",
+    "¿De quién es la invención de «separador costal de cremallera»?",
+    "¿Quién es el inventor de «válvula cardíaca artificial de bajo perfil»?",
+    "¿Quién creó «amalgamación con mercurio de los minerales»?",
+    "¿A quién se debe «frontón de lámina delgada»?",
+    "¿De quién es la invención de «motor de aviación en V de ocho cilindros»?",
+    "¿Cuál de estos inventos se debe a Marc Birkigt?",
+    "¿Quién es el inventor de «piruleta con palo»?",
+    "¿Quién inventó «artefacto para subir el agua del Tajo a Toledo»?",
+    "¿A quién se atribuye «síntesis de la noretisterona»?",
+    "¿Qué dos aportaciones técnicas son de Enrique Finochietto?",
+    "¿A qué invento se asocia el nombre de Domingo Liotta?",
+    "¿A quién se atribuye «casco doble para navegar sumergido»?",
+    "¿De quién es la invención de «proyector de imágenes para el libro mecánico»?",
+    "¿A quién se debe «máquina de vapor para achicar las minas»?",
+    "¿Quién inventó «tren articulado de eje único»?",
+    "¿Quién es el inventor de «reloj astronómico de mesa»?",
+    "¿Cuáles de estos inventos se deben a Ángela Ruiz Robles?",
+    "¿Quién es el inventor de «libro mecánico con carretes»?",
+    "¿A quién se debe «sistema de rodadura Talgo»?",
+    "¿De quién es la invención de «corazón artificial neumático»?",
+    "¿Quién inventó «autogiro»?",
+    "¿Quién creó «tinta densa de secado instantáneo»?",
+    "¿Quién creó «traje presurizado de gran altitud»?",
+    "¿Quién inventó «primer anticonceptivo oral sintético»?",
+    "¿Quién es el inventor de «laringoscopio»?"
+  ],
+  "optionsDictionary": [
+    "submarino torpedero eléctrico",
+    "máquina de calcular con multiplicación directa",
+    "método de control del mosquito transmisor",
+    "bloqueo anestésico peridural",
+    "espejo laríngeo para ver las cuerdas vocales",
+    "tinción de plata reducida",
+    "bolígrafo de bolilla giratoria",
+    "Francisco Salvá Campillo",
+    "Bartolomé de Medina",
+    "Leonardo Torres Quevedo",
+    "Emilio Herrera",
+    "Humberto Fernández Morán",
+    "Ángela Ruiz Robles",
+    "Alejandro Goicoechea",
+    "Narcís Monturiol",
+    "Domingo Liotta",
+    "Rafael Guastavino",
+    "Juanelo Turriano",
+    "René Favaloro",
+    "Ladislao Biro",
+    "Juan de la Cierva",
+    "Alberto Santos Dumont",
+    "laringoscopio",
+    "caramelo esférico ensartado en un palito",
+    "método de patio para amalgamar la plata",
+    "transbordador aéreo",
+    "vacuna de péptidos sintéticos",
+    "frontoluz de quirófano",
+    "cortes histológicos a baja temperatura",
+    "cuchilla de diamante para cortes ultrafinos",
+    "Enrique Finochietto",
+    "Jerónimo de Ayanz",
+    "Ramón Verea",
+    "Fidel Pagés",
+    "Isaac Peral",
+    "Manuel Jalón",
+    "Carlos Finlay",
+    "mapa de los focos de fiebre amarilla",
+    "válvula cardíaca artificial de bajo perfil",
+    "piruleta con palo",
+    "arcos de ladrillo sin cimbra",
+    "tubo lanzatorpedos",
+    "periscopio",
+    "Santiago Ramón y Cajal",
+    "Manuel Patricio Rodríguez García",
+    "rotor articulado con palas batientes",
+    "técnica de revascularización del corazón",
+    "aire acondicionado para el aire viciado de las minas",
+    "cubo escurridor para fregonas",
+    "jeringuilla desechable de un solo uso",
+    "transmisión de letras por corrientes eléctricas",
+    "telégrafo electroquímico",
+    "fregona con escurridor",
+    "autogiro",
+    "aguja especial para la anestesia raquídea",
+    "sistema de rodadura Talgo",
+    "avión 14-bis",
+    "casco doble para navegar sumergido",
+    "dirigible que rodeó la torre Eiffel",
+    "bóveda plana de rasilla",
+    "autómatas de la corte imperial",
+    "Eduardo Torroja",
+    "Manuel Elkin Patarroyo",
+    "ajedrecista automático",
+    "escafandra estratonáutica",
+    "submarino Ictíneo",
+    "Luis Ernesto Miramontes",
+    "síntesis de la noretisterona",
+    "enciclopedia mecánica",
+    "bóveda tabicada de ladrillo",
+    "cañón automático de veinte milímetros",
+    "Marc Birkigt",
+    "Enric Bernat",
+    "telequino de mando a distancia",
+    "frontón de lámina delgada",
+    "artefacto para subir el agua del Tajo a Toledo",
+    "pluma estilográfica de punta esférica",
+    "calculadora mecánica de sobremesa",
+    "mesa quirúrgica de altura regulable",
+    "proyector de imágenes para el libro mecánico",
+    "ala giratoria no propulsada",
+    "motor de aviación en V de ocho cilindros",
+    "reloj astronómico de mesa",
+    "culata de aluminio en un solo bloque",
+    "amalgamación con mercurio de los minerales",
+    "separador costal de cremallera",
+    "examen de la voz con espejo inclinado",
+    "injerto de vena safena en las arterias coronarias",
+    "coche de ferrocarril basculante",
+    "tren articulado de eje único",
+    "prótesis de válvula para el corazón",
+    "ultramicrotomo de cuchilla de diamante",
+    "corazón artificial neumático",
+    "máquina de vapor para achicar las minas",
+    "cubierta laminar de hormigón",
+    "planeador Demoiselle",
+    "libro mecánico con carretes"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        28,
+        29
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        41,
+        42
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        50
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        60
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        62
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        65
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        69
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        2,
+        37
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        61
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        72
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        56
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        62
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        80,
+        53
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        87
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        67
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        61
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        64
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        49,
+        48
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        88
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        74,
+        94
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        61
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        70
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        72
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        66
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        78,
+        27
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        90
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        96,
+        79
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        66
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        44
+      ]
+    }
+  ]
+}

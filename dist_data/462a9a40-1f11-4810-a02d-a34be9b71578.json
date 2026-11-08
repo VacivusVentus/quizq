@@ -1,0 +1,773 @@
+{
+  "theme": "Nombres et faits",
+  "lang": "fr",
+  "questionsDictionary": [
+    "Combien peut-on compter de jours de mai ?",
+    "Quel est le total de nains dans le conte de Blanche-Neige ?",
+    "Combien compte-t-on de kilogrammes dans un quintal ?",
+    "Combien y a-t-il de faces d'un dé à jouer ?",
+    "Quel est le total de coordonnées d'un point dans l'espace ?",
+    "Quel est le total de cases d'une rangée d'un échiquier ?",
+    "Quel est le total de couleurs d'un feu de signalisation ?",
+    "Combien y a-t-il de signes du zodiaque ?",
+    "Quel est le total de jours de décembre ?",
+    "Combien compte-t-on de merveilles du monde antique ?",
+    "Quel est le nombre de cartes d'un jeu standard ?",
+    "Combien y a-t-il de jours de pluie lors du Déluge ?",
+    "Quel est le total de faces d'un cube ?",
+    "Combien peut-on compter de grammes dans un kilogramme ?",
+    "Quel est le total de pôles d'un aimant ?",
+    "Quel est le total de cercles du drapeau olympique ?",
+    "Combien peut-on compter de millimètres dans un décimètre ?",
+    "Combien compte-t-on de jours d'avril ?",
+    "Combien peut-on compter de tribus d'Israël ?",
+    "Combien compte-t-on de pattes d'un chat ?",
+    "Combien y a-t-il de mois du calendrier ?",
+    "Combien y a-t-il de joueurs d'une équipe de basket-ball sur le terrain ?",
+    "Combien compte-t-on de cordes d'une guitare classique ?",
+    "Quel est le total de jours de juin ?",
+    "Combien compte-t-on de jours de janvier ?",
+    "Quel est le nombre de jambes chez une personne ?",
+    "Combien y a-t-il de commandements de la Bible ?",
+    "Combien peut-on compter de saisons de l'année ?",
+    "Combien y a-t-il de grammes dans un hectogramme ?",
+    "Quel est le total de joueurs d'une équipe de hockey sur glace ?",
+    "Combien y a-t-il de lettres de l'alphabet grec ?",
+    "Quel est le total de boules rouges au snooker ?",
+    "Quel est le nombre de muses du Parnasse ?",
+    "Quel est le total de doigts des deux pieds ?",
+    "Combien peut-on compter de cordes d'une balalaïka ?",
+    "Combien compte-t-on de semaines dans une année ?",
+    "Combien y a-t-il de jours de novembre ?",
+    "Quel est le nombre de mi-temps dans un match de football ?",
+    "Quel est le nombre de quilles au bowling ?",
+    "Combien peut-on compter de couleurs d'un jeu de cartes classique ?",
+    "Combien y a-t-il de jours de juillet ?",
+    "Combien compte-t-on de travaux d'Hercule ?",
+    "Quel est le total de côtés d'un carré ?",
+    "Combien peut-on compter de jours d'une semaine ?",
+    "Combien compte-t-on de degrés Fahrenheit à la congélation de l'eau ?",
+    "Combien compte-t-on de bits dans un octet ?",
+    "Quel est le total de dents de lait chez un enfant ?",
+    "Quel est le total de touches blanches d'un piano ?",
+    "Quel est le nombre de minutes dans un quart d'heure ?",
+    "Combien compte-t-on de faces d'un icosaèdre ?",
+    "Combien peut-on compter de périodes d'une heure dans une journée ?",
+    "Quel est le total de degrés d'un angle plat ?",
+    "Combien y a-t-il de millilitres dans un litre ?",
+    "Combien peut-on compter de mois d'une année ?",
+    "Quel est le nombre de carats de l'or pur ?",
+    "Quel est le nombre de secondes dans une demi-minute ?",
+    "Combien peut-on compter de semaines d'une grossesse humaine ?",
+    "Quel est le nombre de mois d'été ?",
+    "Combien peut-on compter de jours de septembre ?",
+    "Combien compte-t-on de jours ouvrés dans une semaine ?",
+    "Quel est le nombre de litres dans un hectolitre ?",
+    "Combien y a-t-il de cordes d'un ukulélé ?",
+    "Combien compte-t-on de micromètres dans un millimètre ?",
+    "Combien peut-on compter de doigts et orteils chez une personne ?",
+    "Combien compte-t-on de genoux chez un être humain ?",
+    "Combien peut-on compter de bras d'une étoile de mer ?",
+    "Combien peut-on compter de poumons chez un être humain ?",
+    "Combien y a-t-il de guerriers sur le tableau de Vasnetsov ?",
+    "Combien peut-on compter de pattes d'un scorpion ?",
+    "Combien peut-on compter de dents chez un adulte ?",
+    "Combien peut-on compter de pattes chez un insecte ?",
+    "Combien compte-t-on de républiques de l'Union soviétique ?",
+    "Combien compte-t-on de pattes d'une fourmi ?",
+    "Combien compte-t-on de cercles de l'Enfer chez Dante ?",
+    "Quel est le nombre de minutes dans un tiers d'heure ?",
+    "Combien compte-t-on de couleurs du drapeau de la Russie ?",
+    "Combien compte-t-on de chaînes dans une molécule d'ADN ?",
+    "Combien peut-on compter de doigts des deux mains ?",
+    "Combien compte-t-on de millimètres dans un centimètre ?",
+    "Combien y a-t-il de tours du Kremlin de Moscou ?",
+    "Combien y a-t-il de pièces sur un échiquier au début d'une partie ?",
+    "Combien peut-on compter de pattes d'une araignée ?",
+    "Quel est le nombre de doigts d'une main ?",
+    "Quel est le total de jours de mars ?",
+    "Quel est le total de voleurs dans le conte d'Ali Baba ?",
+    "Quel est le total de chiffres d'un cadran d'horloge ?",
+    "Quel est le nombre de points cardinaux sur une boussole ?",
+    "Combien peut-on compter de degrés dans la somme des angles d'un triangle ?",
+    "Quel est le total de joueurs d'une équipe de base-ball sur le terrain ?",
+    "Quel est le nombre de doigts d'un pied ?",
+    "Combien y a-t-il de mains chez une personne ?",
+    "Combien compte-t-on de jours d'octobre ?",
+    "Quel est le nombre de millimètres dans un mètre ?",
+    "Quel est le total de mètres dans un kilomètre ?",
+    "Quel est le nombre de notes d'une octave ?",
+    "Quel est le nombre de jours d'août ?",
+    "Combien y a-t-il de planètes du Système solaire ?",
+    "Combien y a-t-il de minutes dans trois heures ?",
+    "Quel est le nombre de pouces dans un pied ?",
+    "Combien y a-t-il de roues d'une bicyclette ?",
+    "Combien y a-t-il de roues d'une voiture ?",
+    "Quel est le nombre de sonates pour piano de Beethoven ?",
+    "Combien y a-t-il de symphonies de Beethoven ?",
+    "Combien y a-t-il de couleurs de l'arc-en-ciel ?",
+    "Quel est le nombre de tentacules d'une pieuvre ?",
+    "Quel est le nombre de joueurs d'une équipe de volley-ball ?"
+  ],
+  "optionsDictionary": [
+    "cinq",
+    "mille",
+    "quatre",
+    "cent quatre-vingts",
+    "trente et un",
+    "cent",
+    "huit",
+    "trente-deux",
+    "deux",
+    "sept",
+    "douze",
+    "vingt",
+    "cinquante-deux",
+    "trente",
+    "trois",
+    "six",
+    "quinze",
+    "vingt-quatre",
+    "dix",
+    "quarante",
+    "neuf"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        15
+      ]
+    }
+  ]
+}

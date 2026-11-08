@@ -1,0 +1,868 @@
+{
+  "theme": "Grandes nombres",
+  "lang": "es",
+  "questionsDictionary": [
+    "¿Con qué gran nombre se relaciona «Mar adentro»?",
+    "¿Con qué personaje se relaciona «La oración del torero»?",
+    "¿A qué personaje se asocia «El carnaval de Arlequín»?",
+    "¿Qué personaje está relacionado con «Las meninas»?",
+    "¿A qué personaje se asocia «la Armada Invencible»?",
+    "¿A qué personaje se asocia «las Leyes de Reforma»?",
+    "¿Qué personaje está relacionado con «el Plan de Ayala»?",
+    "¿Con qué gran nombre se relaciona «El perro andaluz»?",
+    "¿Qué personaje está relacionado con «Saturno devorando a su hijo»?",
+    "¿Con qué gran nombre se relaciona «Danzas españolas»?",
+    "¿A qué personaje se asocia «La sagrada familia del pajarito»?",
+    "¿Con qué gran nombre se relaciona «la Gran Colombia»?",
+    "¿A quién se asocia «la batalla de Pavía»?",
+    "¿A qué personaje se asocia «las variaciones sobre un tema de Mozart»?",
+    "¿Con qué gran nombre se relaciona «Veinte poemas de amor y una canción desesperada»?",
+    "¿Con qué personaje se relaciona «Pedro Páramo»?",
+    "¿A quién se asocia «los fusilamientos del tres de mayo»?",
+    "¿Con qué personaje se relaciona «Viva la Vida»?",
+    "¿A quién se asocia «Bodas de sangre»?",
+    "¿A quién se asocia «El segador»?",
+    "¿Con qué personaje se relaciona «La Madonna de Port Lligat»?",
+    "¿A qué personaje se asocia «El amor brujo»?",
+    "¿Qué personaje está relacionado con «Cría cuervos»?",
+    "¿A qué personaje se asocia «Suite española»?",
+    "¿Qué personaje está relacionado con «La forma del agua»?",
+    "¿Con qué personaje se relaciona «la independencia de Argentina»?",
+    "¿A quién se asocia «Canto general»?",
+    "¿Qué personaje está relacionado con «La Trinidad»?",
+    "¿Con qué gran nombre se relaciona «El entierro del conde de Orgaz»?",
+    "¿Qué personaje está relacionado con «La columna rota»?",
+    "¿A quién se asocia «Valses poéticos»?",
+    "¿Con qué personaje se relaciona «Cronos»?",
+    "¿Qué personaje está relacionado con «Cantos de vida y esperanza»?",
+    "¿Qué personaje está relacionado con «San Manuel Bueno, mártir»?",
+    "¿Con qué personaje se relaciona «Romancero gitano»?",
+    "¿Con qué gran nombre se relaciona «La vuelta de la pesca»?",
+    "¿Qué personaje está relacionado con «La casa de Bernarda Alba»?",
+    "¿A quién se asocia «Prosas profanas»?",
+    "¿Con qué gran nombre se relaciona «Las armas secretas»?",
+    "¿Con qué gran nombre se relaciona «El sombrero de tres picos»?",
+    "¿A quién se asocia «Noches en los jardines de España»?",
+    "¿Con qué gran nombre se relaciona «El viejo guitarrista»?",
+    "¿Con qué gran nombre se relaciona «Fantasía para un gentilhombre»?",
+    "¿Con qué personaje se relaciona «Conversación en La Catedral»?",
+    "¿Con qué gran nombre se relaciona «el pueblo de Comala»?",
+    "¿Con qué personaje se relaciona «la Dieta de Worms»?",
+    "¿A qué personaje se asocia «Bestiario»?",
+    "¿A qué personaje se asocia «Todo sobre mi madre»?",
+    "¿Qué personaje está relacionado con «Escenas románticas»?",
+    "¿Qué personaje está relacionado con «Los elefantes»?",
+    "¿A quién se asocia «El caballero de la mano en el pecho»?",
+    "¿Con qué gran nombre se relaciona «la victoria del cinco de mayo»?",
+    "¿A qué personaje se asocia «Juan de Mairena»?",
+    "¿A qué personaje se asocia «Los niños en la playa»?",
+    "¿Con qué gran nombre se relaciona «La maja desnuda»?",
+    "¿A quién se asocia «El laberinto del fauno»?",
+    "¿A qué personaje se asocia «la lucha agraria en Morelos»?",
+    "¿Con qué personaje se relaciona «El amor en los tiempos del cólera»?",
+    "¿Qué personaje está relacionado con «Odas elementales»?",
+    "¿A quién se asocia «La persistencia de la memoria»?",
+    "¿A quién se asocia «Niebla»?",
+    "¿A quién se asocia «Tesis»?",
+    "¿A quién se asocia «el Congreso de Angostura»?",
+    "¿Con qué gran nombre se relaciona «Volver»?",
+    "¿Con qué personaje se relaciona «Campos de Castilla»?",
+    "¿Con qué personaje se relaciona «Mujeres al borde de un ataque de nervios»?",
+    "¿Con qué gran nombre se relaciona «la construcción del Escorial»?",
+    "¿A quién se asocia «Danzas fantásticas»?",
+    "¿Con qué gran nombre se relaciona «Azul...»?",
+    "¿A quién se asocia «El monte de las ánimas»?",
+    "¿Con qué personaje se relaciona «los estudios para guitarra»?",
+    "¿A qué personaje se asocia «Rimas y leyendas»?",
+    "¿Con qué personaje se relaciona «Los niños comiendo melón»?",
+    "¿Con qué gran nombre se relaciona «Ficciones»?",
+    "¿Con qué gran nombre se relaciona «el ballet La Cenicienta»?",
+    "¿Qué personaje está relacionado con «Los olvidados»?",
+    "¿Con qué personaje se relaciona «Guernica»?",
+    "¿A quién se asocia «Autorretrato con collar de espinas»?",
+    "¿A quién se asocia «la defensa de la República ante Maximiliano»?",
+    "¿Qué personaje está relacionado con «La casa verde»?",
+    "¿A quién se asocia «Historia universal de la infamia»?",
+    "¿Qué personaje está relacionado con «Sinfonía sevillana»?",
+    "¿Con qué gran nombre se relaciona «la conquista de Granada»?",
+    "¿A qué personaje se asocia «Las señoritas de Aviñón»?",
+    "¿A qué personaje se asocia «Crónica de una muerte anunciada»?",
+    "¿A qué personaje se asocia «La Galatea»?",
+    "¿Qué personaje está relacionado con «Iberia»?",
+    "¿A qué personaje se asocia «El llano en llamas»?",
+    "¿A qué personaje se asocia «Concierto de Aranjuez»?",
+    "¿Qué personaje está relacionado con «La Inmaculada Concepción»?",
+    "¿Con qué gran nombre se relaciona «Novelas ejemplares»?",
+    "¿Con qué personaje se relaciona «Del sentimiento trágico de la vida»?",
+    "¿Con qué personaje se relaciona «Carmen»?",
+    "¿Con qué personaje se relaciona «Don Quijote de la Mancha»?",
+    "¿Qué personaje está relacionado con «el Cruce de los Andes»?",
+    "¿Con qué personaje se relaciona «Las hilanderas»?",
+    "¿A quién se asocia «Viridiana»?",
+    "¿Con qué gran nombre se relaciona «Cartas desde mi celda»?",
+    "¿A quién se asocia «la unión de Castilla y Aragón»?",
+    "¿Qué personaje está relacionado con «el saqueo de Roma»?",
+    "¿A qué personaje se asocia «El Aleph»?",
+    "¿Qué personaje está relacionado con «Soledades, galerías y otros poemas»?",
+    "¿A qué personaje se asocia «la independencia de Venezuela»?",
+    "¿A quién se asocia «La ciudad y los perros»?",
+    "¿Con qué gran nombre se relaciona «La masía»?",
+    "¿A qué personaje se asocia «Deprisa, deprisa»?",
+    "¿Con qué personaje se relaciona «Paseo a orillas del mar»?",
+    "¿Qué personaje está relacionado con «Cien años de soledad»?",
+    "¿Con qué personaje se relaciona «Asturias»?",
+    "¿Con qué personaje se relaciona «el lema tierra y libertad»?",
+    "¿Qué personaje está relacionado con «la financiación del viaje de Colón»?",
+    "¿A qué personaje se asocia «la liberación de Chile y Perú»?",
+    "¿A qué personaje se asocia «La rendición de Breda»?",
+    "¿Con qué personaje se relaciona «la batalla de Lepanto»?",
+    "¿Con qué personaje se relaciona «Rayuela»?",
+    "¿A quién se asocia «el Concierto andaluz»?",
+    "¿A qué personaje se asocia «Los otros»?"
+  ],
+  "optionsDictionary": [
+    "Mario Vargas Llosa",
+    "Carlos V",
+    "Joaquín Turina",
+    "Luis Buñuel",
+    "Salvador Dalí",
+    "Alejandro Amenábar",
+    "Rubén Darío",
+    "Gustavo Adolfo Bécquer",
+    "Benito Juárez",
+    "El Greco",
+    "Pablo Picasso",
+    "Jorge Luis Borges",
+    "Guillermo del Toro",
+    "Diego Velázquez",
+    "Enrique Granados",
+    "Joan Miró",
+    "Antonio Machado",
+    "Isabel la Católica",
+    "Pablo Neruda",
+    "Julio Cortázar",
+    "Simón Bolívar",
+    "Emiliano Zapata",
+    "Pedro Almodóvar",
+    "Miguel de Cervantes",
+    "Felipe II",
+    "Joaquín Sorolla",
+    "Manuel de Falla",
+    "Fernando Sor",
+    "Francisco de Goya",
+    "Isaac Albéniz",
+    "Carlos Saura",
+    "Federico García Lorca",
+    "Bartolomé Esteban Murillo",
+    "Joaquín Rodrigo",
+    "Gabriel García Márquez",
+    "Frida Kahlo",
+    "Miguel de Unamuno",
+    "Juan Rulfo",
+    "José de San Martín"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 113,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 114,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 115,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 116,
+      "answers": [
+        5
+      ]
+    }
+  ]
+}

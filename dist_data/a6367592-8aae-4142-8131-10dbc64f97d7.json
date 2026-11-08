@@ -1,0 +1,961 @@
+{
+  "theme": "Cuisines du monde",
+  "lang": "fr",
+  "questionsDictionary": [
+    "Lesquels de ces plats sont des spécialités de la cuisine gasconne ?",
+    "À quelle cuisine appartient le plat « ficelle picarde » ?",
+    "De quelle cuisine le plat « piperade » est-il une spécialité ?",
+    "À quelle cuisine appartient le plat « gaspacho » ?",
+    "Le plat « churros » est la spécialité de quelle cuisine ?",
+    "À quelle cuisine appartient le plat « tom yam » ?",
+    "Quelle cuisine prépare traditionnellement le plat « shepherd's pie » ?",
+    "De quelle cuisine le plat « magret de canard » est-il une spécialité ?",
+    "De quelle cuisine le plat « crêpes » est-il une spécialité ?",
+    "Dans quelle cuisine trouve-t-on le plat « baba au rhum » ?",
+    "À quelle cuisine appartient le plat « choucroute » ?",
+    "De quelle cuisine vient le plat « pounti » ?",
+    "De quelle cuisine le plat « truffade » est-il une spécialité ?",
+    "De quelle cuisine vient le plat « foie gras » ?",
+    "De quelle cuisine vient le plat « kimchi » ?",
+    "Quelle spécialité compte la cuisine péruvienne parmi ses plats ?",
+    "À quelle cuisine appartient le plat « kouign-amann » ?",
+    "Dans quelle cuisine trouve-t-on le plat « nouilles sautées » ?",
+    "De quelle cuisine le plat « andouillette » est-il une spécialité ?",
+    "À quelle cuisine appartient le plat « harira » ?",
+    "Le plat « bacalhau » est la spécialité de quelle cuisine ?",
+    "Dans quelle cuisine trouve-t-on le plat « francesinha » ?",
+    "Quel plat appartient à la cuisine périgourdine ?",
+    "De quelle cuisine vient le plat « currywurst » ?",
+    "De quelle cuisine le plat « hot-dog » est-il une spécialité ?",
+    "Quelle cuisine prépare traditionnellement le plat « tortilla de patatas » ?",
+    "Dans quelle cuisine trouve-t-on le plat « tiramisu » ?",
+    "Quelle cuisine prépare traditionnellement le plat « ceviche » ?",
+    "Lequel de ces plats est une spécialité de la cuisine alsacienne ?",
+    "Dans quelle cuisine trouve-t-on le plat « lomo saltado » ?",
+    "À quelle cuisine appartient le plat « œufs en meurette » ?",
+    "Quel plat de cette liste est traditionnel dans la cuisine allemande ?",
+    "De quelle cuisine le plat « moussaka » est-il une spécialité ?",
+    "De quelle cuisine vient le plat « axoa » ?",
+    "Quelle cuisine prépare traditionnellement le plat « pastel de nata » ?",
+    "Quelle cuisine prépare traditionnellement le plat « gougères » ?",
+    "Dans quelle cuisine trouve-t-on le plat « nems » ?",
+    "Quelle cuisine prépare traditionnellement le plat « anchoïade » ?",
+    "Quelle cuisine prépare traditionnellement le plat « fiadone » ?",
+    "Le plat « caramel au beurre salé » est la spécialité de quelle cuisine ?",
+    "De quelle cuisine vient le plat « bouillabaisse » ?",
+    "Quels plats de cette liste sont traditionnels dans la cuisine basque ?",
+    "Quelle cuisine prépare traditionnellement le plat « tartiflette » ?",
+    "Dans quelle cuisine trouve-t-on le plat « teurgoule » ?",
+    "Dans quelle cuisine trouve-t-on le plat « mole poblano » ?",
+    "De quelle cuisine vient le plat « naan » ?",
+    "Dans quelle cuisine trouve-t-on le plat « aligot » ?",
+    "À quelle cuisine appartient le plat « ratatouille » ?",
+    "Quelle cuisine prépare traditionnellement le plat « madeleines » ?",
+    "Le plat « tapenade » est la spécialité de quelle cuisine ?",
+    "Le plat « tarte flambée » est la spécialité de quelle cuisine ?",
+    "Dans quelle cuisine trouve-t-on le plat « diots » ?",
+    "De quelle cuisine le plat « poulet tandoori » est-il une spécialité ?",
+    "Quelle spécialité compte la cuisine japonaise parmi ses plats ?",
+    "Quels plats de cette liste sont traditionnels dans la cuisine thaïlandaise ?",
+    "Quelle cuisine prépare traditionnellement le plat « guacamole » ?",
+    "Lesquels de ces plats sont des spécialités de la cuisine libanaise ?",
+    "Dans quelle cuisine trouve-t-on le plat « kouglof » ?",
+    "À quelle cuisine appartient le plat « pommes sarladaises » ?",
+    "Quels deux plats de cette liste viennent de la cuisine mexicaine ?",
+    "Quel plat de cette liste est traditionnel dans la cuisine normande ?",
+    "De quelle cuisine vient le plat « pastilla » ?",
+    "Dans quelle cuisine trouve-t-on le plat « sushi » ?",
+    "Le plat « fish and chips » est la spécialité de quelle cuisine ?",
+    "Le plat « bulgogi » est la spécialité de quelle cuisine ?",
+    "De quelle cuisine vient le plat « paella » ?",
+    "De quelle cuisine vient le plat « takoyaki » ?",
+    "Quelle cuisine prépare traditionnellement le plat « camembert » ?",
+    "Quelle spécialité compte la cuisine américaine parmi ses plats ?",
+    "De quelle cuisine vient le plat « croustade » ?",
+    "De quelle cuisine le plat « tajine » est-il une spécialité ?",
+    "Quels deux plats de cette liste viennent de la cuisine bretonne ?",
+    "Dans quelle cuisine trouve-t-on le plat « garbure » ?",
+    "Le plat « jambon persillé » est la spécialité de quelle cuisine ?",
+    "Quel plat de cette liste est traditionnel dans la cuisine marocaine ?",
+    "Quel plat appartient à la cuisine lorraine ?",
+    "De quelle cuisine vient le plat « galette de sarrasin » ?",
+    "Le plat « houmous » est la spécialité de quelle cuisine ?",
+    "Quelle spécialité compte la cuisine italienne parmi ses plats ?",
+    "À quelle cuisine appartient le plat « forêt-noire » ?",
+    "Lequel de ces plats est une spécialité de la cuisine auvergnate ?",
+    "Le plat « canard laqué » est la spécialité de quelle cuisine ?",
+    "De quelle cuisine le plat « tripes à la mode de Caen » est-il une spécialité ?",
+    "Lequel de ces plats est une spécialité de la cuisine corse ?",
+    "De quelle cuisine le plat « bo bun » est-il une spécialité ?",
+    "Quel plat appartient à la cuisine lyonnaise ?",
+    "Quels plats appartiennent à la cuisine chinoise ?",
+    "Le plat « raclette » est la spécialité de quelle cuisine ?",
+    "Quelle cuisine prépare traditionnellement le plat « risotto » ?",
+    "Quelle cuisine prépare traditionnellement le plat « dim sum » ?",
+    "À quelle cuisine appartient le plat « tzatziki » ?",
+    "De quelle cuisine vient le plat « maroilles » ?",
+    "Quelle cuisine prépare traditionnellement le plat « taboulé » ?",
+    "Quels plats appartiennent à la cuisine coréenne ?",
+    "De quelle cuisine le plat « bretzel » est-il une spécialité ?",
+    "De quelle cuisine le plat « lasagnes » est-il une spécialité ?",
+    "Quelle cuisine prépare traditionnellement le plat « baeckeoffe » ?",
+    "Quel plat de cette liste est traditionnel dans la cuisine provençale ?",
+    "Dans quelle cuisine trouve-t-on le plat « quenelles » ?",
+    "De quelle cuisine le plat « ramen » est-il une spécialité ?",
+    "Le plat « pulenta » est la spécialité de quelle cuisine ?",
+    "À quelle cuisine appartient le plat « soupe miso » ?",
+    "Le plat « gâteau battu » est la spécialité de quelle cuisine ?",
+    "Le plat « pad thaï » est la spécialité de quelle cuisine ?",
+    "De quelle cuisine vient le plat « saucisson brioché » ?",
+    "Lequel de ces plats est une spécialité de la cuisine anglaise ?",
+    "De quelle cuisine vient le plat « brownie » ?",
+    "Quelle cuisine prépare traditionnellement le plat « pho » ?",
+    "À quelle cuisine appartient le plat « biryani » ?",
+    "Dans quelle cuisine trouve-t-on le plat « moutabal » ?",
+    "Le plat « tacos » est la spécialité de quelle cuisine ?",
+    "À quelle cuisine appartient le plat « tarte au sucre » ?",
+    "Dans quelle cuisine trouve-t-on le plat « hamburger » ?",
+    "À quelle cuisine appartient le plat « bibimbap » ?",
+    "Le plat « pizza » est la spécialité de quelle cuisine ?",
+    "Quel plat appartient à la cuisine du Nord ?",
+    "De quelle cuisine vient le plat « souvlaki » ?",
+    "De quelle cuisine le plat « potjevleesch » est-il une spécialité ?",
+    "À quelle cuisine appartient le plat « brocciu » ?"
+  ],
+  "optionsDictionary": [
+    "paella",
+    "quenelles",
+    "gaspacho",
+    "churros",
+    "currywurst",
+    "croustade",
+    "magret de canard",
+    "la cuisine alsacienne",
+    "la cuisine basque",
+    "la cuisine grecque",
+    "la cuisine lorraine",
+    "la cuisine chinoise",
+    "la cuisine picarde",
+    "la cuisine mexicaine",
+    "la cuisine auvergnate",
+    "la cuisine libanaise",
+    "la cuisine anglaise",
+    "la cuisine allemande",
+    "la cuisine du Nord",
+    "la cuisine espagnole",
+    "la cuisine péruvienne",
+    "la cuisine corse",
+    "la cuisine périgourdine",
+    "la cuisine savoyarde",
+    "la cuisine thaïlandaise",
+    "la cuisine italienne",
+    "la cuisine américaine",
+    "la cuisine bourguignonne",
+    "la cuisine gasconne",
+    "la cuisine marocaine",
+    "la cuisine bretonne",
+    "la cuisine portugaise",
+    "la cuisine provençale",
+    "la cuisine japonaise",
+    "la cuisine normande",
+    "la cuisine coréenne",
+    "tripes à la mode de Caen",
+    "lasagnes",
+    "pastilla",
+    "mole poblano",
+    "houmous",
+    "lomo saltado",
+    "la cuisine lyonnaise",
+    "la cuisine indienne",
+    "la cuisine vietnamienne",
+    "caramel au beurre salé",
+    "saucisson brioché",
+    "brocciu",
+    "pommes sarladaises",
+    "forêt-noire",
+    "tajine",
+    "pounti",
+    "tarte flambée",
+    "harira",
+    "biryani",
+    "foie gras",
+    "bretzel",
+    "diots",
+    "nouilles sautées",
+    "tapenade",
+    "bouillabaisse",
+    "piperade",
+    "axoa",
+    "taboulé",
+    "brownie",
+    "kouglof",
+    "raclette",
+    "ratatouille",
+    "ramen",
+    "kouign-amann",
+    "kimchi",
+    "jambon persillé",
+    "soupe miso",
+    "tartiflette",
+    "pad thaï",
+    "tom yam",
+    "pizza",
+    "anchoïade",
+    "hot-dog",
+    "bo bun",
+    "risotto",
+    "takoyaki",
+    "tiramisu",
+    "tacos",
+    "camembert",
+    "nems",
+    "tarte au sucre",
+    "tortilla de patatas",
+    "baeckeoffe",
+    "andouillette",
+    "francesinha",
+    "crêpes",
+    "maroilles",
+    "baba au rhum",
+    "dim sum",
+    "moussaka",
+    "shepherd's pie",
+    "choucroute",
+    "moutabal",
+    "truffade",
+    "gougères",
+    "bulgogi",
+    "fish and chips",
+    "pastel de nata",
+    "sushi",
+    "galette de sarrasin",
+    "canard laqué",
+    "bacalhau",
+    "pho",
+    "naan"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5,
+        6
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        56
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        61,
+        62
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        68
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        74,
+        75
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        63,
+        40
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        83,
+        39
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        84
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        64
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        69,
+        91
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        93
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        76
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        99
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        106,
+        94
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        70,
+        101
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        67
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        96
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 113,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 114,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 115,
+      "answers": [
+        92
+      ]
+    },
+    {
+      "question": 116,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 117,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 118,
+      "answers": [
+        21
+      ]
+    }
+  ]
+}

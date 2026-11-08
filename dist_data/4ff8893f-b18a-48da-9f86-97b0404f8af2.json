@@ -1,0 +1,892 @@
+{
+  "theme": "Fêtes et traditions",
+  "lang": "fr",
+  "questionsDictionary": [
+    "Quel élément est traditionnellement associé à Diwali ?",
+    "Quelle fête met en avant les communions solennelles ?",
+    "Qu’est-ce qui se fait pendant la Fête des Lumières ?",
+    "Quelle fête ne va pas sans le vin primeur ?",
+    "Quelle fête reconnaît-on à les déguisements ?",
+    "les échanges de douceurs : pour quelle fête est-ce typique ?",
+    "Quelle fête met en avant la bûche au chocolat ?",
+    "le compte à rebours : pour quelle fête est-ce typique ?",
+    "Quelle fête est connue pour les fanfares bavaroises ?",
+    "Quelle fête est connue pour le quinze août ?",
+    "Quelle fête est connue pour les confettis ?",
+    "Choisissez deux coutumes que l’on retrouve pendant le premier Mai.",
+    "Quelle fête est connue pour la nuit du vingt et un juin ?",
+    "le réveillon en famille : pour quelle fête est-ce typique ?",
+    "Quelle fête célèbre-t-on avec les pâtisseries au miel ?",
+    "Quelle fête met en avant les habits neufs ?",
+    "Quelle fête reconnaît-on à les cartes anonymes ?",
+    "Quelle fête ne va pas sans les drapeaux aux fenêtres ?",
+    "Quelle fête célèbre-t-on avec les enveloppes rouges ?",
+    "Quelle fête ne va pas sans la tarte à la citrouille ?",
+    "le recueillement familial : pour quelle fête est-ce typique ?",
+    "Quelle fête est connue pour les maisons décorées de fantômes ?",
+    "Qu’est-ce qui se fait pendant Pâques ?",
+    "Quelle fête est connue pour les dîners en amoureux ?",
+    "Quelle fête met en avant la fève cachée ?",
+    "Quelle fête reconnaît-on à les chopes de bière ?",
+    "Quelle fête reconnaît-on à la cravate offerte ?",
+    "Quelle fête reconnaît-on à les concerts gratuits ?",
+    "Quelle fête est connue pour les chandelles allumées ?",
+    "Quels deux éléments accompagnent le Carnaval ?",
+    "Quelle fête met en avant les vœux échangés à minuit ?",
+    "Quelle fête reconnaît-on à le jeudi férié ?",
+    "Quelle fête ne va pas sans le chandelier à neuf branches ?",
+    "Quelle fête ne va pas sans les chars fleuris ?",
+    "Choisissez deux coutumes que l’on retrouve pendant l’Oktoberfest.",
+    "Quelle tradition accompagne l’Armistice ?",
+    "le huit décembre : pour quelle fête est-ce typique ?",
+    "Quelle fête célèbre-t-on avec la galette des rois ?",
+    "Quelle fête reconnaît-on à le défilé militaire ?",
+    "Quelle fête met en avant les rangolis de bienvenue ?",
+    "Quelle fête célèbre-t-on avec les processions de la Vierge ?",
+    "Quels deux éléments accompagnent l’Épiphanie ?",
+    "le solstice d’été : pour quelle fête est-ce typique ?",
+    "Quelle fête met en avant le bleuet à la boutonnière ?",
+    "Quelle coutume marque la Fête des Pères ?",
+    "Quelle fête reconnaît-on à les guirlandes lumineuses ?",
+    "Quelle fête célèbre-t-on avec la colombe descendue du ciel ?",
+    "Quelles deux traditions marquent l’Ascension ?",
+    "Qu’est-ce qui caractérise la fête nationale ?",
+    "Quelle tradition accompagne l’Assomption ?",
+    "le dernier dimanche de mai : pour quelle fête est-ce typique ?",
+    "Quelle fête célèbre-t-on avec les cotillons ?",
+    "Quelle coutume marque le Beaujolais nouveau ?",
+    "Quelle fête célèbre-t-on avec les feux de joie ?",
+    "Quelle coutume retrouve-t-on pendant le Nouvel An chinois ?",
+    "l’entrée de Jésus à Jérusalem : pour quelle fête est-ce typique ?",
+    "Quelle fête met en avant les branches de buis ?",
+    "Quelle coutume retrouve-t-on pendant la Saint-Jean ?",
+    "Quelle fête ne va pas sans les roses rouges ?",
+    "Quelle coutume retrouve-t-on pendant Thanksgiving ?",
+    "Quelle fête célèbre-t-on avec les lampes à huile ?",
+    "Quelle fête ne va pas sans les ponts de mai ?",
+    "Quelle fête reconnaît-on à les cérémonies du souvenir ?",
+    "Quelle fête met en avant les danses autour du bûcher ?",
+    "Quelle fête reconnaît-on à la dinde rôtie ?",
+    "Qu’est-ce qui caractérise la Toussaint ?",
+    "Quelle fête est connue pour la capitulation de l’Allemagne ?",
+    "Deux de ces éléments marquent la Fête de la Musique : lesquels ?",
+    "Quelle fête met en avant les poèmes récités à l’école ?",
+    "Quelle fête met en avant les fenêtres illuminées ?",
+    "Quelle fête ne va pas sans les groupes amateurs dans la rue ?",
+    "Quelle fête célèbre-t-on avec les cadeaux faits main ?",
+    "Quelle coutume marque Halloween ?",
+    "Quelles deux traditions marquent la Saint-Valentin ?",
+    "Quelle fête ne va pas sans les bretzels ?",
+    "la sonnerie aux morts : pour quelle fête est-ce typique ?",
+    "Quelle fête ne va pas sans les crêpes ?",
+    "Quelle coutume retrouve-t-on pendant Noël ?",
+    "Quelle fête ne va pas sans les outils en cadeau ?",
+    "Quelle fête ne va pas sans les manifestations syndicales ?",
+    "Quelle fête reconnaît-on à les œufs en chocolat ?",
+    "Quelle tradition accompagne la Chandeleur ?",
+    "Quelle fête ne va pas sans les bonbons réclamés de porte en porte ?",
+    "Quelle fête met en avant les cimetières fleuris ?",
+    "Quelle fête est connue pour le troisième dimanche de juin ?",
+    "Quelle fête célèbre-t-on avec les chrysanthèmes ?",
+    "Quelle fête reconnaît-on à la toupie ?",
+    "Quelle fête est connue pour les huit soirs de lumière ?",
+    "Quelle fête est connue pour la chasse aux œufs dans le jardin ?",
+    "Quelle fête célèbre-t-on avec le sapin décoré ?",
+    "Deux de ces éléments marquent la Saint-Patrick : lesquels ?",
+    "Quelle fête reconnaît-on à les bouteilles dégustées au bistrot ?",
+    "Quelle fête met en avant les défilés en vert ?",
+    "Quelle fête ne va pas sans le feu d’artifice ?",
+    "Quelle fête célèbre-t-on avec les projections lumineuses sur les façades ?",
+    "Quelle fête célèbre-t-on avec les trèfles ?",
+    "Quelle fête est connue pour les langues de feu ?",
+    "Quelle fête est connue pour la fête du Travail ?",
+    "Quelle fête est connue pour le bal des pompiers ?",
+    "Quelle fête met en avant les danses du lion ?",
+    "la bière colorée en vert : pour quelle fête est-ce typique ?",
+    "Quelle fête reconnaît-on à les citrouilles sculptées ?",
+    "Quelle fête est connue pour le repas d’action de grâces ?",
+    "Quelle fête ne va pas sans les cloches revenues de Rome ?",
+    "les lanternes suspendues : pour quelle fête est-ce typique ?",
+    "Quelle fête célèbre-t-on avec le onze novembre ?",
+    "la couronne en papier : pour quelle fête est-ce typique ?",
+    "le troisième jeudi de novembre : pour quelle fête est-ce typique ?",
+    "la prière du matin à la mosquée : pour quelle fête est-ce typique ?",
+    "Quelle fête reconnaît-on à le brin de muguet ?"
+  ],
+  "optionsDictionary": [
+    "les branches de buis",
+    "la capitulation de l’Allemagne",
+    "le brin de muguet",
+    "la galette des rois",
+    "la chasse aux œufs dans le jardin",
+    "les lampes à huile",
+    "la Chandeleur",
+    "Thanksgiving",
+    "le huit mai",
+    "Hanouka",
+    "l’Épiphanie",
+    "le Carnaval",
+    "la Pentecôte",
+    "la bière colorée en vert",
+    "le défilé militaire",
+    "les vœux échangés à minuit",
+    "la bûche au chocolat",
+    "les projections lumineuses sur les façades",
+    "la Fête de la Musique",
+    "Pâques",
+    "la fête nationale",
+    "le Beaujolais nouveau",
+    "la Fête des Lumières",
+    "le dimanche des Rameaux",
+    "la Fête des Pères",
+    "l’Armistice",
+    "Halloween",
+    "Diwali",
+    "l’Ascension",
+    "l’Oktoberfest",
+    "Noël",
+    "le Nouvel An chinois",
+    "l’Assomption",
+    "le Nouvel An",
+    "le premier Mai",
+    "la Toussaint",
+    "la Fête des Mères",
+    "la Saint-Valentin",
+    "la Saint-Patrick",
+    "la Saint-Jean",
+    "le réveillon en famille",
+    "les guirlandes lumineuses",
+    "le solstice d’été",
+    "la cravate offerte",
+    "la fête du Travail",
+    "l’Aïd el-Fitr",
+    "les cadeaux faits main",
+    "le recueillement familial",
+    "les manifestations syndicales",
+    "les communions solennelles",
+    "les habits neufs",
+    "les cloches revenues de Rome",
+    "la prière du matin à la mosquée",
+    "le troisième jeudi de novembre",
+    "le feu d’artifice",
+    "les confettis",
+    "les déguisements",
+    "les échanges de douceurs",
+    "les drapeaux aux fenêtres",
+    "les cartes anonymes",
+    "les fenêtres illuminées",
+    "les bretzels",
+    "les chopes de bière",
+    "les lanternes suspendues",
+    "l’entrée de Jésus à Jérusalem",
+    "les ponts de mai",
+    "la sonnerie aux morts",
+    "le troisième dimanche de juin",
+    "les feux de joie",
+    "les poèmes récités à l’école",
+    "la fève cachée",
+    "la nuit du vingt et un juin",
+    "les cotillons",
+    "les outils en cadeau",
+    "le sapin décoré",
+    "les groupes amateurs dans la rue",
+    "le huit décembre",
+    "les danses du lion",
+    "le jeudi férié",
+    "le quinze août",
+    "le vin primeur",
+    "les bouteilles dégustées au bistrot",
+    "les processions de la Vierge",
+    "les dîners en amoureux",
+    "les enveloppes rouges",
+    "les crêpes",
+    "les maisons décorées de fantômes",
+    "les roses rouges",
+    "la colombe descendue du ciel",
+    "les concerts gratuits",
+    "les défilés en vert",
+    "la tarte à la citrouille",
+    "les danses autour du bûcher",
+    "les cimetières fleuris",
+    "le compte à rebours",
+    "les bonbons réclamés de porte en porte",
+    "le bleuet à la boutonnière",
+    "le chandelier à neuf branches",
+    "les fanfares bavaroises",
+    "les cérémonies du souvenir",
+    "les rangolis de bienvenue",
+    "les chandelles allumées",
+    "le dernier dimanche de mai",
+    "les trèfles"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        2,
+        44
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        55,
+        56
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        61,
+        62
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        66
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        70,
+        3
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        73
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        78,
+        65
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        54
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        82
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        80
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        84
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        68
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        91
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        93
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        89,
+        71
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        95
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        87,
+        59
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        101
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        13,
+        103
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        34
+      ]
+    }
+  ]
+}

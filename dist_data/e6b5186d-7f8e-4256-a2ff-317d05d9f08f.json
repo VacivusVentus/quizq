@@ -1,0 +1,918 @@
+{
+  "theme": "Mythologie et légendes",
+  "lang": "fr",
+  "questionsDictionary": [
+    "À quelle figure mythologique appartient « l'île d'Aiaié » ?",
+    "À quoi Ulysse est-il associé parmi ces choix ?",
+    "« les cris annonçant la mort des sires » appartient à quelle divinité ou quel héros ?",
+    "À quelle figure mythologique appartient « le Minotaure » ?",
+    "« le labyrinthe de Crète » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Quel élément est associé à Orphée ?",
+    "« les mystères d'Éleusis » appartient à quelle divinité ou quel héros ?",
+    "De quelle figure mythologique « le retour du printemps » est-elle un attribut ?",
+    "De quelle figure mythologique « le monstre marin Cétus » est-elle un attribut ?",
+    "Que sait-on sur Hadès parmi ces propositions ?",
+    "De quelle figure mythologique « le plus grand guerrier grec » est-elle un attribut ?",
+    "« l'oracle de Delphes » appartient à quelle divinité ou quel héros ?",
+    "Quelle divinité ou quel héros possède « la jarre des maux » ?",
+    "« les marins changés en pourceaux » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Quelle divinité ou quel héros possède « le talon vulnérable » ?",
+    "Qui, dans la mythologie, est lié à « les colonnes du ciel » ?",
+    "Qui, dans la mythologie, est lié à « le châtiment du foie rongé » ?",
+    "À quoi Pandore est-il associé parmi ces choix ?",
+    "« l'écume de la mer » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Quelle divinité ou quel héros possède « le foyer » ?",
+    "Qui, dans la mythologie, est lié à « la colombe » ?",
+    "De quelle figure mythologique « le laurier » est-elle un attribut ?",
+    "Qui, dans la mythologie, est lié à « la lune » ?",
+    "Qui, dans la mythologie, est lié à « le caducée » ?",
+    "Qui, dans la mythologie, est lié à « le théâtre » ?",
+    "« la magicienne Médée » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "« les chevaux » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Quels domaines, symboles ou exploits appartiennent à Persée ?",
+    "À quelle figure mythologique appartient « la foudre » ?",
+    "« la première femme façonnée » appartient à quelle divinité ou quel héros ?",
+    "« le vol trop près du soleil » appartient à quelle divinité ou quel héros ?",
+    "À quoi Achille est-il associé parmi ces choix ?",
+    "Laquelle de ces caractéristiques se rattache à Poséidon ?",
+    "À quelle figure mythologique appartient « le feu dérobé aux dieux » ?",
+    "Quels éléments définissent Mélusine ?",
+    "De quelle figure mythologique « le chien Cerbère » est-elle un attribut ?",
+    "« la biche » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Quel élément est associé à Héphaïstos ?",
+    "Qui, dans la mythologie, est lié à « l'aigle » ?",
+    "« la création des hommes » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Quels domaines, symboles ou exploits appartiennent à Héraclès ?",
+    "À quelle figure mythologique appartient « le vin » ?",
+    "Lesquelles de ces caractéristiques se rattachent à Artémis ?",
+    "Que sait-on sur Héra parmi ces propositions ?",
+    "De quelle figure mythologique « le feu domestique » est-elle un attribut ?",
+    "Quelle divinité ou quel héros possède « les ailes fixées avec de la cire » ?",
+    "Lesquelles de ces caractéristiques se rattachent à Déméter ?",
+    "« le long retour vers Ithaque » appartient à quelle divinité ou quel héros ?",
+    "Quelle divinité ou quel héros possède « Méduse » ?",
+    "À quelle figure mythologique appartient « la mer » ?",
+    "Quelle divinité ou quel héros possède « le mariage » ?",
+    "À quelle figure mythologique appartient « la voûte céleste » ?",
+    "Lesquels de ces éléments sont associés à Perséphone ?",
+    "« la reine des dieux » appartient à quelle divinité ou quel héros ?",
+    "« la première offrande des banquets » appartient à quelle divinité ou quel héros ?",
+    "« le ciel » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "De quelle figure mythologique « le filet d'or » est-elle un attribut ?",
+    "Qui, dans la mythologie, est lié à « le lion de Némée » ?",
+    "À quelle figure mythologique appartient « la chasse » ?",
+    "Lesquels de ces éléments sont associés à Atlas ?",
+    "De quelle figure mythologique « la fondation de Lusignan » est-elle un attribut ?",
+    "Qui, dans la mythologie, est lié à « Eurydice » ?",
+    "Quel élément est associé à Apollon ?",
+    "« la procession de la fête » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "« le messager des dieux » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Que sait-on sur Prométhée parmi ces propositions ?",
+    "Quelle divinité ou quel héros possède « le cheval de Troie » ?",
+    "Quelle divinité ou quel héros possède « les moissons » ?",
+    "À quelle figure mythologique appartient « la Toison d'or » ?",
+    "Quels éléments définissent Icare ?",
+    "À quelle figure mythologique appartient « la sagesse » ?",
+    "De quelle figure mythologique « la curiosité » est-elle un attribut ?",
+    "À quelle figure mythologique appartient « le dragon de Tarascon » ?",
+    "Laquelle de ces caractéristiques se rattache à Circé ?",
+    "Laquelle de ces caractéristiques se rattache à Zeus ?",
+    "Quelle divinité ou quel héros possède « les Enfers » ?",
+    "Quelle divinité ou quel héros possède « un appétit insatiable » ?",
+    "Laquelle de ces caractéristiques se rattache à Hestia ?",
+    "« la colère devant Troie » appartient à quelle divinité ou quel héros ?",
+    "« le chant qui charmait les bêtes » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Qui, dans la mythologie, est lié à « la gueule enflammée » ?",
+    "Qui, dans la mythologie, est lié à « les herbes enchantées » ?",
+    "Qui, dans la mythologie, est lié à « le fil d'Ariane » ?",
+    "« le titre de reine des morts » appartient à quelle divinité ou quel héros ?",
+    "Quelle divinité ou quel héros possède « la grenade » ?",
+    "« la vigne » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Quelle divinité ou quel héros possède « la guerre » ?",
+    "De quelle figure mythologique « le blé mûr » est-elle un attribut ?",
+    "« la métamorphose en montagne » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "À quelle figure mythologique appartient « l'amour » ?",
+    "« l'olivier » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "Quel élément est associé à Gargantua ?",
+    "Qui, dans la mythologie, est lié à « la chouette » ?",
+    "« le vautour » appartient à quelle divinité ou quel héros ?",
+    "De quelle figure mythologique « le Cyclope Polyphème » est-elle un attribut ?",
+    "Quelle divinité ou quel héros possède « la forge » ?",
+    "Qui, dans la mythologie, est lié à « le trident » ?",
+    "À quelle figure mythologique appartient « les douze travaux » ?",
+    "De quelle figure mythologique « le paon » est-elle un attribut ?",
+    "Qui, dans la mythologie, est lié à « le navire Argo » ?",
+    "« le casque d'invisibilité » appartient à quelle divinité ou quel héros ?",
+    "De quelle figure mythologique « la chute dans la mer Égée » est-elle un attribut ?",
+    "« les armes des dieux » appartient à quelle divinité ou quel héros ?",
+    "De quelle figure mythologique « la brutalité des batailles » est-elle un attribut ?",
+    "Quelle divinité ou quel héros possède « le soleil » ?",
+    "« la force surhumaine » — à quel personnage de la mythologie cela renvoie-t-il ?",
+    "À quelle figure mythologique appartient « la lyre » ?",
+    "« le sauvetage d'Andromède » appartient à quelle divinité ou quel héros ?",
+    "Quelle divinité ou quel héros possède « la queue de serpent » ?",
+    "À quelle figure mythologique appartient « les sandales ailées » ?",
+    "« les montagnes portées dans sa hotte » appartient à quelle divinité ou quel héros ?",
+    "De quelle figure mythologique « sa jument qui noie une armée » est-elle un attribut ?",
+    "Que sait-on sur Jason parmi ces propositions ?"
+  ],
+  "optionsDictionary": [
+    "Atlas",
+    "Poséidon",
+    "Ulysse",
+    "Hermès",
+    "Perséphone",
+    "Circé",
+    "le vin",
+    "la magicienne Médée",
+    "le blé mûr",
+    "la force surhumaine",
+    "Méduse",
+    "le cheval de Troie",
+    "Héphaïstos",
+    "Hestia",
+    "Pandore",
+    "Artémis",
+    "Mélusine",
+    "Hadès",
+    "Apollon",
+    "Thésée",
+    "Orphée",
+    "Persée",
+    "Aphrodite",
+    "les Enfers",
+    "la création des hommes",
+    "le mariage",
+    "la curiosité",
+    "la mer",
+    "la grenade",
+    "Eurydice",
+    "Achille",
+    "Héra",
+    "Déméter",
+    "Dionysos",
+    "Gargantua",
+    "Arès",
+    "Jason",
+    "le labyrinthe de Crète",
+    "les douze travaux",
+    "le châtiment du foie rongé",
+    "le laurier",
+    "la première femme façonnée",
+    "le chien Cerbère",
+    "Prométhée",
+    "La Tarasque",
+    "Héraclès",
+    "Zeus",
+    "Icare",
+    "la colère devant Troie",
+    "le sauvetage d'Andromède",
+    "la foudre",
+    "Athéna",
+    "la voûte céleste",
+    "un appétit insatiable",
+    "la sagesse",
+    "le monstre marin Cétus",
+    "l'aigle",
+    "la lyre",
+    "le vautour",
+    "le fil d'Ariane",
+    "les marins changés en pourceaux",
+    "le feu dérobé aux dieux",
+    "les sandales ailées",
+    "le trident",
+    "la brutalité des batailles",
+    "le chant qui charmait les bêtes",
+    "l'olivier",
+    "le ciel",
+    "la fondation de Lusignan",
+    "les cris annonçant la mort des sires",
+    "la jarre des maux",
+    "la Toison d'or",
+    "le dragon de Tarascon",
+    "les montagnes portées dans sa hotte",
+    "le talon vulnérable",
+    "les armes des dieux",
+    "le filet d'or",
+    "la queue de serpent",
+    "le lion de Némée",
+    "la chouette",
+    "les mystères d'Éleusis",
+    "le Cyclope Polyphème",
+    "la procession de la fête",
+    "la lune",
+    "la chasse",
+    "la chute dans la mer Égée",
+    "l'écume de la mer",
+    "la gueule enflammée",
+    "le casque d'invisibilité",
+    "les moissons",
+    "le caducée",
+    "le navire Argo",
+    "le titre de reine des morts",
+    "le retour du printemps",
+    "le plus grand guerrier grec",
+    "la reine des dieux",
+    "la biche",
+    "le paon",
+    "la métamorphose en montagne",
+    "le vol trop près du soleil",
+    "le soleil",
+    "la forge",
+    "les ailes fixées avec de la cire",
+    "l'île d'Aiaié",
+    "la vigne",
+    "le Minotaure",
+    "la guerre",
+    "le feu domestique",
+    "sa jument qui noie une armée"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        49,
+        55
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        63
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        68,
+        69
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        75
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        78,
+        9
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        83,
+        84
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        8,
+        89
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        92,
+        93
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        98,
+        52
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        100
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        85,
+        102
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        103
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        56
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        107
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        108
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        7
+      ]
+    }
+  ]
+}

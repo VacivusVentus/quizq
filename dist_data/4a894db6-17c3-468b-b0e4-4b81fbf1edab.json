@@ -1,0 +1,906 @@
+{
+  "theme": "Cuentos y leyendas",
+  "lang": "es",
+  "questionsDictionary": [
+    "¿A qué cuento pertenece el lobo disfrazado de abuela?",
+    "¿En qué cuento aparece el obsequio del molinero?",
+    "¿Qué dos elementos pertenecen al cuento «La Bella y la Bestia»?",
+    "¿Qué cuento incluye los niños que juegan?",
+    "¿A qué cuento pertenece el marqués de Carabás?",
+    "¿A qué cuento pertenece los zapatos terminados?",
+    "¿De qué cuento sale los siete enanitos?",
+    "¿Qué cuento incluye las ratas de la ciudad?",
+    "¿En qué cuento se habla de el castillo abandonado?",
+    "¿En qué cuento encontramos la advertencia de la madre?",
+    "¿En qué cuento se habla de Gepeto?",
+    "¿En qué cuento encontramos la jaula del niño?",
+    "¿En qué cuento se habla de el premio del rey?",
+    "¿En qué cuento aparece el cinturón de los siete de un golpe?",
+    "¿Qué encontramos en el cuento «El Ratoncito Pérez»?",
+    "¿Qué cuento incluye la torre sin puerta?",
+    "¿Qué elemento pertenece al cuento «La Dama de Blanco»?",
+    "¿A qué cuento pertenece la moneda encontrada?",
+    "¿De qué cuento sale el huso?",
+    "¿Qué cuento incluye el castillo dormido?",
+    "¿Qué cuento incluye los espíritus?",
+    "¿A qué cuento pertenece la madre que sale al prado?",
+    "¿En qué cuento encontramos el ogro de la casa?",
+    "¿En qué cuento se habla de los niños desaparecidos?",
+    "¿A qué cuento pertenece la pierna de menos?",
+    "¿Qué cuento incluye Tizona?",
+    "¿En qué cuento se habla de los cien años de sueño?",
+    "¿Qué encontramos en el cuento «Caperucita Roja»?",
+    "¿Qué encontramos en el cuento «La leyenda de la flor de Nochebuena»?",
+    "¿En qué cuento aparece la casa de paja?",
+    "¿A qué cuento pertenece el castillo de la Bestia?",
+    "¿Qué personaje u objeto aparece en «La Bella Durmiente»?",
+    "¿Qué cuento incluye el lago de Guatavita?",
+    "¿En qué cuento encontramos el molino del padre?",
+    "¿Qué cuento incluye el espejo mágico?",
+    "¿Qué cuento incluye el hada madrina?",
+    "¿En qué cuento se habla de la lechuga del huerto?",
+    "¿En qué cuento aparece las migas de pan?",
+    "¿En qué cuento se habla de los exploradores?",
+    "¿En qué cuento aparece la cesta de la abuela?",
+    "¿De qué cuento sale los cuatro animales cantores?",
+    "¿A qué cuento pertenece el juramento incumplido?",
+    "¿De qué cuento sale la nariz que crece?",
+    "¿En qué cuento encontramos el unicornio capturado?",
+    "¿Qué elementos encontramos en el cuento «El Flautista de Hamelín»?",
+    "¿A qué cuento pertenece la casa de ladrillo?",
+    "¿En qué cuento aparece la escoba?",
+    "¿A qué cuento pertenece la princesa rescatada?",
+    "¿De qué cuento sale el jardín amurallado?",
+    "¿Qué cuento incluye el hada azul?",
+    "¿En qué cuento encontramos la lanza del caballero?",
+    "¿Qué elemento forma parte del cuento «Hansel y Gretel»?",
+    "¿En qué cuento aparece el río?",
+    "¿Qué elementos encontramos en el cuento «Los tres cerditos»?",
+    "¿Qué elemento pertenece al cuento «El Soldadito de Plomo»?",
+    "¿En qué cuento aparece la bestia escamada?",
+    "¿Qué detalles forman parte del cuento «El Patito Feo»?",
+    "¿A qué cuento pertenece el gigante vencido?",
+    "¿En qué cuento aparece Isabel y Diego?",
+    "¿Qué cuento incluye la casa de los ladrones?",
+    "¿Qué elemento forma parte del cuento «El Dorado»?",
+    "¿Qué cuento incluye el vestido blanco?",
+    "¿Qué elemento forma parte del cuento «Los duendes y el zapatero»?",
+    "¿En qué cuento encontramos el príncipe transformado?",
+    "¿De qué cuento sale el cisne blanco?",
+    "¿En qué cuento se habla de la flor roja de Navidad?",
+    "¿En qué cuento encontramos la voz perdida?",
+    "¿Qué elemento pertenece al cuento «San Jorge y el dragón»?",
+    "¿En qué cuento aparece la cola de pez?",
+    "¿De qué cuento sale el zapato de cristal?",
+    "¿En qué cuento se habla de el gallo en el tejado?",
+    "¿En qué cuento encontramos el reloj donde se esconde el último?",
+    "¿En qué cuento se habla de la conquista de Valencia?",
+    "¿Qué cuento incluye el corral?",
+    "¿En qué cuento encontramos las momias de la catedral?",
+    "¿De qué cuento sale la aparición nocturna?",
+    "¿En qué cuento aparece los ayudantes nocturnos?",
+    "¿En qué cuento aparece la rosa del jardín?",
+    "¿De qué cuento sale la niña pobre?",
+    "¿De qué cuento sale la melodía que atrae a los niños?",
+    "¿De qué cuento sale la trenza larga?",
+    "¿Qué elemento pertenece al cuento «Los amantes de Teruel»?",
+    "¿Qué personaje u objeto aparece en «El Gato con Botas»?",
+    "¿En qué cuento se habla de el roedor que recoge dientes?",
+    "¿En qué cuento encontramos el cuero fino?",
+    "¿A qué cuento pertenece el horno de la bruja?",
+    "¿En qué cuento aparece la casa donde se esconden los cabritos?",
+    "¿En qué cuento encontramos el pez que lo traga?",
+    "¿Qué dos elementos pertenecen al cuento «Los músicos de Bremen»?",
+    "¿De qué cuento sale el diente caído?",
+    "¿A qué cuento pertenece el príncipe?",
+    "¿Qué dos detalles salen del cuento «El Sastrecillo Valiente»?",
+    "¿De qué cuento sale la noche en la casa encantada?",
+    "¿De qué cuento sale Babieca?",
+    "¿Qué elemento forma parte del cuento «Juan sin Miedo»?",
+    "¿A qué cuento pertenece los hijos perdidos?",
+    "¿En qué cuento encontramos el ratoncito que la pretende?",
+    "¿Qué encontramos en el cuento «El gigante egoísta»?",
+    "¿En qué cuento encontramos la chimenea con la olla?",
+    "¿De qué cuento sale la ciudad de oro?",
+    "¿En qué cuento aparece la bailarina de papel?",
+    "¿Qué personaje u objeto aparece en «Blancanieves»?",
+    "¿A qué cuento pertenece las botas de siete leguas?",
+    "¿En qué cuento se habla de la primavera que no vuelve?",
+    "¿Qué cuento incluye las hierbas del camino?",
+    "¿En qué cuento se habla de la manzana envenenada?",
+    "¿En qué cuento encontramos el llanto en la noche?",
+    "¿En qué cuento se habla de la calabaza-carroza?",
+    "¿Qué dos detalles salen del cuento «Pinocho»?",
+    "¿Qué cuento incluye la moneda bajo la almohada?",
+    "¿En qué cuento se habla de el invierno solitario?",
+    "¿En qué cuento aparece la casa de chocolate?",
+    "¿Qué detalles forman parte del cuento «La Ratita Presumida»?"
+  ],
+  "optionsDictionary": [
+    "El Flautista de Hamelín",
+    "El Cid",
+    "Rapunzel",
+    "El Gato con Botas",
+    "Los amantes de Teruel",
+    "Caperucita Roja",
+    "La leyenda de la flor de Nochebuena",
+    "La Llorona",
+    "Los siete cabritillos",
+    "La Sirenita",
+    "Juan sin Miedo",
+    "La Ratita Presumida",
+    "el marqués de Carabás",
+    "el cisne blanco",
+    "el pez que lo traga",
+    "la lechuga del huerto",
+    "la moneda encontrada",
+    "el hada azul",
+    "la rosa del jardín",
+    "el castillo de la Bestia",
+    "El Dorado",
+    "El Ratoncito Pérez",
+    "Los músicos de Bremen",
+    "El Patito Feo",
+    "El gigante egoísta",
+    "Cenicienta",
+    "La Bella Durmiente",
+    "Pinocho",
+    "Los duendes y el zapatero",
+    "Pulgarcito",
+    "Blancanieves",
+    "El Sastrecillo Valiente",
+    "Hansel y Gretel",
+    "La Dama de Blanco",
+    "La Bella y la Bestia",
+    "Los tres cerditos",
+    "San Jorge y el dragón",
+    "el príncipe transformado",
+    "la casa de ladrillo",
+    "Isabel y Diego",
+    "el río",
+    "el castillo abandonado",
+    "el vestido blanco",
+    "la moneda bajo la almohada",
+    "la chimenea con la olla",
+    "el corral",
+    "la aparición nocturna",
+    "El Soldadito de Plomo",
+    "la voz perdida",
+    "los cuatro animales cantores",
+    "la lanza del caballero",
+    "los cien años de sueño",
+    "la cesta de la abuela",
+    "el molino del padre",
+    "Babieca",
+    "la ciudad de oro",
+    "el roedor que recoge dientes",
+    "la niña pobre",
+    "la manzana envenenada",
+    "los espíritus",
+    "los niños desaparecidos",
+    "la trenza larga",
+    "el huso",
+    "los ayudantes nocturnos",
+    "el gallo en el tejado",
+    "las ratas de la ciudad",
+    "la casa de los ladrones",
+    "Tizona",
+    "el horno de la bruja",
+    "el ogro de la casa",
+    "la advertencia de la madre",
+    "la casa de paja",
+    "las botas de siete leguas",
+    "el lago de Guatavita",
+    "los niños que juegan",
+    "la flor roja de Navidad",
+    "la conquista de Valencia",
+    "la primavera que no vuelve",
+    "la calabaza-carroza",
+    "la bestia escamada",
+    "el obsequio del molinero",
+    "la torre sin puerta",
+    "el diente caído",
+    "el ratoncito que la pretende",
+    "el espejo mágico",
+    "el llanto en la noche",
+    "el castillo dormido",
+    "la pierna de menos",
+    "Gepeto",
+    "el unicornio capturado",
+    "el cinturón de los siete de un golpe",
+    "el reloj donde se esconde el último",
+    "la nariz que crece",
+    "los siete enanitos",
+    "el cuero fino",
+    "las migas de pan",
+    "la escoba"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        18,
+        19
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        57
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        62
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        60,
+        65
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        68
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        44,
+        71
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        45,
+        13
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        55
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        63
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        50
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        80
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        49,
+        64
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        89,
+        90
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        59
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        74
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        47
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        93
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        88,
+        17
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        32
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        83,
+        96
+      ]
+    }
+  ]
+}

@@ -1,0 +1,915 @@
+{
+  "theme": "Villes et monuments",
+  "lang": "fr",
+  "questionsDictionary": [
+    "Quelle ville abrite le château comtal ?",
+    "Lequel de ces monuments se trouve à Limoges ?",
+    "Dans quelle ville se trouve la galerie des Glaces ?",
+    "Quel monument se trouve à Paris ?",
+    "Dans quelle ville se trouve l’abbatiale Saint-Ouen ?",
+    "Quelle ville abrite la Petite France ?",
+    "À quelle ville appartient le boulevard de la Croisette ?",
+    "Quel monument peut-on visiter à Nice ?",
+    "Dans quelle ville se trouve le palais des Papes ?",
+    "Dans quelle ville se trouve la promenade des Anglais ?",
+    "Quelle ville abrite le musée national Adrien Dubouché ?",
+    "Dans quelle ville faut-il aller pour visiter le palais de l'Isle ?",
+    "Quelle ville abrite la maison des Têtes ?",
+    "À quelle ville appartient la basilique du Sacré-Cœur ?",
+    "Dans quelle ville faut-il aller pour visiter le jardin de l'Évêché ?",
+    "Dans quelle ville se trouve le parc de la Tête d'Or ?",
+    "Dans quelle ville peut-on voir la cathédrale Sainte-Croix ?",
+    "Dans quelle ville faut-il aller pour visiter la basilique Saint-Nazaire ?",
+    "Dans quelle ville faut-il aller pour visiter la villa Belza ?",
+    "À quelle ville appartient le palais des ducs de Bourgogne ?",
+    "Dans quelle ville peut-on voir le pont Saint-Bénézet ?",
+    "Dans quelle ville peut-on voir l’église Saint-Trophime ?",
+    "Dans quelle ville peut-on voir le grand Trianon ?",
+    "Dans quelle ville peut-on voir le château des ducs de Bretagne ?",
+    "Dans quelle ville faut-il aller pour visiter les îles de Lérins ?",
+    "Dans quelle ville se trouve Océanopolis ?",
+    "Quelle ville abrite le capitole ?",
+    "Dans quelle ville faut-il aller pour visiter la place Kléber ?",
+    "Dans quelle ville peut-on voir le musée du Louvre ?",
+    "Dans quelle ville se trouve le fort de la Bastille ?",
+    "Dans quelle ville se trouve le palais des Beaux-Arts ?",
+    "À quelle ville appartient la place de la Comédie ?",
+    "À quelle ville appartient le musée Unterlinden ?",
+    "Dans quelle ville se trouve la basilique Saint-Martin ?",
+    "Dans quelle ville faut-il aller pour visiter le cours Mirabeau ?",
+    "Quel monument peut-on visiter à Brest ?",
+    "À quelle ville appartient le palais du Tau ?",
+    "Dans quelle ville peut-on voir la Cité du Vin ?",
+    "Que peut-on visiter à Colmar ?",
+    "Dans quelle ville peut-on voir la colline du Château ?",
+    "Quel monument peut-on visiter à Avignon ?",
+    "Dans quelle ville peut-on voir la basilique Saint-Remi ?",
+    "Quelle ville abrite la porte de Mars ?",
+    "À quelle ville appartiennent les thermes de Constantin ?",
+    "Dans quelle ville se trouve la tour de la Lanterne ?",
+    "Lequel de ces monuments se trouve à Grenoble ?",
+    "À quelle ville appartient le rocher des Doms ?",
+    "Dans quelle ville peut-on voir la place Grenette ?",
+    "Quels monuments sont situés à Cannes ?",
+    "Dans quelle ville peut-on voir l’hospice Comtesse ?",
+    "Dans quelle ville peut-on voir la porte de la Grosse-Horloge ?",
+    "Quels monuments peut-on voir à Biarritz ?",
+    "À quelle ville appartient le hameau de la Reine ?",
+    "À quelle ville appartient la tour Tanguy ?",
+    "Dans quelle ville se trouve la tour Eiffel ?",
+    "À quelle ville appartient le téléphérique des Bulles ?",
+    "Dans quelle ville se trouve la place Saint-Louis ?",
+    "Dans quelle ville faut-il aller pour visiter le musée Fabre ?",
+    "Dans quelle ville faut-il aller pour visiter la place Bellecour ?",
+    "À quelle ville appartient le marché du cours Saleya ?",
+    "Dans quelle ville se trouve le pont des Amours ?",
+    "Quelle ville abrite le casino Bellevue ?",
+    "Quel monument se trouve à Lyon ?",
+    "Dans quelle ville faut-il aller pour visiter la grand-place ?",
+    "Dans quelle ville faut-il aller pour visiter la chartreuse de Champmol ?",
+    "Lequel de ces monuments se trouve à Metz ?",
+    "À quelle ville appartiennent les machines de l'île ?",
+    "Dans quelle ville peut-on voir la cathédrale Saint-Sauveur ?",
+    "Quelle ville abrite la promenade du Peyrou ?",
+    "Dans quelle ville se trouve la porte Narbonnaise ?",
+    "Dans quelle ville faut-il aller pour visiter la porte des Allemands ?",
+    "À quelle ville appartient l’abbaye Saint-Victor ?",
+    "À quelle ville appartient la maison de Jeanne d'Arc ?",
+    "Dans quelle ville peut-on voir la basilique de la Visitation ?",
+    "Quels monuments se trouvent à Nantes ?",
+    "Quel monument est situé à Bordeaux ?",
+    "Quelle ville abrite la cathédrale Saint-Étienne ?",
+    "Quelle ville abrite la corniche Kennedy ?",
+    "Quels monuments se trouvent à La Rochelle ?",
+    "Quel monument se trouve à Aix-en-Provence ?",
+    "Quel monument se trouve à Marseille ?",
+    "Dans quelle ville faut-il aller pour visiter la cité de l'espace ?",
+    "À quelle ville appartient la gare des Bénédictins ?",
+    "Quelle ville abrite le gros-Horloge ?",
+    "Dans quelle ville faut-il aller pour visiter la tour Saint-Nicolas ?",
+    "À quelle ville appartient la basilique Saint-Sernin ?",
+    "Quelle ville abrite la basilique de Fourvière ?",
+    "Dans quelle ville faut-il aller pour visiter la place Plumereau ?",
+    "Quelle ville abrite le palais des Festivals ?",
+    "Que peut-on visiter à Arles ?",
+    "Quelle ville abrite les cryptoportiques ?",
+    "À quelle ville appartient le rocher de la Vierge ?",
+    "Dans quelle ville faut-il aller pour visiter la place du Vieux-Marché ?",
+    "Dans quelle ville se trouve la fontaine de la Rotonde ?",
+    "Quelle ville abrite la cathédrale Saint-Gatien ?",
+    "Quelle ville abrite le parc floral de la Source ?",
+    "Quel monument est situé à Orléans ?",
+    "Quel monument est situé à Tours ?",
+    "Quelle ville abrite le passage Pommeraye ?",
+    "Quels monuments sont situés à Montpellier ?",
+    "Dans quelle ville peut-on voir le palais Longchamp ?",
+    "Dans quelle ville se trouve la cathédrale Saint-Jean-Baptiste ?",
+    "Dans quelle ville peut-on voir le pont de Recouvrance ?",
+    "Dans quelle ville peut-on voir la petite Venise ?",
+    "Lesquels de ces monuments sont situés à Dijon ?",
+    "Dans quelle ville se trouve le pont de pierre ?",
+    "Quelle ville abrite la place de la Libération ?",
+    "Dans quelle ville faut-il aller pour visiter la place de la Bourse ?",
+    "Dans quelle ville faut-il aller pour visiter le palais des rois de Majorque ?",
+    "Dans quelle ville se trouve le barrage Vauban ?",
+    "Lesquels de ces monuments sont situés à Lille ?",
+    "Quels monuments peut-on voir à Carcassonne ?",
+    "Dans quelle ville peut-on voir le Castillet ?"
+  ],
+  "optionsDictionary": [
+    "Cannes",
+    "Bordeaux",
+    "Toulouse",
+    "Annecy",
+    "Tours",
+    "Carcassonne",
+    "Cité du Vin",
+    "château comtal",
+    "promenade des Anglais",
+    "abbaye Saint-Victor",
+    "place Saint-Louis",
+    "musée national Adrien Dubouché",
+    "Strasbourg",
+    "Limoges",
+    "La Rochelle",
+    "Avignon",
+    "Versailles",
+    "basilique Saint-Sernin",
+    "musée Unterlinden",
+    "corniche Kennedy",
+    "boulevard de la Croisette",
+    "tour Eiffel",
+    "Perpignan",
+    "Biarritz",
+    "Nice",
+    "Rouen",
+    "Reims",
+    "Lyon",
+    "Dijon",
+    "Nantes",
+    "palais des Papes",
+    "machines de l'île",
+    "basilique du Sacré-Cœur",
+    "pont Saint-Bénézet",
+    "capitole",
+    "colline du Château",
+    "Metz",
+    "Brest",
+    "Grenoble",
+    "Lille",
+    "Marseille",
+    "Montpellier",
+    "Aix-en-Provence",
+    "Colmar",
+    "Paris",
+    "Arles",
+    "Orléans",
+    "fort de la Bastille",
+    "place de la Libération",
+    "cathédrale Saint-Sauveur",
+    "basilique de la Visitation",
+    "tour Tanguy",
+    "Océanopolis",
+    "place Plumereau",
+    "place de la Comédie",
+    "porte de Mars",
+    "parc de la Tête d'Or",
+    "petite Venise",
+    "hameau de la Reine",
+    "basilique Saint-Martin",
+    "cathédrale Saint-Gatien",
+    "rocher des Doms",
+    "église Saint-Trophime",
+    "tour Saint-Nicolas",
+    "fontaine de la Rotonde",
+    "cathédrale Saint-Jean-Baptiste",
+    "palais Longchamp",
+    "téléphérique des Bulles",
+    "promenade du Peyrou",
+    "gros-Horloge",
+    "passage Pommeraye",
+    "palais des Festivals",
+    "îles de Lérins",
+    "basilique de Fourvière",
+    "rocher de la Vierge",
+    "villa Belza",
+    "abbatiale Saint-Ouen",
+    "place de la Bourse",
+    "grand Trianon",
+    "jardin de l'Évêché",
+    "marché du cours Saleya",
+    "cathédrale Saint-Étienne",
+    "thermes de Constantin",
+    "Castillet",
+    "basilique Saint-Nazaire",
+    "château des ducs de Bretagne",
+    "pont de pierre",
+    "cité de l'espace",
+    "parc floral de la Source",
+    "tour de la Lanterne",
+    "pont des Amours",
+    "place Bellecour",
+    "grand-place",
+    "cours Mirabeau",
+    "place Kléber",
+    "musée du Louvre",
+    "Petite France",
+    "galerie des Glaces",
+    "porte des Allemands",
+    "cathédrale Sainte-Croix",
+    "musée Fabre",
+    "barrage Vauban",
+    "chartreuse de Champmol",
+    "palais de l'Isle",
+    "porte de la Grosse-Horloge",
+    "hospice Comtesse"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        57
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        61
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        67
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        71,
+        72
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        74,
+        75
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        44
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        56
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        81
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        85,
+        31
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        86
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        89,
+        63
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        93
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        82
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        45
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        46
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        99
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        59
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        100,
+        68
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        43
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        48,
+        102
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        105,
+        92
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        7,
+        84
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        22
+      ]
+    }
+  ]
+}

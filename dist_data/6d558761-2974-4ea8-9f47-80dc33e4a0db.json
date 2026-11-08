@@ -1,0 +1,855 @@
+{
+  "theme": "Inventeurs et inventions",
+  "lang": "fr",
+  "questionsDictionary": [
+    "Qui est l'inventeur de « ballon gonflé à l'air chaud » ?",
+    "Qui a conçu « stéthoscope » ?",
+    "Qui est l'inventeur de « lentille annulaire à échelons » ?",
+    "Qui a conçu « projection publique de films sur grand écran » ?",
+    "Qui est à l'origine de « avion à moteur à vapeur » ?",
+    "À qui doit-on « machine magnétoélectrique » ?",
+    "Qui est à l'origine de « transport maritime de viande réfrigérée » ?",
+    "Qui est à l'origine de « graphiques du mouvement enregistrés sur papier » ?",
+    "Lesquelles de ces inventions sont dues à Joseph Monier ?",
+    "Quel objet technique doit-on à Clément Ader ?",
+    "Qui est à l'origine de « autocuiseur à soupape de sûreté » ?",
+    "Qui est l'inventeur de « hélicoptère à deux rotors » ?",
+    "Qui a conçu « machine à coudre » ?",
+    "Qui a inventé « tube lumineux au néon » ?",
+    "Quelles inventions parmi celles-ci sont attribuées à Barthélemy Thimonnier ?",
+    "Qui est l'inventeur de « gaz d'éclairage » ?",
+    "Qui est l'inventeur de « héliographie » ?",
+    "Qui est l'inventeur de « vaccin contre le charbon des animaux » ?",
+    "À qui doit-on « pont à arches de fer » ?",
+    "Qui a conçu « télégraphe optique » ?",
+    "Qui a inventé « machine à calculer » ?",
+    "Qui est l'inventeur de « charpente métallique » ?",
+    "Qui est à l'origine de « auscultation médiate » ?",
+    "Quel objet technique doit-on à Philippe Lebon ?",
+    "Qui est l'inventeur de « presse hydraulique » ?",
+    "Laquelle de ces inventions est due à Hippolyte Pixii ?",
+    "Quel savant a mis au point « mécanisme de sélection des fils » ?",
+    "Quels objets techniques ont été conçus par Étienne-Jules Marey ?",
+    "Qui a inventé « ligne de signaux aériens » ?",
+    "À qui doit-on « optique de phare marin » ?",
+    "Qui est à l'origine de « canard automate digérant » ?",
+    "Quelle invention est associée à Joseph et Étienne Montgolfier ?",
+    "À qui doit-on « thermolampe » ?",
+    "Qui a inventé « point de chaînette pour la couture » ?",
+    "Quelle réalisation technique revient à Eugène Freyssinet ?",
+    "Qui est l'inventeur de « automate joueur de tambourin » ?",
+    "Quelle réalisation technique revient à Louis Blériot ?",
+    "Qui a inventé « système de points saillants pour la lecture » ?",
+    "Laquelle de ces inventions est due à Nicolas Appert ?",
+    "Quelle invention est associée à Paul Cornu ?",
+    "Qui a inventé « machine à vapeur à piston » ?",
+    "Qui est à l'origine de « écriture en relief lisible au doigt » ?",
+    "Qui a conçu « chronophotographie » ?",
+    "Quel savant a mis au point « enregistrement graphique du son » ?",
+    "À qui doit-on « liquéfaction industrielle de l'air » ?",
+    "Qui a conçu « machine frigorifique à compression » ?",
+    "Quel savant a mis au point « plaque photographique en couleurs autochrome » ?",
+    "Qui a inventé « stérilisation des aliments par la chaleur » ?",
+    "Qui est à l'origine de « couture mécanique » ?",
+    "Qui a inventé « hélice propulsive pour aéroplane » ?",
+    "Qui a inventé « examen des poumons à l'oreille » ?",
+    "Qui est à l'origine de « sémaphore à bras articulés » ?",
+    "Qui a conçu « marmite à pression » ?",
+    "Quelle invention est associée à Joseph-Marie Jacquard ?",
+    "Quel objet technique doit-on à Henri Giffard ?",
+    "Qui a conçu « pot de fleurs en ciment armé » ?",
+    "À qui doit-on « première image photographique fixée » ?",
+    "Qui est à l'origine de « injecteur d'eau pour chaudière » ?",
+    "Quel savant a mis au point « galvanomètre à aiguille astatique » ?",
+    "Qui a inventé « premier véhicule automobile » ?",
+    "À qui doit-on « métier à tisser à cartes perforées » ?",
+    "Qui a conçu « dirigeable propulsé par la vapeur » ?",
+    "À qui doit-on « miroir tournant pour mesurer la vitesse de la lumière » ?",
+    "Qui est l'inventeur de « traversée de la Manche en avion » ?",
+    "Quel savant a mis au point « rotors contrarotatifs » ?",
+    "À qui doit-on « phonautographe » ?",
+    "Quel savant a mis au point « fusil photographique » ?",
+    "Quelle invention est associée à Nicéphore Niépce ?",
+    "Quel savant a mis au point « chambre froide à ammoniaque » ?",
+    "Qui est l'inventeur de « voussoirs préfabriqués en béton » ?",
+    "Qui est à l'origine de « conservation des aliments en bocaux » ?",
+    "Qui est l'inventeur de « pendule tournant » ?",
+    "À qui doit-on « arche mince en béton précontraint » ?",
+    "À qui doit-on « premier vol libre d'un hélicoptère » ?",
+    "À qui doit-on « enveloppe de toile doublée de papier » ?",
+    "Quelles deux inventions doit-on à René Laennec ?",
+    "Qui a conçu « transcription des vibrations sur une feuille noircie » ?",
+    "Quel savant a mis au point « éclairage public au gaz » ?",
+    "Quelles inventions parmi celles-ci sont attribuées à Louis Braille ?",
+    "À qui doit-on « aéroplane monoplan à moteur » ?",
+    "Qui a inventé « béton précontraint » ?",
+    "Qui a conçu « fardier à vapeur » ?",
+    "Quel savant a mis au point « ossature interne de la statue de la Liberté » ?",
+    "Quel savant a mis au point « point de vue du Gras » ?",
+    "Qui est à l'origine de « tuyaux en ciment armé » ?",
+    "Laquelle de ces inventions est due à Édouard-Léon Scott de Martinville ?",
+    "À qui doit-on « cinématographe » ?",
+    "Quel savant a mis au point « projecteur d'automobile » ?",
+    "Qui est l'inventeur de « enseigne au néon » ?",
+    "Qui a conçu « tissage mécanique des étoffes façonnées » ?",
+    "Qui a conçu « Éole » ?",
+    "Qui est l'inventeur de « générateur à manivelle » ?",
+    "Qui est à l'origine de « véhicule à trois roues mû par la vapeur » ?",
+    "Lesquelles de ces inventions sont dues à Gustave Eiffel ?",
+    "Qui a inventé « vaccin contre la rage » ?",
+    "Quel objet technique doit-on à Auguste et Louis Lumière ?",
+    "Laquelle de ces inventions est due à Léon Foucault ?",
+    "Quels objets techniques ont été conçus par Charles Tellier ?",
+    "Qui a inventé « gyroscope » ?",
+    "Quelles deux inventions doit-on à Denis Papin ?",
+    "Quel savant a mis au point « béton armé » ?",
+    "Quel savant a mis au point « verre de signalisation pour les phares » ?",
+    "Qui a inventé « automate joueur de flûte » ?",
+    "Quelle réalisation technique revient à Louis Pasteur ?",
+    "Quel savant a mis au point « dynamo à aimant tournant » ?"
+  ],
+  "optionsDictionary": [
+    "Charles Tellier",
+    "Denis Papin",
+    "Joseph-Marie Jacquard",
+    "Étienne-Jules Marey",
+    "Nicolas Appert",
+    "Joseph et Étienne Montgolfier",
+    "Louis Blériot",
+    "Philippe Lebon",
+    "Joseph Monier",
+    "Gustave Eiffel",
+    "René Laennec",
+    "Eugène Freyssinet",
+    "Henri Giffard",
+    "Auguste et Louis Lumière",
+    "Augustin Fresnel",
+    "Clément Ader",
+    "Léon Foucault",
+    "Joseph Cugnot",
+    "Claude Chappe",
+    "Hippolyte Pixii",
+    "Paul Cornu",
+    "Louis Braille",
+    "Nicéphore Niépce",
+    "Édouard-Léon Scott de Martinville",
+    "André-Marie Ampère",
+    "projection publique de films sur grand écran",
+    "fardier à vapeur",
+    "première image photographique fixée",
+    "chronophotographie",
+    "pont à arches de fer",
+    "vaccin contre le charbon des animaux",
+    "tuyaux en ciment armé",
+    "béton armé",
+    "phonautographe",
+    "auscultation médiate",
+    "aéroplane monoplan à moteur",
+    "métier à tisser à cartes perforées",
+    "marmite à pression",
+    "avion à moteur à vapeur",
+    "Jacques de Vaucanson",
+    "Georges Claude",
+    "Barthélemy Thimonnier",
+    "Louis Pasteur",
+    "examen des poumons à l'oreille",
+    "Éole",
+    "sémaphore à bras articulés",
+    "machine à coudre",
+    "point de chaînette pour la couture",
+    "Blaise Pascal",
+    "projecteur d'automobile",
+    "écriture en relief lisible au doigt",
+    "machine à calculer",
+    "transport maritime de viande réfrigérée",
+    "vaccin contre la rage",
+    "injecteur d'eau pour chaudière",
+    "gaz d'éclairage",
+    "système de points saillants pour la lecture",
+    "galvanomètre à aiguille astatique",
+    "véhicule à trois roues mû par la vapeur",
+    "verre de signalisation pour les phares",
+    "pot de fleurs en ciment armé",
+    "machine magnétoélectrique",
+    "héliographie",
+    "automate joueur de tambourin",
+    "dynamo à aimant tournant",
+    "autocuiseur à soupape de sûreté",
+    "graphiques du mouvement enregistrés sur papier",
+    "fusil photographique",
+    "conservation des aliments en bocaux",
+    "automate joueur de flûte",
+    "tissage mécanique des étoffes façonnées",
+    "ballon gonflé à l'air chaud",
+    "enseigne au néon",
+    "machine frigorifique à compression",
+    "hélicoptère à deux rotors",
+    "gyroscope",
+    "béton précontraint",
+    "enveloppe de toile doublée de papier",
+    "canard automate digérant",
+    "traversée de la Manche en avion",
+    "optique de phare marin",
+    "cinématographe",
+    "couture mécanique",
+    "point de vue du Gras",
+    "chambre froide à ammoniaque",
+    "plaque photographique en couleurs autochrome",
+    "éclairage public au gaz",
+    "lentille annulaire à échelons",
+    "enregistrement graphique du son",
+    "stéthoscope",
+    "miroir tournant pour mesurer la vitesse de la lumière",
+    "transcription des vibrations sur une feuille noircie",
+    "premier véhicule automobile",
+    "ossature interne de la statue de la Liberté",
+    "charpente métallique",
+    "arche mince en béton précontraint",
+    "tube lumineux au néon",
+    "mécanisme de sélection des fils",
+    "thermolampe",
+    "télégraphe optique",
+    "pendule tournant",
+    "ligne de signaux aériens"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        31,
+        32
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        46,
+        47
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        55
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        48
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        61
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        66,
+        67
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        71
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        76
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        79
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        68
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        74
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        54
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        34,
+        89
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        56,
+        50
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        91
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        93,
+        94
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        100
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        73,
+        84
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        65,
+        37
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+{
+  "theme": "Countries and Cities",
+  "lang": "en",
+  "questionsDictionary": [
+    "Which country is Nagoya located in?",
+    "Which country is the city of Wroclaw in?",
+    "Which country is the city of Shanghai in?",
+    "To which country does the city of Melbourne belong?",
+    "Puebla is a city in which country?",
+    "Which country is Mumbai located in?",
+    "Naples is a city in which country?",
+    "In which country is The Hague located?",
+    "In which country is Odense located?",
+    "To which country does the city of Pecs belong?",
+    "In which country is Incheon located?",
+    "In which country is Madrid located?",
+    "To which country does the city of Istanbul belong?",
+    "To which country does the city of Aswan belong?",
+    "In which country is Oslo located?",
+    "In which country is Kyoto located?",
+    "Which country is the city of Cologne in?",
+    "Which country is the city of Debrecen in?",
+    "In which country is Innsbruck located?",
+    "Which country is Rosario located in?",
+    "In which country is Buenos Aires located?",
+    "Which country is Krakow located in?",
+    "In which country would you find the city of Brussels?",
+    "Copenhagen is a city in which country?",
+    "In which country would you find the city of New York?",
+    "In which country would you find the city of Seville?",
+    "In which country would you find the city of Vancouver?",
+    "Malmo is a city in which country?",
+    "To which country does the city of Salzburg belong?",
+    "In which country would you find the city of Budapest?",
+    "Which country is the city of Milan in?",
+    "Which country is the city of Gothenburg in?",
+    "Which country is Perth located in?",
+    "In which country is Delhi located?",
+    "In which country is Marseille located?",
+    "In which country would you find the city of Bern?",
+    "In which country would you find the city of Kolkata?",
+    "Which country is the city of Heraklion in?",
+    "Which country is Bergen located in?",
+    "To which country does the city of Edinburgh belong?",
+    "Which country is Daegu located in?",
+    "In which country is Fortaleza located?",
+    "To which country does the city of Rio de Janeiro belong?",
+    "To which country does the city of Boston belong?",
+    "Ankara is a city in which country?",
+    "Which country is the city of Chennai in?",
+    "Which country is Utrecht located in?",
+    "In which country would you find the city of Stockholm?",
+    "To which country does the city of Brno belong?",
+    "In which country would you find the city of Hamburg?",
+    "In which country is Braga located?",
+    "Which country is Recife located in?",
+    "Which country is the city of La Plata in?",
+    "In which country would you find the city of Rome?",
+    "Which country is Thessaloniki located in?",
+    "In which country is Brisbane located?",
+    "Which country is Geneva located in?",
+    "In which country would you find the city of Beijing?",
+    "Which country is the city of Monterrey in?",
+    "In which country would you find the city of Patras?",
+    "In which country would you find the city of Trondheim?",
+    "In which country is Toronto located?",
+    "Which country is the city of Valencia in?",
+    "Vienna is a city in which country?",
+    "To which country does the city of Lyon belong?",
+    "To which country does the city of Turin belong?",
+    "In which country would you find the city of Cairo?",
+    "Tokyo is a city in which country?",
+    "To which country does the city of Bruges belong?",
+    "Los Angeles is a city in which country?",
+    "Which country is Cork located in?",
+    "Which country is Munich located in?",
+    "To which country does the city of Rotterdam belong?",
+    "Guangzhou is a city in which country?",
+    "To which country does the city of Coimbra belong?",
+    "Which country is the city of Alexandria in?",
+    "Which country is Casablanca located in?",
+    "In which country would you find the city of London?",
+    "Amsterdam is a city in which country?",
+    "Ghent is a city in which country?",
+    "In which country would you find the city of Gdansk?",
+    "In which country is Izmir located?",
+    "Tampere is a city in which country?",
+    "To which country does the city of Chengdu belong?",
+    "Szeged is a city in which country?",
+    "Which country is Nice located in?",
+    "Which country is the city of Chicago in?",
+    "In which country is Zurich located?",
+    "To which country does the city of Aarhus belong?",
+    "To which country does the city of Espoo belong?",
+    "In which country is Rabat located?",
+    "To which country does the city of Busan belong?",
+    "In which country would you find the city of Helsinki?",
+    "Which country is Montreal located in?",
+    "To which country does the city of Uppsala belong?",
+    "To which country does the city of Osaka belong?",
+    "Paris is a city in which country?",
+    "Which country is the city of Stavanger in?",
+    "Which country is the city of Antwerp in?",
+    "In which country is Athens located?",
+    "Prague is a city in which country?",
+    "Which country is the city of Calgary in?",
+    "Which country is the city of Basel in?",
+    "Which country is Graz located in?",
+    "Sydney is a city in which country?",
+    "In which country is Ostrava located?",
+    "In which country would you find the city of Mendoza?",
+    "In which country would you find the city of Marrakesh?",
+    "Which country is Barcelona located in?",
+    "Which country is Aalborg located in?",
+    "Lisbon is a city in which country?",
+    "In which country would you find the city of Guadalajara?",
+    "To which country does the city of Cancun belong?",
+    "Which country is the city of Fez in?",
+    "In which country is Berlin located?",
+    "Which country is the city of Turku in?",
+    "Which country is the city of Manchester in?",
+    "In which country would you find the city of Galway?",
+    "Liverpool is a city in which country?",
+    "Luxor is a city in which country?",
+    "Which country is Antalya located in?",
+    "In which country is Warsaw located?",
+    "Which country is the city of Limerick in?",
+    "Seoul is a city in which country?",
+    "Which country is Faro located in?",
+    "In which country is Dublin located?",
+    "Sao Paulo is a city in which country?",
+    "Which country is Pilsen located in?"
+  ],
+  "optionsDictionary": [
+    "Belgium",
+    "Austria",
+    "Brazil",
+    "Netherlands",
+    "Japan",
+    "Denmark",
+    "Argentina",
+    "China",
+    "Ireland",
+    "Poland",
+    "Czechia",
+    "South Korea",
+    "Turkey",
+    "Norway",
+    "Switzerland",
+    "Sweden",
+    "Greece",
+    "Australia",
+    "United States",
+    "United Kingdom",
+    "India",
+    "Mexico",
+    "Portugal",
+    "Finland",
+    "Spain",
+    "Hungary",
+    "Italy",
+    "Morocco",
+    "France",
+    "Egypt",
+    "Canada",
+    "Germany"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 113,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 114,
+      "answers": [
+        31
+      ]
+    },
+    {
+      "question": 115,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 116,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 117,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 118,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 119,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 120,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 121,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 122,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 123,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 124,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 125,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 126,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 127,
+      "answers": [
+        10
+      ]
+    }
+  ]
+}

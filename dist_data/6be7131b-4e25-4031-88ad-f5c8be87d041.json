@@ -1,0 +1,981 @@
+{
+  "theme": "Holidays and Their Traditions",
+  "lang": "en",
+  "questionsDictionary": [
+    "Which holiday does Santa Claus belong to?",
+    "Which holiday is connected with the day after Christmas?",
+    "red envelopes — which holiday does it belong to?",
+    "Which holiday is associated with decorated evergreen tree?",
+    "Name the holiday that features the twenty-second of April.",
+    "Which holiday is associated with sweet pastries?",
+    "Which holiday is connected with the menorah?",
+    "Which holiday is known for a shadow predicting spring?",
+    "Name the holiday that features countdown to midnight.",
+    "Which of these is a custom of Day of the Dead?",
+    "Which holiday is known for lion dances?",
+    "trick or treat — which holiday does it belong to?",
+    "stockings by the fireplace — which holiday does it belong to?",
+    "Which holiday does hunts and sporting events belong to?",
+    "Which holiday is associated with gifts in boxes for the poor?",
+    "Name the holiday that features exchange of sweets.",
+    "Name the holiday that features marigold flowers.",
+    "Select two things associated with Canada Day.",
+    "Which holiday does dreidel belong to?",
+    "Choose two customs of Lunar New Year.",
+    "the first of July — which holiday does it belong to?",
+    "Which of these belongs to New Year's Eve?",
+    "Which holiday does the Australian of the Year awards belong to?",
+    "the nineteenth of June — which holiday does it belong to?",
+    "fasting from dawn to sunset — which holiday does it belong to?",
+    "Which holiday is associated with Auld Lang Syne?",
+    "Which holiday does cornucopia belong to?",
+    "Choose two customs of Groundhog Day.",
+    "Which of these is a custom of Christmas?",
+    "Name the holiday that features tangerines and oranges.",
+    "Which holiday is associated with tools as gifts?",
+    "Which holiday does new clothes belong to?",
+    "Which holiday is connected with roast turkey?",
+    "Which holiday is known for altars for the dead?",
+    "What is associated with Diwali?",
+    "Which of these belongs to Thanksgiving?",
+    "Which of these traditions is part of Guy Fawkes Night?",
+    "planting trees — which holiday does it belong to?",
+    "What is associated with St Patrick's Day?",
+    "Which holiday is connected with the twenty-sixth of January?",
+    "What is associated with Independence Day?",
+    "Which holiday is connected with fireworks?",
+    "Which holiday is associated with the eleventh of November?",
+    "Which holiday does grilling equipment belong to?",
+    "Name the holiday that features egg hunt.",
+    "Name the holiday that features red velvet cake.",
+    "Which holiday is associated with pumpkin pie?",
+    "flags on graves — which holiday does it belong to?",
+    "Which holiday is connected with neckties?",
+    "Which of these belongs to Easter?",
+    "Which holiday does newspaper hoaxes belong to?",
+    "Which of these traditions is part of Labor Day?",
+    "Name the holiday that features nightly prayers.",
+    "Which holiday is known for wearing green?",
+    "Name the holiday that features leprechauns.",
+    "dyed eggs — which holiday does it belong to?",
+    "Name the holiday that features a national moment of remembrance.",
+    "Which holiday is known for costume parties?",
+    "Which holiday does the armistice of the first world war belong to?",
+    "Which holiday does pretzels belong to?",
+    "Which holiday is known for cleaning up litter?",
+    "Name the holiday that features effigies of Guy Fawkes.",
+    "Which holiday is connected with honoring all military veterans?",
+    "Which holiday is associated with masks?",
+    "Which of these traditions is part of Cinco de Mayo?",
+    "Which holiday is known for breakfast in bed?",
+    "Which holiday does king cake belong to?",
+    "Which two of these belong to Memorial Day?",
+    "carnations — which holiday does it belong to?",
+    "Name a custom of Mardi Gras.",
+    "Which holiday is known for the pre-dawn meal?",
+    "Which holiday is associated with seven principles?",
+    "Name the holiday that features the second of February.",
+    "Which two of these belong to Juneteenth?",
+    "Which holiday is connected with the first Monday of September?",
+    "bonfires — which holiday does it belong to?",
+    "Which holiday is connected with the storming of the Bastille?",
+    "Which holiday does the fourth of July belong to?",
+    "Which holiday is known for chocolate bunnies?",
+    "Which holiday is connected with beer tents?",
+    "Which holiday is associated with the first of April?",
+    "Which holiday is known for mariachi music?",
+    "Which of these belongs to Eid al-Fitr?",
+    "Which holiday is known for the last Monday of May?",
+    "Which holiday is connected with beads?",
+    "Which holiday is connected with chocolate hearts?",
+    "Name the holiday that features handmade cards for mothers.",
+    "Which holiday is known for rangoli patterns?",
+    "Which two traditions are part of Oktoberfest?",
+    "Which holiday is known for the end of slavery?",
+    "Which holiday is associated with the end of summer?",
+    "Which holiday is associated with backyard barbecues?",
+    "shamrocks — which holiday does it belong to?",
+    "Which holiday is known for nativity scene?",
+    "Which holiday is connected with the first day of Shawwal?",
+    "Which holiday does a military parade on the Champs Elysees belong to?",
+    "Which holiday is associated with the fourteenth of July?",
+    "Which holiday is known for the gunpowder plot?",
+    "oil lamps — which holiday does it belong to?",
+    "Punxsutawney Phil — which holiday does it belong to?",
+    "Which of these traditions is part of Boxing Day?",
+    "sugar skulls — which holiday does it belong to?",
+    "Name the holiday that features celebrations in Ottawa.",
+    "Name the holiday that features mole poblano.",
+    "Which holiday is connected with the kinara?",
+    "Which holiday is associated with lederhosen?",
+    "Which holiday is associated with eight nights?",
+    "Which holiday does red roses belong to?",
+    "Which holiday is connected with champagne toast?",
+    "Which two traditions are part of Bastille Day?",
+    "Which holiday is associated with love letters?",
+    "Select two things associated with Halloween.",
+    "Name a custom of Mother's Day.",
+    "Which holiday is known for maple leaf flags?",
+    "Which holiday is connected with practical jokes?",
+    "Which holiday is associated with citizenship ceremonies?",
+    "Which of these is a custom of Hanukkah?",
+    "Which holiday does the first fruits harvest belong to?",
+    "Which holiday does a rest day for workers belong to?",
+    "Which holiday does jack-o-lantern belong to?",
+    "Name the holiday that features bobbing for apples.",
+    "the battle of Puebla — which holiday does it belong to?"
+  ],
+  "optionsDictionary": [
+    "Veterans Day",
+    "Canada Day",
+    "Labor Day",
+    "Earth Day",
+    "Valentine's Day",
+    "Christmas",
+    "New Year's Eve",
+    "Mother's Day",
+    "St Patrick's Day",
+    "Thanksgiving",
+    "Boxing Day",
+    "Kwanzaa",
+    "Diwali",
+    "Lunar New Year",
+    "Hanukkah",
+    "Father's Day",
+    "Juneteenth",
+    "Eid al-Fitr",
+    "Halloween",
+    "Australia Day",
+    "Bastille Day",
+    "April Fools' Day",
+    "Independence Day",
+    "Guy Fawkes Night",
+    "Ramadan",
+    "Groundhog Day",
+    "Cinco de Mayo",
+    "Memorial Day",
+    "rangoli patterns",
+    "backyard barbecues",
+    "the kinara",
+    "hunts and sporting events",
+    "carnations",
+    "sugar skulls",
+    "Oktoberfest",
+    "Easter",
+    "Mardi Gras",
+    "Day of the Dead",
+    "the last Monday of May",
+    "planting trees",
+    "altars for the dead",
+    "oil lamps",
+    "king cake",
+    "celebrations in Ottawa",
+    "maple leaf flags",
+    "masks",
+    "the end of slavery",
+    "a military parade on the Champs Elysees",
+    "lion dances",
+    "tangerines and oranges",
+    "honoring all military veterans",
+    "Punxsutawney Phil",
+    "handmade cards for mothers",
+    "champagne toast",
+    "countdown to midnight",
+    "newspaper hoaxes",
+    "a shadow predicting spring",
+    "bonfires",
+    "the nineteenth of June",
+    "nativity scene",
+    "eight nights",
+    "shamrocks",
+    "the twenty-second of April",
+    "pretzels",
+    "beer tents",
+    "Auld Lang Syne",
+    "dreidel",
+    "nightly prayers",
+    "flags on graves",
+    "pumpkin pie",
+    "roast turkey",
+    "trick or treat",
+    "decorated evergreen tree",
+    "the battle of Puebla",
+    "effigies of Guy Fawkes",
+    "leprechauns",
+    "the second of February",
+    "cleaning up litter",
+    "marigold flowers",
+    "egg hunt",
+    "mole poblano",
+    "the first fruits harvest",
+    "a rest day for workers",
+    "red roses",
+    "the end of summer",
+    "gifts in boxes for the poor",
+    "sweet pastries",
+    "the first Monday of September",
+    "the first of July",
+    "grilling equipment",
+    "a national moment of remembrance",
+    "the gunpowder plot",
+    "the first day of Shawwal",
+    "red velvet cake",
+    "beads",
+    "bobbing for apples",
+    "the day after Christmas",
+    "mariachi music",
+    "fireworks",
+    "the first of April",
+    "fasting from dawn to sunset",
+    "the menorah",
+    "the fourteenth of July",
+    "costume parties",
+    "chocolate bunnies",
+    "cornucopia",
+    "breakfast in bed",
+    "the eleventh of November",
+    "lederhosen"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        33
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        43,
+        44
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        48,
+        49
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        53
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        51,
+        56
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        59
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        69
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        74
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        75
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        79
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        82
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        80
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        68,
+        90
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        24
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        46,
+        93
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        92
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        27
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        64,
+        63
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        22
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        20
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        23
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        25
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        85
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        26
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        34
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        102,
+        47
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        95,
+        103
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        106
+      ]
+    },
+    {
+      "question": 113,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 114,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 115,
+      "answers": [
+        19
+      ]
+    },
+    {
+      "question": 116,
+      "answers": [
+        101
+      ]
+    },
+    {
+      "question": 117,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 118,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 119,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 120,
+      "answers": [
+        18
+      ]
+    },
+    {
+      "question": 121,
+      "answers": [
+        26
+      ]
+    }
+  ]
+}

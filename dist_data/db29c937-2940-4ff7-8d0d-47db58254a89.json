@@ -1,0 +1,811 @@
+{
+  "theme": "Fechas y épocas",
+  "lang": "es",
+  "questionsDictionary": [
+    "¿De qué siglo data el final de la guerra de los Cien Años?",
+    "¿En qué siglo ocurrió el descubrimiento del radio por los esposos Curie?",
+    "¿A qué siglo pertenece la caída de Acre?",
+    "¿En qué siglo tuvo lugar la creación de Wikipedia?",
+    "¿A qué siglo pertenece la primera vacuna contra la viruela por Edward Jenner?",
+    "¿A qué siglo pertenece la invención de la imprenta por Gutenberg?",
+    "¿A qué siglo pertenece la batalla de Bannockburn?",
+    "¿En qué siglo tuvo lugar el inicio del reinado de Luis Once?",
+    "¿De qué siglo data la firma de la paz de Westfalia?",
+    "¿De qué siglo data el terremoto de Lisboa?",
+    "¿En qué siglo tuvo lugar la fundación del Imperio mongol por Gengis Kan?",
+    "¿A qué siglo pertenece el hundimiento del Titanic?",
+    "¿A qué siglo pertenece la primera vuelta al mundo de Magallanes?",
+    "¿De qué siglo data el referéndum sobre la salida del Reino Unido de la Unión Europea?",
+    "¿A qué siglo pertenece la segunda cruzada?",
+    "¿En qué siglo ocurrió la muerte de Voltaire en París?",
+    "¿A qué siglo pertenece la finalización de la secuenciación del genoma humano?",
+    "¿A qué siglo se remonta la catástrofe de la central de Chernóbil?",
+    "¿De qué siglo data la coronación de Napoleón como emperador?",
+    "¿De qué siglo data el ascenso de Federico Barbarroja al trono imperial?",
+    "¿De qué siglo data la destrucción de las Torres Gemelas de Nueva York?",
+    "¿A qué siglo pertenece el acuerdo de París sobre el clima?",
+    "¿En qué siglo ocurrió el Concilio de Trento?",
+    "¿En qué siglo ocurrió la puesta en marcha del Gran Colisionador de Hadrones?",
+    "¿A qué siglo se remonta el inicio de la Segunda Guerra Mundial?",
+    "¿A qué siglo pertenece la fundación de Quebec por Samuel de Champlain?",
+    "¿En qué siglo ocurrió la batalla de Bouvines?",
+    "¿En qué siglo ocurrió la gran hambruna en Europa?",
+    "¿A qué siglo se remonta el viaje de Marco Polo a China?",
+    "¿En qué siglo tuvo lugar la publicación del primer volumen de la Enciclopedia?",
+    "¿En qué siglo tuvo lugar la coronación de Iván el Terrible como zar?",
+    "¿En qué siglo ocurrió la toma de Granada por los Reyes Católicos?",
+    "¿En qué siglo tuvo lugar la batalla de Marignano?",
+    "¿De qué siglo data la primera reunión de los Estados Generales en Francia?",
+    "¿A qué siglo se remonta la muerte de Gengis Kan?",
+    "¿A qué siglo pertenece la peste negra en Europa?",
+    "¿De qué siglo data el asesinato de Tomás Becket en su catedral?",
+    "¿A qué siglo pertenece la derrota de la Armada Invencible?",
+    "¿A qué siglo pertenece la invasión mongola de la Rus?",
+    "¿En qué siglo ocurrió la firma de la Carta Magna por el rey Juan sin Tierra?",
+    "¿A qué siglo pertenece el desembarco aliado en Normandía?",
+    "¿A qué siglo pertenece la conquista de Jerusalén por Saladino?",
+    "¿En qué siglo tuvo lugar el accidente nuclear de Fukushima?",
+    "¿De qué siglo data la abolición de la esclavitud en Francia?",
+    "¿En qué siglo ocurrió la muerte de Luis Catorce?",
+    "¿De qué siglo data la publicación de la obra de Copérnico sobre la rotación de las esferas celestes?",
+    "¿En qué siglo tuvo lugar la batalla de Crécy?",
+    "¿En qué siglo tuvo lugar el inicio de la construcción de la catedral de Colonia?",
+    "¿A qué siglo se remonta el gran incendio de Londres?",
+    "¿En qué siglo ocurrió el bombardeo atómico de Hiroshima?",
+    "¿A qué siglo se remonta la guerra de los Siete Años?",
+    "¿De qué siglo data la cruzada contra los albigenses?",
+    "¿A qué siglo pertenece el viaje de Vasco de Gama a la India?",
+    "¿En qué siglo tuvo lugar la invención de la máquina de vapor por James Watt?",
+    "¿A qué siglo se remonta la puesta en circulación de las monedas y los billetes de euro?",
+    "¿A qué siglo se remonta la guerra civil estadounidense?",
+    "¿A qué siglo pertenece la caída del muro de Berlín?",
+    "¿En qué siglo tuvo lugar el inicio de la construcción de la catedral de Notre Dame de París?",
+    "¿En qué siglo ocurrió la publicación de Los miserables de Victor Hugo?",
+    "¿A qué siglo se remonta la fundación de San Petersburgo?",
+    "¿De qué siglo data la Gran Jacquería en Francia?",
+    "¿En qué siglo ocurrió la ejecución del rey Carlos Primero de Inglaterra?",
+    "¿A qué siglo pertenece el congreso de Viena?",
+    "¿A qué siglo se remonta la captura del rey Juan el Bueno en la batalla de Poitiers?",
+    "¿A qué siglo se remonta la publicación de Don Quijote?",
+    "¿En qué siglo tuvo lugar la batalla de Austerlitz?",
+    "¿A qué siglo se remonta la llegada de Cristóbal Colón a América?",
+    "¿En qué siglo tuvo lugar el juicio a Galileo?",
+    "¿En qué siglo ocurrió el nacimiento de la Universidad de Cambridge?",
+    "¿A qué siglo se remonta el incendio de la catedral de Notre Dame de París?",
+    "¿A qué siglo pertenece la inauguración de la torre Eiffel?",
+    "¿De qué siglo data la invención del cine por los hermanos Lumière?",
+    "¿En qué siglo tuvo lugar la guerra de las Dos Rosas en Inglaterra?",
+    "¿De qué siglo data la batalla de Grunwald?",
+    "¿De qué siglo data el inicio de la guerra de los Cien Años?",
+    "¿En qué siglo ocurrió la toma de la Bastilla?",
+    "¿A qué siglo se remonta la publicación de las tesis de Martín Lutero en Wittenberg?",
+    "¿De qué siglo data el Edicto de Nantes?",
+    "¿En qué siglo ocurrió el inicio de la Primera Guerra Mundial?",
+    "¿A qué siglo se remonta la ejecución de Juana de Arco en la hoguera?",
+    "¿En qué siglo ocurrió el ascenso de Luis Catorce al trono?",
+    "¿En qué siglo ocurrió la disolución de la Unión Soviética?",
+    "¿A qué siglo pertenece el inicio de la guerra de los Treinta Años?",
+    "¿De qué siglo data la creación de la Academia Francesa?",
+    "¿A qué siglo se remonta la batalla de Waterloo?",
+    "¿De qué siglo data la ejecución de Luis Dieciséis?",
+    "¿A qué siglo se remonta la fundación del reino de Portugal?",
+    "¿En qué siglo tuvo lugar la invasión normanda de Irlanda?",
+    "¿En qué siglo ocurrió la muerte de Saladino en Damasco?",
+    "¿A qué siglo pertenece el inicio del reinado de Felipe Augusto?",
+    "¿En qué siglo tuvo lugar la batalla de Azincourt?",
+    "¿En qué siglo ocurrió la pandemia de coronavirus?",
+    "¿En qué siglo tuvo lugar los primeros pasos del hombre en la Luna?",
+    "¿A qué siglo se remonta la fundación de la dinastía Ming?",
+    "¿De qué siglo data la Revolución de Octubre en Rusia?",
+    "¿A qué siglo se remonta el inicio de la construcción de la torre inclinada de Pisa?",
+    "¿En qué siglo tuvo lugar el inicio del Cisma de Occidente?",
+    "¿En qué siglo ocurrió la batalla de Kosovo?",
+    "¿En qué siglo tuvo lugar el caso Dreyfus?",
+    "¿De qué siglo data los Juegos Olímpicos de verano de Pekín?",
+    "¿De qué siglo data el saqueo de Constantinopla por los cruzados?",
+    "¿A qué siglo se remonta la muerte de Leonardo da Vinci?",
+    "¿En qué siglo tuvo lugar la revocación del Edicto de Nantes?",
+    "¿En qué siglo ocurrió la toma de Constantinopla por los otomanos?",
+    "¿A qué siglo se remonta el primer vuelo de los hermanos Wright?",
+    "¿A qué siglo se remonta la matanza de la Noche de San Bartolomé?",
+    "¿A qué siglo pertenece la declaración de independencia de los Estados Unidos?",
+    "¿A qué siglo pertenece el inicio de la construcción del palacio de Versalles?",
+    "¿De qué siglo data el primer vuelo de un ser humano al espacio?",
+    "¿En qué siglo ocurrió la conquista de México por Cortés?",
+    "¿En qué siglo tuvo lugar el descubrimiento de la penicilina por Alexander Fleming?",
+    "¿En qué siglo tuvo lugar la guerra de Crimea?",
+    "¿En qué siglo ocurrió la tercera cruzada?"
+  ],
+  "optionsDictionary": [
+    "el siglo diecisiete",
+    "el siglo veintiuno",
+    "el siglo dieciocho",
+    "el siglo doce",
+    "el siglo catorce",
+    "el siglo quince",
+    "el siglo dieciséis",
+    "el siglo trece",
+    "el siglo diecinueve",
+    "el siglo veinte"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        3
+      ]
+    }
+  ]
+}

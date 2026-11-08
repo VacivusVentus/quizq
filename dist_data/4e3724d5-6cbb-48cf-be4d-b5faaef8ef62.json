@@ -1,0 +1,971 @@
+{
+  "theme": "Contes et légendes",
+  "lang": "fr",
+  "questionsDictionary": [
+    "Quel conte met en scène les crapauds et les vipères ?",
+    "Dans quel conte trouve-t-on le jeune animal qui boit en aval ?",
+    "De quel conte vient la capuche offerte par la grand-mère ?",
+    "De quel conte vient le ruminant de la prairie ?",
+    "Quels détails font partie du conte «Le Rat des villes et le Rat des champs» ?",
+    "Quel élément fait partie du conte «Le Pêcheur et sa femme» ?",
+    "Dans quel conte rencontre-t-on l'hiver sans provisions ?",
+    "Que rencontre-t-on dans le conte «La Gardeuse d'oies» ?",
+    "Quel conte met en scène la mélodie qui attire les enfants ?",
+    "Dans quel conte trouve-t-on la ceinture des sept d'un coup ?",
+    "Dans quel conte retrouve-t-on le fuseau ?",
+    "Quels deux détails viennent du conte «Dame Holle» ?",
+    "À quel conte appartient le géant vaincu ?",
+    "Dans quel conte trouve-t-on la paille changée en or ?",
+    "À quel conte appartient la femme insatiable ?",
+    "Dans quel conte retrouve-t-on le roi méfiant ?",
+    "De quel conte vient la tour sans porte ?",
+    "De quel conte vient la montagne de verre ?",
+    "Dans quel conte retrouve-t-on le cercueil de verre ?",
+    "Quel détail vient du conte «Le Chat botté» ?",
+    "Dans quel conte trouve-t-on le poisson magique ?",
+    "De quel conte vient le cheval Fallada ?",
+    "Quel élément fait partie du conte «Le Lièvre et la Tortue» ?",
+    "Dans quel conte retrouve-t-on la clé tachée de sang ?",
+    "À quel conte appartient le ruisseau ?",
+    "Quel conte met en scène la boule d'or ?",
+    "Dans quel conte rencontre-t-on les cailloux blancs ?",
+    "De quel conte vient l'ogre changé en souris ?",
+    "Quels détails font partie du conte «Le Joueur de flûte de Hamelin» ?",
+    "Quel conte met en scène l'ambitieuse qui enfle ?",
+    "À quel conte appartient le four de la sorcière ?",
+    "À quel conte appartient celle qui amasse des provisions ?",
+    "Quel conte met en scène le fromage ?",
+    "À quel conte appartient l'épouse curieuse ?",
+    "Dans quel conte rencontre-t-on la vieille cabane ?",
+    "À quel conte appartient le premier-né promis ?",
+    "De quel conte vient la maison des brigands ?",
+    "De quel conte vient la pomme empoisonnée ?",
+    "Dans quel conte retrouve-t-on le bec ouvert ?",
+    "Dans quel conte trouve-t-on le cabinet secret ?",
+    "Quel conte met en scène le miroir magique ?",
+    "Dans quel conte rencontre-t-on l'or du retour ?",
+    "Quel conte met en scène le marquis de Carabas ?",
+    "Quels éléments trouve-t-on dans le conte «Le Roi Grenouille» ?",
+    "Quel détail vient du conte «Peau d'âne» ?",
+    "Quel conte met en scène la course ?",
+    "Dans quel conte retrouve-t-on la boucle de cheveux ?",
+    "Dans quel conte rencontre-t-on les sept nains ?",
+    "Dans quel conte retrouve-t-on le sommeil au milieu du chemin ?",
+    "Dans quel conte retrouve-t-on les enfants disparus ?",
+    "Dans quel conte rencontre-t-on le nom deviné ?",
+    "Dans quel conte retrouve-t-on le coq sur le toit ?",
+    "Dans quel conte trouve-t-on l'âne aux pièces d'or ?",
+    "Quel élément appartient au conte «Raiponce» ?",
+    "Dans quel conte rencontre-t-on la licorne capturée ?",
+    "Dans quel conte retrouve-t-on le danger des festins ?",
+    "À quel conte appartient la fuite dans la forêt ?",
+    "Que rencontre-t-on dans le conte «Le Nain Tracassin» ?",
+    "À quel conte appartient la princesse sotte ?",
+    "De quel conte vient la flatterie ?",
+    "Dans quel conte retrouve-t-on la promesse tenue ?",
+    "Dans quel conte rencontre-t-on les oiseaux qui mangent les miettes ?",
+    "Dans quel conte trouve-t-on le château endormi ?",
+    "Quel conte met en scène la galette et le petit pot de beurre ?",
+    "Dans quel conte trouve-t-on la maison en pain d'épice ?",
+    "Dans quel conte retrouve-t-on la robe couleur du temps ?",
+    "Dans quel conte trouve-t-on la pantoufle de verre ?",
+    "Quels deux détails viennent du conte «Les Sept Corbeaux» ?",
+    "De quel conte vient la vie simple des champs ?",
+    "Quel conte met en scène les bottes de sept lieues ?",
+    "À quel conte appartient la tige qui plie ?",
+    "Quels deux éléments appartiennent au conte «Le Loup et l'Agneau» ?",
+    "Quel élément fait partie du conte «Le Renard et les Raisins» ?",
+    "De quel conte vient les rats de la ville ?",
+    "Quels deux éléments appartiennent au conte «Le Petit Chaperon rouge» ?",
+    "Quel conte met en scène les quatre animaux chanteurs ?",
+    "À quel conte appartient la citrouille transformée en carrosse ?",
+    "De quel conte vient les sept frères abandonnés ?",
+    "Dans quel conte trouve-t-on l'esprit du prince ?",
+    "Quel détail vient du conte «Le Chêne et le Roseau» ?",
+    "À quel conte appartient les cent ans de sommeil ?",
+    "Que rencontre-t-on dans le conte «Le Loup et les Sept Chevreaux» ?",
+    "Dans quel conte retrouve-t-on la salade du jardin ?",
+    "Quel élément appartient au conte «Le Vaillant Petit Tailleur» ?",
+    "Quel conte met en scène le festin citadin ?",
+    "Dans quel conte retrouve-t-on l'os de poulet du matin ?",
+    "Dans quel conte rencontre-t-on le prince métamorphosé ?",
+    "Quel conte met en scène le rêve de richesse renversé ?",
+    "Dans quel conte trouve-t-on la rose du jardin ?",
+    "De quel conte vient la fontaine du village ?",
+    "Quels éléments trouve-t-on dans le conte «Les Musiciens de Brême» ?",
+    "Dans quel conte retrouve-t-on la chute du pot ?",
+    "Dans quel conte rencontre-t-on les souliers de vair ?",
+    "Quel conte met en scène la longue tresse ?",
+    "Dans quel conte rencontre-t-on l'arbre déraciné ?",
+    "Dans quel conte trouve-t-on l'insecte chanteur de l'été ?",
+    "Dans quel conte rencontre-t-on les mauvaises raisons ?",
+    "Dans quel conte rencontre-t-on les chaussures à la mode du chat ?",
+    "Quel détail vient du conte «La Cigale et la Fourmi» ?",
+    "À quel conte appartient la fausse indifférence ?",
+    "Quel élément appartient au conte «Blanche-Neige» ?",
+    "Dans quel conte rencontre-t-on les perles et les diamants ?",
+    "Dans quel conte trouve-t-on les plumes de neige ?",
+    "Dans quel conte retrouve-t-on l'orgueil puni ?",
+    "De quel conte vient les rêves de richesse ?",
+    "Dans quel conte rencontre-t-on le dépit ?",
+    "Quel élément appartient au conte «Le Corbeau et le Renard» ?",
+    "À quel conte appartient la chèvre mère ?",
+    "À quel conte appartient le domaine enchanté ?",
+    "De quel conte vient le puits du jardin ?",
+    "À quel conte appartient le four plein de pain ?",
+    "Quel conte met en scène les frères changés en oiseaux ?",
+    "De quel conte vient le coureur trop sûr de lui ?",
+    "Quel conte met en scène la tresse d'or ?",
+    "Quel élément fait partie du conte «La Grenouille qui veut se faire aussi grosse que le Bœuf» ?",
+    "Dans quel conte trouve-t-on les grappes hors d'atteinte ?",
+    "Dans quel conte trouve-t-on le vent furieux ?",
+    "Que rencontre-t-on dans le conte «Le Petit Poucet» ?",
+    "Dans quel conte rencontre-t-on la cachette dans l'horloge ?",
+    "Dans quel conte trouve-t-on les sept biquets ?"
+  ],
+  "optionsDictionary": [
+    "La Laitière et le Pot au lait",
+    "Le Corbeau et le Renard",
+    "La Gardeuse d'oies",
+    "La Belle et la Bête",
+    "Le Renard et les Raisins",
+    "Les Fées",
+    "Le Loup et les Sept Chevreaux",
+    "La Grenouille qui veut se faire aussi grosse que le Bœuf",
+    "La Cigale et la Fourmi",
+    "Le Vaillant Petit Tailleur",
+    "Le Loup et l'Agneau",
+    "Raiponce",
+    "Peau d'âne",
+    "Le Petit Chaperon rouge",
+    "Le Nain Tracassin",
+    "Le Pêcheur et sa femme",
+    "Les Musiciens de Brême",
+    "Le Rat des villes et le Rat des champs",
+    "le fuseau",
+    "la vieille cabane",
+    "les cailloux blancs",
+    "le cheval Fallada",
+    "le festin citadin",
+    "la vie simple des champs",
+    "la boucle de cheveux",
+    "l'esprit du prince",
+    "le ruisseau",
+    "l'ogre changé en souris",
+    "la femme insatiable",
+    "La Barbe bleue",
+    "Les Sept Corbeaux",
+    "le domaine enchanté",
+    "la mélodie qui attire les enfants",
+    "la chute du pot",
+    "la tige qui plie",
+    "Cendrillon",
+    "Le Joueur de flûte de Hamelin",
+    "La Belle au bois dormant",
+    "Le Lièvre et la Tortue",
+    "Riquet à la houppe",
+    "Le Petit Poucet",
+    "Le Roi Grenouille",
+    "la licorne capturée",
+    "la maison en pain d'épice",
+    "les cent ans de sommeil",
+    "le coq sur le toit",
+    "le danger des festins",
+    "l'or du retour",
+    "les plumes de neige",
+    "Dame Holle",
+    "Le Chat botté",
+    "Blanche-Neige",
+    "Hansel et Gretel",
+    "Le Chêne et le Roseau",
+    "le vent furieux",
+    "la rose du jardin",
+    "le miroir magique",
+    "l'épouse curieuse",
+    "le marquis de Carabas",
+    "le prince métamorphosé",
+    "le sommeil au milieu du chemin",
+    "le four plein de pain",
+    "l'ambitieuse qui enfle",
+    "l'arbre déraciné",
+    "les rats de la ville",
+    "les enfants disparus",
+    "les sept biquets",
+    "le jeune animal qui boit en aval",
+    "la promesse tenue",
+    "le puits du jardin",
+    "les souliers de vair",
+    "la princesse sotte",
+    "le premier-né promis",
+    "le château endormi",
+    "la fuite dans la forêt",
+    "l'orgueil puni",
+    "la flatterie",
+    "la longue tresse",
+    "la capuche offerte par la grand-mère",
+    "les frères changés en oiseaux",
+    "le dépit",
+    "la pomme empoisonnée",
+    "le fromage",
+    "le bec ouvert",
+    "l'insecte chanteur de l'été",
+    "la pantoufle de verre",
+    "l'os de poulet du matin",
+    "le roi méfiant",
+    "le rêve de richesse renversé",
+    "la montagne de verre",
+    "la fausse indifférence",
+    "le four de la sorcière",
+    "les oiseaux qui mangent les miettes",
+    "la salade du jardin",
+    "la galette et le petit pot de beurre",
+    "le coureur trop sûr de lui",
+    "la fontaine du village",
+    "le ruminant de la prairie",
+    "la cachette dans l'horloge",
+    "la robe couleur du temps",
+    "celle qui amasse des provisions",
+    "les grappes hors d'atteinte",
+    "les quatre animaux chanteurs",
+    "la maison des brigands",
+    "la tresse d'or",
+    "les crapauds et les vipères",
+    "la clé tachée de sang",
+    "les sept nains",
+    "la boule d'or",
+    "les mauvaises raisons",
+    "le nom deviné",
+    "l'hiver sans provisions",
+    "les bottes de sept lieues"
+  ],
+  "packets": [
+    {
+      "question": 0,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 1,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 2,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 3,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 4,
+      "answers": [
+        22,
+        23
+      ]
+    },
+    {
+      "question": 5,
+      "answers": [
+        28
+      ]
+    },
+    {
+      "question": 6,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 7,
+      "answers": [
+        21
+      ]
+    },
+    {
+      "question": 8,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 9,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 10,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 11,
+      "answers": [
+        47,
+        48
+      ]
+    },
+    {
+      "question": 12,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 13,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 14,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 15,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 16,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 17,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 18,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 19,
+      "answers": [
+        58
+      ]
+    },
+    {
+      "question": 20,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 21,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 22,
+      "answers": [
+        60
+      ]
+    },
+    {
+      "question": 23,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 24,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 25,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 26,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 27,
+      "answers": [
+        50
+      ]
+    },
+    {
+      "question": 28,
+      "answers": [
+        64,
+        65
+      ]
+    },
+    {
+      "question": 29,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 30,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 31,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 32,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 33,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 34,
+      "answers": [
+        15
+      ]
+    },
+    {
+      "question": 35,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 36,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 37,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 38,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 39,
+      "answers": [
+        29
+      ]
+    },
+    {
+      "question": 40,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 41,
+      "answers": [
+        49
+      ]
+    },
+    {
+      "question": 42,
+      "answers": [
+        50
+      ]
+    },
+    {
+      "question": 43,
+      "answers": [
+        68,
+        69
+      ]
+    },
+    {
+      "question": 44,
+      "answers": [
+        74
+      ]
+    },
+    {
+      "question": 45,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 46,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 47,
+      "answers": [
+        51
+      ]
+    },
+    {
+      "question": 48,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 49,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 50,
+      "answers": [
+        14
+      ]
+    },
+    {
+      "question": 51,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 52,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 53,
+      "answers": [
+        77
+      ]
+    },
+    {
+      "question": 54,
+      "answers": [
+        9
+      ]
+    },
+    {
+      "question": 55,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 56,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 57,
+      "answers": [
+        72
+      ]
+    },
+    {
+      "question": 58,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 59,
+      "answers": [
+        1
+      ]
+    },
+    {
+      "question": 60,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 61,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 62,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 63,
+      "answers": [
+        13
+      ]
+    },
+    {
+      "question": 64,
+      "answers": [
+        52
+      ]
+    },
+    {
+      "question": 65,
+      "answers": [
+        12
+      ]
+    },
+    {
+      "question": 66,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 67,
+      "answers": [
+        79,
+        86
+      ]
+    },
+    {
+      "question": 68,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 69,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 70,
+      "answers": [
+        53
+      ]
+    },
+    {
+      "question": 71,
+      "answers": [
+        26,
+        67
+      ]
+    },
+    {
+      "question": 72,
+      "answers": [
+        90
+      ]
+    },
+    {
+      "question": 73,
+      "answers": [
+        36
+      ]
+    },
+    {
+      "question": 74,
+      "answers": [
+        94,
+        78
+      ]
+    },
+    {
+      "question": 75,
+      "answers": [
+        16
+      ]
+    },
+    {
+      "question": 76,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 77,
+      "answers": [
+        40
+      ]
+    },
+    {
+      "question": 78,
+      "answers": [
+        39
+      ]
+    },
+    {
+      "question": 79,
+      "answers": [
+        63
+      ]
+    },
+    {
+      "question": 80,
+      "answers": [
+        37
+      ]
+    },
+    {
+      "question": 81,
+      "answers": [
+        98
+      ]
+    },
+    {
+      "question": 82,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 83,
+      "answers": [
+        42
+      ]
+    },
+    {
+      "question": 84,
+      "answers": [
+        17
+      ]
+    },
+    {
+      "question": 85,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 86,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 87,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 88,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 89,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 90,
+      "answers": [
+        102,
+        103
+      ]
+    },
+    {
+      "question": 91,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 92,
+      "answers": [
+        35
+      ]
+    },
+    {
+      "question": 93,
+      "answers": [
+        11
+      ]
+    },
+    {
+      "question": 94,
+      "answers": [
+        53
+      ]
+    },
+    {
+      "question": 95,
+      "answers": [
+        8
+      ]
+    },
+    {
+      "question": 96,
+      "answers": [
+        10
+      ]
+    },
+    {
+      "question": 97,
+      "answers": [
+        50
+      ]
+    },
+    {
+      "question": 98,
+      "answers": [
+        100
+      ]
+    },
+    {
+      "question": 99,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 100,
+      "answers": [
+        56
+      ]
+    },
+    {
+      "question": 101,
+      "answers": [
+        5
+      ]
+    },
+    {
+      "question": 102,
+      "answers": [
+        49
+      ]
+    },
+    {
+      "question": 103,
+      "answers": [
+        7
+      ]
+    },
+    {
+      "question": 104,
+      "answers": [
+        0
+      ]
+    },
+    {
+      "question": 105,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 106,
+      "answers": [
+        82
+      ]
+    },
+    {
+      "question": 107,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 108,
+      "answers": [
+        3
+      ]
+    },
+    {
+      "question": 109,
+      "answers": [
+        41
+      ]
+    },
+    {
+      "question": 110,
+      "answers": [
+        49
+      ]
+    },
+    {
+      "question": 111,
+      "answers": [
+        30
+      ]
+    },
+    {
+      "question": 112,
+      "answers": [
+        38
+      ]
+    },
+    {
+      "question": 113,
+      "answers": [
+        2
+      ]
+    },
+    {
+      "question": 114,
+      "answers": [
+        97
+      ]
+    },
+    {
+      "question": 115,
+      "answers": [
+        4
+      ]
+    },
+    {
+      "question": 116,
+      "answers": [
+        53
+      ]
+    },
+    {
+      "question": 117,
+      "answers": [
+        112
+      ]
+    },
+    {
+      "question": 118,
+      "answers": [
+        6
+      ]
+    },
+    {
+      "question": 119,
+      "answers": [
+        6
+      ]
+    }
+  ]
+}
